@@ -95,10 +95,12 @@ cross-references right}\fi\fi\endgroup\deadcycles\z@\@@end}
 \newskip\newitem@postskip
 \newskip\newitem@headsep
 
+
+
 %\def\newitem#1#2{% #1 is type, #2 is name
-\def\newitem#1[#2]#3{% #1 is type, #2 is ref key, #3 is name
-  \subsection{#3}   %%%+nilqed
+\def\newitem#1[#2]#3{% #1 is type, #2 is ref key, #3 is name               
   \endgroup
+  \subsection{#3} %%%+nilqed 
   \ifvmode\else\par\fi
   \addpenalty\newitem@penalty
   \addvspace\newitem@postskip
@@ -140,7 +142,7 @@ cross-references right}\fi\fi\endgroup\deadcycles\z@\@@end}
 \newitemEnv{Concept}
 \newitemEnv{Constant}
 \newitemEnv{Type}
-\newitemEnv{info}
+\newitemEnv{Info}
 \newitemEnv{Introduction}
 
 \newskip\itemsec@sep
@@ -358,15 +360,24 @@ cross-references right}\fi\fi\endgroup\deadcycles\z@\@@end}
   \@namedef{#1@}##1{\endgroup#2}}
 
 \def@protected{name}{\mbox{\tt#1}}
-%\let\keyw=\name
-%\let\operator=\name
-\def@protected{nameindex}{\name{#1}\index{#1}\label{#1}}
-\def@protected{hyperref}{#1}
-%\def@protected{nameref}{\name{#1}, p.~\pageref{#1}}
-\def@protected{nameref}{\name{#1}}
-\def@protected{see}{(see \hyperref@{#1})}
+\let\keyw=\name
+\let\operator=\name
+
+\def@protected{nameindex}{\name{#1}\index{#1}\label{#1}} 
+
+%%\def@protected{hyperref}{#1}
+%%\def@protected{nameref}{\name{#1}, p.~\pageref{#1}}
+
+%%\let\nameref=\ref
+
+%\def@protected{nameref}{\ref{#1}}
+%\newcommand{\nameref}[1]{\tt{#1}\ref{#1}}
+
+%%\def@protected{see}{(see \hyperref@{#1})}
 \def@protected{key}{\fbox{\sf #1}}
 \def@protected{arg}{\mbox{\it #1}}
+
+
 
 \newdimen \Syntaxindent \Syntaxindent=2mm
 \def\Syntax{\large

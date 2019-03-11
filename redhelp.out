@@ -21,7 +21,7 @@
 \BOOKMARK [2][-]{subsection.3.14}{T}{section.3}% 21
 \BOOKMARK [1][-]{section.4}{Syntax}{}% 22
 \BOOKMARK [2][-]{subsection.4.1}{;}{section.4}% 23
-\BOOKMARK [2][-]{subsection.4.2}{$}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.2}{\044}{section.4}% 24
 \BOOKMARK [2][-]{subsection.4.3}{\045}{section.4}% 25
 \BOOKMARK [2][-]{subsection.4.4}{.}{section.4}% 26
 \BOOKMARK [2][-]{subsection.4.5}{:=}{section.4}% 27
@@ -367,323 +367,323 @@
 \BOOKMARK [2][-]{subsection.14.14}{weighted term order}{section.14}% 367
 \BOOKMARK [2][-]{subsection.14.15}{graded term order}{section.14}% 368
 \BOOKMARK [2][-]{subsection.14.16}{matrix term order}{section.14}% 369
-\BOOKMARK [2][-]{subsection.14.17}{Basic Groebner operators}{section.14}% 370
-\BOOKMARK [2][-]{subsection.14.18}{gvars}{section.14}% 371
-\BOOKMARK [2][-]{subsection.14.19}{groebner}{section.14}% 372
-\BOOKMARK [2][-]{subsection.14.20}{groebner\137walk}{section.14}% 373
-\BOOKMARK [2][-]{subsection.14.21}{groebopt}{section.14}% 374
-\BOOKMARK [2][-]{subsection.14.22}{gvarslast}{section.14}% 375
-\BOOKMARK [2][-]{subsection.14.23}{groebprereduce}{section.14}% 376
-\BOOKMARK [2][-]{subsection.14.24}{groebfullreduction}{section.14}% 377
-\BOOKMARK [2][-]{subsection.14.25}{gltbasis}{section.14}% 378
-\BOOKMARK [2][-]{subsection.14.26}{gltb}{section.14}% 379
-\BOOKMARK [2][-]{subsection.14.27}{glterms}{section.14}% 380
-\BOOKMARK [2][-]{subsection.14.28}{groebstat}{section.14}% 381
-\BOOKMARK [2][-]{subsection.14.29}{trgroeb}{section.14}% 382
-\BOOKMARK [2][-]{subsection.14.30}{trgroebs}{section.14}% 383
-\BOOKMARK [2][-]{subsection.14.31}{gzerodim?}{section.14}% 384
-\BOOKMARK [2][-]{subsection.14.32}{gdimension}{section.14}% 385
-\BOOKMARK [2][-]{subsection.14.33}{gindependent\137sets}{section.14}% 386
-\BOOKMARK [2][-]{subsection.14.34}{dd\137groebner}{section.14}% 387
-\BOOKMARK [2][-]{subsection.14.35}{glexconvert}{section.14}% 388
-\BOOKMARK [2][-]{subsection.14.36}{greduce}{section.14}% 389
-\BOOKMARK [2][-]{subsection.14.37}{preduce}{section.14}% 390
-\BOOKMARK [2][-]{subsection.14.38}{idealquotient}{section.14}% 391
-\BOOKMARK [2][-]{subsection.14.39}{hilbertpolynomial}{section.14}% 392
-\BOOKMARK [2][-]{subsection.14.40}{saturation}{section.14}% 393
-\BOOKMARK [2][-]{subsection.14.41}{Factorizing Groebner bases}{section.14}% 394
-\BOOKMARK [2][-]{subsection.14.42}{groebnerf}{section.14}% 395
-\BOOKMARK [2][-]{subsection.14.43}{groebmonfac}{section.14}% 396
-\BOOKMARK [2][-]{subsection.14.44}{groebresmax}{section.14}% 397
-\BOOKMARK [2][-]{subsection.14.45}{groebrestriction}{section.14}% 398
-\BOOKMARK [2][-]{subsection.14.46}{Tracing Groebner bases}{section.14}% 399
-\BOOKMARK [2][-]{subsection.14.47}{groebprot}{section.14}% 400
-\BOOKMARK [2][-]{subsection.14.48}{groebprotfile}{section.14}% 401
-\BOOKMARK [2][-]{subsection.14.49}{groebnert}{section.14}% 402
-\BOOKMARK [2][-]{subsection.14.50}{preducet}{section.14}% 403
-\BOOKMARK [2][-]{subsection.14.51}{Groebner Bases for Modules}{section.14}% 404
-\BOOKMARK [2][-]{subsection.14.52}{Module}{section.14}% 405
-\BOOKMARK [2][-]{subsection.14.53}{gmodule}{section.14}% 406
-\BOOKMARK [2][-]{subsection.14.54}{Computing with distributive polynomials}{section.14}% 407
-\BOOKMARK [2][-]{subsection.14.55}{gsort}{section.14}% 408
-\BOOKMARK [2][-]{subsection.14.56}{gsplit}{section.14}% 409
-\BOOKMARK [2][-]{subsection.14.57}{gspoly}{section.14}% 410
-\BOOKMARK [1][-]{section.15}{High Energy Physics}{}% 411
-\BOOKMARK [2][-]{subsection.15.1}{HEPHYS}{section.15}% 412
-\BOOKMARK [2][-]{subsection.15.2}{.}{section.15}% 413
-\BOOKMARK [2][-]{subsection.15.3}{EPS}{section.15}% 414
-\BOOKMARK [2][-]{subsection.15.4}{G}{section.15}% 415
-\BOOKMARK [2][-]{subsection.15.5}{INDEX}{section.15}% 416
-\BOOKMARK [2][-]{subsection.15.6}{MASS}{section.15}% 417
-\BOOKMARK [2][-]{subsection.15.7}{MSHELL}{section.15}% 418
-\BOOKMARK [2][-]{subsection.15.8}{NOSPUR}{section.15}% 419
-\BOOKMARK [2][-]{subsection.15.9}{REMIND}{section.15}% 420
-\BOOKMARK [2][-]{subsection.15.10}{SPUR}{section.15}% 421
-\BOOKMARK [2][-]{subsection.15.11}{VECDIM}{section.15}% 422
-\BOOKMARK [2][-]{subsection.15.12}{VECTOR}{section.15}% 423
-\BOOKMARK [1][-]{section.16}{Numeric Package}{}% 424
-\BOOKMARK [2][-]{subsection.16.1}{Numeric Package}{section.16}% 425
-\BOOKMARK [2][-]{subsection.16.2}{Interval}{section.16}% 426
-\BOOKMARK [2][-]{subsection.16.3}{numeric accuracy}{section.16}% 427
-\BOOKMARK [2][-]{subsection.16.4}{TRNUMERIC}{section.16}% 428
-\BOOKMARK [2][-]{subsection.16.5}{num\137min}{section.16}% 429
-\BOOKMARK [2][-]{subsection.16.6}{num\137solve}{section.16}% 430
-\BOOKMARK [2][-]{subsection.16.7}{num\137int}{section.16}% 431
-\BOOKMARK [2][-]{subsection.16.8}{num\137odesolve}{section.16}% 432
-\BOOKMARK [2][-]{subsection.16.9}{bounds}{section.16}% 433
-\BOOKMARK [2][-]{subsection.16.10}{Chebyshev fit}{section.16}% 434
-\BOOKMARK [2][-]{subsection.16.11}{num\137fit}{section.16}% 435
-\BOOKMARK [1][-]{section.17}{Roots Package}{}% 436
-\BOOKMARK [2][-]{subsection.17.1}{Roots Package}{section.17}% 437
-\BOOKMARK [2][-]{subsection.17.2}{MKPOLY}{section.17}% 438
-\BOOKMARK [2][-]{subsection.17.3}{NEARESTROOT}{section.17}% 439
-\BOOKMARK [2][-]{subsection.17.4}{REALROOTS}{section.17}% 440
-\BOOKMARK [2][-]{subsection.17.5}{ROOTACC}{section.17}% 441
-\BOOKMARK [2][-]{subsection.17.6}{ROOTS}{section.17}% 442
-\BOOKMARK [2][-]{subsection.17.7}{ROOT\137VAL}{section.17}% 443
-\BOOKMARK [2][-]{subsection.17.8}{ROOTSCOMPLEX}{section.17}% 444
-\BOOKMARK [2][-]{subsection.17.9}{ROOTSREAL}{section.17}% 445
-\BOOKMARK [1][-]{section.18}{Special Functions}{}% 446
-\BOOKMARK [2][-]{subsection.18.1}{Special Function Package}{section.18}% 447
-\BOOKMARK [2][-]{subsection.18.2}{Constants}{section.18}% 448
-\BOOKMARK [2][-]{subsection.18.3}{Bernoulli Euler Zeta}{section.18}% 449
-\BOOKMARK [2][-]{subsection.18.4}{BERNOULLI}{section.18}% 450
-\BOOKMARK [2][-]{subsection.18.5}{BERNOULLIP}{section.18}% 451
-\BOOKMARK [2][-]{subsection.18.6}{EULER}{section.18}% 452
-\BOOKMARK [2][-]{subsection.18.7}{EULERP}{section.18}% 453
-\BOOKMARK [2][-]{subsection.18.8}{ZETA}{section.18}% 454
-\BOOKMARK [2][-]{subsection.18.9}{Bessel Functions}{section.18}% 455
-\BOOKMARK [2][-]{subsection.18.10}{BESSELJ}{section.18}% 456
-\BOOKMARK [2][-]{subsection.18.11}{BESSELY}{section.18}% 457
-\BOOKMARK [2][-]{subsection.18.12}{HANKEL1}{section.18}% 458
-\BOOKMARK [2][-]{subsection.18.13}{HANKEL2}{section.18}% 459
-\BOOKMARK [2][-]{subsection.18.14}{BESSELI}{section.18}% 460
-\BOOKMARK [2][-]{subsection.18.15}{BESSELK}{section.18}% 461
-\BOOKMARK [2][-]{subsection.18.16}{StruveH}{section.18}% 462
-\BOOKMARK [2][-]{subsection.18.17}{StruveL}{section.18}% 463
-\BOOKMARK [2][-]{subsection.18.18}{KummerM}{section.18}% 464
-\BOOKMARK [2][-]{subsection.18.19}{KummerU}{section.18}% 465
-\BOOKMARK [2][-]{subsection.18.20}{WhittakerW}{section.18}% 466
-\BOOKMARK [2][-]{subsection.18.21}{Airy Functions}{section.18}% 467
-\BOOKMARK [2][-]{subsection.18.22}{Airy\137Ai}{section.18}% 468
-\BOOKMARK [2][-]{subsection.18.23}{Airy\137Bi}{section.18}% 469
-\BOOKMARK [2][-]{subsection.18.24}{Airy\137Aiprime}{section.18}% 470
-\BOOKMARK [2][-]{subsection.18.25}{Airy\137Biprime}{section.18}% 471
-\BOOKMARK [2][-]{subsection.18.26}{Jacobi's Elliptic Functions and Elliptic Integrals}{section.18}% 472
-\BOOKMARK [2][-]{subsection.18.27}{JacobiSN}{section.18}% 473
-\BOOKMARK [2][-]{subsection.18.28}{JacobiCN}{section.18}% 474
-\BOOKMARK [2][-]{subsection.18.29}{JacobiDN}{section.18}% 475
-\BOOKMARK [2][-]{subsection.18.30}{JacobiCD}{section.18}% 476
-\BOOKMARK [2][-]{subsection.18.31}{JacobiSD}{section.18}% 477
-\BOOKMARK [2][-]{subsection.18.32}{JacobiND}{section.18}% 478
-\BOOKMARK [2][-]{subsection.18.33}{JacobiDC}{section.18}% 479
-\BOOKMARK [2][-]{subsection.18.34}{JacobiNC}{section.18}% 480
-\BOOKMARK [2][-]{subsection.18.35}{JacobiSC}{section.18}% 481
-\BOOKMARK [2][-]{subsection.18.36}{JacobiNS}{section.18}% 482
-\BOOKMARK [2][-]{subsection.18.37}{JacobiDS}{section.18}% 483
-\BOOKMARK [2][-]{subsection.18.38}{JacobiCS}{section.18}% 484
-\BOOKMARK [2][-]{subsection.18.39}{JacobiAMPLITUDE}{section.18}% 485
-\BOOKMARK [2][-]{subsection.18.40}{AGM\137FUNCTION}{section.18}% 486
-\BOOKMARK [2][-]{subsection.18.41}{LANDENTRANS}{section.18}% 487
-\BOOKMARK [2][-]{subsection.18.42}{EllipticF}{section.18}% 488
-\BOOKMARK [2][-]{subsection.18.43}{EllipticK}{section.18}% 489
-\BOOKMARK [2][-]{subsection.18.44}{EllipticKprime}{section.18}% 490
-\BOOKMARK [2][-]{subsection.18.45}{EllipticE}{section.18}% 491
-\BOOKMARK [2][-]{subsection.18.46}{EllipticTHETA}{section.18}% 492
-\BOOKMARK [2][-]{subsection.18.47}{JacobiZETA}{section.18}% 493
-\BOOKMARK [2][-]{subsection.18.48}{Gamma and Related Functions}{section.18}% 494
-\BOOKMARK [2][-]{subsection.18.49}{POCHHAMMER}{section.18}% 495
-\BOOKMARK [2][-]{subsection.18.50}{GAMMA}{section.18}% 496
-\BOOKMARK [2][-]{subsection.18.51}{BETA}{section.18}% 497
-\BOOKMARK [2][-]{subsection.18.52}{PSI}{section.18}% 498
-\BOOKMARK [2][-]{subsection.18.53}{POLYGAMMA}{section.18}% 499
-\BOOKMARK [2][-]{subsection.18.54}{Miscellaneous Functions}{section.18}% 500
-\BOOKMARK [2][-]{subsection.18.55}{DILOG extended}{section.18}% 501
-\BOOKMARK [2][-]{subsection.18.56}{Lambert\137W function}{section.18}% 502
-\BOOKMARK [2][-]{subsection.18.57}{Orthogonal Polynomials}{section.18}% 503
-\BOOKMARK [2][-]{subsection.18.58}{ChebyshevT}{section.18}% 504
-\BOOKMARK [2][-]{subsection.18.59}{ChebyshevU}{section.18}% 505
-\BOOKMARK [2][-]{subsection.18.60}{HermiteP}{section.18}% 506
-\BOOKMARK [2][-]{subsection.18.61}{LaguerreP}{section.18}% 507
-\BOOKMARK [2][-]{subsection.18.62}{LegendreP}{section.18}% 508
-\BOOKMARK [2][-]{subsection.18.63}{JacobiP}{section.18}% 509
-\BOOKMARK [2][-]{subsection.18.64}{GegenbauerP}{section.18}% 510
-\BOOKMARK [2][-]{subsection.18.65}{SolidHarmonicY}{section.18}% 511
-\BOOKMARK [2][-]{subsection.18.66}{SphericalHarmonicY}{section.18}% 512
-\BOOKMARK [2][-]{subsection.18.67}{Integral Functions}{section.18}% 513
-\BOOKMARK [2][-]{subsection.18.68}{Si}{section.18}% 514
-\BOOKMARK [2][-]{subsection.18.69}{Shi}{section.18}% 515
-\BOOKMARK [2][-]{subsection.18.70}{s\137i}{section.18}% 516
-\BOOKMARK [2][-]{subsection.18.71}{Ci}{section.18}% 517
-\BOOKMARK [2][-]{subsection.18.72}{Chi}{section.18}% 518
-\BOOKMARK [2][-]{subsection.18.73}{ERF extended}{section.18}% 519
-\BOOKMARK [2][-]{subsection.18.74}{erfc}{section.18}% 520
-\BOOKMARK [2][-]{subsection.18.75}{Ei}{section.18}% 521
-\BOOKMARK [2][-]{subsection.18.76}{Fresnel\137C}{section.18}% 522
-\BOOKMARK [2][-]{subsection.18.77}{Fresnel\137S}{section.18}% 523
-\BOOKMARK [2][-]{subsection.18.78}{Combinatorial Operators}{section.18}% 524
-\BOOKMARK [2][-]{subsection.18.79}{BINOMIAL}{section.18}% 525
-\BOOKMARK [2][-]{subsection.18.80}{STIRLING1}{section.18}% 526
-\BOOKMARK [2][-]{subsection.18.81}{STIRLING2}{section.18}% 527
-\BOOKMARK [2][-]{subsection.18.82}{3j and 6j symbols}{section.18}% 528
-\BOOKMARK [2][-]{subsection.18.83}{ThreejSymbol}{section.18}% 529
-\BOOKMARK [2][-]{subsection.18.84}{Clebsch\137Gordan}{section.18}% 530
-\BOOKMARK [2][-]{subsection.18.85}{SixjSymbol}{section.18}% 531
-\BOOKMARK [2][-]{subsection.18.86}{Miscellaneous}{section.18}% 532
-\BOOKMARK [2][-]{subsection.18.87}{HYPERGEOMETRIC}{section.18}% 533
-\BOOKMARK [2][-]{subsection.18.88}{MeijerG}{section.18}% 534
-\BOOKMARK [2][-]{subsection.18.89}{Heaviside}{section.18}% 535
-\BOOKMARK [2][-]{subsection.18.90}{erfi}{section.18}% 536
-\BOOKMARK [1][-]{section.19}{Taylor series}{}% 537
-\BOOKMARK [2][-]{subsection.19.1}{TAYLOR}{section.19}% 538
-\BOOKMARK [2][-]{subsection.19.2}{taylor}{section.19}% 539
-\BOOKMARK [2][-]{subsection.19.3}{taylorautocombine}{section.19}% 540
-\BOOKMARK [2][-]{subsection.19.4}{taylorautoexpand}{section.19}% 541
-\BOOKMARK [2][-]{subsection.19.5}{taylorcombine}{section.19}% 542
-\BOOKMARK [2][-]{subsection.19.6}{taylorkeeporiginal}{section.19}% 543
-\BOOKMARK [2][-]{subsection.19.7}{taylororiginal}{section.19}% 544
-\BOOKMARK [2][-]{subsection.19.8}{taylorprintorder}{section.19}% 545
-\BOOKMARK [2][-]{subsection.19.9}{taylorprintterms}{section.19}% 546
-\BOOKMARK [2][-]{subsection.19.10}{taylorrevert}{section.19}% 547
-\BOOKMARK [2][-]{subsection.19.11}{taylorseriesp}{section.19}% 548
-\BOOKMARK [2][-]{subsection.19.12}{taylortemplate}{section.19}% 549
-\BOOKMARK [2][-]{subsection.19.13}{taylortostandard}{section.19}% 550
-\BOOKMARK [1][-]{section.20}{Gnuplot package}{}% 551
-\BOOKMARK [2][-]{subsection.20.1}{GNUPLOT and REDUCE}{section.20}% 552
-\BOOKMARK [2][-]{subsection.20.2}{Axes names}{section.20}% 553
-\BOOKMARK [2][-]{subsection.20.3}{Pointset}{section.20}% 554
-\BOOKMARK [2][-]{subsection.20.4}{PLOT}{section.20}% 555
-\BOOKMARK [2][-]{subsection.20.5}{PLOTRESET}{section.20}% 556
-\BOOKMARK [2][-]{subsection.20.6}{title}{section.20}% 557
-\BOOKMARK [2][-]{subsection.20.7}{xlabel}{section.20}% 558
-\BOOKMARK [2][-]{subsection.20.8}{ylabel}{section.20}% 559
-\BOOKMARK [2][-]{subsection.20.9}{zlabel}{section.20}% 560
-\BOOKMARK [2][-]{subsection.20.10}{terminal}{section.20}% 561
-\BOOKMARK [2][-]{subsection.20.11}{size}{section.20}% 562
-\BOOKMARK [2][-]{subsection.20.12}{view}{section.20}% 563
-\BOOKMARK [2][-]{subsection.20.13}{contour}{section.20}% 564
-\BOOKMARK [2][-]{subsection.20.14}{surface}{section.20}% 565
-\BOOKMARK [2][-]{subsection.20.15}{hidden3d}{section.20}% 566
-\BOOKMARK [2][-]{subsection.20.16}{PLOTKEEP}{section.20}% 567
-\BOOKMARK [2][-]{subsection.20.17}{PLOTREFINE}{section.20}% 568
-\BOOKMARK [2][-]{subsection.20.18}{plot\137xmesh}{section.20}% 569
-\BOOKMARK [2][-]{subsection.20.19}{plot\137ymesh}{section.20}% 570
-\BOOKMARK [2][-]{subsection.20.20}{SHOW\137GRID}{section.20}% 571
-\BOOKMARK [2][-]{subsection.20.21}{TRPLOT}{section.20}% 572
-\BOOKMARK [1][-]{section.21}{Linear Algebra package}{}% 573
-\BOOKMARK [2][-]{subsection.21.1}{Linear Algebra package}{section.21}% 574
-\BOOKMARK [2][-]{subsection.21.2}{fast\137la}{section.21}% 575
-\BOOKMARK [2][-]{subsection.21.3}{add\137columns}{section.21}% 576
-\BOOKMARK [2][-]{subsection.21.4}{add\137rows}{section.21}% 577
-\BOOKMARK [2][-]{subsection.21.5}{add\137to\137columns}{section.21}% 578
-\BOOKMARK [2][-]{subsection.21.6}{add\137to\137rows}{section.21}% 579
-\BOOKMARK [2][-]{subsection.21.7}{augment\137columns}{section.21}% 580
-\BOOKMARK [2][-]{subsection.21.8}{band\137matrix}{section.21}% 581
-\BOOKMARK [2][-]{subsection.21.9}{block\137matrix}{section.21}% 582
-\BOOKMARK [2][-]{subsection.21.10}{char\137matrix}{section.21}% 583
-\BOOKMARK [2][-]{subsection.21.11}{char\137poly}{section.21}% 584
-\BOOKMARK [2][-]{subsection.21.12}{cholesky}{section.21}% 585
-\BOOKMARK [2][-]{subsection.21.13}{coeff\137matrix}{section.21}% 586
-\BOOKMARK [2][-]{subsection.21.14}{column\137dim}{section.21}% 587
-\BOOKMARK [2][-]{subsection.21.15}{companion}{section.21}% 588
-\BOOKMARK [2][-]{subsection.21.16}{copy\137into}{section.21}% 589
-\BOOKMARK [2][-]{subsection.21.17}{diagonal}{section.21}% 590
-\BOOKMARK [2][-]{subsection.21.18}{extend}{section.21}% 591
-\BOOKMARK [2][-]{subsection.21.19}{find\137companion}{section.21}% 592
-\BOOKMARK [2][-]{subsection.21.20}{get\137columns}{section.21}% 593
-\BOOKMARK [2][-]{subsection.21.21}{get\137rows}{section.21}% 594
-\BOOKMARK [2][-]{subsection.21.22}{gram\137schmidt}{section.21}% 595
-\BOOKMARK [2][-]{subsection.21.23}{hermitian\137tp}{section.21}% 596
-\BOOKMARK [2][-]{subsection.21.24}{hessian}{section.21}% 597
-\BOOKMARK [2][-]{subsection.21.25}{hilbert}{section.21}% 598
-\BOOKMARK [2][-]{subsection.21.26}{jacobian}{section.21}% 599
-\BOOKMARK [2][-]{subsection.21.27}{jordan\137block}{section.21}% 600
-\BOOKMARK [2][-]{subsection.21.28}{lu\137decom}{section.21}% 601
-\BOOKMARK [2][-]{subsection.21.29}{make\137identity}{section.21}% 602
-\BOOKMARK [2][-]{subsection.21.30}{matrix\137augment}{section.21}% 603
-\BOOKMARK [2][-]{subsection.21.31}{matrixp}{section.21}% 604
-\BOOKMARK [2][-]{subsection.21.32}{matrix\137stack}{section.21}% 605
-\BOOKMARK [2][-]{subsection.21.33}{minor}{section.21}% 606
-\BOOKMARK [2][-]{subsection.21.34}{mult\137columns}{section.21}% 607
-\BOOKMARK [2][-]{subsection.21.35}{mult\137rows}{section.21}% 608
-\BOOKMARK [2][-]{subsection.21.36}{pivot}{section.21}% 609
-\BOOKMARK [2][-]{subsection.21.37}{pseudo\137inverse}{section.21}% 610
-\BOOKMARK [2][-]{subsection.21.38}{random\137matrix}{section.21}% 611
-\BOOKMARK [2][-]{subsection.21.39}{remove\137columns}{section.21}% 612
-\BOOKMARK [2][-]{subsection.21.40}{remove\137rows}{section.21}% 613
-\BOOKMARK [2][-]{subsection.21.41}{row\137dim}{section.21}% 614
-\BOOKMARK [2][-]{subsection.21.42}{rows\137pivot}{section.21}% 615
-\BOOKMARK [2][-]{subsection.21.43}{simplex}{section.21}% 616
-\BOOKMARK [2][-]{subsection.21.44}{squarep}{section.21}% 617
-\BOOKMARK [2][-]{subsection.21.45}{stack\137rows}{section.21}% 618
-\BOOKMARK [2][-]{subsection.21.46}{sub\137matrix}{section.21}% 619
-\BOOKMARK [2][-]{subsection.21.47}{svd}{section.21}% 620
-\BOOKMARK [2][-]{subsection.21.48}{swap\137columns}{section.21}% 621
-\BOOKMARK [2][-]{subsection.21.49}{swap\137entries}{section.21}% 622
-\BOOKMARK [2][-]{subsection.21.50}{swap\137rows}{section.21}% 623
-\BOOKMARK [2][-]{subsection.21.51}{symmetricp}{section.21}% 624
-\BOOKMARK [2][-]{subsection.21.52}{toeplitz}{section.21}% 625
-\BOOKMARK [2][-]{subsection.21.53}{vandermonde}{section.21}% 626
-\BOOKMARK [1][-]{section.22}{Matrix Normal Forms}{}% 627
-\BOOKMARK [2][-]{subsection.22.1}{Smithex}{section.22}% 628
-\BOOKMARK [2][-]{subsection.22.2}{Smithex\137int}{section.22}% 629
-\BOOKMARK [2][-]{subsection.22.3}{Frobenius}{section.22}% 630
-\BOOKMARK [2][-]{subsection.22.4}{Ratjordan}{section.22}% 631
-\BOOKMARK [2][-]{subsection.22.5}{Jordansymbolic}{section.22}% 632
-\BOOKMARK [2][-]{subsection.22.6}{Jordan}{section.22}% 633
-\BOOKMARK [1][-]{section.23}{Miscellaneous Packages}{}% 634
-\BOOKMARK [2][-]{subsection.23.1}{Miscellaneous Packages}{section.23}% 635
-\BOOKMARK [2][-]{subsection.23.2}{ALGINT}{section.23}% 636
-\BOOKMARK [2][-]{subsection.23.3}{APPLYSYM}{section.23}% 637
-\BOOKMARK [2][-]{subsection.23.4}{ARNUM}{section.23}% 638
-\BOOKMARK [2][-]{subsection.23.5}{ASSIST}{section.23}% 639
-\BOOKMARK [2][-]{subsection.23.6}{AVECTOR}{section.23}% 640
-\BOOKMARK [2][-]{subsection.23.7}{BOOLEAN}{section.23}% 641
-\BOOKMARK [2][-]{subsection.23.8}{CALI}{section.23}% 642
-\BOOKMARK [2][-]{subsection.23.9}{CAMAL}{section.23}% 643
-\BOOKMARK [2][-]{subsection.23.10}{CHANGEVR}{section.23}% 644
-\BOOKMARK [2][-]{subsection.23.11}{COMPACT}{section.23}% 645
-\BOOKMARK [2][-]{subsection.23.12}{CRACK}{section.23}% 646
-\BOOKMARK [2][-]{subsection.23.13}{CVIT}{section.23}% 647
-\BOOKMARK [2][-]{subsection.23.14}{DEFINT}{section.23}% 648
-\BOOKMARK [2][-]{subsection.23.15}{DESIR}{section.23}% 649
-\BOOKMARK [2][-]{subsection.23.16}{DFPART}{section.23}% 650
-\BOOKMARK [2][-]{subsection.23.17}{DUMMY}{section.23}% 651
-\BOOKMARK [2][-]{subsection.23.18}{EXCALC}{section.23}% 652
-\BOOKMARK [2][-]{subsection.23.19}{FPS}{section.23}% 653
-\BOOKMARK [2][-]{subsection.23.20}{FIDE}{section.23}% 654
-\BOOKMARK [2][-]{subsection.23.21}{GENTRAN}{section.23}% 655
-\BOOKMARK [2][-]{subsection.23.22}{IDEALS}{section.23}% 656
-\BOOKMARK [2][-]{subsection.23.23}{INEQ}{section.23}% 657
-\BOOKMARK [2][-]{subsection.23.24}{INVBASE}{section.23}% 658
-\BOOKMARK [2][-]{subsection.23.25}{LAPLACE}{section.23}% 659
-\BOOKMARK [2][-]{subsection.23.26}{LIE}{section.23}% 660
-\BOOKMARK [2][-]{subsection.23.27}{MODSR}{section.23}% 661
-\BOOKMARK [2][-]{subsection.23.28}{NCPOLY}{section.23}% 662
-\BOOKMARK [2][-]{subsection.23.29}{ORTHOVEC}{section.23}% 663
-\BOOKMARK [2][-]{subsection.23.30}{PHYSOP}{section.23}% 664
-\BOOKMARK [2][-]{subsection.23.31}{PM}{section.23}% 665
-\BOOKMARK [2][-]{subsection.23.32}{RANDPOLY}{section.23}% 666
-\BOOKMARK [2][-]{subsection.23.33}{REACTEQN}{section.23}% 667
-\BOOKMARK [2][-]{subsection.23.34}{RESET}{section.23}% 668
-\BOOKMARK [2][-]{subsection.23.35}{RESIDUE}{section.23}% 669
-\BOOKMARK [2][-]{subsection.23.36}{RLFI}{section.23}% 670
-\BOOKMARK [2][-]{subsection.23.37}{SCOPE}{section.23}% 671
-\BOOKMARK [2][-]{subsection.23.38}{SETS}{section.23}% 672
-\BOOKMARK [2][-]{subsection.23.39}{SPDE}{section.23}% 673
-\BOOKMARK [2][-]{subsection.23.40}{SYMMETRY}{section.23}% 674
-\BOOKMARK [2][-]{subsection.23.41}{TPS}{section.23}% 675
-\BOOKMARK [2][-]{subsection.23.42}{TRI}{section.23}% 676
-\BOOKMARK [2][-]{subsection.23.43}{TRIGSIMP}{section.23}% 677
-\BOOKMARK [2][-]{subsection.23.44}{XCOLOR}{section.23}% 678
-\BOOKMARK [2][-]{subsection.23.45}{XIDEAL}{section.23}% 679
-\BOOKMARK [2][-]{subsection.23.46}{WU}{section.23}% 680
-\BOOKMARK [2][-]{subsection.23.47}{ZEILBERG}{section.23}% 681
-\BOOKMARK [2][-]{subsection.23.48}{ZTRANS}{section.23}% 682
-\BOOKMARK [1][-]{section.24}{Symbolic Mode}{}% 683
-\BOOKMARK [2][-]{subsection.24.1}{EQ}{section.24}% 684
-\BOOKMARK [2][-]{subsection.24.2}{FASTFOR}{section.24}% 685
-\BOOKMARK [2][-]{subsection.24.3}{MEMQ}{section.24}% 686
-\BOOKMARK [1][-]{section.25}{Outmoded Operations}{}% 687
-\BOOKMARK [2][-]{subsection.25.1}{ED}{section.25}% 688
-\BOOKMARK [2][-]{subsection.25.2}{EDITDEF}{section.25}% 689
+\BOOKMARK [2][-]{subsection.14.17}{gvars}{section.14}% 370
+\BOOKMARK [2][-]{subsection.14.18}{groebner}{section.14}% 371
+\BOOKMARK [2][-]{subsection.14.19}{groebner\137walk}{section.14}% 372
+\BOOKMARK [2][-]{subsection.14.20}{groebopt}{section.14}% 373
+\BOOKMARK [2][-]{subsection.14.21}{gvarslast}{section.14}% 374
+\BOOKMARK [2][-]{subsection.14.22}{groebprereduce}{section.14}% 375
+\BOOKMARK [2][-]{subsection.14.23}{groebfullreduction}{section.14}% 376
+\BOOKMARK [2][-]{subsection.14.24}{gltbasis}{section.14}% 377
+\BOOKMARK [2][-]{subsection.14.25}{gltb}{section.14}% 378
+\BOOKMARK [2][-]{subsection.14.26}{glterms}{section.14}% 379
+\BOOKMARK [2][-]{subsection.14.27}{groebstat}{section.14}% 380
+\BOOKMARK [2][-]{subsection.14.28}{trgroeb}{section.14}% 381
+\BOOKMARK [2][-]{subsection.14.29}{trgroebs}{section.14}% 382
+\BOOKMARK [2][-]{subsection.14.30}{gzerodim?}{section.14}% 383
+\BOOKMARK [2][-]{subsection.14.31}{gdimension}{section.14}% 384
+\BOOKMARK [2][-]{subsection.14.32}{gindependent\137sets}{section.14}% 385
+\BOOKMARK [2][-]{subsection.14.33}{dd\137groebner}{section.14}% 386
+\BOOKMARK [2][-]{subsection.14.34}{glexconvert}{section.14}% 387
+\BOOKMARK [2][-]{subsection.14.35}{greduce}{section.14}% 388
+\BOOKMARK [2][-]{subsection.14.36}{preduce}{section.14}% 389
+\BOOKMARK [2][-]{subsection.14.37}{idealquotient}{section.14}% 390
+\BOOKMARK [2][-]{subsection.14.38}{hilbertpolynomial}{section.14}% 391
+\BOOKMARK [2][-]{subsection.14.39}{saturation}{section.14}% 392
+\BOOKMARK [2][-]{subsection.14.40}{Factorizing Groebner bases}{section.14}% 393
+\BOOKMARK [2][-]{subsection.14.41}{groebnerf}{section.14}% 394
+\BOOKMARK [2][-]{subsection.14.42}{groebmonfac}{section.14}% 395
+\BOOKMARK [2][-]{subsection.14.43}{groebresmax}{section.14}% 396
+\BOOKMARK [2][-]{subsection.14.44}{groebrestriction}{section.14}% 397
+\BOOKMARK [2][-]{subsection.14.45}{Tracing Groebner bases}{section.14}% 398
+\BOOKMARK [2][-]{subsection.14.46}{groebprot}{section.14}% 399
+\BOOKMARK [2][-]{subsection.14.47}{groebprotfile}{section.14}% 400
+\BOOKMARK [2][-]{subsection.14.48}{groebnert}{section.14}% 401
+\BOOKMARK [2][-]{subsection.14.49}{preducet}{section.14}% 402
+\BOOKMARK [2][-]{subsection.14.50}{Groebner Bases for Modules}{section.14}% 403
+\BOOKMARK [2][-]{subsection.14.51}{Module}{section.14}% 404
+\BOOKMARK [2][-]{subsection.14.52}{gmodule}{section.14}% 405
+\BOOKMARK [2][-]{subsection.14.53}{Computing with distributive polynomials}{section.14}% 406
+\BOOKMARK [2][-]{subsection.14.54}{gsort}{section.14}% 407
+\BOOKMARK [2][-]{subsection.14.55}{gsplit}{section.14}% 408
+\BOOKMARK [2][-]{subsection.14.56}{gspoly}{section.14}% 409
+\BOOKMARK [1][-]{section.15}{High Energy Physics}{}% 410
+\BOOKMARK [2][-]{subsection.15.1}{HEPHYS}{section.15}% 411
+\BOOKMARK [2][-]{subsection.15.2}{.}{section.15}% 412
+\BOOKMARK [2][-]{subsection.15.3}{EPS}{section.15}% 413
+\BOOKMARK [2][-]{subsection.15.4}{G}{section.15}% 414
+\BOOKMARK [2][-]{subsection.15.5}{INDEX}{section.15}% 415
+\BOOKMARK [2][-]{subsection.15.6}{MASS}{section.15}% 416
+\BOOKMARK [2][-]{subsection.15.7}{MSHELL}{section.15}% 417
+\BOOKMARK [2][-]{subsection.15.8}{NOSPUR}{section.15}% 418
+\BOOKMARK [2][-]{subsection.15.9}{REMIND}{section.15}% 419
+\BOOKMARK [2][-]{subsection.15.10}{SPUR}{section.15}% 420
+\BOOKMARK [2][-]{subsection.15.11}{VECDIM}{section.15}% 421
+\BOOKMARK [2][-]{subsection.15.12}{VECTOR}{section.15}% 422
+\BOOKMARK [1][-]{section.16}{Numeric Package}{}% 423
+\BOOKMARK [2][-]{subsection.16.1}{Numeric Package}{section.16}% 424
+\BOOKMARK [2][-]{subsection.16.2}{Interval}{section.16}% 425
+\BOOKMARK [2][-]{subsection.16.3}{numeric accuracy}{section.16}% 426
+\BOOKMARK [2][-]{subsection.16.4}{TRNUMERIC}{section.16}% 427
+\BOOKMARK [2][-]{subsection.16.5}{num\137min}{section.16}% 428
+\BOOKMARK [2][-]{subsection.16.6}{num\137solve}{section.16}% 429
+\BOOKMARK [2][-]{subsection.16.7}{num\137int}{section.16}% 430
+\BOOKMARK [2][-]{subsection.16.8}{num\137odesolve}{section.16}% 431
+\BOOKMARK [2][-]{subsection.16.9}{bounds}{section.16}% 432
+\BOOKMARK [2][-]{subsection.16.10}{Chebyshev fit}{section.16}% 433
+\BOOKMARK [2][-]{subsection.16.11}{num\137fit}{section.16}% 434
+\BOOKMARK [1][-]{section.17}{Roots Package}{}% 435
+\BOOKMARK [2][-]{subsection.17.1}{Roots Package}{section.17}% 436
+\BOOKMARK [2][-]{subsection.17.2}{MKPOLY}{section.17}% 437
+\BOOKMARK [2][-]{subsection.17.3}{NEARESTROOT}{section.17}% 438
+\BOOKMARK [2][-]{subsection.17.4}{REALROOTS}{section.17}% 439
+\BOOKMARK [2][-]{subsection.17.5}{ROOTACC}{section.17}% 440
+\BOOKMARK [2][-]{subsection.17.6}{ROOTS}{section.17}% 441
+\BOOKMARK [2][-]{subsection.17.7}{ROOT\137VAL}{section.17}% 442
+\BOOKMARK [2][-]{subsection.17.8}{ROOTSCOMPLEX}{section.17}% 443
+\BOOKMARK [2][-]{subsection.17.9}{ROOTSREAL}{section.17}% 444
+\BOOKMARK [1][-]{section.18}{Special Functions}{}% 445
+\BOOKMARK [2][-]{subsection.18.1}{Special Function Package}{section.18}% 446
+\BOOKMARK [2][-]{subsection.18.2}{Constants}{section.18}% 447
+\BOOKMARK [2][-]{subsection.18.3}{Bernoulli Euler Zeta}{section.18}% 448
+\BOOKMARK [2][-]{subsection.18.4}{BERNOULLI}{section.18}% 449
+\BOOKMARK [2][-]{subsection.18.5}{BERNOULLIP}{section.18}% 450
+\BOOKMARK [2][-]{subsection.18.6}{EULER}{section.18}% 451
+\BOOKMARK [2][-]{subsection.18.7}{EULERP}{section.18}% 452
+\BOOKMARK [2][-]{subsection.18.8}{ZETA}{section.18}% 453
+\BOOKMARK [2][-]{subsection.18.9}{Bessel Functions}{section.18}% 454
+\BOOKMARK [2][-]{subsection.18.10}{BESSELJ}{section.18}% 455
+\BOOKMARK [2][-]{subsection.18.11}{BESSELY}{section.18}% 456
+\BOOKMARK [2][-]{subsection.18.12}{HANKEL1}{section.18}% 457
+\BOOKMARK [2][-]{subsection.18.13}{HANKEL2}{section.18}% 458
+\BOOKMARK [2][-]{subsection.18.14}{BESSELI}{section.18}% 459
+\BOOKMARK [2][-]{subsection.18.15}{BESSELK}{section.18}% 460
+\BOOKMARK [2][-]{subsection.18.16}{StruveH}{section.18}% 461
+\BOOKMARK [2][-]{subsection.18.17}{StruveL}{section.18}% 462
+\BOOKMARK [2][-]{subsection.18.18}{KummerM}{section.18}% 463
+\BOOKMARK [2][-]{subsection.18.19}{KummerU}{section.18}% 464
+\BOOKMARK [2][-]{subsection.18.20}{WhittakerW}{section.18}% 465
+\BOOKMARK [2][-]{subsection.18.21}{Airy Functions}{section.18}% 466
+\BOOKMARK [2][-]{subsection.18.22}{Airy\137Ai}{section.18}% 467
+\BOOKMARK [2][-]{subsection.18.23}{Airy\137Bi}{section.18}% 468
+\BOOKMARK [2][-]{subsection.18.24}{Airy\137Aiprime}{section.18}% 469
+\BOOKMARK [2][-]{subsection.18.25}{Airy\137Biprime}{section.18}% 470
+\BOOKMARK [2][-]{subsection.18.26}{Jacobi's Elliptic Functions and Elliptic Integrals}{section.18}% 471
+\BOOKMARK [2][-]{subsection.18.27}{JacobiSN}{section.18}% 472
+\BOOKMARK [2][-]{subsection.18.28}{JacobiCN}{section.18}% 473
+\BOOKMARK [2][-]{subsection.18.29}{JacobiDN}{section.18}% 474
+\BOOKMARK [2][-]{subsection.18.30}{JacobiCD}{section.18}% 475
+\BOOKMARK [2][-]{subsection.18.31}{JacobiSD}{section.18}% 476
+\BOOKMARK [2][-]{subsection.18.32}{JacobiND}{section.18}% 477
+\BOOKMARK [2][-]{subsection.18.33}{JacobiDC}{section.18}% 478
+\BOOKMARK [2][-]{subsection.18.34}{JacobiNC}{section.18}% 479
+\BOOKMARK [2][-]{subsection.18.35}{JacobiSC}{section.18}% 480
+\BOOKMARK [2][-]{subsection.18.36}{JacobiNS}{section.18}% 481
+\BOOKMARK [2][-]{subsection.18.37}{JacobiDS}{section.18}% 482
+\BOOKMARK [2][-]{subsection.18.38}{JacobiCS}{section.18}% 483
+\BOOKMARK [2][-]{subsection.18.39}{JacobiAMPLITUDE}{section.18}% 484
+\BOOKMARK [2][-]{subsection.18.40}{AGM\137FUNCTION}{section.18}% 485
+\BOOKMARK [2][-]{subsection.18.41}{LANDENTRANS}{section.18}% 486
+\BOOKMARK [2][-]{subsection.18.42}{EllipticF}{section.18}% 487
+\BOOKMARK [2][-]{subsection.18.43}{EllipticK}{section.18}% 488
+\BOOKMARK [2][-]{subsection.18.44}{EllipticKprime}{section.18}% 489
+\BOOKMARK [2][-]{subsection.18.45}{EllipticE}{section.18}% 490
+\BOOKMARK [2][-]{subsection.18.46}{EllipticTHETA}{section.18}% 491
+\BOOKMARK [2][-]{subsection.18.47}{JacobiZETA}{section.18}% 492
+\BOOKMARK [2][-]{subsection.18.48}{Gamma and Related Functions}{section.18}% 493
+\BOOKMARK [2][-]{subsection.18.49}{POCHHAMMER}{section.18}% 494
+\BOOKMARK [2][-]{subsection.18.50}{GAMMA}{section.18}% 495
+\BOOKMARK [2][-]{subsection.18.51}{BETA}{section.18}% 496
+\BOOKMARK [2][-]{subsection.18.52}{PSI}{section.18}% 497
+\BOOKMARK [2][-]{subsection.18.53}{POLYGAMMA}{section.18}% 498
+\BOOKMARK [2][-]{subsection.18.54}{Miscellaneous Functions}{section.18}% 499
+\BOOKMARK [2][-]{subsection.18.55}{DILOG extended}{section.18}% 500
+\BOOKMARK [2][-]{subsection.18.56}{Lambert\137W function}{section.18}% 501
+\BOOKMARK [2][-]{subsection.18.57}{Orthogonal Polynomials}{section.18}% 502
+\BOOKMARK [2][-]{subsection.18.58}{ChebyshevT}{section.18}% 503
+\BOOKMARK [2][-]{subsection.18.59}{ChebyshevU}{section.18}% 504
+\BOOKMARK [2][-]{subsection.18.60}{HermiteP}{section.18}% 505
+\BOOKMARK [2][-]{subsection.18.61}{LaguerreP}{section.18}% 506
+\BOOKMARK [2][-]{subsection.18.62}{LegendreP}{section.18}% 507
+\BOOKMARK [2][-]{subsection.18.63}{JacobiP}{section.18}% 508
+\BOOKMARK [2][-]{subsection.18.64}{GegenbauerP}{section.18}% 509
+\BOOKMARK [2][-]{subsection.18.65}{SolidHarmonicY}{section.18}% 510
+\BOOKMARK [2][-]{subsection.18.66}{SphericalHarmonicY}{section.18}% 511
+\BOOKMARK [2][-]{subsection.18.67}{Integral Functions}{section.18}% 512
+\BOOKMARK [2][-]{subsection.18.68}{Si}{section.18}% 513
+\BOOKMARK [2][-]{subsection.18.69}{Shi}{section.18}% 514
+\BOOKMARK [2][-]{subsection.18.70}{s\137i}{section.18}% 515
+\BOOKMARK [2][-]{subsection.18.71}{Ci}{section.18}% 516
+\BOOKMARK [2][-]{subsection.18.72}{Chi}{section.18}% 517
+\BOOKMARK [2][-]{subsection.18.73}{ERF extended}{section.18}% 518
+\BOOKMARK [2][-]{subsection.18.74}{erfc}{section.18}% 519
+\BOOKMARK [2][-]{subsection.18.75}{Ei}{section.18}% 520
+\BOOKMARK [2][-]{subsection.18.76}{Fresnel\137C}{section.18}% 521
+\BOOKMARK [2][-]{subsection.18.77}{Fresnel\137S}{section.18}% 522
+\BOOKMARK [2][-]{subsection.18.78}{Combinatorial Operators}{section.18}% 523
+\BOOKMARK [2][-]{subsection.18.79}{BINOMIAL}{section.18}% 524
+\BOOKMARK [2][-]{subsection.18.80}{STIRLING1}{section.18}% 525
+\BOOKMARK [2][-]{subsection.18.81}{STIRLING2}{section.18}% 526
+\BOOKMARK [2][-]{subsection.18.82}{3j and 6j symbols}{section.18}% 527
+\BOOKMARK [2][-]{subsection.18.83}{ThreejSymbol}{section.18}% 528
+\BOOKMARK [2][-]{subsection.18.84}{Clebsch\137Gordan}{section.18}% 529
+\BOOKMARK [2][-]{subsection.18.85}{SixjSymbol}{section.18}% 530
+\BOOKMARK [2][-]{subsection.18.86}{Miscellaneous}{section.18}% 531
+\BOOKMARK [2][-]{subsection.18.87}{HYPERGEOMETRIC}{section.18}% 532
+\BOOKMARK [2][-]{subsection.18.88}{MeijerG}{section.18}% 533
+\BOOKMARK [2][-]{subsection.18.89}{Heaviside}{section.18}% 534
+\BOOKMARK [2][-]{subsection.18.90}{erfi}{section.18}% 535
+\BOOKMARK [1][-]{section.19}{Taylor series}{}% 536
+\BOOKMARK [2][-]{subsection.19.1}{TAYLOR}{section.19}% 537
+\BOOKMARK [2][-]{subsection.19.2}{taylor}{section.19}% 538
+\BOOKMARK [2][-]{subsection.19.3}{taylorautocombine}{section.19}% 539
+\BOOKMARK [2][-]{subsection.19.4}{taylorautoexpand}{section.19}% 540
+\BOOKMARK [2][-]{subsection.19.5}{taylorcombine}{section.19}% 541
+\BOOKMARK [2][-]{subsection.19.6}{taylorkeeporiginal}{section.19}% 542
+\BOOKMARK [2][-]{subsection.19.7}{taylororiginal}{section.19}% 543
+\BOOKMARK [2][-]{subsection.19.8}{taylorprintorder}{section.19}% 544
+\BOOKMARK [2][-]{subsection.19.9}{taylorprintterms}{section.19}% 545
+\BOOKMARK [2][-]{subsection.19.10}{taylorrevert}{section.19}% 546
+\BOOKMARK [2][-]{subsection.19.11}{taylorseriesp}{section.19}% 547
+\BOOKMARK [2][-]{subsection.19.12}{taylortemplate}{section.19}% 548
+\BOOKMARK [2][-]{subsection.19.13}{taylortostandard}{section.19}% 549
+\BOOKMARK [1][-]{section.20}{Gnuplot package}{}% 550
+\BOOKMARK [2][-]{subsection.20.1}{GNUPLOT and REDUCE}{section.20}% 551
+\BOOKMARK [2][-]{subsection.20.2}{Axes names}{section.20}% 552
+\BOOKMARK [2][-]{subsection.20.3}{Pointset}{section.20}% 553
+\BOOKMARK [2][-]{subsection.20.4}{PLOT}{section.20}% 554
+\BOOKMARK [2][-]{subsection.20.5}{PLOTRESET}{section.20}% 555
+\BOOKMARK [2][-]{subsection.20.6}{title}{section.20}% 556
+\BOOKMARK [2][-]{subsection.20.7}{xlabel}{section.20}% 557
+\BOOKMARK [2][-]{subsection.20.8}{ylabel}{section.20}% 558
+\BOOKMARK [2][-]{subsection.20.9}{zlabel}{section.20}% 559
+\BOOKMARK [2][-]{subsection.20.10}{terminal}{section.20}% 560
+\BOOKMARK [2][-]{subsection.20.11}{size}{section.20}% 561
+\BOOKMARK [2][-]{subsection.20.12}{view}{section.20}% 562
+\BOOKMARK [2][-]{subsection.20.13}{contour}{section.20}% 563
+\BOOKMARK [2][-]{subsection.20.14}{surface}{section.20}% 564
+\BOOKMARK [2][-]{subsection.20.15}{hidden3d}{section.20}% 565
+\BOOKMARK [2][-]{subsection.20.16}{PLOTKEEP}{section.20}% 566
+\BOOKMARK [2][-]{subsection.20.17}{PLOTREFINE}{section.20}% 567
+\BOOKMARK [2][-]{subsection.20.18}{plot\137xmesh}{section.20}% 568
+\BOOKMARK [2][-]{subsection.20.19}{plot\137ymesh}{section.20}% 569
+\BOOKMARK [2][-]{subsection.20.20}{SHOW\137GRID}{section.20}% 570
+\BOOKMARK [2][-]{subsection.20.21}{TRPLOT}{section.20}% 571
+\BOOKMARK [1][-]{section.21}{Linear Algebra package}{}% 572
+\BOOKMARK [2][-]{subsection.21.1}{Linear Algebra package}{section.21}% 573
+\BOOKMARK [2][-]{subsection.21.2}{fast\137la}{section.21}% 574
+\BOOKMARK [2][-]{subsection.21.3}{add\137columns}{section.21}% 575
+\BOOKMARK [2][-]{subsection.21.4}{add\137rows}{section.21}% 576
+\BOOKMARK [2][-]{subsection.21.5}{add\137to\137columns}{section.21}% 577
+\BOOKMARK [2][-]{subsection.21.6}{add\137to\137rows}{section.21}% 578
+\BOOKMARK [2][-]{subsection.21.7}{augment\137columns}{section.21}% 579
+\BOOKMARK [2][-]{subsection.21.8}{band\137matrix}{section.21}% 580
+\BOOKMARK [2][-]{subsection.21.9}{block\137matrix}{section.21}% 581
+\BOOKMARK [2][-]{subsection.21.10}{char\137matrix}{section.21}% 582
+\BOOKMARK [2][-]{subsection.21.11}{char\137poly}{section.21}% 583
+\BOOKMARK [2][-]{subsection.21.12}{cholesky}{section.21}% 584
+\BOOKMARK [2][-]{subsection.21.13}{coeff\137matrix}{section.21}% 585
+\BOOKMARK [2][-]{subsection.21.14}{column\137dim}{section.21}% 586
+\BOOKMARK [2][-]{subsection.21.15}{companion}{section.21}% 587
+\BOOKMARK [2][-]{subsection.21.16}{copy\137into}{section.21}% 588
+\BOOKMARK [2][-]{subsection.21.17}{diagonal}{section.21}% 589
+\BOOKMARK [2][-]{subsection.21.18}{extend}{section.21}% 590
+\BOOKMARK [2][-]{subsection.21.19}{find\137companion}{section.21}% 591
+\BOOKMARK [2][-]{subsection.21.20}{get\137columns}{section.21}% 592
+\BOOKMARK [2][-]{subsection.21.21}{get\137rows}{section.21}% 593
+\BOOKMARK [2][-]{subsection.21.22}{gram\137schmidt}{section.21}% 594
+\BOOKMARK [2][-]{subsection.21.23}{hermitian\137tp}{section.21}% 595
+\BOOKMARK [2][-]{subsection.21.24}{hessian}{section.21}% 596
+\BOOKMARK [2][-]{subsection.21.25}{hilbert}{section.21}% 597
+\BOOKMARK [2][-]{subsection.21.26}{jacobian}{section.21}% 598
+\BOOKMARK [2][-]{subsection.21.27}{jordan\137block}{section.21}% 599
+\BOOKMARK [2][-]{subsection.21.28}{lu\137decom}{section.21}% 600
+\BOOKMARK [2][-]{subsection.21.29}{make\137identity}{section.21}% 601
+\BOOKMARK [2][-]{subsection.21.30}{matrix\137augment}{section.21}% 602
+\BOOKMARK [2][-]{subsection.21.31}{matrixp}{section.21}% 603
+\BOOKMARK [2][-]{subsection.21.32}{matrix\137stack}{section.21}% 604
+\BOOKMARK [2][-]{subsection.21.33}{minor}{section.21}% 605
+\BOOKMARK [2][-]{subsection.21.34}{mult\137columns}{section.21}% 606
+\BOOKMARK [2][-]{subsection.21.35}{mult\137rows}{section.21}% 607
+\BOOKMARK [2][-]{subsection.21.36}{pivot}{section.21}% 608
+\BOOKMARK [2][-]{subsection.21.37}{pseudo\137inverse}{section.21}% 609
+\BOOKMARK [2][-]{subsection.21.38}{random\137matrix}{section.21}% 610
+\BOOKMARK [2][-]{subsection.21.39}{remove\137columns}{section.21}% 611
+\BOOKMARK [2][-]{subsection.21.40}{remove\137rows}{section.21}% 612
+\BOOKMARK [2][-]{subsection.21.41}{row\137dim}{section.21}% 613
+\BOOKMARK [2][-]{subsection.21.42}{rows\137pivot}{section.21}% 614
+\BOOKMARK [2][-]{subsection.21.43}{simplex}{section.21}% 615
+\BOOKMARK [2][-]{subsection.21.44}{squarep}{section.21}% 616
+\BOOKMARK [2][-]{subsection.21.45}{stack\137rows}{section.21}% 617
+\BOOKMARK [2][-]{subsection.21.46}{sub\137matrix}{section.21}% 618
+\BOOKMARK [2][-]{subsection.21.47}{svd}{section.21}% 619
+\BOOKMARK [2][-]{subsection.21.48}{swap\137columns}{section.21}% 620
+\BOOKMARK [2][-]{subsection.21.49}{swap\137entries}{section.21}% 621
+\BOOKMARK [2][-]{subsection.21.50}{swap\137rows}{section.21}% 622
+\BOOKMARK [2][-]{subsection.21.51}{symmetricp}{section.21}% 623
+\BOOKMARK [2][-]{subsection.21.52}{toeplitz}{section.21}% 624
+\BOOKMARK [2][-]{subsection.21.53}{vandermonde}{section.21}% 625
+\BOOKMARK [1][-]{section.22}{Matrix Normal Forms}{}% 626
+\BOOKMARK [2][-]{subsection.22.1}{Smithex}{section.22}% 627
+\BOOKMARK [2][-]{subsection.22.2}{Smithex\137int}{section.22}% 628
+\BOOKMARK [2][-]{subsection.22.3}{Frobenius}{section.22}% 629
+\BOOKMARK [2][-]{subsection.22.4}{Ratjordan}{section.22}% 630
+\BOOKMARK [2][-]{subsection.22.5}{Jordansymbolic}{section.22}% 631
+\BOOKMARK [2][-]{subsection.22.6}{Jordan}{section.22}% 632
+\BOOKMARK [1][-]{section.23}{Miscellaneous Packages}{}% 633
+\BOOKMARK [2][-]{subsection.23.1}{Miscellaneous Packages}{section.23}% 634
+\BOOKMARK [2][-]{subsection.23.2}{ALGINT}{section.23}% 635
+\BOOKMARK [2][-]{subsection.23.3}{APPLYSYM}{section.23}% 636
+\BOOKMARK [2][-]{subsection.23.4}{ARNUM}{section.23}% 637
+\BOOKMARK [2][-]{subsection.23.5}{ASSIST}{section.23}% 638
+\BOOKMARK [2][-]{subsection.23.6}{AVECTOR}{section.23}% 639
+\BOOKMARK [2][-]{subsection.23.7}{BOOLEAN}{section.23}% 640
+\BOOKMARK [2][-]{subsection.23.8}{CALI}{section.23}% 641
+\BOOKMARK [2][-]{subsection.23.9}{CAMAL}{section.23}% 642
+\BOOKMARK [2][-]{subsection.23.10}{CHANGEVR}{section.23}% 643
+\BOOKMARK [2][-]{subsection.23.11}{COMPACT}{section.23}% 644
+\BOOKMARK [2][-]{subsection.23.12}{CRACK}{section.23}% 645
+\BOOKMARK [2][-]{subsection.23.13}{CVIT}{section.23}% 646
+\BOOKMARK [2][-]{subsection.23.14}{DEFINT}{section.23}% 647
+\BOOKMARK [2][-]{subsection.23.15}{DESIR}{section.23}% 648
+\BOOKMARK [2][-]{subsection.23.16}{DFPART}{section.23}% 649
+\BOOKMARK [2][-]{subsection.23.17}{DUMMY}{section.23}% 650
+\BOOKMARK [2][-]{subsection.23.18}{EXCALC}{section.23}% 651
+\BOOKMARK [2][-]{subsection.23.19}{FPS}{section.23}% 652
+\BOOKMARK [2][-]{subsection.23.20}{FIDE}{section.23}% 653
+\BOOKMARK [2][-]{subsection.23.21}{GENTRAN}{section.23}% 654
+\BOOKMARK [2][-]{subsection.23.22}{IDEALS}{section.23}% 655
+\BOOKMARK [2][-]{subsection.23.23}{INEQ}{section.23}% 656
+\BOOKMARK [2][-]{subsection.23.24}{INVBASE}{section.23}% 657
+\BOOKMARK [2][-]{subsection.23.25}{LAPLACE}{section.23}% 658
+\BOOKMARK [2][-]{subsection.23.26}{LIE}{section.23}% 659
+\BOOKMARK [2][-]{subsection.23.27}{MODSR}{section.23}% 660
+\BOOKMARK [2][-]{subsection.23.28}{NCPOLY}{section.23}% 661
+\BOOKMARK [2][-]{subsection.23.29}{ORTHOVEC}{section.23}% 662
+\BOOKMARK [2][-]{subsection.23.30}{PHYSOP}{section.23}% 663
+\BOOKMARK [2][-]{subsection.23.31}{PM}{section.23}% 664
+\BOOKMARK [2][-]{subsection.23.32}{RANDPOLY}{section.23}% 665
+\BOOKMARK [2][-]{subsection.23.33}{REACTEQN}{section.23}% 666
+\BOOKMARK [2][-]{subsection.23.34}{RESET}{section.23}% 667
+\BOOKMARK [2][-]{subsection.23.35}{RESIDUE}{section.23}% 668
+\BOOKMARK [2][-]{subsection.23.36}{RLFI}{section.23}% 669
+\BOOKMARK [2][-]{subsection.23.37}{SCOPE}{section.23}% 670
+\BOOKMARK [2][-]{subsection.23.38}{SETS}{section.23}% 671
+\BOOKMARK [2][-]{subsection.23.39}{SPDE}{section.23}% 672
+\BOOKMARK [2][-]{subsection.23.40}{SYMMETRY}{section.23}% 673
+\BOOKMARK [2][-]{subsection.23.41}{TPS}{section.23}% 674
+\BOOKMARK [2][-]{subsection.23.42}{TRI}{section.23}% 675
+\BOOKMARK [2][-]{subsection.23.43}{TRIGSIMP}{section.23}% 676
+\BOOKMARK [2][-]{subsection.23.44}{XCOLOR}{section.23}% 677
+\BOOKMARK [2][-]{subsection.23.45}{XIDEAL}{section.23}% 678
+\BOOKMARK [2][-]{subsection.23.46}{WU}{section.23}% 679
+\BOOKMARK [2][-]{subsection.23.47}{ZEILBERG}{section.23}% 680
+\BOOKMARK [2][-]{subsection.23.48}{ZTRANS}{section.23}% 681
+\BOOKMARK [1][-]{section.24}{Symbolic Mode}{}% 682
+\BOOKMARK [2][-]{subsection.24.1}{EQ}{section.24}% 683
+\BOOKMARK [2][-]{subsection.24.2}{FASTFOR}{section.24}% 684
+\BOOKMARK [2][-]{subsection.24.3}{MEMQ}{section.24}% 685
+\BOOKMARK [1][-]{section.25}{Outmoded Operations}{}% 686
+\BOOKMARK [2][-]{subsection.25.1}{ED}{section.25}% 687
+\BOOKMARK [2][-]{subsection.25.2}{EDITDEF}{section.25}% 688
+\BOOKMARK [1][-]{subsection.25.2}{Index}{}% 689

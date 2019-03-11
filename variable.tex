@@ -13,14 +13,15 @@ assumptions; & \{a + 1\}
 \end{Examples}
 \end{Variable}
 
-\begin{Variable}{CARD\_NO}
+
+\begin{Variable}{CARD_NO}
 \index{FORTRAN}\index{output}
-\name{card\_no} sets the total number of cards allowed in a Fortran
+\name{card_no} sets the total number of cards allowed in a Fortran
 output statement when \name{fort} is on.  Default is 20.
 
 \begin{Examples}
 on fort; \\
-card_no := 4;                &         CARD\_NO=4. \\
+card_no := 4;                &         CARD_NO=4. \\
 z := (x + y)**15;            &
 \begin{multilineoutput}{6cm}
       ANS1=5005.*X**6*Y**9+3003.*X**5*Y**10+1365.*X**4*Y**
@@ -34,7 +35,7 @@ z := (x + y)**15;            &
 \begin{Comments}
 Twenty total cards means 19 continuation cards.  You may set it for more
 if your Fortran system allows more.  Expressions are broken apart in a
-Fortran-compatible way if they extend for more than \name{card\_no}
+Fortran-compatible way if they extend for more than \name{card_no}
 continuation cards.
 \end{Comments}
 \end{Variable}

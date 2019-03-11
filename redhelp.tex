@@ -25,24 +25,20 @@
 \vspace*{3\baselineskip}
 \endgroup}
 
-%\usepackage[T1]{fontenc}
-% \usepackage{underscore}
-% \hypersetup{breaklinks=true,
-% pagecolor=white,
-% colorlinks=true} 
-%\newcommand{name}[num]{definition}
-%\newcommand{\name}[1]{\mbox{\tt#1}\index{#1}}
-%\newcommand{\nameref}[1]{\mbox{\tt#1}}
-%\setcounter{secnumdepth}{1}  % avoids subsection numbering
-%\makeatletter%
-%\renewcommand{\@pnumwidth}{3em} 
-%\renewcommand{\@tocrmarg}{4em}
-%\makeatother% --> \makeatletter
 
 % more space for subsection numbering in TOC
 \makeatletter
 \renewcommand{\cftsubsecnumwidth}{3em}
 \makeatother
+
+% Ref (todo: Set #2 like \begin{Switch}[rounded]{ROUNDED})
+% see https://tex.stackexchange.com/questions/420501/error-redefining-nameref-using-let
+\AtBeginDocument{
+  \let\namerefOld\nameref
+  \renewcommand{\nameref}[1]{[\textcolor{Dark}{#1}]\ref{#1}}
+}
+
+
 
 \makeindex
 

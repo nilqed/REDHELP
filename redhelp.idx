@@ -7,8 +7,8 @@
 \indexentry{assumptions|hyperpage}{27}
 \indexentry{Variable!assumptions|hyperpage}{27}
 \indexentry{solve|hyperpage}{27}
-\indexentry{CARD\_NO|hyperpage}{28}
-\indexentry{Variable!CARD\_NO|hyperpage}{28}
+\indexentry{CARD_NO|hyperpage}{28}
+\indexentry{Variable!CARD_NO|hyperpage}{28}
 \indexentry{FORTRAN|hyperpage}{28}
 \indexentry{output|hyperpage}{28}
 \indexentry{E|hyperpage}{29}
@@ -51,8 +51,8 @@
 \indexentry{Constant!T|hyperpage}{40}
 \indexentry{;|hyperpage}{41}
 \indexentry{Command!;|hyperpage}{41}
-\indexentry{$|hyperpage}{42}
-\indexentry{Command!$|hyperpage}{42}
+\indexentry{\$|hyperpage}{42}
+\indexentry{Command!\$|hyperpage}{42}
 \indexentry{\%|hyperpage}{43}
 \indexentry{Command!\%|hyperpage}{43}
 \indexentry{.|hyperpage}{44}
@@ -372,1473 +372,1473 @@
 \indexentry{COEFF|hyperpage}{169}
 \indexentry{Operator!COEFF|hyperpage}{169}
 \indexentry{coefficient|hyperpage}{169}
-\indexentry{COEFFN|hyperpage}{170}
-\indexentry{Operator!COEFFN|hyperpage}{170}
-\indexentry{coefficient|hyperpage}{170}
-\indexentry{CONJ|hyperpage}{171}
-\indexentry{Operator!CONJ|hyperpage}{171}
-\indexentry{conjugate|hyperpage}{171}
-\indexentry{complex|hyperpage}{171}
-\indexentry{CONTINUED_FRACTION|hyperpage}{172}
-\indexentry{Operator!CONTINUED_FRACTION|hyperpage}{172}
-\indexentry{approximation|hyperpage}{172}
-\indexentry{rational numbers|hyperpage}{172}
-\indexentry{DECOMPOSE|hyperpage}{173}
-\indexentry{Operator!DECOMPOSE|hyperpage}{173}
-\indexentry{decomposition|hyperpage}{173}
-\indexentry{polynomial|hyperpage}{173}
-\indexentry{DEG|hyperpage}{174}
-\indexentry{Operator!DEG|hyperpage}{174}
-\indexentry{degree|hyperpage}{174}
+\indexentry{COEFFN|hyperpage}{171}
+\indexentry{Operator!COEFFN|hyperpage}{171}
+\indexentry{coefficient|hyperpage}{171}
+\indexentry{CONJ|hyperpage}{172}
+\indexentry{Operator!CONJ|hyperpage}{172}
+\indexentry{conjugate|hyperpage}{172}
+\indexentry{complex|hyperpage}{172}
+\indexentry{CONTINUED_FRACTION|hyperpage}{173}
+\indexentry{Operator!CONTINUED_FRACTION|hyperpage}{173}
+\indexentry{approximation|hyperpage}{173}
+\indexentry{rational numbers|hyperpage}{173}
+\indexentry{DECOMPOSE|hyperpage}{174}
+\indexentry{Operator!DECOMPOSE|hyperpage}{174}
+\indexentry{decomposition|hyperpage}{174}
 \indexentry{polynomial|hyperpage}{174}
-\indexentry{DEN|hyperpage}{175}
-\indexentry{Operator!DEN|hyperpage}{175}
-\indexentry{denominator|hyperpage}{175}
-\indexentry{rational expression|hyperpage}{175}
-\indexentry{DF|hyperpage}{176}
-\indexentry{Operator!DF|hyperpage}{176}
-\indexentry{derivative|hyperpage}{176}
-\indexentry{partial derivative|hyperpage}{176}
-\indexentry{EXPAND\_CASES|hyperpage}{177}
-\indexentry{Operator!EXPAND\_CASES|hyperpage}{177}
-\indexentry{solve|hyperpage}{177}
-\indexentry{EXPREAD|hyperpage}{178}
-\indexentry{Operator!EXPREAD|hyperpage}{178}
-\indexentry{input|hyperpage}{178}
-\indexentry{FACTORIZE|hyperpage}{179}
-\indexentry{Operator!FACTORIZE|hyperpage}{179}
-\indexentry{factorize|hyperpage}{179}
-\indexentry{polynomial|hyperpage}{179}
-\indexentry{HYPOT|hyperpage}{181}
-\indexentry{Operator!HYPOT|hyperpage}{181}
-\indexentry{IMPART|hyperpage}{182}
-\indexentry{Operator!IMPART|hyperpage}{182}
-\indexentry{imaginary part|hyperpage}{182}
-\indexentry{complex|hyperpage}{182}
-\indexentry{INT|hyperpage}{183}
-\indexentry{Operator!INT|hyperpage}{183}
-\indexentry{integration|hyperpage}{183}
-\indexentry{INTERPOL|hyperpage}{185}
-\indexentry{Operator!INTERPOL|hyperpage}{185}
-\indexentry{interpolation|hyperpage}{185}
-\indexentry{polynomial|hyperpage}{185}
-\indexentry{approximation|hyperpage}{185}
-\indexentry{LCOF|hyperpage}{186}
-\indexentry{Operator!LCOF|hyperpage}{186}
-\indexentry{coefficient|hyperpage}{186}
+\indexentry{DEG|hyperpage}{175}
+\indexentry{Operator!DEG|hyperpage}{175}
+\indexentry{degree|hyperpage}{175}
+\indexentry{polynomial|hyperpage}{175}
+\indexentry{DEN|hyperpage}{176}
+\indexentry{Operator!DEN|hyperpage}{176}
+\indexentry{denominator|hyperpage}{176}
+\indexentry{rational expression|hyperpage}{176}
+\indexentry{DF|hyperpage}{177}
+\indexentry{Operator!DF|hyperpage}{177}
+\indexentry{derivative|hyperpage}{177}
+\indexentry{partial derivative|hyperpage}{177}
+\indexentry{EXPAND\_CASES|hyperpage}{178}
+\indexentry{Operator!EXPAND\_CASES|hyperpage}{178}
+\indexentry{solve|hyperpage}{178}
+\indexentry{EXPREAD|hyperpage}{179}
+\indexentry{Operator!EXPREAD|hyperpage}{179}
+\indexentry{input|hyperpage}{179}
+\indexentry{FACTORIZE|hyperpage}{180}
+\indexentry{Operator!FACTORIZE|hyperpage}{180}
+\indexentry{factorize|hyperpage}{180}
+\indexentry{polynomial|hyperpage}{180}
+\indexentry{HYPOT|hyperpage}{182}
+\indexentry{Operator!HYPOT|hyperpage}{182}
+\indexentry{IMPART|hyperpage}{183}
+\indexentry{Operator!IMPART|hyperpage}{183}
+\indexentry{imaginary part|hyperpage}{183}
+\indexentry{complex|hyperpage}{183}
+\indexentry{INT|hyperpage}{184}
+\indexentry{Operator!INT|hyperpage}{184}
+\indexentry{integration|hyperpage}{184}
+\indexentry{INTERPOL|hyperpage}{186}
+\indexentry{Operator!INTERPOL|hyperpage}{186}
+\indexentry{interpolation|hyperpage}{186}
 \indexentry{polynomial|hyperpage}{186}
-\indexentry{LENGTH|hyperpage}{187}
-\indexentry{Operator!LENGTH|hyperpage}{187}
-\indexentry{list|hyperpage}{187}
-\indexentry{LHS|hyperpage}{189}
-\indexentry{Operator!LHS|hyperpage}{189}
-\indexentry{left-hand side|hyperpage}{189}
-\indexentry{equation|hyperpage}{189}
-\indexentry{LIMIT|hyperpage}{190}
-\indexentry{Operator!LIMIT|hyperpage}{190}
-\indexentry{limit|hyperpage}{190}
-\indexentry{l'Hopital's rule|hyperpage}{190}
-\indexentry{LPOWER|hyperpage}{191}
-\indexentry{Operator!LPOWER|hyperpage}{191}
-\indexentry{leading power|hyperpage}{191}
-\indexentry{polynomial|hyperpage}{191}
-\indexentry{LTERM|hyperpage}{192}
-\indexentry{Operator!LTERM|hyperpage}{192}
-\indexentry{leading term|hyperpage}{192}
+\indexentry{approximation|hyperpage}{186}
+\indexentry{LCOF|hyperpage}{187}
+\indexentry{Operator!LCOF|hyperpage}{187}
+\indexentry{coefficient|hyperpage}{187}
+\indexentry{polynomial|hyperpage}{187}
+\indexentry{LENGTH|hyperpage}{188}
+\indexentry{Operator!LENGTH|hyperpage}{188}
+\indexentry{list|hyperpage}{188}
+\indexentry{LHS|hyperpage}{190}
+\indexentry{Operator!LHS|hyperpage}{190}
+\indexentry{left-hand side|hyperpage}{190}
+\indexentry{equation|hyperpage}{190}
+\indexentry{LIMIT|hyperpage}{191}
+\indexentry{Operator!LIMIT|hyperpage}{191}
+\indexentry{limit|hyperpage}{191}
+\indexentry{l'Hopital's rule|hyperpage}{191}
+\indexentry{LPOWER|hyperpage}{192}
+\indexentry{Operator!LPOWER|hyperpage}{192}
+\indexentry{leading power|hyperpage}{192}
 \indexentry{polynomial|hyperpage}{192}
-\indexentry{MAINVAR|hyperpage}{193}
-\indexentry{Operator!MAINVAR|hyperpage}{193}
-\indexentry{main variable|hyperpage}{193}
+\indexentry{LTERM|hyperpage}{193}
+\indexentry{Operator!LTERM|hyperpage}{193}
+\indexentry{leading term|hyperpage}{193}
 \indexentry{polynomial|hyperpage}{193}
-\indexentry{MAP|hyperpage}{194}
-\indexentry{Operator!MAP|hyperpage}{194}
-\indexentry{map|hyperpage}{194}
-\indexentry{composite structure|hyperpage}{194}
-\indexentry{MKID|hyperpage}{196}
-\indexentry{Command!MKID|hyperpage}{196}
-\indexentry{identifier|hyperpage}{196}
-\indexentry{NPRIMITIVE|hyperpage}{197}
-\indexentry{Operator!NPRIMITIVE|hyperpage}{197}
-\indexentry{primitive part|hyperpage}{197}
-\indexentry{polynomial|hyperpage}{197}
-\indexentry{NUM|hyperpage}{198}
-\indexentry{Operator!NUM|hyperpage}{198}
-\indexentry{numerator|hyperpage}{198}
-\indexentry{rational expression|hyperpage}{198}
-\indexentry{ODESOLVE|hyperpage}{199}
-\indexentry{Operator!ODESOLVE|hyperpage}{199}
-\indexentry{differential equation|hyperpage}{199}
-\indexentry{solve|hyperpage}{199}
-\indexentry{ONE\_OF|hyperpage}{200}
-\indexentry{Type!ONE\_OF|hyperpage}{200}
-\indexentry{PART|hyperpage}{201}
-\indexentry{Operator!PART|hyperpage}{201}
-\indexentry{decomposition|hyperpage}{201}
-\indexentry{PF|hyperpage}{203}
-\indexentry{Operator!PF|hyperpage}{203}
-\indexentry{partial fraction|hyperpage}{203}
-\indexentry{rational expression|hyperpage}{203}
-\indexentry{PROD|hyperpage}{204}
-\indexentry{Operator!PROD|hyperpage}{204}
-\indexentry{Gosper algorithm|hyperpage}{204}
-\indexentry{product|hyperpage}{204}
-\indexentry{REDUCT|hyperpage}{205}
-\indexentry{Operator!REDUCT|hyperpage}{205}
-\indexentry{reductum|hyperpage}{205}
-\indexentry{polynomial|hyperpage}{205}
-\indexentry{REPART|hyperpage}{206}
-\indexentry{Operator!REPART|hyperpage}{206}
-\indexentry{real part|hyperpage}{206}
-\indexentry{complex|hyperpage}{206}
-\indexentry{RESULTANT|hyperpage}{207}
-\indexentry{Operator!RESULTANT|hyperpage}{207}
-\indexentry{polynomial|hyperpage}{207}
-\indexentry{RHS|hyperpage}{209}
-\indexentry{Operator!RHS|hyperpage}{209}
-\indexentry{right-hand side|hyperpage}{209}
-\indexentry{equation|hyperpage}{209}
-\indexentry{ROOT\_OF|hyperpage}{210}
-\indexentry{Operator!ROOT\_OF|hyperpage}{210}
-\indexentry{roots|hyperpage}{210}
-\indexentry{solve|hyperpage}{210}
-\indexentry{SELECT|hyperpage}{211}
-\indexentry{Operator!SELECT|hyperpage}{211}
-\indexentry{map|hyperpage}{211}
-\indexentry{list|hyperpage}{211}
-\indexentry{SHOWRULES|hyperpage}{213}
-\indexentry{Operator!SHOWRULES|hyperpage}{213}
-\indexentry{rule|hyperpage}{213}
-\indexentry{output|hyperpage}{213}
-\indexentry{SOLVE|hyperpage}{214}
-\indexentry{Operator!SOLVE|hyperpage}{214}
-\indexentry{equation|hyperpage}{214}
-\indexentry{equation solving|hyperpage}{214}
-\indexentry{equation system|hyperpage}{214}
-\indexentry{root|hyperpage}{214}
-\indexentry{solve|hyperpage}{214}
-\indexentry{SORT|hyperpage}{217}
-\indexentry{Operator!SORT|hyperpage}{217}
-\indexentry{sorting|hyperpage}{217}
-\indexentry{STRUCTR|hyperpage}{218}
-\indexentry{Operator!STRUCTR|hyperpage}{218}
-\indexentry{decomposition|hyperpage}{218}
-\indexentry{SUB|hyperpage}{220}
-\indexentry{Operator!SUB|hyperpage}{220}
-\indexentry{substitution|hyperpage}{220}
-\indexentry{SUM|hyperpage}{221}
-\indexentry{Operator!SUM|hyperpage}{221}
-\indexentry{Gosper algorithm|hyperpage}{221}
-\indexentry{summation|hyperpage}{221}
-\indexentry{WS|hyperpage}{222}
-\indexentry{Operator!WS|hyperpage}{222}
-\indexentry{work space|hyperpage}{222}
-\indexentry{interactive|hyperpage}{222}
-\indexentry{ALGEBRAIC|hyperpage}{224}
-\indexentry{Command!ALGEBRAIC|hyperpage}{224}
-\indexentry{evaluation|hyperpage}{224}
-\indexentry{ANTISYMMETRIC|hyperpage}{225}
-\indexentry{Declaration!ANTISYMMETRIC|hyperpage}{225}
-\indexentry{ARRAY|hyperpage}{226}
-\indexentry{Declaration!ARRAY|hyperpage}{226}
-\indexentry{CLEAR|hyperpage}{228}
-\indexentry{Command!CLEAR|hyperpage}{228}
-\indexentry{CLEARRULES|hyperpage}{230}
-\indexentry{Command!CLEARRULES|hyperpage}{230}
-\indexentry{rule|hyperpage}{230}
-\indexentry{DEFINE|hyperpage}{231}
-\indexentry{Command!DEFINE|hyperpage}{231}
-\indexentry{DEPEND|hyperpage}{232}
-\indexentry{Declaration!DEPEND|hyperpage}{232}
-\indexentry{dependency|hyperpage}{232}
-\indexentry{EVEN|hyperpage}{233}
-\indexentry{Declaration!EVEN|hyperpage}{233}
-\indexentry{FACTOR|hyperpage}{234}
-\indexentry{Declaration!FACTOR|hyperpage}{234}
-\indexentry{output|hyperpage}{234}
-\indexentry{FORALL|hyperpage}{236}
-\indexentry{Command!FORALL|hyperpage}{236}
-\indexentry{substitution|hyperpage}{236}
-\indexentry{INFIX|hyperpage}{238}
-\indexentry{Declaration!INFIX|hyperpage}{238}
-\indexentry{operator|hyperpage}{238}
-\indexentry{INTEGER|hyperpage}{239}
-\indexentry{Declaration!INTEGER|hyperpage}{239}
-\indexentry{KORDER|hyperpage}{240}
-\indexentry{Declaration!KORDER|hyperpage}{240}
-\indexentry{kernel order|hyperpage}{240}
-\indexentry{variable order|hyperpage}{240}
-\indexentry{order|hyperpage}{240}
-\indexentry{LET|hyperpage}{241}
-\indexentry{Command!LET|hyperpage}{241}
-\indexentry{substitution|hyperpage}{241}
-\indexentry{rule|hyperpage}{241}
-\indexentry{LINEAR|hyperpage}{245}
-\indexentry{Declaration!LINEAR|hyperpage}{245}
-\indexentry{operator|hyperpage}{245}
-\indexentry{LINELENGTH|hyperpage}{247}
-\indexentry{Declaration!LINELENGTH|hyperpage}{247}
-\indexentry{output|hyperpage}{247}
-\indexentry{LISP|hyperpage}{248}
-\indexentry{Command!LISP|hyperpage}{248}
-\indexentry{LISTARGP|hyperpage}{249}
-\indexentry{Declaration!LISTARGP|hyperpage}{249}
-\indexentry{list|hyperpage}{249}
-\indexentry{argument|hyperpage}{249}
-\indexentry{NODEPEND|hyperpage}{250}
-\indexentry{Declaration!NODEPEND|hyperpage}{250}
-\indexentry{depend|hyperpage}{250}
-\indexentry{MATCH|hyperpage}{251}
-\indexentry{Command!MATCH|hyperpage}{251}
-\indexentry{substitution|hyperpage}{251}
-\indexentry{NONCOM|hyperpage}{253}
-\indexentry{Declaration!NONCOM|hyperpage}{253}
-\indexentry{commutative|hyperpage}{253}
-\indexentry{non commutative|hyperpage}{253}
-\indexentry{operator|hyperpage}{253}
-\indexentry{NONZERO|hyperpage}{254}
-\indexentry{Declaration!NONZERO|hyperpage}{254}
+\indexentry{MAINVAR|hyperpage}{194}
+\indexentry{Operator!MAINVAR|hyperpage}{194}
+\indexentry{main variable|hyperpage}{194}
+\indexentry{polynomial|hyperpage}{194}
+\indexentry{MAP|hyperpage}{195}
+\indexentry{Operator!MAP|hyperpage}{195}
+\indexentry{map|hyperpage}{195}
+\indexentry{composite structure|hyperpage}{195}
+\indexentry{MKID|hyperpage}{197}
+\indexentry{Command!MKID|hyperpage}{197}
+\indexentry{identifier|hyperpage}{197}
+\indexentry{NPRIMITIVE|hyperpage}{198}
+\indexentry{Operator!NPRIMITIVE|hyperpage}{198}
+\indexentry{primitive part|hyperpage}{198}
+\indexentry{polynomial|hyperpage}{198}
+\indexentry{NUM|hyperpage}{199}
+\indexentry{Operator!NUM|hyperpage}{199}
+\indexentry{numerator|hyperpage}{199}
+\indexentry{rational expression|hyperpage}{199}
+\indexentry{ODESOLVE|hyperpage}{200}
+\indexentry{Operator!ODESOLVE|hyperpage}{200}
+\indexentry{differential equation|hyperpage}{200}
+\indexentry{solve|hyperpage}{200}
+\indexentry{ONE\_OF|hyperpage}{201}
+\indexentry{Type!ONE\_OF|hyperpage}{201}
+\indexentry{PART|hyperpage}{202}
+\indexentry{Operator!PART|hyperpage}{202}
+\indexentry{decomposition|hyperpage}{202}
+\indexentry{PF|hyperpage}{204}
+\indexentry{Operator!PF|hyperpage}{204}
+\indexentry{partial fraction|hyperpage}{204}
+\indexentry{rational expression|hyperpage}{204}
+\indexentry{PROD|hyperpage}{205}
+\indexentry{Operator!PROD|hyperpage}{205}
+\indexentry{Gosper algorithm|hyperpage}{205}
+\indexentry{product|hyperpage}{205}
+\indexentry{REDUCT|hyperpage}{206}
+\indexentry{Operator!REDUCT|hyperpage}{206}
+\indexentry{reductum|hyperpage}{206}
+\indexentry{polynomial|hyperpage}{206}
+\indexentry{REPART|hyperpage}{207}
+\indexentry{Operator!REPART|hyperpage}{207}
+\indexentry{real part|hyperpage}{207}
+\indexentry{complex|hyperpage}{207}
+\indexentry{RESULTANT|hyperpage}{208}
+\indexentry{Operator!RESULTANT|hyperpage}{208}
+\indexentry{polynomial|hyperpage}{208}
+\indexentry{RHS|hyperpage}{210}
+\indexentry{Operator!RHS|hyperpage}{210}
+\indexentry{right-hand side|hyperpage}{210}
+\indexentry{equation|hyperpage}{210}
+\indexentry{ROOT\_OF|hyperpage}{211}
+\indexentry{Operator!ROOT\_OF|hyperpage}{211}
+\indexentry{roots|hyperpage}{211}
+\indexentry{solve|hyperpage}{211}
+\indexentry{SELECT|hyperpage}{212}
+\indexentry{Operator!SELECT|hyperpage}{212}
+\indexentry{map|hyperpage}{212}
+\indexentry{list|hyperpage}{212}
+\indexentry{SHOWRULES|hyperpage}{214}
+\indexentry{Operator!SHOWRULES|hyperpage}{214}
+\indexentry{rule|hyperpage}{214}
+\indexentry{output|hyperpage}{214}
+\indexentry{SOLVE|hyperpage}{215}
+\indexentry{Operator!SOLVE|hyperpage}{215}
+\indexentry{equation|hyperpage}{215}
+\indexentry{equation solving|hyperpage}{215}
+\indexentry{equation system|hyperpage}{215}
+\indexentry{root|hyperpage}{215}
+\indexentry{solve|hyperpage}{215}
+\indexentry{SORT|hyperpage}{218}
+\indexentry{Operator!SORT|hyperpage}{218}
+\indexentry{sorting|hyperpage}{218}
+\indexentry{STRUCTR|hyperpage}{219}
+\indexentry{Operator!STRUCTR|hyperpage}{219}
+\indexentry{decomposition|hyperpage}{219}
+\indexentry{SUB|hyperpage}{221}
+\indexentry{Operator!SUB|hyperpage}{221}
+\indexentry{substitution|hyperpage}{221}
+\indexentry{SUM|hyperpage}{222}
+\indexentry{Operator!SUM|hyperpage}{222}
+\indexentry{Gosper algorithm|hyperpage}{222}
+\indexentry{summation|hyperpage}{222}
+\indexentry{WS|hyperpage}{223}
+\indexentry{Operator!WS|hyperpage}{223}
+\indexentry{work space|hyperpage}{223}
+\indexentry{interactive|hyperpage}{223}
+\indexentry{ALGEBRAIC|hyperpage}{225}
+\indexentry{Command!ALGEBRAIC|hyperpage}{225}
+\indexentry{evaluation|hyperpage}{225}
+\indexentry{ANTISYMMETRIC|hyperpage}{226}
+\indexentry{Declaration!ANTISYMMETRIC|hyperpage}{226}
+\indexentry{ARRAY|hyperpage}{227}
+\indexentry{Declaration!ARRAY|hyperpage}{227}
+\indexentry{CLEAR|hyperpage}{229}
+\indexentry{Command!CLEAR|hyperpage}{229}
+\indexentry{CLEARRULES|hyperpage}{231}
+\indexentry{Command!CLEARRULES|hyperpage}{231}
+\indexentry{rule|hyperpage}{231}
+\indexentry{DEFINE|hyperpage}{232}
+\indexentry{Command!DEFINE|hyperpage}{232}
+\indexentry{DEPEND|hyperpage}{233}
+\indexentry{Declaration!DEPEND|hyperpage}{233}
+\indexentry{dependency|hyperpage}{233}
+\indexentry{EVEN|hyperpage}{234}
+\indexentry{Declaration!EVEN|hyperpage}{234}
+\indexentry{FACTOR|hyperpage}{235}
+\indexentry{Declaration!FACTOR|hyperpage}{235}
+\indexentry{output|hyperpage}{235}
+\indexentry{FORALL|hyperpage}{237}
+\indexentry{Command!FORALL|hyperpage}{237}
+\indexentry{substitution|hyperpage}{237}
+\indexentry{INFIX|hyperpage}{239}
+\indexentry{Declaration!INFIX|hyperpage}{239}
+\indexentry{operator|hyperpage}{239}
+\indexentry{INTEGER|hyperpage}{240}
+\indexentry{Declaration!INTEGER|hyperpage}{240}
+\indexentry{KORDER|hyperpage}{241}
+\indexentry{Declaration!KORDER|hyperpage}{241}
+\indexentry{kernel order|hyperpage}{241}
+\indexentry{variable order|hyperpage}{241}
+\indexentry{order|hyperpage}{241}
+\indexentry{LET|hyperpage}{242}
+\indexentry{Command!LET|hyperpage}{242}
+\indexentry{substitution|hyperpage}{242}
+\indexentry{rule|hyperpage}{242}
+\indexentry{LINEAR|hyperpage}{246}
+\indexentry{Declaration!LINEAR|hyperpage}{246}
+\indexentry{operator|hyperpage}{246}
+\indexentry{LINELENGTH|hyperpage}{248}
+\indexentry{Declaration!LINELENGTH|hyperpage}{248}
+\indexentry{output|hyperpage}{248}
+\indexentry{LISP|hyperpage}{249}
+\indexentry{Command!LISP|hyperpage}{249}
+\indexentry{LISTARGP|hyperpage}{250}
+\indexentry{Declaration!LISTARGP|hyperpage}{250}
+\indexentry{list|hyperpage}{250}
+\indexentry{argument|hyperpage}{250}
+\indexentry{NODEPEND|hyperpage}{251}
+\indexentry{Declaration!NODEPEND|hyperpage}{251}
+\indexentry{depend|hyperpage}{251}
+\indexentry{MATCH|hyperpage}{252}
+\indexentry{Command!MATCH|hyperpage}{252}
+\indexentry{substitution|hyperpage}{252}
+\indexentry{NONCOM|hyperpage}{254}
+\indexentry{Declaration!NONCOM|hyperpage}{254}
+\indexentry{commutative|hyperpage}{254}
+\indexentry{non commutative|hyperpage}{254}
 \indexentry{operator|hyperpage}{254}
-\indexentry{ODD|hyperpage}{255}
-\indexentry{Declaration!ODD|hyperpage}{255}
+\indexentry{NONZERO|hyperpage}{255}
+\indexentry{Declaration!NONZERO|hyperpage}{255}
 \indexentry{operator|hyperpage}{255}
-\indexentry{OFF|hyperpage}{256}
-\indexentry{Command!OFF|hyperpage}{256}
-\indexentry{switch|hyperpage}{256}
-\indexentry{ON|hyperpage}{257}
-\indexentry{Command!ON|hyperpage}{257}
+\indexentry{ODD|hyperpage}{256}
+\indexentry{Declaration!ODD|hyperpage}{256}
+\indexentry{operator|hyperpage}{256}
+\indexentry{OFF|hyperpage}{257}
+\indexentry{Command!OFF|hyperpage}{257}
 \indexentry{switch|hyperpage}{257}
-\indexentry{OPERATOR|hyperpage}{258}
-\indexentry{Declaration!OPERATOR|hyperpage}{258}
-\indexentry{ORDER|hyperpage}{260}
-\indexentry{Declaration!ORDER|hyperpage}{260}
-\indexentry{order|hyperpage}{260}
-\indexentry{variable order|hyperpage}{260}
-\indexentry{output|hyperpage}{260}
-\indexentry{PRECEDENCE|hyperpage}{261}
-\indexentry{Declaration!PRECEDENCE|hyperpage}{261}
-\indexentry{operator|hyperpage}{261}
-\indexentry{PRECISION|hyperpage}{262}
-\indexentry{Declaration!PRECISION|hyperpage}{262}
-\indexentry{rounded|hyperpage}{262}
-\indexentry{floating point|hyperpage}{262}
-\indexentry{PRINT\_PRECISION|hyperpage}{263}
-\indexentry{Declaration!PRINT\_PRECISION|hyperpage}{263}
-\indexentry{output|hyperpage}{263}
-\indexentry{floating point|hyperpage}{263}
+\indexentry{ON|hyperpage}{258}
+\indexentry{Command!ON|hyperpage}{258}
+\indexentry{switch|hyperpage}{258}
+\indexentry{OPERATOR|hyperpage}{259}
+\indexentry{Declaration!OPERATOR|hyperpage}{259}
+\indexentry{ORDER|hyperpage}{261}
+\indexentry{Declaration!ORDER|hyperpage}{261}
+\indexentry{order|hyperpage}{261}
+\indexentry{variable order|hyperpage}{261}
+\indexentry{output|hyperpage}{261}
+\indexentry{PRECEDENCE|hyperpage}{262}
+\indexentry{Declaration!PRECEDENCE|hyperpage}{262}
+\indexentry{operator|hyperpage}{262}
+\indexentry{PRECISION|hyperpage}{263}
+\indexentry{Declaration!PRECISION|hyperpage}{263}
 \indexentry{rounded|hyperpage}{263}
-\indexentry{REAL|hyperpage}{264}
-\indexentry{Declaration!REAL|hyperpage}{264}
-\indexentry{REMFAC|hyperpage}{265}
-\indexentry{Declaration!REMFAC|hyperpage}{265}
-\indexentry{factor|hyperpage}{265}
-\indexentry{output|hyperpage}{265}
-\indexentry{SCALAR|hyperpage}{266}
-\indexentry{Declaration!SCALAR|hyperpage}{266}
-\indexentry{SCIENTIFIC\_NOTATION|hyperpage}{267}
-\indexentry{Declaration!SCIENTIFIC\_NOTATION|hyperpage}{267}
-\indexentry{output|hyperpage}{267}
-\indexentry{floating point|hyperpage}{267}
-\indexentry{rounded|hyperpage}{267}
-\indexentry{SHARE|hyperpage}{268}
-\indexentry{Declaration!SHARE|hyperpage}{268}
-\indexentry{SYMBOLIC|hyperpage}{269}
-\indexentry{Command!SYMBOLIC|hyperpage}{269}
-\indexentry{SYMMETRIC|hyperpage}{270}
-\indexentry{Declaration!SYMMETRIC|hyperpage}{270}
-\indexentry{operator|hyperpage}{270}
-\indexentry{TR|hyperpage}{271}
-\indexentry{Declaration!TR|hyperpage}{271}
-\indexentry{trace|hyperpage}{271}
-\indexentry{UNTR|hyperpage}{273}
-\indexentry{Declaration!UNTR|hyperpage}{273}
-\indexentry{trace|hyperpage}{273}
-\indexentry{VARNAME|hyperpage}{274}
-\indexentry{Declaration!VARNAME|hyperpage}{274}
-\indexentry{WEIGHT|hyperpage}{275}
-\indexentry{Command!WEIGHT|hyperpage}{275}
-\indexentry{WHERE|hyperpage}{277}
-\indexentry{Operator!WHERE|hyperpage}{277}
-\indexentry{substitution|hyperpage}{277}
-\indexentry{WHILE|hyperpage}{279}
-\indexentry{Command!WHILE|hyperpage}{279}
-\indexentry{loop|hyperpage}{279}
-\indexentry{WTLEVEL|hyperpage}{280}
-\indexentry{Command!WTLEVEL|hyperpage}{280}
-\indexentry{IN|hyperpage}{282}
-\indexentry{Command!IN|hyperpage}{282}
-\indexentry{input|hyperpage}{282}
-\indexentry{INPUT|hyperpage}{283}
-\indexentry{Command!INPUT|hyperpage}{283}
-\indexentry{interactive|hyperpage}{283}
-\indexentry{OUT|hyperpage}{284}
-\indexentry{Command!OUT|hyperpage}{284}
-\indexentry{output|hyperpage}{284}
-\indexentry{open|hyperpage}{284}
-\indexentry{SHUT|hyperpage}{285}
-\indexentry{Command!SHUT|hyperpage}{285}
+\indexentry{floating point|hyperpage}{263}
+\indexentry{PRINT\_PRECISION|hyperpage}{264}
+\indexentry{Declaration!PRINT\_PRECISION|hyperpage}{264}
+\indexentry{output|hyperpage}{264}
+\indexentry{floating point|hyperpage}{264}
+\indexentry{rounded|hyperpage}{264}
+\indexentry{REAL|hyperpage}{265}
+\indexentry{Declaration!REAL|hyperpage}{265}
+\indexentry{REMFAC|hyperpage}{266}
+\indexentry{Declaration!REMFAC|hyperpage}{266}
+\indexentry{factor|hyperpage}{266}
+\indexentry{output|hyperpage}{266}
+\indexentry{SCALAR|hyperpage}{267}
+\indexentry{Declaration!SCALAR|hyperpage}{267}
+\indexentry{SCIENTIFIC\_NOTATION|hyperpage}{268}
+\indexentry{Declaration!SCIENTIFIC\_NOTATION|hyperpage}{268}
+\indexentry{output|hyperpage}{268}
+\indexentry{floating point|hyperpage}{268}
+\indexentry{rounded|hyperpage}{268}
+\indexentry{SHARE|hyperpage}{269}
+\indexentry{Declaration!SHARE|hyperpage}{269}
+\indexentry{SYMBOLIC|hyperpage}{270}
+\indexentry{Command!SYMBOLIC|hyperpage}{270}
+\indexentry{SYMMETRIC|hyperpage}{271}
+\indexentry{Declaration!SYMMETRIC|hyperpage}{271}
+\indexentry{operator|hyperpage}{271}
+\indexentry{TR|hyperpage}{272}
+\indexentry{Declaration!TR|hyperpage}{272}
+\indexentry{trace|hyperpage}{272}
+\indexentry{UNTR|hyperpage}{274}
+\indexentry{Declaration!UNTR|hyperpage}{274}
+\indexentry{trace|hyperpage}{274}
+\indexentry{VARNAME|hyperpage}{275}
+\indexentry{Declaration!VARNAME|hyperpage}{275}
+\indexentry{WEIGHT|hyperpage}{276}
+\indexentry{Command!WEIGHT|hyperpage}{276}
+\indexentry{WHERE|hyperpage}{278}
+\indexentry{Operator!WHERE|hyperpage}{278}
+\indexentry{substitution|hyperpage}{278}
+\indexentry{WHILE|hyperpage}{280}
+\indexentry{Command!WHILE|hyperpage}{280}
+\indexentry{loop|hyperpage}{280}
+\indexentry{WTLEVEL|hyperpage}{281}
+\indexentry{Command!WTLEVEL|hyperpage}{281}
+\indexentry{IN|hyperpage}{283}
+\indexentry{Command!IN|hyperpage}{283}
+\indexentry{input|hyperpage}{283}
+\indexentry{INPUT|hyperpage}{284}
+\indexentry{Command!INPUT|hyperpage}{284}
+\indexentry{interactive|hyperpage}{284}
+\indexentry{OUT|hyperpage}{285}
+\indexentry{Command!OUT|hyperpage}{285}
 \indexentry{output|hyperpage}{285}
-\indexentry{close|hyperpage}{285}
-\indexentry{ACOS|hyperpage}{286}
-\indexentry{Operator!ACOS|hyperpage}{286}
-\indexentry{arccosine|hyperpage}{286}
-\indexentry{ACOSH|hyperpage}{287}
-\indexentry{Operator!ACOSH|hyperpage}{287}
-\indexentry{hyperbolic arccosine|hyperpage}{287}
-\indexentry{ACOT|hyperpage}{288}
-\indexentry{Operator!ACOT|hyperpage}{288}
-\indexentry{arccotangent|hyperpage}{288}
-\indexentry{ACOTH|hyperpage}{289}
-\indexentry{Operator!ACOTH|hyperpage}{289}
-\indexentry{hyperbolic cotangent|hyperpage}{289}
-\indexentry{ACSC|hyperpage}{290}
-\indexentry{Operator!ACSC|hyperpage}{290}
-\indexentry{arccosecant|hyperpage}{290}
-\indexentry{ACSCH|hyperpage}{291}
-\indexentry{Operator!ACSCH|hyperpage}{291}
+\indexentry{open|hyperpage}{285}
+\indexentry{SHUT|hyperpage}{286}
+\indexentry{Command!SHUT|hyperpage}{286}
+\indexentry{output|hyperpage}{286}
+\indexentry{close|hyperpage}{286}
+\indexentry{ACOS|hyperpage}{287}
+\indexentry{Operator!ACOS|hyperpage}{287}
+\indexentry{arccosine|hyperpage}{287}
+\indexentry{ACOSH|hyperpage}{288}
+\indexentry{Operator!ACOSH|hyperpage}{288}
+\indexentry{hyperbolic arccosine|hyperpage}{288}
+\indexentry{ACOT|hyperpage}{289}
+\indexentry{Operator!ACOT|hyperpage}{289}
+\indexentry{arccotangent|hyperpage}{289}
+\indexentry{ACOTH|hyperpage}{290}
+\indexentry{Operator!ACOTH|hyperpage}{290}
+\indexentry{hyperbolic cotangent|hyperpage}{290}
+\indexentry{ACSC|hyperpage}{291}
+\indexentry{Operator!ACSC|hyperpage}{291}
 \indexentry{arccosecant|hyperpage}{291}
-\indexentry{ASEC|hyperpage}{292}
-\indexentry{Operator!ASEC|hyperpage}{292}
+\indexentry{ACSCH|hyperpage}{292}
+\indexentry{Operator!ACSCH|hyperpage}{292}
 \indexentry{arccosecant|hyperpage}{292}
-\indexentry{ASECH|hyperpage}{293}
-\indexentry{Operator!ASECH|hyperpage}{293}
-\indexentry{hyperbolic arccosecant|hyperpage}{293}
-\indexentry{ASIN|hyperpage}{294}
-\indexentry{Operator!ASIN|hyperpage}{294}
-\indexentry{arcsine|hyperpage}{294}
-\indexentry{ASINH|hyperpage}{295}
-\indexentry{Operator!ASINH|hyperpage}{295}
-\indexentry{hyperbolic arcsine|hyperpage}{295}
-\indexentry{ATAN|hyperpage}{296}
-\indexentry{Operator!ATAN|hyperpage}{296}
-\indexentry{arctangent|hyperpage}{296}
-\indexentry{ATANH|hyperpage}{297}
-\indexentry{Operator!ATANH|hyperpage}{297}
-\indexentry{hyperbolic arctangent|hyperpage}{297}
-\indexentry{ATAN2|hyperpage}{298}
-\indexentry{Operator!ATAN2|hyperpage}{298}
-\indexentry{COS|hyperpage}{299}
-\indexentry{Operator!COS|hyperpage}{299}
-\indexentry{COSH|hyperpage}{300}
-\indexentry{Operator!COSH|hyperpage}{300}
-\indexentry{hyperbolic cosine|hyperpage}{300}
-\indexentry{COT|hyperpage}{301}
-\indexentry{Operator!COT|hyperpage}{301}
-\indexentry{COTH|hyperpage}{302}
-\indexentry{Operator!COTH|hyperpage}{302}
-\indexentry{hyperbolic cotangent|hyperpage}{302}
-\indexentry{CSC|hyperpage}{303}
-\indexentry{Operator!CSC|hyperpage}{303}
-\indexentry{cosecant|hyperpage}{303}
-\indexentry{CSCH|hyperpage}{304}
-\indexentry{Operator!CSCH|hyperpage}{304}
-\indexentry{hyperbolic cosecan|hyperpage}{304}
-\indexentry{ERF|hyperpage}{305}
-\indexentry{Operator!ERF|hyperpage}{305}
-\indexentry{error function|hyperpage}{305}
-\indexentry{EXP|hyperpage}{306}
-\indexentry{Operator!EXP|hyperpage}{306}
-\indexentry{exponential function|hyperpage}{306}
-\indexentry{SEC|hyperpage}{307}
-\indexentry{Operator!SEC|hyperpage}{307}
-\indexentry{SECH|hyperpage}{308}
-\indexentry{Operator!SECH|hyperpage}{308}
-\indexentry{hyperbolic secant|hyperpage}{308}
-\indexentry{SIN|hyperpage}{309}
-\indexentry{Operator!SIN|hyperpage}{309}
-\indexentry{sine|hyperpage}{309}
-\indexentry{SINH|hyperpage}{310}
-\indexentry{Operator!SINH|hyperpage}{310}
-\indexentry{hyperbolic sine|hyperpage}{310}
-\indexentry{TAN|hyperpage}{311}
-\indexentry{Operator!TAN|hyperpage}{311}
-\indexentry{TANH|hyperpage}{312}
-\indexentry{Operator!TANH|hyperpage}{312}
-\indexentry{hyperbolic tangent|hyperpage}{312}
-\indexentry{SWITCHES|hyperpage}{313}
-\indexentry{Introduction!SWITCHES|hyperpage}{313}
-\indexentry{ALGINT|hyperpage}{314}
-\indexentry{Switch!ALGINT|hyperpage}{314}
-\indexentry{integration|hyperpage}{314}
-\indexentry{ALLBRANCH|hyperpage}{315}
-\indexentry{Switch!ALLBRANCH|hyperpage}{315}
-\indexentry{ALLFAC|hyperpage}{316}
-\indexentry{Switch!ALLFAC|hyperpage}{316}
-\indexentry{output|hyperpage}{316}
-\indexentry{ARBVARS|hyperpage}{317}
-\indexentry{Switch!ARBVARS|hyperpage}{317}
-\indexentry{solve|hyperpage}{317}
-\indexentry{BALANCED\_MOD|hyperpage}{318}
-\indexentry{Switch!BALANCED\_MOD|hyperpage}{318}
-\indexentry{modular|hyperpage}{318}
-\indexentry{BFSPACE|hyperpage}{319}
-\indexentry{Switch!BFSPACE|hyperpage}{319}
-\indexentry{output|hyperpage}{319}
-\indexentry{floating point|hyperpage}{319}
-\indexentry{COMBINEEXPT|hyperpage}{320}
-\indexentry{Switch!COMBINEEXPT|hyperpage}{320}
-\indexentry{exponent simplification|hyperpage}{320}
-\indexentry{COMBINELOGS|hyperpage}{321}
-\indexentry{Switch!COMBINELOGS|hyperpage}{321}
-\indexentry{logarithm|hyperpage}{321}
-\indexentry{COMP|hyperpage}{322}
-\indexentry{Switch!COMP|hyperpage}{322}
-\indexentry{compiler|hyperpage}{322}
-\indexentry{COMPLEX|hyperpage}{324}
-\indexentry{Switch!COMPLEX|hyperpage}{324}
-\indexentry{complex|hyperpage}{324}
-\indexentry{CREF|hyperpage}{325}
-\indexentry{Switch!CREF|hyperpage}{325}
-\indexentry{cross reference|hyperpage}{325}
-\indexentry{CRAMER|hyperpage}{326}
-\indexentry{Switch!CRAMER|hyperpage}{326}
-\indexentry{matrix|hyperpage}{326}
-\indexentry{linear system|hyperpage}{326}
-\indexentry{solve|hyperpage}{326}
-\indexentry{DEFN|hyperpage}{327}
-\indexentry{Switch!DEFN|hyperpage}{327}
-\indexentry{lisp|hyperpage}{327}
-\indexentry{DEMO|hyperpage}{329}
-\indexentry{Switch!DEMO|hyperpage}{329}
-\indexentry{interactive|hyperpage}{329}
-\indexentry{output|hyperpage}{329}
-\indexentry{DFPRINT|hyperpage}{330}
-\indexentry{Switch!DFPRINT|hyperpage}{330}
+\indexentry{ASEC|hyperpage}{293}
+\indexentry{Operator!ASEC|hyperpage}{293}
+\indexentry{arccosecant|hyperpage}{293}
+\indexentry{ASECH|hyperpage}{294}
+\indexentry{Operator!ASECH|hyperpage}{294}
+\indexentry{hyperbolic arccosecant|hyperpage}{294}
+\indexentry{ASIN|hyperpage}{295}
+\indexentry{Operator!ASIN|hyperpage}{295}
+\indexentry{arcsine|hyperpage}{295}
+\indexentry{ASINH|hyperpage}{296}
+\indexentry{Operator!ASINH|hyperpage}{296}
+\indexentry{hyperbolic arcsine|hyperpage}{296}
+\indexentry{ATAN|hyperpage}{297}
+\indexentry{Operator!ATAN|hyperpage}{297}
+\indexentry{arctangent|hyperpage}{297}
+\indexentry{ATANH|hyperpage}{298}
+\indexentry{Operator!ATANH|hyperpage}{298}
+\indexentry{hyperbolic arctangent|hyperpage}{298}
+\indexentry{ATAN2|hyperpage}{299}
+\indexentry{Operator!ATAN2|hyperpage}{299}
+\indexentry{COS|hyperpage}{300}
+\indexentry{Operator!COS|hyperpage}{300}
+\indexentry{COSH|hyperpage}{301}
+\indexentry{Operator!COSH|hyperpage}{301}
+\indexentry{hyperbolic cosine|hyperpage}{301}
+\indexentry{COT|hyperpage}{302}
+\indexentry{Operator!COT|hyperpage}{302}
+\indexentry{COTH|hyperpage}{303}
+\indexentry{Operator!COTH|hyperpage}{303}
+\indexentry{hyperbolic cotangent|hyperpage}{303}
+\indexentry{CSC|hyperpage}{304}
+\indexentry{Operator!CSC|hyperpage}{304}
+\indexentry{cosecant|hyperpage}{304}
+\indexentry{CSCH|hyperpage}{305}
+\indexentry{Operator!CSCH|hyperpage}{305}
+\indexentry{hyperbolic cosecan|hyperpage}{305}
+\indexentry{ERF|hyperpage}{306}
+\indexentry{Operator!ERF|hyperpage}{306}
+\indexentry{error function|hyperpage}{306}
+\indexentry{EXP|hyperpage}{307}
+\indexentry{Operator!EXP|hyperpage}{307}
+\indexentry{exponential function|hyperpage}{307}
+\indexentry{SEC|hyperpage}{308}
+\indexentry{Operator!SEC|hyperpage}{308}
+\indexentry{SECH|hyperpage}{309}
+\indexentry{Operator!SECH|hyperpage}{309}
+\indexentry{hyperbolic secant|hyperpage}{309}
+\indexentry{SIN|hyperpage}{310}
+\indexentry{Operator!SIN|hyperpage}{310}
+\indexentry{sine|hyperpage}{310}
+\indexentry{SINH|hyperpage}{311}
+\indexentry{Operator!SINH|hyperpage}{311}
+\indexentry{hyperbolic sine|hyperpage}{311}
+\indexentry{TAN|hyperpage}{312}
+\indexentry{Operator!TAN|hyperpage}{312}
+\indexentry{TANH|hyperpage}{313}
+\indexentry{Operator!TANH|hyperpage}{313}
+\indexentry{hyperbolic tangent|hyperpage}{313}
+\indexentry{SWITCHES|hyperpage}{314}
+\indexentry{Introduction!SWITCHES|hyperpage}{314}
+\indexentry{ALGINT|hyperpage}{315}
+\indexentry{Switch!ALGINT|hyperpage}{315}
+\indexentry{integration|hyperpage}{315}
+\indexentry{ALLBRANCH|hyperpage}{316}
+\indexentry{Switch!ALLBRANCH|hyperpage}{316}
+\indexentry{ALLFAC|hyperpage}{317}
+\indexentry{Switch!ALLFAC|hyperpage}{317}
+\indexentry{output|hyperpage}{317}
+\indexentry{ARBVARS|hyperpage}{318}
+\indexentry{Switch!ARBVARS|hyperpage}{318}
+\indexentry{solve|hyperpage}{318}
+\indexentry{BALANCED\_MOD|hyperpage}{319}
+\indexentry{Switch!BALANCED\_MOD|hyperpage}{319}
+\indexentry{modular|hyperpage}{319}
+\indexentry{BFSPACE|hyperpage}{320}
+\indexentry{Switch!BFSPACE|hyperpage}{320}
+\indexentry{output|hyperpage}{320}
+\indexentry{floating point|hyperpage}{320}
+\indexentry{COMBINEEXPT|hyperpage}{321}
+\indexentry{Switch!COMBINEEXPT|hyperpage}{321}
+\indexentry{exponent simplification|hyperpage}{321}
+\indexentry{COMBINELOGS|hyperpage}{322}
+\indexentry{Switch!COMBINELOGS|hyperpage}{322}
+\indexentry{logarithm|hyperpage}{322}
+\indexentry{COMP|hyperpage}{323}
+\indexentry{Switch!COMP|hyperpage}{323}
+\indexentry{compiler|hyperpage}{323}
+\indexentry{COMPLEX|hyperpage}{325}
+\indexentry{Switch!COMPLEX|hyperpage}{325}
+\indexentry{complex|hyperpage}{325}
+\indexentry{CREF|hyperpage}{326}
+\indexentry{Switch!CREF|hyperpage}{326}
+\indexentry{cross reference|hyperpage}{326}
+\indexentry{CRAMER|hyperpage}{327}
+\indexentry{Switch!CRAMER|hyperpage}{327}
+\indexentry{matrix|hyperpage}{327}
+\indexentry{linear system|hyperpage}{327}
+\indexentry{solve|hyperpage}{327}
+\indexentry{DEFN|hyperpage}{328}
+\indexentry{Switch!DEFN|hyperpage}{328}
+\indexentry{lisp|hyperpage}{328}
+\indexentry{DEMO|hyperpage}{330}
+\indexentry{Switch!DEMO|hyperpage}{330}
+\indexentry{interactive|hyperpage}{330}
 \indexentry{output|hyperpage}{330}
-\indexentry{derivative|hyperpage}{330}
-\indexentry{DIV|hyperpage}{331}
-\indexentry{Switch!DIV|hyperpage}{331}
+\indexentry{DFPRINT|hyperpage}{331}
+\indexentry{Switch!DFPRINT|hyperpage}{331}
 \indexentry{output|hyperpage}{331}
-\indexentry{ECHO|hyperpage}{332}
-\indexentry{Switch!ECHO|hyperpage}{332}
+\indexentry{derivative|hyperpage}{331}
+\indexentry{DIV|hyperpage}{332}
+\indexentry{Switch!DIV|hyperpage}{332}
 \indexentry{output|hyperpage}{332}
-\indexentry{ERRCONT|hyperpage}{333}
-\indexentry{Switch!ERRCONT|hyperpage}{333}
-\indexentry{error handling|hyperpage}{333}
-\indexentry{EVALLHSEQP|hyperpage}{334}
-\indexentry{Switch!EVALLHSEQP|hyperpage}{334}
-\indexentry{equation|hyperpage}{334}
-\indexentry{EXP|hyperpage}{335}
-\indexentry{Switch!EXP|hyperpage}{335}
-\indexentry{simplification|hyperpage}{335}
-\indexentry{EXPANDLOGS|hyperpage}{336}
-\indexentry{Switch!EXPANDLOGS|hyperpage}{336}
-\indexentry{logarithm|hyperpage}{336}
-\indexentry{EZGCD|hyperpage}{337}
-\indexentry{Switch!EZGCD|hyperpage}{337}
-\indexentry{greatest common divisor|hyperpage}{337}
-\indexentry{polynomial|hyperpage}{337}
-\indexentry{FACTOR|hyperpage}{338}
-\indexentry{Switch!FACTOR|hyperpage}{338}
-\indexentry{output|hyperpage}{338}
-\indexentry{FAILHARD|hyperpage}{340}
-\indexentry{Switch!FAILHARD|hyperpage}{340}
-\indexentry{integration|hyperpage}{340}
-\indexentry{FORT|hyperpage}{341}
-\indexentry{Switch!FORT|hyperpage}{341}
-\indexentry{FORTRAN|hyperpage}{341}
-\indexentry{FORTUPPER|hyperpage}{342}
-\indexentry{Switch!FORTUPPER|hyperpage}{342}
+\indexentry{ECHO|hyperpage}{333}
+\indexentry{Switch!ECHO|hyperpage}{333}
+\indexentry{output|hyperpage}{333}
+\indexentry{ERRCONT|hyperpage}{334}
+\indexentry{Switch!ERRCONT|hyperpage}{334}
+\indexentry{error handling|hyperpage}{334}
+\indexentry{EVALLHSEQP|hyperpage}{335}
+\indexentry{Switch!EVALLHSEQP|hyperpage}{335}
+\indexentry{equation|hyperpage}{335}
+\indexentry{EXP|hyperpage}{336}
+\indexentry{Switch!EXP|hyperpage}{336}
+\indexentry{simplification|hyperpage}{336}
+\indexentry{EXPANDLOGS|hyperpage}{337}
+\indexentry{Switch!EXPANDLOGS|hyperpage}{337}
+\indexentry{logarithm|hyperpage}{337}
+\indexentry{EZGCD|hyperpage}{338}
+\indexentry{Switch!EZGCD|hyperpage}{338}
+\indexentry{greatest common divisor|hyperpage}{338}
+\indexentry{polynomial|hyperpage}{338}
+\indexentry{FACTOR|hyperpage}{339}
+\indexentry{Switch!FACTOR|hyperpage}{339}
+\indexentry{output|hyperpage}{339}
+\indexentry{FAILHARD|hyperpage}{341}
+\indexentry{Switch!FAILHARD|hyperpage}{341}
+\indexentry{integration|hyperpage}{341}
+\indexentry{FORT|hyperpage}{342}
+\indexentry{Switch!FORT|hyperpage}{342}
 \indexentry{FORTRAN|hyperpage}{342}
-\indexentry{FULLPREC|hyperpage}{343}
-\indexentry{Switch!FULLPREC|hyperpage}{343}
-\indexentry{precision|hyperpage}{343}
-\indexentry{rounded|hyperpage}{343}
-\indexentry{FULLROOTS|hyperpage}{344}
-\indexentry{Switch!FULLROOTS|hyperpage}{344}
-\indexentry{solve|hyperpage}{344}
-\indexentry{polynomial|hyperpage}{344}
-\indexentry{GC|hyperpage}{345}
-\indexentry{Switch!GC|hyperpage}{345}
-\indexentry{memory|hyperpage}{345}
-\indexentry{GCD|hyperpage}{346}
-\indexentry{Switch!GCD|hyperpage}{346}
-\indexentry{greatest common divisor|hyperpage}{346}
-\indexentry{rational expression|hyperpage}{346}
-\indexentry{HORNER|hyperpage}{347}
-\indexentry{Switch!HORNER|hyperpage}{347}
-\indexentry{output|hyperpage}{347}
-\indexentry{polynomial|hyperpage}{347}
-\indexentry{IFACTOR|hyperpage}{348}
-\indexentry{Switch!IFACTOR|hyperpage}{348}
-\indexentry{integer|hyperpage}{348}
-\indexentry{factorize|hyperpage}{348}
-\indexentry{INT|hyperpage}{349}
-\indexentry{Switch!INT|hyperpage}{349}
-\indexentry{interactive|hyperpage}{349}
-\indexentry{INTSTR|hyperpage}{350}
-\indexentry{Switch!INTSTR|hyperpage}{350}
-\indexentry{output|hyperpage}{350}
-\indexentry{LCM|hyperpage}{351}
-\indexentry{Switch!LCM|hyperpage}{351}
-\indexentry{rational expression|hyperpage}{351}
-\indexentry{LESSSPACE|hyperpage}{353}
-\indexentry{Switch!LESSSPACE|hyperpage}{353}
-\indexentry{output|hyperpage}{353}
-\indexentry{LIMITEDFACTORS|hyperpage}{354}
-\indexentry{Switch!LIMITEDFACTORS|hyperpage}{354}
-\indexentry{factorize|hyperpage}{354}
-\indexentry{polynomial|hyperpage}{354}
-\indexentry{LIST|hyperpage}{355}
-\indexentry{Switch!LIST|hyperpage}{355}
-\indexentry{LISTARGS|hyperpage}{356}
-\indexentry{Switch!LISTARGS|hyperpage}{356}
-\indexentry{list|hyperpage}{356}
-\indexentry{argument|hyperpage}{356}
-\indexentry{operator|hyperpage}{356}
-\indexentry{MCD|hyperpage}{357}
-\indexentry{Switch!MCD|hyperpage}{357}
-\indexentry{rational expression|hyperpage}{357}
-\indexentry{MODULAR|hyperpage}{358}
-\indexentry{Switch!MODULAR|hyperpage}{358}
-\indexentry{modular|hyperpage}{358}
-\indexentry{MSG|hyperpage}{359}
-\indexentry{Switch!MSG|hyperpage}{359}
-\indexentry{output|hyperpage}{359}
-\indexentry{MULTIPLICITIES|hyperpage}{360}
-\indexentry{Switch!MULTIPLICITIES|hyperpage}{360}
-\indexentry{solve|hyperpage}{360}
-\indexentry{NAT|hyperpage}{361}
-\indexentry{Switch!NAT|hyperpage}{361}
-\indexentry{output|hyperpage}{361}
-\indexentry{NERO|hyperpage}{362}
-\indexentry{Switch!NERO|hyperpage}{362}
+\indexentry{FORTUPPER|hyperpage}{343}
+\indexentry{Switch!FORTUPPER|hyperpage}{343}
+\indexentry{FORTRAN|hyperpage}{343}
+\indexentry{FULLPREC|hyperpage}{344}
+\indexentry{Switch!FULLPREC|hyperpage}{344}
+\indexentry{precision|hyperpage}{344}
+\indexentry{rounded|hyperpage}{344}
+\indexentry{FULLROOTS|hyperpage}{345}
+\indexentry{Switch!FULLROOTS|hyperpage}{345}
+\indexentry{solve|hyperpage}{345}
+\indexentry{polynomial|hyperpage}{345}
+\indexentry{GC|hyperpage}{346}
+\indexentry{Switch!GC|hyperpage}{346}
+\indexentry{memory|hyperpage}{346}
+\indexentry{GCD|hyperpage}{347}
+\indexentry{Switch!GCD|hyperpage}{347}
+\indexentry{greatest common divisor|hyperpage}{347}
+\indexentry{rational expression|hyperpage}{347}
+\indexentry{HORNER|hyperpage}{348}
+\indexentry{Switch!HORNER|hyperpage}{348}
+\indexentry{output|hyperpage}{348}
+\indexentry{polynomial|hyperpage}{348}
+\indexentry{IFACTOR|hyperpage}{349}
+\indexentry{Switch!IFACTOR|hyperpage}{349}
+\indexentry{integer|hyperpage}{349}
+\indexentry{factorize|hyperpage}{349}
+\indexentry{INT|hyperpage}{350}
+\indexentry{Switch!INT|hyperpage}{350}
+\indexentry{interactive|hyperpage}{350}
+\indexentry{INTSTR|hyperpage}{351}
+\indexentry{Switch!INTSTR|hyperpage}{351}
+\indexentry{output|hyperpage}{351}
+\indexentry{LCM|hyperpage}{352}
+\indexentry{Switch!LCM|hyperpage}{352}
+\indexentry{rational expression|hyperpage}{352}
+\indexentry{LESSSPACE|hyperpage}{354}
+\indexentry{Switch!LESSSPACE|hyperpage}{354}
+\indexentry{output|hyperpage}{354}
+\indexentry{LIMITEDFACTORS|hyperpage}{355}
+\indexentry{Switch!LIMITEDFACTORS|hyperpage}{355}
+\indexentry{factorize|hyperpage}{355}
+\indexentry{polynomial|hyperpage}{355}
+\indexentry{LIST|hyperpage}{356}
+\indexentry{Switch!LIST|hyperpage}{356}
+\indexentry{LISTARGS|hyperpage}{357}
+\indexentry{Switch!LISTARGS|hyperpage}{357}
+\indexentry{list|hyperpage}{357}
+\indexentry{argument|hyperpage}{357}
+\indexentry{operator|hyperpage}{357}
+\indexentry{MCD|hyperpage}{358}
+\indexentry{Switch!MCD|hyperpage}{358}
+\indexentry{rational expression|hyperpage}{358}
+\indexentry{MODULAR|hyperpage}{359}
+\indexentry{Switch!MODULAR|hyperpage}{359}
+\indexentry{modular|hyperpage}{359}
+\indexentry{MSG|hyperpage}{360}
+\indexentry{Switch!MSG|hyperpage}{360}
+\indexentry{output|hyperpage}{360}
+\indexentry{MULTIPLICITIES|hyperpage}{361}
+\indexentry{Switch!MULTIPLICITIES|hyperpage}{361}
+\indexentry{solve|hyperpage}{361}
+\indexentry{NAT|hyperpage}{362}
+\indexentry{Switch!NAT|hyperpage}{362}
 \indexentry{output|hyperpage}{362}
-\indexentry{NOARG|hyperpage}{363}
-\indexentry{Switch!NOARG|hyperpage}{363}
+\indexentry{NERO|hyperpage}{363}
+\indexentry{Switch!NERO|hyperpage}{363}
 \indexentry{output|hyperpage}{363}
-\indexentry{derivative|hyperpage}{363}
-\indexentry{NOLNR|hyperpage}{364}
-\indexentry{Switch!NOLNR|hyperpage}{364}
-\indexentry{integration|hyperpage}{364}
-\indexentry{NOSPLIT|hyperpage}{365}
-\indexentry{Switch!NOSPLIT|hyperpage}{365}
-\indexentry{output|hyperpage}{365}
-\indexentry{NUMVAL|hyperpage}{366}
-\indexentry{Switch!NUMVAL|hyperpage}{366}
-\indexentry{rounded|hyperpage}{366}
-\indexentry{OUTPUT|hyperpage}{367}
-\indexentry{Switch!OUTPUT|hyperpage}{367}
-\indexentry{output|hyperpage}{367}
-\indexentry{OVERVIEW|hyperpage}{368}
-\indexentry{Switch!OVERVIEW|hyperpage}{368}
-\indexentry{factorize|hyperpage}{368}
-\indexentry{PERIOD|hyperpage}{369}
-\indexentry{Switch!PERIOD|hyperpage}{369}
-\indexentry{output|hyperpage}{369}
-\indexentry{integer|hyperpage}{369}
-\indexentry{PRECISE|hyperpage}{370}
-\indexentry{Switch!PRECISE|hyperpage}{370}
-\indexentry{simplification|hyperpage}{370}
-\indexentry{square root|hyperpage}{370}
-\indexentry{PRET|hyperpage}{371}
-\indexentry{Switch!PRET|hyperpage}{371}
-\indexentry{output|hyperpage}{371}
-\indexentry{PRI|hyperpage}{372}
-\indexentry{Switch!PRI|hyperpage}{372}
+\indexentry{NOARG|hyperpage}{364}
+\indexentry{Switch!NOARG|hyperpage}{364}
+\indexentry{output|hyperpage}{364}
+\indexentry{derivative|hyperpage}{364}
+\indexentry{NOLNR|hyperpage}{365}
+\indexentry{Switch!NOLNR|hyperpage}{365}
+\indexentry{integration|hyperpage}{365}
+\indexentry{NOSPLIT|hyperpage}{366}
+\indexentry{Switch!NOSPLIT|hyperpage}{366}
+\indexentry{output|hyperpage}{366}
+\indexentry{NUMVAL|hyperpage}{367}
+\indexentry{Switch!NUMVAL|hyperpage}{367}
+\indexentry{rounded|hyperpage}{367}
+\indexentry{OUTPUT|hyperpage}{368}
+\indexentry{Switch!OUTPUT|hyperpage}{368}
+\indexentry{output|hyperpage}{368}
+\indexentry{OVERVIEW|hyperpage}{369}
+\indexentry{Switch!OVERVIEW|hyperpage}{369}
+\indexentry{factorize|hyperpage}{369}
+\indexentry{PERIOD|hyperpage}{370}
+\indexentry{Switch!PERIOD|hyperpage}{370}
+\indexentry{output|hyperpage}{370}
+\indexentry{integer|hyperpage}{370}
+\indexentry{PRECISE|hyperpage}{371}
+\indexentry{Switch!PRECISE|hyperpage}{371}
+\indexentry{simplification|hyperpage}{371}
+\indexentry{square root|hyperpage}{371}
+\indexentry{PRET|hyperpage}{372}
+\indexentry{Switch!PRET|hyperpage}{372}
 \indexentry{output|hyperpage}{372}
-\indexentry{RAISE|hyperpage}{373}
-\indexentry{Switch!RAISE|hyperpage}{373}
-\indexentry{input|hyperpage}{373}
-\indexentry{character|hyperpage}{373}
-\indexentry{RAT|hyperpage}{374}
-\indexentry{Switch!RAT|hyperpage}{374}
-\indexentry{output|hyperpage}{374}
-\indexentry{RATARG|hyperpage}{375}
-\indexentry{Switch!RATARG|hyperpage}{375}
-\indexentry{rational expression|hyperpage}{375}
-\indexentry{polynomial|hyperpage}{375}
-\indexentry{RATIONAL|hyperpage}{376}
-\indexentry{Switch!RATIONAL|hyperpage}{376}
+\indexentry{PRI|hyperpage}{373}
+\indexentry{Switch!PRI|hyperpage}{373}
+\indexentry{output|hyperpage}{373}
+\indexentry{RAISE|hyperpage}{374}
+\indexentry{Switch!RAISE|hyperpage}{374}
+\indexentry{input|hyperpage}{374}
+\indexentry{character|hyperpage}{374}
+\indexentry{RAT|hyperpage}{375}
+\indexentry{Switch!RAT|hyperpage}{375}
+\indexentry{output|hyperpage}{375}
+\indexentry{RATARG|hyperpage}{376}
+\indexentry{Switch!RATARG|hyperpage}{376}
 \indexentry{rational expression|hyperpage}{376}
 \indexentry{polynomial|hyperpage}{376}
-\indexentry{RATIONALIZE|hyperpage}{377}
-\indexentry{Switch!RATIONALIZE|hyperpage}{377}
+\indexentry{RATIONAL|hyperpage}{377}
+\indexentry{Switch!RATIONAL|hyperpage}{377}
 \indexentry{rational expression|hyperpage}{377}
-\indexentry{simplification|hyperpage}{377}
-\indexentry{complex|hyperpage}{377}
-\indexentry{RATPRI|hyperpage}{378}
-\indexentry{Switch!RATPRI|hyperpage}{378}
-\indexentry{output|hyperpage}{378}
+\indexentry{polynomial|hyperpage}{377}
+\indexentry{RATIONALIZE|hyperpage}{378}
+\indexentry{Switch!RATIONALIZE|hyperpage}{378}
 \indexentry{rational expression|hyperpage}{378}
-\indexentry{REVPRI|hyperpage}{379}
-\indexentry{Switch!REVPRI|hyperpage}{379}
+\indexentry{simplification|hyperpage}{378}
+\indexentry{complex|hyperpage}{378}
+\indexentry{RATPRI|hyperpage}{379}
+\indexentry{Switch!RATPRI|hyperpage}{379}
 \indexentry{output|hyperpage}{379}
-\indexentry{RLISP88|hyperpage}{380}
-\indexentry{Switch!RLISP88|hyperpage}{380}
-\indexentry{lisp|hyperpage}{380}
-\indexentry{ROUNDALL|hyperpage}{381}
-\indexentry{Switch!ROUNDALL|hyperpage}{381}
-\indexentry{rounded|hyperpage}{381}
-\indexentry{rational expression|hyperpage}{381}
-\indexentry{floating point|hyperpage}{381}
-\indexentry{ROUNDBF|hyperpage}{382}
-\indexentry{Switch!ROUNDBF|hyperpage}{382}
-\indexentry{ROUNDED|hyperpage}{383}
-\indexentry{Switch!ROUNDED|hyperpage}{383}
-\indexentry{floating point|hyperpage}{383}
-\indexentry{SAVESTRUCTR|hyperpage}{384}
-\indexentry{Switch!SAVESTRUCTR|hyperpage}{384}
-\indexentry{STRUCTR OPERATOR|hyperpage}{384}
-\indexentry{SOLVESINGULAR|hyperpage}{385}
-\indexentry{Switch!SOLVESINGULAR|hyperpage}{385}
-\indexentry{solve|hyperpage}{385}
-\indexentry{TIME|hyperpage}{386}
-\indexentry{Switch!TIME|hyperpage}{386}
-\indexentry{time|hyperpage}{386}
-\indexentry{TRALLFAC|hyperpage}{387}
-\indexentry{Switch!TRALLFAC|hyperpage}{387}
-\indexentry{factorize|hyperpage}{387}
-\indexentry{TRFAC|hyperpage}{388}
-\indexentry{Switch!TRFAC|hyperpage}{388}
+\indexentry{rational expression|hyperpage}{379}
+\indexentry{REVPRI|hyperpage}{380}
+\indexentry{Switch!REVPRI|hyperpage}{380}
+\indexentry{output|hyperpage}{380}
+\indexentry{RLISP88|hyperpage}{381}
+\indexentry{Switch!RLISP88|hyperpage}{381}
+\indexentry{lisp|hyperpage}{381}
+\indexentry{ROUNDALL|hyperpage}{382}
+\indexentry{Switch!ROUNDALL|hyperpage}{382}
+\indexentry{rounded|hyperpage}{382}
+\indexentry{rational expression|hyperpage}{382}
+\indexentry{floating point|hyperpage}{382}
+\indexentry{ROUNDBF|hyperpage}{383}
+\indexentry{Switch!ROUNDBF|hyperpage}{383}
+\indexentry{ROUNDED|hyperpage}{384}
+\indexentry{Switch!ROUNDED|hyperpage}{384}
+\indexentry{floating point|hyperpage}{384}
+\indexentry{SAVESTRUCTR|hyperpage}{385}
+\indexentry{Switch!SAVESTRUCTR|hyperpage}{385}
+\indexentry{STRUCTR OPERATOR|hyperpage}{385}
+\indexentry{SOLVESINGULAR|hyperpage}{386}
+\indexentry{Switch!SOLVESINGULAR|hyperpage}{386}
+\indexentry{solve|hyperpage}{386}
+\indexentry{TIME|hyperpage}{387}
+\indexentry{Switch!TIME|hyperpage}{387}
+\indexentry{time|hyperpage}{387}
+\indexentry{TRALLFAC|hyperpage}{388}
+\indexentry{Switch!TRALLFAC|hyperpage}{388}
 \indexentry{factorize|hyperpage}{388}
-\indexentry{TRIGFORM|hyperpage}{389}
-\indexentry{Switch!TRIGFORM|hyperpage}{389}
-\indexentry{solve|hyperpage}{389}
-\indexentry{polynomial|hyperpage}{389}
-\indexentry{TRINT|hyperpage}{390}
-\indexentry{Switch!TRINT|hyperpage}{390}
-\indexentry{integration|hyperpage}{390}
-\indexentry{TRNONLNR|hyperpage}{391}
-\indexentry{Switch!TRNONLNR|hyperpage}{391}
-\indexentry{solve|hyperpage}{391}
-\indexentry{VAROPT|hyperpage}{392}
-\indexentry{Switch!VAROPT|hyperpage}{392}
+\indexentry{TRFAC|hyperpage}{389}
+\indexentry{Switch!TRFAC|hyperpage}{389}
+\indexentry{factorize|hyperpage}{389}
+\indexentry{TRIGFORM|hyperpage}{390}
+\indexentry{Switch!TRIGFORM|hyperpage}{390}
+\indexentry{solve|hyperpage}{390}
+\indexentry{polynomial|hyperpage}{390}
+\indexentry{TRINT|hyperpage}{391}
+\indexentry{Switch!TRINT|hyperpage}{391}
+\indexentry{integration|hyperpage}{391}
+\indexentry{TRNONLNR|hyperpage}{392}
+\indexentry{Switch!TRNONLNR|hyperpage}{392}
 \indexentry{solve|hyperpage}{392}
-\indexentry{COFACTOR|hyperpage}{393}
-\indexentry{Operator!COFACTOR|hyperpage}{393}
-\indexentry{matrix|hyperpage}{393}
-\indexentry{DET|hyperpage}{394}
-\indexentry{Operator!DET|hyperpage}{394}
+\indexentry{VAROPT|hyperpage}{393}
+\indexentry{Switch!VAROPT|hyperpage}{393}
+\indexentry{solve|hyperpage}{393}
+\indexentry{COFACTOR|hyperpage}{394}
+\indexentry{Operator!COFACTOR|hyperpage}{394}
 \indexentry{matrix|hyperpage}{394}
-\indexentry{determinant|hyperpage}{394}
-\indexentry{MAT|hyperpage}{395}
-\indexentry{Operator!MAT|hyperpage}{395}
+\indexentry{DET|hyperpage}{395}
+\indexentry{Operator!DET|hyperpage}{395}
 \indexentry{matrix|hyperpage}{395}
-\indexentry{MATEIGEN|hyperpage}{396}
-\indexentry{Operator!MATEIGEN|hyperpage}{396}
+\indexentry{determinant|hyperpage}{395}
+\indexentry{MAT|hyperpage}{396}
+\indexentry{Operator!MAT|hyperpage}{396}
 \indexentry{matrix|hyperpage}{396}
-\indexentry{eigenvalue|hyperpage}{396}
-\indexentry{MATRIX|hyperpage}{398}
-\indexentry{Declaration!MATRIX|hyperpage}{398}
-\indexentry{NULLSPACE|hyperpage}{400}
-\indexentry{Operator!NULLSPACE|hyperpage}{400}
-\indexentry{matrix|hyperpage}{400}
-\indexentry{RANK|hyperpage}{402}
-\indexentry{Operator!RANK|hyperpage}{402}
-\indexentry{matrix|hyperpage}{402}
-\indexentry{TP|hyperpage}{403}
-\indexentry{Operator!TP|hyperpage}{403}
-\indexentry{transpose|hyperpage}{403}
+\indexentry{MATEIGEN|hyperpage}{397}
+\indexentry{Operator!MATEIGEN|hyperpage}{397}
+\indexentry{matrix|hyperpage}{397}
+\indexentry{eigenvalue|hyperpage}{397}
+\indexentry{MATRIX|hyperpage}{399}
+\indexentry{Declaration!MATRIX|hyperpage}{399}
+\indexentry{NULLSPACE|hyperpage}{401}
+\indexentry{Operator!NULLSPACE|hyperpage}{401}
+\indexentry{matrix|hyperpage}{401}
+\indexentry{RANK|hyperpage}{403}
+\indexentry{Operator!RANK|hyperpage}{403}
 \indexentry{matrix|hyperpage}{403}
-\indexentry{TRACE|hyperpage}{404}
-\indexentry{Operator!TRACE|hyperpage}{404}
+\indexentry{TP|hyperpage}{404}
+\indexentry{Operator!TP|hyperpage}{404}
+\indexentry{transpose|hyperpage}{404}
 \indexentry{matrix|hyperpage}{404}
-\indexentry{Groebner bases|hyperpage}{405}
-\indexentry{Introduction!Groebner bases|hyperpage}{405}
-\indexentry{Groebner bases|hyperpage}{405}
-\indexentry{Buchberger algorithm|hyperpage}{405}
-\indexentry{Hollmann algorithm|hyperpage}{405}
-\indexentry{Faugere-Gianni-Lazard-Mora algorithm|hyperpage}{405}
-\indexentry{Kredel-Weispfenning algorithm|hyperpage}{405}
-\indexentry{Ideal Parameters|hyperpage}{406}
-\indexentry{Concept!Ideal Parameters|hyperpage}{406}
-\indexentry{polynomial|hyperpage}{406}
-\indexentry{Term order|hyperpage}{407}
-\indexentry{Introduction!Term order|hyperpage}{407}
-\indexentry{distributive polynomials|hyperpage}{407}
-\indexentry{torder|hyperpage}{408}
-\indexentry{Operator!torder|hyperpage}{408}
-\indexentry{torder_compile|hyperpage}{409}
-\indexentry{Operator!torder_compile|hyperpage}{409}
-\indexentry{term order|hyperpage}{409}
-\indexentry{lex term order|hyperpage}{410}
-\indexentry{Concept!lex term order|hyperpage}{410}
-\indexentry{term order|hyperpage}{410}
-\indexentry{variable elimination|hyperpage}{410}
-\indexentry{gradlex term order|hyperpage}{411}
-\indexentry{Concept!gradlex term order|hyperpage}{411}
+\indexentry{TRACE|hyperpage}{405}
+\indexentry{Operator!TRACE|hyperpage}{405}
+\indexentry{matrix|hyperpage}{405}
+\indexentry{Groebner bases|hyperpage}{406}
+\indexentry{Introduction!Groebner bases|hyperpage}{406}
+\indexentry{Groebner bases|hyperpage}{406}
+\indexentry{Buchberger algorithm|hyperpage}{406}
+\indexentry{Hollmann algorithm|hyperpage}{406}
+\indexentry{Faugere-Gianni-Lazard-Mora algorithm|hyperpage}{406}
+\indexentry{Kredel-Weispfenning algorithm|hyperpage}{406}
+\indexentry{Ideal Parameters|hyperpage}{407}
+\indexentry{Concept!Ideal Parameters|hyperpage}{407}
+\indexentry{polynomial|hyperpage}{407}
+\indexentry{Term order|hyperpage}{409}
+\indexentry{Introduction!Term order|hyperpage}{409}
+\indexentry{distributive polynomials|hyperpage}{409}
+\indexentry{torder|hyperpage}{410}
+\indexentry{Operator!torder|hyperpage}{410}
+\indexentry{torder_compile|hyperpage}{411}
+\indexentry{Operator!torder_compile|hyperpage}{411}
 \indexentry{term order|hyperpage}{411}
-\indexentry{revgradlex term order|hyperpage}{412}
-\indexentry{Concept!revgradlex term order|hyperpage}{412}
+\indexentry{lex term order|hyperpage}{412}
+\indexentry{Concept!lex term order|hyperpage}{412}
 \indexentry{term order|hyperpage}{412}
-\indexentry{gradlexgradlex term order|hyperpage}{413}
-\indexentry{Concept!gradlexgradlex term order|hyperpage}{413}
+\indexentry{variable elimination|hyperpage}{412}
+\indexentry{gradlex term order|hyperpage}{413}
+\indexentry{Concept!gradlex term order|hyperpage}{413}
 \indexentry{term order|hyperpage}{413}
-\indexentry{gradlexrevgradlex term order|hyperpage}{414}
-\indexentry{Concept!gradlexrevgradlex term order|hyperpage}{414}
+\indexentry{revgradlex term order|hyperpage}{414}
+\indexentry{Concept!revgradlex term order|hyperpage}{414}
 \indexentry{term order|hyperpage}{414}
-\indexentry{lexgradlex term order|hyperpage}{415}
-\indexentry{Concept!lexgradlex term order|hyperpage}{415}
+\indexentry{gradlexgradlex term order|hyperpage}{415}
+\indexentry{Concept!gradlexgradlex term order|hyperpage}{415}
 \indexentry{term order|hyperpage}{415}
-\indexentry{lexrevgradlex term order|hyperpage}{416}
-\indexentry{Concept!lexrevgradlex term order|hyperpage}{416}
+\indexentry{gradlexrevgradlex term order|hyperpage}{416}
+\indexentry{Concept!gradlexrevgradlex term order|hyperpage}{416}
 \indexentry{term order|hyperpage}{416}
-\indexentry{weighted term order|hyperpage}{417}
-\indexentry{Concept!weighted term order|hyperpage}{417}
+\indexentry{lexgradlex term order|hyperpage}{417}
+\indexentry{Concept!lexgradlex term order|hyperpage}{417}
 \indexentry{term order|hyperpage}{417}
-\indexentry{graded term order|hyperpage}{418}
-\indexentry{Concept!graded term order|hyperpage}{418}
+\indexentry{lexrevgradlex term order|hyperpage}{418}
+\indexentry{Concept!lexrevgradlex term order|hyperpage}{418}
 \indexentry{term order|hyperpage}{418}
-\indexentry{matrix term order|hyperpage}{419}
-\indexentry{Concept!matrix term order|hyperpage}{419}
+\indexentry{weighted term order|hyperpage}{419}
+\indexentry{Concept!weighted term order|hyperpage}{419}
 \indexentry{term order|hyperpage}{419}
-\indexentry{gvars|hyperpage}{420}
-\indexentry{Operator!gvars|hyperpage}{420}
-\indexentry{groebner|hyperpage}{421}
-\indexentry{Operator!groebner|hyperpage}{421}
-\indexentry{Buchberger algorithm|hyperpage}{421}
-\indexentry{groebner\_walk|hyperpage}{422}
-\indexentry{Operator!groebner\_walk|hyperpage}{422}
-\indexentry{groebopt|hyperpage}{423}
-\indexentry{Switch!groebopt|hyperpage}{423}
-\indexentry{gvarslast|hyperpage}{424}
-\indexentry{Variable!gvarslast|hyperpage}{424}
-\indexentry{groebprereduce|hyperpage}{425}
-\indexentry{Switch!groebprereduce|hyperpage}{425}
-\indexentry{groebfullreduction|hyperpage}{426}
-\indexentry{Switch!groebfullreduction|hyperpage}{426}
-\indexentry{gltbasis|hyperpage}{427}
-\indexentry{Switch!gltbasis|hyperpage}{427}
-\indexentry{gltb|hyperpage}{428}
-\indexentry{Variable!gltb|hyperpage}{428}
-\indexentry{glterms|hyperpage}{429}
-\indexentry{Variable!glterms|hyperpage}{429}
-\indexentry{groebstat|hyperpage}{430}
-\indexentry{Switch!groebstat|hyperpage}{430}
-\indexentry{trgroeb|hyperpage}{431}
-\indexentry{Switch!trgroeb|hyperpage}{431}
-\indexentry{trgroebs|hyperpage}{432}
-\indexentry{Switch!trgroebs|hyperpage}{432}
-\indexentry{gzerodim?|hyperpage}{433}
-\indexentry{Operator!gzerodim?|hyperpage}{433}
-\indexentry{gdimension|hyperpage}{434}
-\indexentry{Operator!gdimension|hyperpage}{434}
-\indexentry{ideal dimension|hyperpage}{434}
-\indexentry{groebner|hyperpage}{434}
-\indexentry{gindependent\_sets|hyperpage}{435}
-\indexentry{Operator!gindependent\_sets|hyperpage}{435}
-\indexentry{ideal variables|hyperpage}{435}
-\indexentry{ideal dimension|hyperpage}{435}
-\indexentry{groebner|hyperpage}{435}
-\indexentry{Kredel-Weispfenning algorithm|hyperpage}{435}
-\indexentry{dd_groebner|hyperpage}{436}
-\indexentry{Operator!dd_groebner|hyperpage}{436}
-\indexentry{glexconvert|hyperpage}{437}
-\indexentry{Operator!glexconvert|hyperpage}{437}
+\indexentry{graded term order|hyperpage}{420}
+\indexentry{Concept!graded term order|hyperpage}{420}
+\indexentry{term order|hyperpage}{420}
+\indexentry{matrix term order|hyperpage}{421}
+\indexentry{Concept!matrix term order|hyperpage}{421}
+\indexentry{term order|hyperpage}{421}
+\indexentry{gvars|hyperpage}{422}
+\indexentry{Operator!gvars|hyperpage}{422}
+\indexentry{groebner|hyperpage}{423}
+\indexentry{Operator!groebner|hyperpage}{423}
+\indexentry{Buchberger algorithm|hyperpage}{423}
+\indexentry{groebner\_walk|hyperpage}{424}
+\indexentry{Operator!groebner\_walk|hyperpage}{424}
+\indexentry{groebopt|hyperpage}{425}
+\indexentry{Switch!groebopt|hyperpage}{425}
+\indexentry{gvarslast|hyperpage}{426}
+\indexentry{Variable!gvarslast|hyperpage}{426}
+\indexentry{groebprereduce|hyperpage}{427}
+\indexentry{Switch!groebprereduce|hyperpage}{427}
+\indexentry{groebfullreduction|hyperpage}{428}
+\indexentry{Switch!groebfullreduction|hyperpage}{428}
+\indexentry{gltbasis|hyperpage}{429}
+\indexentry{Switch!gltbasis|hyperpage}{429}
+\indexentry{gltb|hyperpage}{430}
+\indexentry{Variable!gltb|hyperpage}{430}
+\indexentry{glterms|hyperpage}{431}
+\indexentry{Variable!glterms|hyperpage}{431}
+\indexentry{groebstat|hyperpage}{432}
+\indexentry{Switch!groebstat|hyperpage}{432}
+\indexentry{trgroeb|hyperpage}{433}
+\indexentry{Switch!trgroeb|hyperpage}{433}
+\indexentry{trgroebs|hyperpage}{434}
+\indexentry{Switch!trgroebs|hyperpage}{434}
+\indexentry{gzerodim?|hyperpage}{435}
+\indexentry{Operator!gzerodim?|hyperpage}{435}
+\indexentry{gdimension|hyperpage}{436}
+\indexentry{Operator!gdimension|hyperpage}{436}
+\indexentry{ideal dimension|hyperpage}{436}
+\indexentry{groebner|hyperpage}{436}
+\indexentry{gindependent\_sets|hyperpage}{437}
+\indexentry{Operator!gindependent\_sets|hyperpage}{437}
 \indexentry{ideal variables|hyperpage}{437}
-\indexentry{term order|hyperpage}{437}
-\indexentry{univariate polynomial|hyperpage}{437}
-\indexentry{greduce|hyperpage}{438}
-\indexentry{Operator!greduce|hyperpage}{438}
-\indexentry{preduce|hyperpage}{439}
-\indexentry{Operator!preduce|hyperpage}{439}
-\indexentry{idealquotient|hyperpage}{440}
-\indexentry{Operator!idealquotient|hyperpage}{440}
-\indexentry{hilbertpolynomial|hyperpage}{441}
-\indexentry{Operator!hilbertpolynomial|hyperpage}{441}
-\indexentry{Hollmann algorithm|hyperpage}{441}
-\indexentry{saturation|hyperpage}{442}
-\indexentry{Operator!saturation|hyperpage}{442}
-\indexentry{groebnerf|hyperpage}{443}
-\indexentry{Operator!groebnerf|hyperpage}{443}
-\indexentry{groebmonfac|hyperpage}{445}
-\indexentry{Variable!groebmonfac|hyperpage}{445}
-\indexentry{groebresmax|hyperpage}{446}
-\indexentry{Variable!groebresmax|hyperpage}{446}
-\indexentry{groebrestriction|hyperpage}{447}
-\indexentry{Variable!groebrestriction|hyperpage}{447}
-\indexentry{tracing Groebner|hyperpage}{447}
-\indexentry{groebprot|hyperpage}{448}
-\indexentry{Switch!groebprot|hyperpage}{448}
-\indexentry{groebprotfile|hyperpage}{449}
-\indexentry{Variable!groebprotfile|hyperpage}{449}
-\indexentry{groebnert|hyperpage}{450}
-\indexentry{Operator!groebnert|hyperpage}{450}
-\indexentry{preducet|hyperpage}{451}
-\indexentry{Operator!preducet|hyperpage}{451}
-\indexentry{Module|hyperpage}{452}
-\indexentry{Concept!Module|hyperpage}{452}
-\indexentry{gmodule|hyperpage}{453}
-\indexentry{Variable!gmodule|hyperpage}{453}
-\indexentry{gsort|hyperpage}{454}
-\indexentry{Operator!gsort|hyperpage}{454}
-\indexentry{distributive polynomials|hyperpage}{454}
-\indexentry{gsplit|hyperpage}{455}
-\indexentry{Operator!gsplit|hyperpage}{455}
-\indexentry{distributive polynomials|hyperpage}{455}
-\indexentry{gspoly|hyperpage}{456}
-\indexentry{Operator!gspoly|hyperpage}{456}
+\indexentry{ideal dimension|hyperpage}{437}
+\indexentry{groebner|hyperpage}{437}
+\indexentry{Kredel-Weispfenning algorithm|hyperpage}{437}
+\indexentry{dd_groebner|hyperpage}{438}
+\indexentry{Operator!dd_groebner|hyperpage}{438}
+\indexentry{glexconvert|hyperpage}{439}
+\indexentry{Operator!glexconvert|hyperpage}{439}
+\indexentry{ideal variables|hyperpage}{439}
+\indexentry{term order|hyperpage}{439}
+\indexentry{univariate polynomial|hyperpage}{439}
+\indexentry{greduce|hyperpage}{440}
+\indexentry{Operator!greduce|hyperpage}{440}
+\indexentry{preduce|hyperpage}{441}
+\indexentry{Operator!preduce|hyperpage}{441}
+\indexentry{idealquotient|hyperpage}{442}
+\indexentry{Operator!idealquotient|hyperpage}{442}
+\indexentry{hilbertpolynomial|hyperpage}{443}
+\indexentry{Operator!hilbertpolynomial|hyperpage}{443}
+\indexentry{Hollmann algorithm|hyperpage}{443}
+\indexentry{saturation|hyperpage}{444}
+\indexentry{Operator!saturation|hyperpage}{444}
+\indexentry{groebnerf|hyperpage}{445}
+\indexentry{Operator!groebnerf|hyperpage}{445}
+\indexentry{groebmonfac|hyperpage}{447}
+\indexentry{Variable!groebmonfac|hyperpage}{447}
+\indexentry{groebresmax|hyperpage}{448}
+\indexentry{Variable!groebresmax|hyperpage}{448}
+\indexentry{groebrestriction|hyperpage}{449}
+\indexentry{Variable!groebrestriction|hyperpage}{449}
+\indexentry{tracing Groebner|hyperpage}{449}
+\indexentry{groebprot|hyperpage}{450}
+\indexentry{Switch!groebprot|hyperpage}{450}
+\indexentry{groebprotfile|hyperpage}{451}
+\indexentry{Variable!groebprotfile|hyperpage}{451}
+\indexentry{groebnert|hyperpage}{452}
+\indexentry{Operator!groebnert|hyperpage}{452}
+\indexentry{preducet|hyperpage}{453}
+\indexentry{Operator!preducet|hyperpage}{453}
+\indexentry{Module|hyperpage}{454}
+\indexentry{Concept!Module|hyperpage}{454}
+\indexentry{gmodule|hyperpage}{455}
+\indexentry{Variable!gmodule|hyperpage}{455}
+\indexentry{gsort|hyperpage}{456}
+\indexentry{Operator!gsort|hyperpage}{456}
 \indexentry{distributive polynomials|hyperpage}{456}
-\indexentry{HEPHYS|hyperpage}{457}
-\indexentry{Introduction!HEPHYS|hyperpage}{457}
-\indexentry{.|hyperpage}{458}
-\indexentry{Operator!.|hyperpage}{458}
-\indexentry{EPS|hyperpage}{459}
-\indexentry{Operator!EPS|hyperpage}{459}
-\indexentry{G|hyperpage}{460}
-\indexentry{Operator!G|hyperpage}{460}
-\indexentry{INDEX|hyperpage}{462}
-\indexentry{Declaration!INDEX|hyperpage}{462}
-\indexentry{MASS|hyperpage}{463}
-\indexentry{Command!MASS|hyperpage}{463}
-\indexentry{MSHELL|hyperpage}{464}
-\indexentry{Command!MSHELL|hyperpage}{464}
-\indexentry{NOSPUR|hyperpage}{465}
-\indexentry{Declaration!NOSPUR|hyperpage}{465}
-\indexentry{REMIND|hyperpage}{466}
-\indexentry{Declaration!REMIND|hyperpage}{466}
-\indexentry{SPUR|hyperpage}{467}
-\indexentry{Declaration!SPUR|hyperpage}{467}
-\indexentry{VECDIM|hyperpage}{468}
-\indexentry{Command!VECDIM|hyperpage}{468}
-\indexentry{VECTOR|hyperpage}{469}
-\indexentry{Declaration!VECTOR|hyperpage}{469}
-\indexentry{Numeric Package|hyperpage}{471}
-\indexentry{Introduction!Numeric Package|hyperpage}{471}
-\indexentry{Interval|hyperpage}{472}
-\indexentry{Type!Interval|hyperpage}{472}
-\indexentry{numeric accuracy|hyperpage}{473}
-\indexentry{Concept!numeric accuracy|hyperpage}{473}
-\indexentry{TRNUMERIC|hyperpage}{474}
-\indexentry{Switch!TRNUMERIC|hyperpage}{474}
-\indexentry{num_min|hyperpage}{475}
-\indexentry{Operator!num_min|hyperpage}{475}
-\indexentry{minimum|hyperpage}{475}
-\indexentry{steepest descent|hyperpage}{475}
-\indexentry{Fletcher Reeves|hyperpage}{475}
-\indexentry{num_solve|hyperpage}{476}
-\indexentry{Operator!num_solve|hyperpage}{476}
-\indexentry{equation solving|hyperpage}{476}
-\indexentry{equation system|hyperpage}{476}
-\indexentry{Newton iteration|hyperpage}{476}
-\indexentry{root|hyperpage}{476}
-\indexentry{Jacobian matrix|hyperpage}{476}
-\indexentry{num_int|hyperpage}{477}
-\indexentry{Operator!num_int|hyperpage}{477}
-\indexentry{integration|hyperpage}{477}
-\indexentry{num_odesolve|hyperpage}{478}
-\indexentry{Operator!num_odesolve|hyperpage}{478}
-\indexentry{Runge-Kutta|hyperpage}{478}
-\indexentry{initial value problem|hyperpage}{478}
-\indexentry{ODE|hyperpage}{478}
-\indexentry{bounds|hyperpage}{479}
-\indexentry{Operator!bounds|hyperpage}{479}
-\indexentry{Chebyshev fit|hyperpage}{480}
-\indexentry{Concept!Chebyshev fit|hyperpage}{480}
-\indexentry{approximation|hyperpage}{480}
-\indexentry{num_fit|hyperpage}{482}
-\indexentry{Operator!num_fit|hyperpage}{482}
-\indexentry{approximation|hyperpage}{482}
-\indexentry{least squares|hyperpage}{482}
-\indexentry{Roots Package|hyperpage}{483}
-\indexentry{Introduction!Roots Package|hyperpage}{483}
-\indexentry{roots|hyperpage}{483}
-\indexentry{polynomial|hyperpage}{483}
-\indexentry{isolater|hyperpage}{483}
-\indexentry{rlrootno|hyperpage}{483}
-\indexentry{rootsat-prec|hyperpage}{483}
-\indexentry{rootval|hyperpage}{483}
-\indexentry{firstroot|hyperpage}{483}
-\indexentry{getroot|hyperpage}{483}
-\indexentry{MKPOLY|hyperpage}{484}
-\indexentry{Operator!MKPOLY|hyperpage}{484}
-\indexentry{polynomial|hyperpage}{484}
-\indexentry{roots|hyperpage}{484}
-\indexentry{interpolation|hyperpage}{484}
-\indexentry{NEARESTROOT|hyperpage}{485}
-\indexentry{Operator!NEARESTROOT|hyperpage}{485}
-\indexentry{roots|hyperpage}{485}
-\indexentry{solve|hyperpage}{485}
-\indexentry{REALROOTS|hyperpage}{486}
-\indexentry{Operator!REALROOTS|hyperpage}{486}
+\indexentry{gsplit|hyperpage}{457}
+\indexentry{Operator!gsplit|hyperpage}{457}
+\indexentry{distributive polynomials|hyperpage}{457}
+\indexentry{gspoly|hyperpage}{458}
+\indexentry{Operator!gspoly|hyperpage}{458}
+\indexentry{distributive polynomials|hyperpage}{458}
+\indexentry{HEPHYS|hyperpage}{459}
+\indexentry{Introduction!HEPHYS|hyperpage}{459}
+\indexentry{.|hyperpage}{460}
+\indexentry{Operator!.|hyperpage}{460}
+\indexentry{EPS|hyperpage}{461}
+\indexentry{Operator!EPS|hyperpage}{461}
+\indexentry{G|hyperpage}{462}
+\indexentry{Operator!G|hyperpage}{462}
+\indexentry{INDEX|hyperpage}{464}
+\indexentry{Declaration!INDEX|hyperpage}{464}
+\indexentry{MASS|hyperpage}{465}
+\indexentry{Command!MASS|hyperpage}{465}
+\indexentry{MSHELL|hyperpage}{466}
+\indexentry{Command!MSHELL|hyperpage}{466}
+\indexentry{NOSPUR|hyperpage}{467}
+\indexentry{Declaration!NOSPUR|hyperpage}{467}
+\indexentry{REMIND|hyperpage}{468}
+\indexentry{Declaration!REMIND|hyperpage}{468}
+\indexentry{SPUR|hyperpage}{469}
+\indexentry{Declaration!SPUR|hyperpage}{469}
+\indexentry{VECDIM|hyperpage}{470}
+\indexentry{Command!VECDIM|hyperpage}{470}
+\indexentry{VECTOR|hyperpage}{471}
+\indexentry{Declaration!VECTOR|hyperpage}{471}
+\indexentry{Numeric Package|hyperpage}{473}
+\indexentry{Introduction!Numeric Package|hyperpage}{473}
+\indexentry{Interval|hyperpage}{474}
+\indexentry{Type!Interval|hyperpage}{474}
+\indexentry{numeric accuracy|hyperpage}{475}
+\indexentry{Concept!numeric accuracy|hyperpage}{475}
+\indexentry{TRNUMERIC|hyperpage}{476}
+\indexentry{Switch!TRNUMERIC|hyperpage}{476}
+\indexentry{num_min|hyperpage}{477}
+\indexentry{Operator!num_min|hyperpage}{477}
+\indexentry{minimum|hyperpage}{477}
+\indexentry{steepest descent|hyperpage}{477}
+\indexentry{Fletcher Reeves|hyperpage}{477}
+\indexentry{num_solve|hyperpage}{478}
+\indexentry{Operator!num_solve|hyperpage}{478}
+\indexentry{equation solving|hyperpage}{478}
+\indexentry{equation system|hyperpage}{478}
+\indexentry{Newton iteration|hyperpage}{478}
+\indexentry{root|hyperpage}{478}
+\indexentry{Jacobian matrix|hyperpage}{478}
+\indexentry{num_int|hyperpage}{479}
+\indexentry{Operator!num_int|hyperpage}{479}
+\indexentry{integration|hyperpage}{479}
+\indexentry{num_odesolve|hyperpage}{480}
+\indexentry{Operator!num_odesolve|hyperpage}{480}
+\indexentry{Runge-Kutta|hyperpage}{480}
+\indexentry{initial value problem|hyperpage}{480}
+\indexentry{ODE|hyperpage}{480}
+\indexentry{bounds|hyperpage}{482}
+\indexentry{Operator!bounds|hyperpage}{482}
+\indexentry{Chebyshev fit|hyperpage}{483}
+\indexentry{Concept!Chebyshev fit|hyperpage}{483}
+\indexentry{approximation|hyperpage}{483}
+\indexentry{num_fit|hyperpage}{485}
+\indexentry{Operator!num_fit|hyperpage}{485}
+\indexentry{approximation|hyperpage}{485}
+\indexentry{least squares|hyperpage}{485}
+\indexentry{Roots Package|hyperpage}{486}
+\indexentry{Introduction!Roots Package|hyperpage}{486}
 \indexentry{roots|hyperpage}{486}
-\indexentry{solve|hyperpage}{486}
-\indexentry{ROOTACC|hyperpage}{487}
-\indexentry{Operator!ROOTACC|hyperpage}{487}
+\indexentry{polynomial|hyperpage}{486}
+\indexentry{isolater|hyperpage}{486}
+\indexentry{rlrootno|hyperpage}{486}
+\indexentry{rootsat-prec|hyperpage}{486}
+\indexentry{rootval|hyperpage}{486}
+\indexentry{firstroot|hyperpage}{486}
+\indexentry{getroot|hyperpage}{486}
+\indexentry{MKPOLY|hyperpage}{487}
+\indexentry{Operator!MKPOLY|hyperpage}{487}
+\indexentry{polynomial|hyperpage}{487}
 \indexentry{roots|hyperpage}{487}
-\indexentry{accuracy|hyperpage}{487}
-\indexentry{ROOTS|hyperpage}{488}
-\indexentry{Operator!ROOTS|hyperpage}{488}
+\indexentry{interpolation|hyperpage}{487}
+\indexentry{NEARESTROOT|hyperpage}{488}
+\indexentry{Operator!NEARESTROOT|hyperpage}{488}
 \indexentry{roots|hyperpage}{488}
 \indexentry{solve|hyperpage}{488}
-\indexentry{polynomial|hyperpage}{488}
-\indexentry{ROOT\_VAL|hyperpage}{489}
-\indexentry{Operator!ROOT\_VAL|hyperpage}{489}
+\indexentry{REALROOTS|hyperpage}{489}
+\indexentry{Operator!REALROOTS|hyperpage}{489}
 \indexentry{roots|hyperpage}{489}
 \indexentry{solve|hyperpage}{489}
-\indexentry{polynomial|hyperpage}{489}
-\indexentry{ROOTSCOMPLEX|hyperpage}{490}
-\indexentry{Variable!ROOTSCOMPLEX|hyperpage}{490}
+\indexentry{ROOTACC|hyperpage}{490}
+\indexentry{Operator!ROOTACC|hyperpage}{490}
 \indexentry{roots|hyperpage}{490}
-\indexentry{complex|hyperpage}{490}
-\indexentry{ROOTSREAL|hyperpage}{491}
-\indexentry{Variable!ROOTSREAL|hyperpage}{491}
+\indexentry{accuracy|hyperpage}{490}
+\indexentry{ROOTS|hyperpage}{491}
+\indexentry{Operator!ROOTS|hyperpage}{491}
 \indexentry{roots|hyperpage}{491}
-\indexentry{complex|hyperpage}{491}
-\indexentry{Special Function Package|hyperpage}{492}
-\indexentry{Introduction!Special Function Package|hyperpage}{492}
-\indexentry{Constants|hyperpage}{494}
-\indexentry{Concept!Constants|hyperpage}{494}
-\indexentry{Euler's constant|hyperpage}{494}
-\indexentry{Catalan's constant|hyperpage}{494}
-\indexentry{Khinchin's constant|hyperpage}{494}
-\indexentry{Golden_Ratio|hyperpage}{494}
-\indexentry{BERNOULLI|hyperpage}{495}
-\indexentry{Operator!BERNOULLI|hyperpage}{495}
-\indexentry{BERNOULLIP|hyperpage}{496}
-\indexentry{Operator!BERNOULLIP|hyperpage}{496}
-\indexentry{EULER|hyperpage}{497}
-\indexentry{Operator!EULER|hyperpage}{497}
-\indexentry{EULERP|hyperpage}{498}
-\indexentry{Operator!EULERP|hyperpage}{498}
-\indexentry{ZETA|hyperpage}{499}
-\indexentry{Operator!ZETA|hyperpage}{499}
-\indexentry{BESSELJ|hyperpage}{500}
-\indexentry{Operator!BESSELJ|hyperpage}{500}
-\indexentry{BESSELY|hyperpage}{501}
-\indexentry{Operator!BESSELY|hyperpage}{501}
-\indexentry{Weber's function|hyperpage}{501}
-\indexentry{HANKEL1|hyperpage}{502}
-\indexentry{Operator!HANKEL1|hyperpage}{502}
-\indexentry{HANKEL2|hyperpage}{503}
-\indexentry{Operator!HANKEL2|hyperpage}{503}
-\indexentry{BESSELI|hyperpage}{504}
-\indexentry{Operator!BESSELI|hyperpage}{504}
-\indexentry{BESSELK|hyperpage}{505}
-\indexentry{Operator!BESSELK|hyperpage}{505}
-\indexentry{StruveH|hyperpage}{506}
-\indexentry{Operator!StruveH|hyperpage}{506}
-\indexentry{StruveL|hyperpage}{507}
-\indexentry{Operator!StruveL|hyperpage}{507}
-\indexentry{KummerM|hyperpage}{508}
-\indexentry{Operator!KummerM|hyperpage}{508}
-\indexentry{Confluent Hypergeometric function|hyperpage}{508}
-\indexentry{KummerU|hyperpage}{509}
-\indexentry{Operator!KummerU|hyperpage}{509}
-\indexentry{Confluent Hypergeometric function|hyperpage}{509}
-\indexentry{WhittakerW|hyperpage}{510}
-\indexentry{Operator!WhittakerW|hyperpage}{510}
-\indexentry{Confluent Hypergeometric function|hyperpage}{510}
-\indexentry{Airy_Ai|hyperpage}{511}
-\indexentry{Operator!Airy_Ai|hyperpage}{511}
-\indexentry{Airy_Bi|hyperpage}{512}
-\indexentry{Operator!Airy_Bi|hyperpage}{512}
-\indexentry{Airy_Aiprime|hyperpage}{513}
-\indexentry{Operator!Airy_Aiprime|hyperpage}{513}
-\indexentry{Airy_Biprime|hyperpage}{514}
-\indexentry{Operator!Airy_Biprime|hyperpage}{514}
-\indexentry{JacobiSN|hyperpage}{515}
-\indexentry{Operator!JacobiSN|hyperpage}{515}
-\indexentry{JacobiCN|hyperpage}{516}
-\indexentry{Operator!JacobiCN|hyperpage}{516}
-\indexentry{JacobiDN|hyperpage}{517}
-\indexentry{Operator!JacobiDN|hyperpage}{517}
-\indexentry{JacobiCD|hyperpage}{518}
-\indexentry{Operator!JacobiCD|hyperpage}{518}
-\indexentry{JacobiSD|hyperpage}{519}
-\indexentry{Operator!JacobiSD|hyperpage}{519}
-\indexentry{JacobiND|hyperpage}{520}
-\indexentry{Operator!JacobiND|hyperpage}{520}
-\indexentry{JacobiDC|hyperpage}{521}
-\indexentry{Operator!JacobiDC|hyperpage}{521}
-\indexentry{JacobiNC|hyperpage}{522}
-\indexentry{Operator!JacobiNC|hyperpage}{522}
-\indexentry{JacobiSC|hyperpage}{523}
-\indexentry{Operator!JacobiSC|hyperpage}{523}
-\indexentry{JacobiNS|hyperpage}{524}
-\indexentry{Operator!JacobiNS|hyperpage}{524}
-\indexentry{JacobiDS|hyperpage}{525}
-\indexentry{Operator!JacobiDS|hyperpage}{525}
-\indexentry{JacobiCS|hyperpage}{526}
-\indexentry{Operator!JacobiCS|hyperpage}{526}
-\indexentry{JacobiAMPLITUDE|hyperpage}{527}
-\indexentry{Operator!JacobiAMPLITUDE|hyperpage}{527}
-\indexentry{AGM_FUNCTION|hyperpage}{528}
-\indexentry{Operator!AGM_FUNCTION|hyperpage}{528}
-\indexentry{LANDENTRANS|hyperpage}{529}
-\indexentry{Operator!LANDENTRANS|hyperpage}{529}
-\indexentry{EllipticF|hyperpage}{530}
-\indexentry{Operator!EllipticF|hyperpage}{530}
-\indexentry{EllipticK|hyperpage}{531}
-\indexentry{Operator!EllipticK|hyperpage}{531}
-\indexentry{EllipticKprime|hyperpage}{532}
-\indexentry{Operator!EllipticKprime|hyperpage}{532}
-\indexentry{EllipticE|hyperpage}{533}
-\indexentry{Operator!EllipticE|hyperpage}{533}
-\indexentry{EllipticTHETA|hyperpage}{534}
-\indexentry{Operator!EllipticTHETA|hyperpage}{534}
-\indexentry{JacobiZETA|hyperpage}{535}
-\indexentry{Operator!JacobiZETA|hyperpage}{535}
-\indexentry{POCHHAMMER|hyperpage}{536}
-\indexentry{Operator!POCHHAMMER|hyperpage}{536}
-\indexentry{GAMMA|hyperpage}{537}
-\indexentry{Operator!GAMMA|hyperpage}{537}
-\indexentry{BETA|hyperpage}{538}
-\indexentry{Operator!BETA|hyperpage}{538}
-\indexentry{PSI|hyperpage}{539}
-\indexentry{Operator!PSI|hyperpage}{539}
-\indexentry{Euler's constant|hyperpage}{539}
-\indexentry{POLYGAMMA|hyperpage}{540}
-\indexentry{Operator!POLYGAMMA|hyperpage}{540}
-\indexentry{DILOG extended|hyperpage}{541}
-\indexentry{Operator!DILOG extended|hyperpage}{541}
-\indexentry{Spence's Integral|hyperpage}{541}
-\indexentry{dilogarithm function|hyperpage}{541}
-\indexentry{Lambert\_W function|hyperpage}{542}
-\indexentry{Operator!Lambert\_W function|hyperpage}{542}
-\indexentry{ChebyshevT|hyperpage}{543}
-\indexentry{Operator!ChebyshevT|hyperpage}{543}
-\indexentry{ChebyshevU|hyperpage}{544}
-\indexentry{Operator!ChebyshevU|hyperpage}{544}
-\indexentry{HermiteP|hyperpage}{545}
-\indexentry{Operator!HermiteP|hyperpage}{545}
-\indexentry{LaguerreP|hyperpage}{546}
-\indexentry{Operator!LaguerreP|hyperpage}{546}
-\indexentry{LegendreP|hyperpage}{547}
-\indexentry{Operator!LegendreP|hyperpage}{547}
-\indexentry{JacobiP|hyperpage}{548}
-\indexentry{Operator!JacobiP|hyperpage}{548}
-\indexentry{GegenbauerP|hyperpage}{549}
-\indexentry{Operator!GegenbauerP|hyperpage}{549}
-\indexentry{ultraspherical polynomials|hyperpage}{549}
-\indexentry{SolidHarmonicY|hyperpage}{550}
-\indexentry{Operator!SolidHarmonicY|hyperpage}{550}
-\indexentry{Solid harmonic polynomials|hyperpage}{550}
-\indexentry{SphericalHarmonicY|hyperpage}{551}
-\indexentry{Operator!SphericalHarmonicY|hyperpage}{551}
-\indexentry{Spherical harmonic polynomials|hyperpage}{551}
-\indexentry{sine integral function|hyperpage}{551}
-\indexentry{Si|hyperpage}{552}
-\indexentry{Operator!Si|hyperpage}{552}
-\indexentry{Sine integral function|hyperpage}{552}
-\indexentry{integral function|hyperpage}{552}
-\indexentry{Shi|hyperpage}{553}
-\indexentry{Operator!Shi|hyperpage}{553}
-\indexentry{hyperbolic sine integral function|hyperpage}{553}
-\indexentry{integral function|hyperpage}{553}
-\indexentry{s_i|hyperpage}{554}
-\indexentry{Operator!s_i|hyperpage}{554}
+\indexentry{solve|hyperpage}{491}
+\indexentry{polynomial|hyperpage}{491}
+\indexentry{ROOT\_VAL|hyperpage}{492}
+\indexentry{Operator!ROOT\_VAL|hyperpage}{492}
+\indexentry{roots|hyperpage}{492}
+\indexentry{solve|hyperpage}{492}
+\indexentry{polynomial|hyperpage}{492}
+\indexentry{ROOTSCOMPLEX|hyperpage}{493}
+\indexentry{Variable!ROOTSCOMPLEX|hyperpage}{493}
+\indexentry{roots|hyperpage}{493}
+\indexentry{complex|hyperpage}{493}
+\indexentry{ROOTSREAL|hyperpage}{494}
+\indexentry{Variable!ROOTSREAL|hyperpage}{494}
+\indexentry{roots|hyperpage}{494}
+\indexentry{complex|hyperpage}{494}
+\indexentry{Special Function Package|hyperpage}{495}
+\indexentry{Introduction!Special Function Package|hyperpage}{495}
+\indexentry{Constants|hyperpage}{497}
+\indexentry{Concept!Constants|hyperpage}{497}
+\indexentry{Euler's constant|hyperpage}{497}
+\indexentry{Catalan's constant|hyperpage}{497}
+\indexentry{Khinchin's constant|hyperpage}{497}
+\indexentry{Golden_Ratio|hyperpage}{497}
+\indexentry{BERNOULLI|hyperpage}{498}
+\indexentry{Operator!BERNOULLI|hyperpage}{498}
+\indexentry{BERNOULLIP|hyperpage}{499}
+\indexentry{Operator!BERNOULLIP|hyperpage}{499}
+\indexentry{EULER|hyperpage}{500}
+\indexentry{Operator!EULER|hyperpage}{500}
+\indexentry{EULERP|hyperpage}{501}
+\indexentry{Operator!EULERP|hyperpage}{501}
+\indexentry{ZETA|hyperpage}{502}
+\indexentry{Operator!ZETA|hyperpage}{502}
+\indexentry{BESSELJ|hyperpage}{503}
+\indexentry{Operator!BESSELJ|hyperpage}{503}
+\indexentry{BESSELY|hyperpage}{504}
+\indexentry{Operator!BESSELY|hyperpage}{504}
+\indexentry{Weber's function|hyperpage}{504}
+\indexentry{HANKEL1|hyperpage}{505}
+\indexentry{Operator!HANKEL1|hyperpage}{505}
+\indexentry{HANKEL2|hyperpage}{506}
+\indexentry{Operator!HANKEL2|hyperpage}{506}
+\indexentry{BESSELI|hyperpage}{507}
+\indexentry{Operator!BESSELI|hyperpage}{507}
+\indexentry{BESSELK|hyperpage}{508}
+\indexentry{Operator!BESSELK|hyperpage}{508}
+\indexentry{StruveH|hyperpage}{509}
+\indexentry{Operator!StruveH|hyperpage}{509}
+\indexentry{StruveL|hyperpage}{510}
+\indexentry{Operator!StruveL|hyperpage}{510}
+\indexentry{KummerM|hyperpage}{511}
+\indexentry{Operator!KummerM|hyperpage}{511}
+\indexentry{Confluent Hypergeometric function|hyperpage}{511}
+\indexentry{KummerU|hyperpage}{512}
+\indexentry{Operator!KummerU|hyperpage}{512}
+\indexentry{Confluent Hypergeometric function|hyperpage}{512}
+\indexentry{WhittakerW|hyperpage}{513}
+\indexentry{Operator!WhittakerW|hyperpage}{513}
+\indexentry{Confluent Hypergeometric function|hyperpage}{513}
+\indexentry{Airy_Ai|hyperpage}{514}
+\indexentry{Operator!Airy_Ai|hyperpage}{514}
+\indexentry{Airy_Bi|hyperpage}{515}
+\indexentry{Operator!Airy_Bi|hyperpage}{515}
+\indexentry{Airy_Aiprime|hyperpage}{516}
+\indexentry{Operator!Airy_Aiprime|hyperpage}{516}
+\indexentry{Airy_Biprime|hyperpage}{517}
+\indexentry{Operator!Airy_Biprime|hyperpage}{517}
+\indexentry{JacobiSN|hyperpage}{518}
+\indexentry{Operator!JacobiSN|hyperpage}{518}
+\indexentry{JacobiCN|hyperpage}{519}
+\indexentry{Operator!JacobiCN|hyperpage}{519}
+\indexentry{JacobiDN|hyperpage}{520}
+\indexentry{Operator!JacobiDN|hyperpage}{520}
+\indexentry{JacobiCD|hyperpage}{521}
+\indexentry{Operator!JacobiCD|hyperpage}{521}
+\indexentry{JacobiSD|hyperpage}{522}
+\indexentry{Operator!JacobiSD|hyperpage}{522}
+\indexentry{JacobiND|hyperpage}{523}
+\indexentry{Operator!JacobiND|hyperpage}{523}
+\indexentry{JacobiDC|hyperpage}{524}
+\indexentry{Operator!JacobiDC|hyperpage}{524}
+\indexentry{JacobiNC|hyperpage}{525}
+\indexentry{Operator!JacobiNC|hyperpage}{525}
+\indexentry{JacobiSC|hyperpage}{526}
+\indexentry{Operator!JacobiSC|hyperpage}{526}
+\indexentry{JacobiNS|hyperpage}{527}
+\indexentry{Operator!JacobiNS|hyperpage}{527}
+\indexentry{JacobiDS|hyperpage}{528}
+\indexentry{Operator!JacobiDS|hyperpage}{528}
+\indexentry{JacobiCS|hyperpage}{529}
+\indexentry{Operator!JacobiCS|hyperpage}{529}
+\indexentry{JacobiAMPLITUDE|hyperpage}{530}
+\indexentry{Operator!JacobiAMPLITUDE|hyperpage}{530}
+\indexentry{AGM_FUNCTION|hyperpage}{531}
+\indexentry{Operator!AGM_FUNCTION|hyperpage}{531}
+\indexentry{LANDENTRANS|hyperpage}{532}
+\indexentry{Operator!LANDENTRANS|hyperpage}{532}
+\indexentry{EllipticF|hyperpage}{533}
+\indexentry{Operator!EllipticF|hyperpage}{533}
+\indexentry{EllipticK|hyperpage}{534}
+\indexentry{Operator!EllipticK|hyperpage}{534}
+\indexentry{EllipticKprime|hyperpage}{535}
+\indexentry{Operator!EllipticKprime|hyperpage}{535}
+\indexentry{EllipticE|hyperpage}{536}
+\indexentry{Operator!EllipticE|hyperpage}{536}
+\indexentry{EllipticTHETA|hyperpage}{537}
+\indexentry{Operator!EllipticTHETA|hyperpage}{537}
+\indexentry{JacobiZETA|hyperpage}{538}
+\indexentry{Operator!JacobiZETA|hyperpage}{538}
+\indexentry{POCHHAMMER|hyperpage}{539}
+\indexentry{Operator!POCHHAMMER|hyperpage}{539}
+\indexentry{GAMMA|hyperpage}{540}
+\indexentry{Operator!GAMMA|hyperpage}{540}
+\indexentry{BETA|hyperpage}{541}
+\indexentry{Operator!BETA|hyperpage}{541}
+\indexentry{PSI|hyperpage}{542}
+\indexentry{Operator!PSI|hyperpage}{542}
+\indexentry{Euler's constant|hyperpage}{542}
+\indexentry{POLYGAMMA|hyperpage}{543}
+\indexentry{Operator!POLYGAMMA|hyperpage}{543}
+\indexentry{DILOG extended|hyperpage}{544}
+\indexentry{Operator!DILOG extended|hyperpage}{544}
+\indexentry{Spence's Integral|hyperpage}{544}
+\indexentry{dilogarithm function|hyperpage}{544}
+\indexentry{Lambert\_W function|hyperpage}{545}
+\indexentry{Operator!Lambert\_W function|hyperpage}{545}
+\indexentry{ChebyshevT|hyperpage}{546}
+\indexentry{Operator!ChebyshevT|hyperpage}{546}
+\indexentry{ChebyshevU|hyperpage}{547}
+\indexentry{Operator!ChebyshevU|hyperpage}{547}
+\indexentry{HermiteP|hyperpage}{548}
+\indexentry{Operator!HermiteP|hyperpage}{548}
+\indexentry{LaguerreP|hyperpage}{549}
+\indexentry{Operator!LaguerreP|hyperpage}{549}
+\indexentry{LegendreP|hyperpage}{550}
+\indexentry{Operator!LegendreP|hyperpage}{550}
+\indexentry{JacobiP|hyperpage}{551}
+\indexentry{Operator!JacobiP|hyperpage}{551}
+\indexentry{GegenbauerP|hyperpage}{552}
+\indexentry{Operator!GegenbauerP|hyperpage}{552}
+\indexentry{ultraspherical polynomials|hyperpage}{552}
+\indexentry{SolidHarmonicY|hyperpage}{553}
+\indexentry{Operator!SolidHarmonicY|hyperpage}{553}
+\indexentry{Solid harmonic polynomials|hyperpage}{553}
+\indexentry{SphericalHarmonicY|hyperpage}{554}
+\indexentry{Operator!SphericalHarmonicY|hyperpage}{554}
+\indexentry{Spherical harmonic polynomials|hyperpage}{554}
 \indexentry{sine integral function|hyperpage}{554}
-\indexentry{integral function|hyperpage}{554}
-\indexentry{Ci|hyperpage}{555}
-\indexentry{Operator!Ci|hyperpage}{555}
-\indexentry{cosine integral function|hyperpage}{555}
-\indexentry{Chi|hyperpage}{556}
-\indexentry{Operator!Chi|hyperpage}{556}
-\indexentry{hyperbolic cosine integral function|hyperpage}{556}
+\indexentry{Si|hyperpage}{555}
+\indexentry{Operator!Si|hyperpage}{555}
+\indexentry{Sine integral function|hyperpage}{555}
+\indexentry{integral function|hyperpage}{555}
+\indexentry{Shi|hyperpage}{556}
+\indexentry{Operator!Shi|hyperpage}{556}
+\indexentry{hyperbolic sine integral function|hyperpage}{556}
 \indexentry{integral function|hyperpage}{556}
-\indexentry{ERF extended|hyperpage}{557}
-\indexentry{Operator!ERF extended|hyperpage}{557}
-\indexentry{error function|hyperpage}{557}
-\indexentry{error function|hyperpage}{557}
-\indexentry{erfc|hyperpage}{558}
-\indexentry{Operator!erfc|hyperpage}{558}
-\indexentry{error function|hyperpage}{558}
-\indexentry{complementary error function|hyperpage}{558}
-\indexentry{Ei|hyperpage}{559}
-\indexentry{Operator!Ei|hyperpage}{559}
-\indexentry{exponential integral function|hyperpage}{559}
-\indexentry{Fresnel_C|hyperpage}{560}
-\indexentry{Operator!Fresnel_C|hyperpage}{560}
-\indexentry{Fresnel_S|hyperpage}{561}
-\indexentry{Operator!Fresnel_S|hyperpage}{561}
-\indexentry{BINOMIAL|hyperpage}{562}
-\indexentry{Operator!BINOMIAL|hyperpage}{562}
-\indexentry{STIRLING1|hyperpage}{563}
-\indexentry{Operator!STIRLING1|hyperpage}{563}
-\indexentry{STIRLING2|hyperpage}{564}
-\indexentry{Operator!STIRLING2|hyperpage}{564}
-\indexentry{ThreejSymbol|hyperpage}{565}
-\indexentry{Operator!ThreejSymbol|hyperpage}{565}
-\indexentry{Clebsch_Gordan|hyperpage}{566}
-\indexentry{Operator!Clebsch_Gordan|hyperpage}{566}
-\indexentry{SixjSymbol|hyperpage}{567}
-\indexentry{Operator!SixjSymbol|hyperpage}{567}
-\indexentry{HYPERGEOMETRIC|hyperpage}{568}
-\indexentry{Operator!HYPERGEOMETRIC|hyperpage}{568}
-\indexentry{hypergeometric function|hyperpage}{568}
-\indexentry{generalized hypergeometric function|hyperpage}{568}
-\indexentry{MeijerG|hyperpage}{569}
-\indexentry{Operator!MeijerG|hyperpage}{569}
-\indexentry{Heaviside|hyperpage}{570}
-\indexentry{Operator!Heaviside|hyperpage}{570}
-\indexentry{erfi|hyperpage}{571}
-\indexentry{Operator!erfi|hyperpage}{571}
-\indexentry{TAYLOR|hyperpage}{572}
-\indexentry{Introduction!TAYLOR|hyperpage}{572}
-\indexentry{taylor|hyperpage}{573}
-\indexentry{Operator!taylor|hyperpage}{573}
-\indexentry{taylorautocombine|hyperpage}{575}
-\indexentry{Switch!taylorautocombine|hyperpage}{575}
-\indexentry{taylorautoexpand|hyperpage}{576}
-\indexentry{Switch!taylorautoexpand|hyperpage}{576}
-\indexentry{taylorcombine|hyperpage}{577}
-\indexentry{Operator!taylorcombine|hyperpage}{577}
-\indexentry{taylorkeeporiginal|hyperpage}{579}
-\indexentry{Switch!taylorkeeporiginal|hyperpage}{579}
-\indexentry{taylororiginal|hyperpage}{580}
-\indexentry{Operator!taylororiginal|hyperpage}{580}
-\indexentry{taylorprintorder|hyperpage}{581}
-\indexentry{Switch!taylorprintorder|hyperpage}{581}
-\indexentry{taylorprintterms|hyperpage}{582}
-\indexentry{Variable!taylorprintterms|hyperpage}{582}
-\indexentry{taylorrevert|hyperpage}{583}
-\indexentry{Operator!taylorrevert|hyperpage}{583}
-\indexentry{taylorseriesp|hyperpage}{584}
-\indexentry{Operator!taylorseriesp|hyperpage}{584}
-\indexentry{taylortemplate|hyperpage}{585}
-\indexentry{Operator!taylortemplate|hyperpage}{585}
-\indexentry{taylortostandard|hyperpage}{586}
-\indexentry{Operator!taylortostandard|hyperpage}{586}
-\indexentry{GNUPLOT and REDUCE|hyperpage}{587}
-\indexentry{Introduction!GNUPLOT and REDUCE|hyperpage}{587}
-\indexentry{Axes names|hyperpage}{588}
-\indexentry{Concept!Axes names|hyperpage}{588}
-\indexentry{Pointset|hyperpage}{589}
-\indexentry{Type!Pointset|hyperpage}{589}
-\indexentry{plot|hyperpage}{589}
-\indexentry{PLOT|hyperpage}{590}
-\indexentry{Command!PLOT|hyperpage}{590}
-\indexentry{graphics|hyperpage}{590}
-\indexentry{plot|hyperpage}{590}
-\indexentry{PLOTRESET|hyperpage}{592}
-\indexentry{Command!PLOTRESET|hyperpage}{592}
-\indexentry{title|hyperpage}{593}
-\indexentry{Variable!title|hyperpage}{593}
+\indexentry{s_i|hyperpage}{557}
+\indexentry{Operator!s_i|hyperpage}{557}
+\indexentry{sine integral function|hyperpage}{557}
+\indexentry{integral function|hyperpage}{557}
+\indexentry{Ci|hyperpage}{558}
+\indexentry{Operator!Ci|hyperpage}{558}
+\indexentry{cosine integral function|hyperpage}{558}
+\indexentry{Chi|hyperpage}{559}
+\indexentry{Operator!Chi|hyperpage}{559}
+\indexentry{hyperbolic cosine integral function|hyperpage}{559}
+\indexentry{integral function|hyperpage}{559}
+\indexentry{ERF extended|hyperpage}{560}
+\indexentry{Operator!ERF extended|hyperpage}{560}
+\indexentry{error function|hyperpage}{560}
+\indexentry{error function|hyperpage}{560}
+\indexentry{erfc|hyperpage}{561}
+\indexentry{Operator!erfc|hyperpage}{561}
+\indexentry{error function|hyperpage}{561}
+\indexentry{complementary error function|hyperpage}{561}
+\indexentry{Ei|hyperpage}{562}
+\indexentry{Operator!Ei|hyperpage}{562}
+\indexentry{exponential integral function|hyperpage}{562}
+\indexentry{Fresnel_C|hyperpage}{563}
+\indexentry{Operator!Fresnel_C|hyperpage}{563}
+\indexentry{Fresnel_S|hyperpage}{564}
+\indexentry{Operator!Fresnel_S|hyperpage}{564}
+\indexentry{BINOMIAL|hyperpage}{565}
+\indexentry{Operator!BINOMIAL|hyperpage}{565}
+\indexentry{STIRLING1|hyperpage}{566}
+\indexentry{Operator!STIRLING1|hyperpage}{566}
+\indexentry{STIRLING2|hyperpage}{567}
+\indexentry{Operator!STIRLING2|hyperpage}{567}
+\indexentry{ThreejSymbol|hyperpage}{568}
+\indexentry{Operator!ThreejSymbol|hyperpage}{568}
+\indexentry{Clebsch_Gordan|hyperpage}{569}
+\indexentry{Operator!Clebsch_Gordan|hyperpage}{569}
+\indexentry{SixjSymbol|hyperpage}{570}
+\indexentry{Operator!SixjSymbol|hyperpage}{570}
+\indexentry{HYPERGEOMETRIC|hyperpage}{571}
+\indexentry{Operator!HYPERGEOMETRIC|hyperpage}{571}
+\indexentry{hypergeometric function|hyperpage}{571}
+\indexentry{generalized hypergeometric function|hyperpage}{571}
+\indexentry{MeijerG|hyperpage}{572}
+\indexentry{Operator!MeijerG|hyperpage}{572}
+\indexentry{Heaviside|hyperpage}{573}
+\indexentry{Operator!Heaviside|hyperpage}{573}
+\indexentry{erfi|hyperpage}{574}
+\indexentry{Operator!erfi|hyperpage}{574}
+\indexentry{TAYLOR|hyperpage}{575}
+\indexentry{Introduction!TAYLOR|hyperpage}{575}
+\indexentry{taylor|hyperpage}{576}
+\indexentry{Operator!taylor|hyperpage}{576}
+\indexentry{taylorautocombine|hyperpage}{578}
+\indexentry{Switch!taylorautocombine|hyperpage}{578}
+\indexentry{taylorautoexpand|hyperpage}{579}
+\indexentry{Switch!taylorautoexpand|hyperpage}{579}
+\indexentry{taylorcombine|hyperpage}{580}
+\indexentry{Operator!taylorcombine|hyperpage}{580}
+\indexentry{taylorkeeporiginal|hyperpage}{582}
+\indexentry{Switch!taylorkeeporiginal|hyperpage}{582}
+\indexentry{taylororiginal|hyperpage}{583}
+\indexentry{Operator!taylororiginal|hyperpage}{583}
+\indexentry{taylorprintorder|hyperpage}{584}
+\indexentry{Switch!taylorprintorder|hyperpage}{584}
+\indexentry{taylorprintterms|hyperpage}{585}
+\indexentry{Variable!taylorprintterms|hyperpage}{585}
+\indexentry{taylorrevert|hyperpage}{586}
+\indexentry{Operator!taylorrevert|hyperpage}{586}
+\indexentry{taylorseriesp|hyperpage}{587}
+\indexentry{Operator!taylorseriesp|hyperpage}{587}
+\indexentry{taylortemplate|hyperpage}{588}
+\indexentry{Operator!taylortemplate|hyperpage}{588}
+\indexentry{taylortostandard|hyperpage}{589}
+\indexentry{Operator!taylortostandard|hyperpage}{589}
+\indexentry{GNUPLOT and REDUCE|hyperpage}{590}
+\indexentry{Introduction!GNUPLOT and REDUCE|hyperpage}{590}
+\indexentry{Axes names|hyperpage}{591}
+\indexentry{Concept!Axes names|hyperpage}{591}
+\indexentry{Pointset|hyperpage}{592}
+\indexentry{Type!Pointset|hyperpage}{592}
+\indexentry{plot|hyperpage}{592}
+\indexentry{PLOT|hyperpage}{593}
+\indexentry{Command!PLOT|hyperpage}{593}
+\indexentry{graphics|hyperpage}{593}
 \indexentry{plot|hyperpage}{593}
-\indexentry{xlabel|hyperpage}{594}
-\indexentry{Variable!xlabel|hyperpage}{594}
-\indexentry{plot|hyperpage}{594}
-\indexentry{ylabel|hyperpage}{595}
-\indexentry{Variable!ylabel|hyperpage}{595}
-\indexentry{plot|hyperpage}{595}
-\indexentry{zlabel|hyperpage}{596}
-\indexentry{Variable!zlabel|hyperpage}{596}
+\indexentry{PLOTRESET|hyperpage}{595}
+\indexentry{Command!PLOTRESET|hyperpage}{595}
+\indexentry{title|hyperpage}{596}
+\indexentry{Variable!title|hyperpage}{596}
 \indexentry{plot|hyperpage}{596}
-\indexentry{terminal|hyperpage}{597}
-\indexentry{Variable!terminal|hyperpage}{597}
+\indexentry{xlabel|hyperpage}{597}
+\indexentry{Variable!xlabel|hyperpage}{597}
 \indexentry{plot|hyperpage}{597}
-\indexentry{size|hyperpage}{598}
-\indexentry{Variable!size|hyperpage}{598}
+\indexentry{ylabel|hyperpage}{598}
+\indexentry{Variable!ylabel|hyperpage}{598}
 \indexentry{plot|hyperpage}{598}
-\indexentry{view|hyperpage}{599}
-\indexentry{Variable!view|hyperpage}{599}
+\indexentry{zlabel|hyperpage}{599}
+\indexentry{Variable!zlabel|hyperpage}{599}
 \indexentry{plot|hyperpage}{599}
-\indexentry{contour|hyperpage}{600}
-\indexentry{Switch!contour|hyperpage}{600}
+\indexentry{terminal|hyperpage}{600}
+\indexentry{Variable!terminal|hyperpage}{600}
 \indexentry{plot|hyperpage}{600}
-\indexentry{surface|hyperpage}{601}
-\indexentry{Switch!surface|hyperpage}{601}
+\indexentry{size|hyperpage}{601}
+\indexentry{Variable!size|hyperpage}{601}
 \indexentry{plot|hyperpage}{601}
-\indexentry{hidden3d|hyperpage}{602}
-\indexentry{Switch!hidden3d|hyperpage}{602}
+\indexentry{view|hyperpage}{602}
+\indexentry{Variable!view|hyperpage}{602}
 \indexentry{plot|hyperpage}{602}
-\indexentry{PLOTKEEP|hyperpage}{603}
-\indexentry{Switch!PLOTKEEP|hyperpage}{603}
+\indexentry{contour|hyperpage}{603}
+\indexentry{Switch!contour|hyperpage}{603}
 \indexentry{plot|hyperpage}{603}
-\indexentry{PLOTREFINE|hyperpage}{604}
-\indexentry{Switch!PLOTREFINE|hyperpage}{604}
+\indexentry{surface|hyperpage}{604}
+\indexentry{Switch!surface|hyperpage}{604}
 \indexentry{plot|hyperpage}{604}
-\indexentry{plot_xmesh|hyperpage}{605}
-\indexentry{Variable!plot_xmesh|hyperpage}{605}
+\indexentry{hidden3d|hyperpage}{605}
+\indexentry{Switch!hidden3d|hyperpage}{605}
 \indexentry{plot|hyperpage}{605}
-\indexentry{plot_ymesh|hyperpage}{606}
-\indexentry{Variable!plot_ymesh|hyperpage}{606}
+\indexentry{PLOTKEEP|hyperpage}{606}
+\indexentry{Switch!PLOTKEEP|hyperpage}{606}
 \indexentry{plot|hyperpage}{606}
-\indexentry{SHOW_GRID|hyperpage}{607}
-\indexentry{Switch!SHOW_GRID|hyperpage}{607}
+\indexentry{PLOTREFINE|hyperpage}{607}
+\indexentry{Switch!PLOTREFINE|hyperpage}{607}
 \indexentry{plot|hyperpage}{607}
-\indexentry{TRPLOT|hyperpage}{608}
-\indexentry{Switch!TRPLOT|hyperpage}{608}
+\indexentry{plot_xmesh|hyperpage}{608}
+\indexentry{Variable!plot_xmesh|hyperpage}{608}
 \indexentry{plot|hyperpage}{608}
-\indexentry{Linear Algebra package|hyperpage}{609}
-\indexentry{Introduction!Linear Algebra package|hyperpage}{609}
-\indexentry{fast_la|hyperpage}{611}
-\indexentry{Switch!fast_la|hyperpage}{611}
-\indexentry{add_columns|hyperpage}{612}
-\indexentry{Operator!add_columns|hyperpage}{612}
-\indexentry{add_rows|hyperpage}{613}
-\indexentry{Operator!add_rows|hyperpage}{613}
-\indexentry{add_to_columns|hyperpage}{614}
-\indexentry{Operator!add_to_columns|hyperpage}{614}
-\indexentry{add_to_rows|hyperpage}{615}
-\indexentry{Operator!add_to_rows|hyperpage}{615}
-\indexentry{augment_columns|hyperpage}{616}
-\indexentry{Operator!augment_columns|hyperpage}{616}
-\indexentry{band_matrix|hyperpage}{617}
-\indexentry{Operator!band_matrix|hyperpage}{617}
-\indexentry{block_matrix|hyperpage}{618}
-\indexentry{Operator!block_matrix|hyperpage}{618}
-\indexentry{char_matrix|hyperpage}{619}
-\indexentry{Operator!char_matrix|hyperpage}{619}
-\indexentry{char_poly|hyperpage}{620}
-\indexentry{Operator!char_poly|hyperpage}{620}
-\indexentry{cholesky|hyperpage}{621}
-\indexentry{Operator!cholesky|hyperpage}{621}
-\indexentry{coeff_matrix|hyperpage}{622}
-\indexentry{Operator!coeff_matrix|hyperpage}{622}
-\indexentry{column_dim|hyperpage}{623}
-\indexentry{Operator!column_dim|hyperpage}{623}
-\indexentry{companion|hyperpage}{624}
-\indexentry{Operator!companion|hyperpage}{624}
-\indexentry{copy_into|hyperpage}{625}
-\indexentry{Operator!copy_into|hyperpage}{625}
-\indexentry{diagonal|hyperpage}{626}
-\indexentry{Operator!diagonal|hyperpage}{626}
-\indexentry{extend|hyperpage}{627}
-\indexentry{Operator!extend|hyperpage}{627}
-\indexentry{find_companion|hyperpage}{628}
-\indexentry{Operator!find_companion|hyperpage}{628}
-\indexentry{get_columns|hyperpage}{629}
-\indexentry{Operator!get_columns|hyperpage}{629}
-\indexentry{get_rows|hyperpage}{630}
-\indexentry{Operator!get_rows|hyperpage}{630}
-\indexentry{gram_schmidt|hyperpage}{631}
-\indexentry{Operator!gram_schmidt|hyperpage}{631}
-\indexentry{hermitian_tp|hyperpage}{632}
-\indexentry{Operator!hermitian_tp|hyperpage}{632}
-\indexentry{hessian|hyperpage}{633}
-\indexentry{Operator!hessian|hyperpage}{633}
-\indexentry{hilbert|hyperpage}{634}
-\indexentry{Operator!hilbert|hyperpage}{634}
-\indexentry{jacobian|hyperpage}{635}
-\indexentry{Operator!jacobian|hyperpage}{635}
-\indexentry{jordan_block|hyperpage}{636}
-\indexentry{Operator!jordan_block|hyperpage}{636}
-\indexentry{lu_decom|hyperpage}{637}
-\indexentry{Operator!lu_decom|hyperpage}{637}
-\indexentry{make_identity|hyperpage}{640}
-\indexentry{Operator!make_identity|hyperpage}{640}
-\indexentry{matrix_augment|hyperpage}{641}
-\indexentry{Operator!matrix_augment|hyperpage}{641}
-\indexentry{matrixp|hyperpage}{642}
-\indexentry{Operator!matrixp|hyperpage}{642}
-\indexentry{matrix_stack|hyperpage}{643}
-\indexentry{Operator!matrix_stack|hyperpage}{643}
-\indexentry{minor|hyperpage}{644}
-\indexentry{Operator!minor|hyperpage}{644}
-\indexentry{mult_columns|hyperpage}{645}
-\indexentry{Operator!mult_columns|hyperpage}{645}
-\indexentry{mult_rows|hyperpage}{646}
-\indexentry{Operator!mult_rows|hyperpage}{646}
-\indexentry{pivot|hyperpage}{647}
-\indexentry{Operator!pivot|hyperpage}{647}
-\indexentry{pseudo_inverse|hyperpage}{648}
-\indexentry{Operator!pseudo_inverse|hyperpage}{648}
-\indexentry{random_matrix|hyperpage}{649}
-\indexentry{Operator!random_matrix|hyperpage}{649}
-\indexentry{remove_columns|hyperpage}{651}
-\indexentry{Operator!remove_columns|hyperpage}{651}
-\indexentry{remove_rows|hyperpage}{652}
-\indexentry{Operator!remove_rows|hyperpage}{652}
-\indexentry{row_dim|hyperpage}{653}
-\indexentry{Operator!row_dim|hyperpage}{653}
-\indexentry{rows_pivot|hyperpage}{654}
-\indexentry{Operator!rows_pivot|hyperpage}{654}
-\indexentry{simplex|hyperpage}{655}
-\indexentry{Operator!simplex|hyperpage}{655}
-\indexentry{squarep|hyperpage}{656}
-\indexentry{Operator!squarep|hyperpage}{656}
-\indexentry{stack_rows|hyperpage}{657}
-\indexentry{Operator!stack_rows|hyperpage}{657}
-\indexentry{sub_matrix|hyperpage}{658}
-\indexentry{Operator!sub_matrix|hyperpage}{658}
-\indexentry{svd|hyperpage}{659}
-\indexentry{Operator!svd|hyperpage}{659}
-\indexentry{singular value decomposition|hyperpage}{659}
-\indexentry{swap_columns|hyperpage}{661}
-\indexentry{Operator!swap_columns|hyperpage}{661}
-\indexentry{swap_entries|hyperpage}{662}
-\indexentry{Operator!swap_entries|hyperpage}{662}
-\indexentry{swap_rows|hyperpage}{663}
-\indexentry{Operator!swap_rows|hyperpage}{663}
-\indexentry{symmetricp|hyperpage}{664}
-\indexentry{Operator!symmetricp|hyperpage}{664}
-\indexentry{toeplitz|hyperpage}{665}
-\indexentry{Operator!toeplitz|hyperpage}{665}
-\indexentry{vandermonde|hyperpage}{666}
-\indexentry{Operator!vandermonde|hyperpage}{666}
-\indexentry{Smithex|hyperpage}{667}
-\indexentry{Operator!Smithex|hyperpage}{667}
-\indexentry{Smithex\_int|hyperpage}{668}
-\indexentry{Operator!Smithex\_int|hyperpage}{668}
-\indexentry{Frobenius|hyperpage}{669}
-\indexentry{Operator!Frobenius|hyperpage}{669}
-\indexentry{Ratjordan|hyperpage}{671}
-\indexentry{Operator!Ratjordan|hyperpage}{671}
-\indexentry{Jordansymbolic|hyperpage}{673}
-\indexentry{Operator!Jordansymbolic|hyperpage}{673}
-\indexentry{Jordan|hyperpage}{675}
-\indexentry{Operator!Jordan|hyperpage}{675}
-\indexentry{Miscellaneous Packages|hyperpage}{677}
-\indexentry{Introduction!Miscellaneous Packages|hyperpage}{677}
-\indexentry{ALGINT|hyperpage}{678}
-\indexentry{Package!ALGINT|hyperpage}{678}
-\indexentry{integration|hyperpage}{678}
-\indexentry{integration of square roots|hyperpage}{678}
-\indexentry{APPLYSYM|hyperpage}{679}
-\indexentry{Package!APPLYSYM|hyperpage}{679}
-\indexentry{differential equations|hyperpage}{679}
-\indexentry{symmetries|hyperpage}{679}
-\indexentry{ARNUM|hyperpage}{680}
-\indexentry{Package!ARNUM|hyperpage}{680}
-\indexentry{algebraic numbers|hyperpage}{680}
-\indexentry{ASSIST|hyperpage}{681}
-\indexentry{Package!ASSIST|hyperpage}{681}
-\indexentry{utilities|hyperpage}{681}
-\indexentry{AVECTOR|hyperpage}{682}
-\indexentry{Package!AVECTOR|hyperpage}{682}
-\indexentry{vector algebra|hyperpage}{682}
-\indexentry{cross product|hyperpage}{682}
-\indexentry{dot product|hyperpage}{682}
-\indexentry{BOOLEAN|hyperpage}{683}
-\indexentry{Package!BOOLEAN|hyperpage}{683}
-\indexentry{boolean expressions|hyperpage}{683}
-\indexentry{CALI|hyperpage}{684}
-\indexentry{Package!CALI|hyperpage}{684}
-\indexentry{polynomial|hyperpage}{684}
-\indexentry{Groebner|hyperpage}{684}
-\indexentry{commutative algebra|hyperpage}{684}
-\indexentry{CAMAL|hyperpage}{685}
-\indexentry{Package!CAMAL|hyperpage}{685}
-\indexentry{celestial mechanics|hyperpage}{685}
-\indexentry{Fourier series|hyperpage}{685}
-\indexentry{CHANGEVR|hyperpage}{686}
-\indexentry{Package!CHANGEVR|hyperpage}{686}
-\indexentry{COMPACT|hyperpage}{687}
-\indexentry{Package!COMPACT|hyperpage}{687}
-\indexentry{simplification|hyperpage}{687}
-\indexentry{CRACK|hyperpage}{688}
-\indexentry{Package!CRACK|hyperpage}{688}
-\indexentry{differential equation|hyperpage}{688}
-\indexentry{CVIT|hyperpage}{689}
-\indexentry{Package!CVIT|hyperpage}{689}
-\indexentry{Dirac algebra|hyperpage}{689}
-\indexentry{DEFINT|hyperpage}{690}
-\indexentry{Package!DEFINT|hyperpage}{690}
-\indexentry{definite integration|hyperpage}{690}
-\indexentry{DESIR|hyperpage}{691}
-\indexentry{Package!DESIR|hyperpage}{691}
+\indexentry{plot_ymesh|hyperpage}{609}
+\indexentry{Variable!plot_ymesh|hyperpage}{609}
+\indexentry{plot|hyperpage}{609}
+\indexentry{SHOW_GRID|hyperpage}{610}
+\indexentry{Switch!SHOW_GRID|hyperpage}{610}
+\indexentry{plot|hyperpage}{610}
+\indexentry{TRPLOT|hyperpage}{611}
+\indexentry{Switch!TRPLOT|hyperpage}{611}
+\indexentry{plot|hyperpage}{611}
+\indexentry{Linear Algebra package|hyperpage}{612}
+\indexentry{Introduction!Linear Algebra package|hyperpage}{612}
+\indexentry{fast_la|hyperpage}{614}
+\indexentry{Switch!fast_la|hyperpage}{614}
+\indexentry{add_columns|hyperpage}{615}
+\indexentry{Operator!add_columns|hyperpage}{615}
+\indexentry{add_rows|hyperpage}{616}
+\indexentry{Operator!add_rows|hyperpage}{616}
+\indexentry{add_to_columns|hyperpage}{617}
+\indexentry{Operator!add_to_columns|hyperpage}{617}
+\indexentry{add_to_rows|hyperpage}{618}
+\indexentry{Operator!add_to_rows|hyperpage}{618}
+\indexentry{augment_columns|hyperpage}{619}
+\indexentry{Operator!augment_columns|hyperpage}{619}
+\indexentry{band_matrix|hyperpage}{620}
+\indexentry{Operator!band_matrix|hyperpage}{620}
+\indexentry{block_matrix|hyperpage}{621}
+\indexentry{Operator!block_matrix|hyperpage}{621}
+\indexentry{char_matrix|hyperpage}{622}
+\indexentry{Operator!char_matrix|hyperpage}{622}
+\indexentry{char_poly|hyperpage}{623}
+\indexentry{Operator!char_poly|hyperpage}{623}
+\indexentry{cholesky|hyperpage}{624}
+\indexentry{Operator!cholesky|hyperpage}{624}
+\indexentry{coeff_matrix|hyperpage}{625}
+\indexentry{Operator!coeff_matrix|hyperpage}{625}
+\indexentry{column_dim|hyperpage}{626}
+\indexentry{Operator!column_dim|hyperpage}{626}
+\indexentry{companion|hyperpage}{627}
+\indexentry{Operator!companion|hyperpage}{627}
+\indexentry{copy_into|hyperpage}{628}
+\indexentry{Operator!copy_into|hyperpage}{628}
+\indexentry{diagonal|hyperpage}{629}
+\indexentry{Operator!diagonal|hyperpage}{629}
+\indexentry{extend|hyperpage}{630}
+\indexentry{Operator!extend|hyperpage}{630}
+\indexentry{find_companion|hyperpage}{631}
+\indexentry{Operator!find_companion|hyperpage}{631}
+\indexentry{get_columns|hyperpage}{632}
+\indexentry{Operator!get_columns|hyperpage}{632}
+\indexentry{get_rows|hyperpage}{633}
+\indexentry{Operator!get_rows|hyperpage}{633}
+\indexentry{gram_schmidt|hyperpage}{634}
+\indexentry{Operator!gram_schmidt|hyperpage}{634}
+\indexentry{hermitian_tp|hyperpage}{635}
+\indexentry{Operator!hermitian_tp|hyperpage}{635}
+\indexentry{hessian|hyperpage}{636}
+\indexentry{Operator!hessian|hyperpage}{636}
+\indexentry{hilbert|hyperpage}{637}
+\indexentry{Operator!hilbert|hyperpage}{637}
+\indexentry{jacobian|hyperpage}{638}
+\indexentry{Operator!jacobian|hyperpage}{638}
+\indexentry{jordan_block|hyperpage}{639}
+\indexentry{Operator!jordan_block|hyperpage}{639}
+\indexentry{lu_decom|hyperpage}{640}
+\indexentry{Operator!lu_decom|hyperpage}{640}
+\indexentry{make_identity|hyperpage}{643}
+\indexentry{Operator!make_identity|hyperpage}{643}
+\indexentry{matrix_augment|hyperpage}{644}
+\indexentry{Operator!matrix_augment|hyperpage}{644}
+\indexentry{matrixp|hyperpage}{645}
+\indexentry{Operator!matrixp|hyperpage}{645}
+\indexentry{matrix_stack|hyperpage}{646}
+\indexentry{Operator!matrix_stack|hyperpage}{646}
+\indexentry{minor|hyperpage}{647}
+\indexentry{Operator!minor|hyperpage}{647}
+\indexentry{mult_columns|hyperpage}{648}
+\indexentry{Operator!mult_columns|hyperpage}{648}
+\indexentry{mult_rows|hyperpage}{649}
+\indexentry{Operator!mult_rows|hyperpage}{649}
+\indexentry{pivot|hyperpage}{650}
+\indexentry{Operator!pivot|hyperpage}{650}
+\indexentry{pseudo_inverse|hyperpage}{651}
+\indexentry{Operator!pseudo_inverse|hyperpage}{651}
+\indexentry{random_matrix|hyperpage}{652}
+\indexentry{Operator!random_matrix|hyperpage}{652}
+\indexentry{remove_columns|hyperpage}{654}
+\indexentry{Operator!remove_columns|hyperpage}{654}
+\indexentry{remove_rows|hyperpage}{655}
+\indexentry{Operator!remove_rows|hyperpage}{655}
+\indexentry{row_dim|hyperpage}{656}
+\indexentry{Operator!row_dim|hyperpage}{656}
+\indexentry{rows_pivot|hyperpage}{657}
+\indexentry{Operator!rows_pivot|hyperpage}{657}
+\indexentry{simplex|hyperpage}{658}
+\indexentry{Operator!simplex|hyperpage}{658}
+\indexentry{squarep|hyperpage}{659}
+\indexentry{Operator!squarep|hyperpage}{659}
+\indexentry{stack_rows|hyperpage}{660}
+\indexentry{Operator!stack_rows|hyperpage}{660}
+\indexentry{sub_matrix|hyperpage}{661}
+\indexentry{Operator!sub_matrix|hyperpage}{661}
+\indexentry{svd|hyperpage}{662}
+\indexentry{Operator!svd|hyperpage}{662}
+\indexentry{singular value decomposition|hyperpage}{662}
+\indexentry{swap_columns|hyperpage}{664}
+\indexentry{Operator!swap_columns|hyperpage}{664}
+\indexentry{swap_entries|hyperpage}{665}
+\indexentry{Operator!swap_entries|hyperpage}{665}
+\indexentry{swap_rows|hyperpage}{666}
+\indexentry{Operator!swap_rows|hyperpage}{666}
+\indexentry{symmetricp|hyperpage}{667}
+\indexentry{Operator!symmetricp|hyperpage}{667}
+\indexentry{toeplitz|hyperpage}{668}
+\indexentry{Operator!toeplitz|hyperpage}{668}
+\indexentry{vandermonde|hyperpage}{669}
+\indexentry{Operator!vandermonde|hyperpage}{669}
+\indexentry{Smithex|hyperpage}{670}
+\indexentry{Operator!Smithex|hyperpage}{670}
+\indexentry{Smithex\_int|hyperpage}{671}
+\indexentry{Operator!Smithex\_int|hyperpage}{671}
+\indexentry{Frobenius|hyperpage}{672}
+\indexentry{Operator!Frobenius|hyperpage}{672}
+\indexentry{Ratjordan|hyperpage}{674}
+\indexentry{Operator!Ratjordan|hyperpage}{674}
+\indexentry{Jordansymbolic|hyperpage}{676}
+\indexentry{Operator!Jordansymbolic|hyperpage}{676}
+\indexentry{Jordan|hyperpage}{678}
+\indexentry{Operator!Jordan|hyperpage}{678}
+\indexentry{Miscellaneous Packages|hyperpage}{680}
+\indexentry{Introduction!Miscellaneous Packages|hyperpage}{680}
+\indexentry{ALGINT|hyperpage}{681}
+\indexentry{Package!ALGINT|hyperpage}{681}
+\indexentry{integration|hyperpage}{681}
+\indexentry{integration of square roots|hyperpage}{681}
+\indexentry{APPLYSYM|hyperpage}{682}
+\indexentry{Package!APPLYSYM|hyperpage}{682}
+\indexentry{differential equations|hyperpage}{682}
+\indexentry{symmetries|hyperpage}{682}
+\indexentry{ARNUM|hyperpage}{683}
+\indexentry{Package!ARNUM|hyperpage}{683}
+\indexentry{algebraic numbers|hyperpage}{683}
+\indexentry{ASSIST|hyperpage}{684}
+\indexentry{Package!ASSIST|hyperpage}{684}
+\indexentry{utilities|hyperpage}{684}
+\indexentry{AVECTOR|hyperpage}{685}
+\indexentry{Package!AVECTOR|hyperpage}{685}
+\indexentry{vector algebra|hyperpage}{685}
+\indexentry{cross product|hyperpage}{685}
+\indexentry{dot product|hyperpage}{685}
+\indexentry{BOOLEAN|hyperpage}{686}
+\indexentry{Package!BOOLEAN|hyperpage}{686}
+\indexentry{boolean expressions|hyperpage}{686}
+\indexentry{CALI|hyperpage}{687}
+\indexentry{Package!CALI|hyperpage}{687}
+\indexentry{polynomial|hyperpage}{687}
+\indexentry{Groebner|hyperpage}{687}
+\indexentry{commutative algebra|hyperpage}{687}
+\indexentry{CAMAL|hyperpage}{688}
+\indexentry{Package!CAMAL|hyperpage}{688}
+\indexentry{celestial mechanics|hyperpage}{688}
+\indexentry{Fourier series|hyperpage}{688}
+\indexentry{CHANGEVR|hyperpage}{689}
+\indexentry{Package!CHANGEVR|hyperpage}{689}
+\indexentry{COMPACT|hyperpage}{690}
+\indexentry{Package!COMPACT|hyperpage}{690}
+\indexentry{simplification|hyperpage}{690}
+\indexentry{CRACK|hyperpage}{691}
+\indexentry{Package!CRACK|hyperpage}{691}
 \indexentry{differential equation|hyperpage}{691}
-\indexentry{DFPART|hyperpage}{692}
-\indexentry{Package!DFPART|hyperpage}{692}
-\indexentry{partial derivative|hyperpage}{692}
-\indexentry{DUMMY|hyperpage}{693}
-\indexentry{Package!DUMMY|hyperpage}{693}
-\indexentry{dummy variable|hyperpage}{693}
-\indexentry{EXCALC|hyperpage}{694}
-\indexentry{Package!EXCALC|hyperpage}{694}
-\indexentry{exterior calculus|hyperpage}{694}
-\indexentry{differential calculus|hyperpage}{694}
-\indexentry{differential form|hyperpage}{694}
-\indexentry{FPS|hyperpage}{695}
-\indexentry{Package!FPS|hyperpage}{695}
-\indexentry{power series|hyperpage}{695}
-\indexentry{Laurent-Puiseux series|hyperpage}{695}
-\indexentry{FIDE|hyperpage}{696}
-\indexentry{Package!FIDE|hyperpage}{696}
-\indexentry{GENTRAN|hyperpage}{697}
-\indexentry{Package!GENTRAN|hyperpage}{697}
-\indexentry{code generation|hyperpage}{697}
-\indexentry{FORTRAN|hyperpage}{697}
-\indexentry{C|hyperpage}{697}
-\indexentry{IDEALS|hyperpage}{698}
-\indexentry{Package!IDEALS|hyperpage}{698}
-\indexentry{polynomial|hyperpage}{698}
-\indexentry{Groebner|hyperpage}{698}
-\indexentry{commutative algebra|hyperpage}{698}
-\indexentry{ideal|hyperpage}{698}
-\indexentry{INEQ|hyperpage}{699}
-\indexentry{Package!INEQ|hyperpage}{699}
-\indexentry{inequality|hyperpage}{699}
-\indexentry{INVBASE|hyperpage}{700}
-\indexentry{Package!INVBASE|hyperpage}{700}
-\indexentry{LAPLACE|hyperpage}{701}
-\indexentry{Package!LAPLACE|hyperpage}{701}
-\indexentry{transform|hyperpage}{701}
-\indexentry{LIE|hyperpage}{702}
-\indexentry{Package!LIE|hyperpage}{702}
-\indexentry{MODSR|hyperpage}{703}
-\indexentry{Package!MODSR|hyperpage}{703}
-\indexentry{modular polynomial|hyperpage}{703}
-\indexentry{NCPOLY|hyperpage}{704}
-\indexentry{Package!NCPOLY|hyperpage}{704}
-\indexentry{non-commutativity|hyperpage}{704}
-\indexentry{ORTHOVEC|hyperpage}{705}
-\indexentry{Package!ORTHOVEC|hyperpage}{705}
-\indexentry{vector algebra|hyperpage}{705}
-\indexentry{vector calculus|hyperpage}{705}
-\indexentry{Laplacian|hyperpage}{705}
-\indexentry{Taylor|hyperpage}{705}
-\indexentry{cross product|hyperpage}{705}
-\indexentry{dot product|hyperpage}{705}
-\indexentry{div|hyperpage}{705}
-\indexentry{grad|hyperpage}{705}
-\indexentry{curl|hyperpage}{705}
-\indexentry{PHYSOP|hyperpage}{706}
-\indexentry{Package!PHYSOP|hyperpage}{706}
-\indexentry{PM|hyperpage}{707}
-\indexentry{Package!PM|hyperpage}{707}
-\indexentry{pattern matching|hyperpage}{707}
-\indexentry{RANDPOLY|hyperpage}{708}
-\indexentry{Package!RANDPOLY|hyperpage}{708}
-\indexentry{random polynomial|hyperpage}{708}
-\indexentry{REACTEQN|hyperpage}{709}
-\indexentry{Package!REACTEQN|hyperpage}{709}
-\indexentry{chemical reaction|hyperpage}{709}
-\indexentry{RESET|hyperpage}{710}
-\indexentry{Package!RESET|hyperpage}{710}
-\indexentry{RESIDUE|hyperpage}{711}
-\indexentry{Package!RESIDUE|hyperpage}{711}
-\indexentry{RLFI|hyperpage}{712}
-\indexentry{Package!RLFI|hyperpage}{712}
-\indexentry{output|hyperpage}{712}
-\indexentry{TEX|hyperpage}{712}
-\indexentry{SCOPE|hyperpage}{713}
-\indexentry{Package!SCOPE|hyperpage}{713}
-\indexentry{code generation|hyperpage}{713}
-\indexentry{optimization|hyperpage}{713}
-\indexentry{SETS|hyperpage}{714}
-\indexentry{Package!SETS|hyperpage}{714}
-\indexentry{SPDE|hyperpage}{715}
-\indexentry{Package!SPDE|hyperpage}{715}
-\indexentry{differential equation|hyperpage}{715}
-\indexentry{Lie symmetry|hyperpage}{715}
-\indexentry{SYMMETRY|hyperpage}{716}
-\indexentry{Package!SYMMETRY|hyperpage}{716}
-\indexentry{TPS|hyperpage}{717}
-\indexentry{Package!TPS|hyperpage}{717}
-\indexentry{power series|hyperpage}{717}
-\indexentry{Taylor series|hyperpage}{717}
-\indexentry{TRI|hyperpage}{718}
-\indexentry{Package!TRI|hyperpage}{718}
-\indexentry{output|hyperpage}{718}
-\indexentry{TEX|hyperpage}{718}
-\indexentry{TRIGSIMP|hyperpage}{719}
-\indexentry{Package!TRIGSIMP|hyperpage}{719}
-\indexentry{simplification|hyperpage}{719}
-\indexentry{XCOLOR|hyperpage}{720}
-\indexentry{Package!XCOLOR|hyperpage}{720}
-\indexentry{high energy physics|hyperpage}{720}
-\indexentry{XIDEAL|hyperpage}{721}
-\indexentry{Package!XIDEAL|hyperpage}{721}
-\indexentry{Groebner basis|hyperpage}{721}
-\indexentry{WU|hyperpage}{722}
-\indexentry{Package!WU|hyperpage}{722}
-\indexentry{polynomial|hyperpage}{722}
-\indexentry{Wu-Wen-Tsun algorithm|hyperpage}{722}
-\indexentry{ZEILBERG|hyperpage}{723}
-\indexentry{Package!ZEILBERG|hyperpage}{723}
-\indexentry{summation|hyperpage}{723}
-\indexentry{ZTRANS|hyperpage}{724}
-\indexentry{Package!ZTRANS|hyperpage}{724}
-\indexentry{EQ|hyperpage}{725}
-\indexentry{Operator!EQ|hyperpage}{725}
-\indexentry{FASTFOR|hyperpage}{726}
-\indexentry{Switch!FASTFOR|hyperpage}{726}
-\indexentry{MEMQ|hyperpage}{727}
-\indexentry{Operator!MEMQ|hyperpage}{727}
-\indexentry{ED|hyperpage}{728}
-\indexentry{Command!ED|hyperpage}{728}
-\indexentry{EDITDEF|hyperpage}{734}
-\indexentry{Command!EDITDEF|hyperpage}{734}
+\indexentry{CVIT|hyperpage}{692}
+\indexentry{Package!CVIT|hyperpage}{692}
+\indexentry{Dirac algebra|hyperpage}{692}
+\indexentry{DEFINT|hyperpage}{693}
+\indexentry{Package!DEFINT|hyperpage}{693}
+\indexentry{definite integration|hyperpage}{693}
+\indexentry{DESIR|hyperpage}{694}
+\indexentry{Package!DESIR|hyperpage}{694}
+\indexentry{differential equation|hyperpage}{694}
+\indexentry{DFPART|hyperpage}{695}
+\indexentry{Package!DFPART|hyperpage}{695}
+\indexentry{partial derivative|hyperpage}{695}
+\indexentry{DUMMY|hyperpage}{696}
+\indexentry{Package!DUMMY|hyperpage}{696}
+\indexentry{dummy variable|hyperpage}{696}
+\indexentry{EXCALC|hyperpage}{697}
+\indexentry{Package!EXCALC|hyperpage}{697}
+\indexentry{exterior calculus|hyperpage}{697}
+\indexentry{differential calculus|hyperpage}{697}
+\indexentry{differential form|hyperpage}{697}
+\indexentry{FPS|hyperpage}{698}
+\indexentry{Package!FPS|hyperpage}{698}
+\indexentry{power series|hyperpage}{698}
+\indexentry{Laurent-Puiseux series|hyperpage}{698}
+\indexentry{FIDE|hyperpage}{699}
+\indexentry{Package!FIDE|hyperpage}{699}
+\indexentry{GENTRAN|hyperpage}{700}
+\indexentry{Package!GENTRAN|hyperpage}{700}
+\indexentry{code generation|hyperpage}{700}
+\indexentry{FORTRAN|hyperpage}{700}
+\indexentry{C|hyperpage}{700}
+\indexentry{IDEALS|hyperpage}{701}
+\indexentry{Package!IDEALS|hyperpage}{701}
+\indexentry{polynomial|hyperpage}{701}
+\indexentry{Groebner|hyperpage}{701}
+\indexentry{commutative algebra|hyperpage}{701}
+\indexentry{ideal|hyperpage}{701}
+\indexentry{INEQ|hyperpage}{702}
+\indexentry{Package!INEQ|hyperpage}{702}
+\indexentry{inequality|hyperpage}{702}
+\indexentry{INVBASE|hyperpage}{703}
+\indexentry{Package!INVBASE|hyperpage}{703}
+\indexentry{LAPLACE|hyperpage}{704}
+\indexentry{Package!LAPLACE|hyperpage}{704}
+\indexentry{transform|hyperpage}{704}
+\indexentry{LIE|hyperpage}{705}
+\indexentry{Package!LIE|hyperpage}{705}
+\indexentry{MODSR|hyperpage}{706}
+\indexentry{Package!MODSR|hyperpage}{706}
+\indexentry{modular polynomial|hyperpage}{706}
+\indexentry{NCPOLY|hyperpage}{707}
+\indexentry{Package!NCPOLY|hyperpage}{707}
+\indexentry{non-commutativity|hyperpage}{707}
+\indexentry{ORTHOVEC|hyperpage}{708}
+\indexentry{Package!ORTHOVEC|hyperpage}{708}
+\indexentry{vector algebra|hyperpage}{708}
+\indexentry{vector calculus|hyperpage}{708}
+\indexentry{Laplacian|hyperpage}{708}
+\indexentry{Taylor|hyperpage}{708}
+\indexentry{cross product|hyperpage}{708}
+\indexentry{dot product|hyperpage}{708}
+\indexentry{div|hyperpage}{708}
+\indexentry{grad|hyperpage}{708}
+\indexentry{curl|hyperpage}{708}
+\indexentry{PHYSOP|hyperpage}{709}
+\indexentry{Package!PHYSOP|hyperpage}{709}
+\indexentry{PM|hyperpage}{710}
+\indexentry{Package!PM|hyperpage}{710}
+\indexentry{pattern matching|hyperpage}{710}
+\indexentry{RANDPOLY|hyperpage}{711}
+\indexentry{Package!RANDPOLY|hyperpage}{711}
+\indexentry{random polynomial|hyperpage}{711}
+\indexentry{REACTEQN|hyperpage}{712}
+\indexentry{Package!REACTEQN|hyperpage}{712}
+\indexentry{chemical reaction|hyperpage}{712}
+\indexentry{RESET|hyperpage}{713}
+\indexentry{Package!RESET|hyperpage}{713}
+\indexentry{RESIDUE|hyperpage}{714}
+\indexentry{Package!RESIDUE|hyperpage}{714}
+\indexentry{RLFI|hyperpage}{715}
+\indexentry{Package!RLFI|hyperpage}{715}
+\indexentry{output|hyperpage}{715}
+\indexentry{TEX|hyperpage}{715}
+\indexentry{SCOPE|hyperpage}{716}
+\indexentry{Package!SCOPE|hyperpage}{716}
+\indexentry{code generation|hyperpage}{716}
+\indexentry{optimization|hyperpage}{716}
+\indexentry{SETS|hyperpage}{717}
+\indexentry{Package!SETS|hyperpage}{717}
+\indexentry{SPDE|hyperpage}{718}
+\indexentry{Package!SPDE|hyperpage}{718}
+\indexentry{differential equation|hyperpage}{718}
+\indexentry{Lie symmetry|hyperpage}{718}
+\indexentry{SYMMETRY|hyperpage}{719}
+\indexentry{Package!SYMMETRY|hyperpage}{719}
+\indexentry{TPS|hyperpage}{720}
+\indexentry{Package!TPS|hyperpage}{720}
+\indexentry{power series|hyperpage}{720}
+\indexentry{Taylor series|hyperpage}{720}
+\indexentry{TRI|hyperpage}{721}
+\indexentry{Package!TRI|hyperpage}{721}
+\indexentry{output|hyperpage}{721}
+\indexentry{TEX|hyperpage}{721}
+\indexentry{TRIGSIMP|hyperpage}{722}
+\indexentry{Package!TRIGSIMP|hyperpage}{722}
+\indexentry{simplification|hyperpage}{722}
+\indexentry{XCOLOR|hyperpage}{723}
+\indexentry{Package!XCOLOR|hyperpage}{723}
+\indexentry{high energy physics|hyperpage}{723}
+\indexentry{XIDEAL|hyperpage}{724}
+\indexentry{Package!XIDEAL|hyperpage}{724}
+\indexentry{Groebner basis|hyperpage}{724}
+\indexentry{WU|hyperpage}{725}
+\indexentry{Package!WU|hyperpage}{725}
+\indexentry{polynomial|hyperpage}{725}
+\indexentry{Wu-Wen-Tsun algorithm|hyperpage}{725}
+\indexentry{ZEILBERG|hyperpage}{726}
+\indexentry{Package!ZEILBERG|hyperpage}{726}
+\indexentry{summation|hyperpage}{726}
+\indexentry{ZTRANS|hyperpage}{727}
+\indexentry{Package!ZTRANS|hyperpage}{727}
+\indexentry{EQ|hyperpage}{728}
+\indexentry{Operator!EQ|hyperpage}{728}
+\indexentry{FASTFOR|hyperpage}{729}
+\indexentry{Switch!FASTFOR|hyperpage}{729}
+\indexentry{MEMQ|hyperpage}{730}
+\indexentry{Operator!MEMQ|hyperpage}{730}
+\indexentry{ED|hyperpage}{731}
+\indexentry{Command!ED|hyperpage}{731}
+\indexentry{EDITDEF|hyperpage}{737}
+\indexentry{Command!EDITDEF|hyperpage}{737}
