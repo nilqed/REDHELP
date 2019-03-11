@@ -1,0 +1,96 @@
+\documentclass{article}
+
+\usepackage[linktoc=all,colorlinks=true,linkcolor=blue]{hyperref}
+\usepackage{redindex}
+\usepackage{makeidx}
+\usepackage{tocloft}
+\usepackage{color}
+
+\definecolor{Dark}{gray}{.2}
+\definecolor{Medium}{gray}{.5}
+\definecolor{Light}{gray}{.8}
+\definecolor{DarkBlue}{rgb}{0,0.08,0.55} 
+\newcommand*{\rlogo}{\fbox{$\mathcal{KFP}$}}
+
+\newcommand*{\titleREDUCE}{\begingroup
+\raggedleft
+\vspace*{\baselineskip}
+{\Large Computer Algebra}\\[0.167\textheight]
+{\bfseries Reference Manual}\\[\baselineskip]
+{\textcolor{DarkBlue}{\Huge REDUCE}}\\[\baselineskip]
+%% former version: July 2010
+{\small Version March 2019}\par
+\vfill
+{\Large \LaTeX'ed by \rlogo}\par
+\vspace*{3\baselineskip}
+\endgroup}
+
+%\usepackage[T1]{fontenc}
+% \usepackage{underscore}
+% \hypersetup{breaklinks=true,
+% pagecolor=white,
+% colorlinks=true} 
+%\newcommand{name}[num]{definition}
+%\newcommand{\name}[1]{\mbox{\tt#1}\index{#1}}
+%\newcommand{\nameref}[1]{\mbox{\tt#1}}
+%\setcounter{secnumdepth}{1}  % avoids subsection numbering
+%\makeatletter%
+%\renewcommand{\@pnumwidth}{3em} 
+%\renewcommand{\@tocrmarg}{4em}
+%\makeatother% --> \makeatletter
+
+% more space for subsection numbering in TOC
+\makeatletter
+\renewcommand{\cftsubsecnumwidth}{3em}
+\makeatother
+
+\makeindex
+
+\begin{document}
+
+\pagestyle{empty}
+\titleREDUCE
+\clearpage
+
+\input{reduce-preamble}
+\newpage
+
+\cleardoublepage
+\addcontentsline{toc}{section}{Contents}
+\tableofcontents
+
+
+
+\input{intro}
+\input{concept}
+\input{variable}
+\input{syntax}
+\input{arith}
+\input{boolean}
+\input{command}
+\input{algebra}
+\input{declare}
+\input{io}
+\input{elemfn}
+\input{switch}
+\input{matrix}
+\input{pk-groeb}
+\input{hephys}
+\input{pk-numer}
+\input{pk-roots}
+\input{pk-specf}
+\input{taylor}
+\input{pk-gplot}
+\input{linalg}
+\input{normform}
+\input{pk-misc}
+\input{symbolic}
+\input{outmode}
+
+
+\cleardoublepage
+\addcontentsline{toc}{section}{Index}
+\printindex
+
+\end{document}
+
