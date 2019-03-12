@@ -1,0 +1,25 @@
+=======
+REDHELP
+=======
+
+:construct: (but usable ;)
+
+This is a reference manual (redhelp.pdf) for the REDUCE system, built upon
+
+ SVN: reduce-algebra-code-r4930-historical-r38-doc-help
+
+providing bookmarks, toc and index (using: hyperref/makeindex ...).
+
+A portable general-purpose computer algebra system
+--------------------------------------------------
+See 
+http://www.reduce-algebra.com/
+https://sourceforge.net/p/reduce-algebra/
+
+REDUCE is a system for doing scalar, vector and matrix algebra by computer, 
+which also supports arbitrary precision numerical approximation and interfaces 
+to gnuplot to provide graphics. It can be used interactively for simple 
+calculations (as illustrated in the screenshot below) but also provides a 
+full programming language, with a syntax similar to other modern programming 
+languages. REDUCE supports alternative user interfaces including Emacs and 
+TeXmacs.
