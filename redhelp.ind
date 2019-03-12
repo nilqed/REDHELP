@@ -1,1698 +1,1698 @@
 \begin{theindex}
 
-  \item *, \hyperpage{53}
-  \item **, \hyperpage{55}
-  \item +, \hyperpage{51}
-  \item -, \hyperpage{52}
-  \item ., \hyperpage{46}, \hyperpage{463}
-  \item /, \hyperpage{54}
-  \item :=, \hyperpage{47}
-  \item ;, \hyperpage{42}
-  \item =, \hyperpage{49}, \hyperpage{69}
-  \item \$, \hyperpage{43}
-  \item \%, \hyperpage{44}
-  \item \&, \hyperpage{45}
-  \item \Rightarrow , \hyperpage{50}
-  \item \geq , \hyperpage{57}
-  \item \leq , \hyperpage{59}
-  \item \ll , \hyperpage{62}
-  \item \textasciicircum , \hyperpage{56}
-  \item \textasciitilde , \hyperpage{61}
-  \item \textgreater , \hyperpage{58}
-  \item \textless , \hyperpage{60}
-  \item ~, \hyperpage{90}
+  \item *, \hyperpage{56}
+  \item **, \hyperpage{58}
+  \item +, \hyperpage{54}
+  \item -, \hyperpage{55}
+  \item ., \hyperpage{49}, \hyperpage{475}
+  \item /, \hyperpage{57}
+  \item :=, \hyperpage{50}
+  \item ;, \hyperpage{45}
+  \item =, \hyperpage{52}, \hyperpage{72}
+  \item \$, \hyperpage{46}
+  \item \%, \hyperpage{47}
+  \item \&, \hyperpage{48}
+  \item \Rightarrow , \hyperpage{53}
+  \item \geq , \hyperpage{60}
+  \item \leq , \hyperpage{62}
+  \item \ll , \hyperpage{65}
+  \item \textasciicircum , \hyperpage{59}
+  \item \textasciitilde , \hyperpage{64}
+  \item \textgreater , \hyperpage{61}
+  \item \textless , \hyperpage{63}
+  \item ~, \hyperpage{93}
 
   \indexspace
 
-  \item ABS, \hyperpage{100}
-  \item absolute value, \hyperpage{100}
-  \item accuracy, \hyperpage{493}
-  \item ACOS, \hyperpage{289}
-  \item ACOSH, \hyperpage{290}
-  \item ACOT, \hyperpage{291}
-  \item ACOTH, \hyperpage{292}
-  \item ACSC, \hyperpage{293}
-  \item ACSCH, \hyperpage{294}
-  \item add_columns, \hyperpage{618}
-  \item add_rows, \hyperpage{619}
-  \item add_to_columns, \hyperpage{620}
-  \item add_to_rows, \hyperpage{621}
-  \item ADJPREC, \hyperpage{101}
-  \item AGM_FUNCTION, \hyperpage{534}
-  \item Airy_Ai, \hyperpage{517}
-  \item Airy_Aiprime, \hyperpage{519}
-  \item Airy_Bi, \hyperpage{518}
-  \item Airy_Biprime, \hyperpage{520}
-  \item ALGEBRAIC, \hyperpage{227}
-  \item algebraic, \hyperpage{31}
-  \item algebraic numbers, \hyperpage{686}
-  \item ALGINT, \hyperpage{317}, \hyperpage{684}
-  \item ALLBRANCH, \hyperpage{318}
-  \item ALLFAC, \hyperpage{319}
-  \item AND, \hyperpage{63}
-  \item ANTISYMMETRIC, \hyperpage{228}
-  \item APPEND, \hyperpage{167}
-  \item APPLYSYM, \hyperpage{685}
-  \item approximation, \hyperpage{175}, \hyperpage{188}, 
-		\hyperpage{486}, \hyperpage{488}
-  \item ARBCOMPLEX, \hyperpage{169}
-  \item ARBINT, \hyperpage{168}
-  \item arbitrary value, \hyperpage{168, 169}
-  \item ARBVARS, \hyperpage{320}
-  \item arccosecant, \hyperpage{293--295}
-  \item arccosine, \hyperpage{289}
-  \item arccotangent, \hyperpage{291}
-  \item arcsine, \hyperpage{297}
-  \item arctangent, \hyperpage{299}
-  \item ARG, \hyperpage{102}
-  \item ARGLENGTH, \hyperpage{170}
-  \item argument, \hyperpage{170}, \hyperpage{252}, \hyperpage{359}
-  \item arithmetic, \hyperpage{69}
-  \item ARITHMETIC\_OPERATIONS, \hyperpage{99}
-  \item ARNUM, \hyperpage{686}
-  \item ARRAY, \hyperpage{229}
-  \item ASEC, \hyperpage{295}
-  \item ASECH, \hyperpage{296}
-  \item ASIN, \hyperpage{297}
-  \item ASINH, \hyperpage{298}
-  \item assign, \hyperpage{47}, \hyperpage{94, 95}
-  \item assignment-trace, \hyperpage{756, 757}
-  \item ASSIST, \hyperpage{687}
-  \item ASSUMPTIONS, \hyperpage{28}
-  \item ATAN, \hyperpage{299}
-  \item ATAN2, \hyperpage{301}
-  \item ATANH, \hyperpage{300}
-  \item augment_columns, \hyperpage{622}
-  \item AVECTOR, \hyperpage{688}
-  \item Axes names, \hyperpage{594}
+  \item ABS, \hyperpage{104}
+  \item absolute value, \hyperpage{104}
+  \item accuracy, \hyperpage{507}
+  \item ACOS, \hyperpage{298}
+  \item ACOSH, \hyperpage{299}
+  \item ACOT, \hyperpage{300}
+  \item ACOTH, \hyperpage{301}
+  \item ACSC, \hyperpage{302}
+  \item ACSCH, \hyperpage{303}
+  \item ADD_COLUMNS, \hyperpage{638}
+  \item ADD_ROWS, \hyperpage{639}
+  \item ADD_TO_COLUMNS, \hyperpage{640}
+  \item ADD_TO_ROWS, \hyperpage{641}
+  \item ADJPREC, \hyperpage{105}
+  \item AGM_FUNCTION, \hyperpage{549}
+  \item Airy_Ai, \hyperpage{532}
+  \item Airy_Aiprime, \hyperpage{534}
+  \item Airy_Bi, \hyperpage{533}
+  \item Airy_Biprime, \hyperpage{535}
+  \item ALGEBRAIC, \hyperpage{235}
+  \item algebraic, \hyperpage{33}
+  \item algebraic numbers, \hyperpage{708}
+  \item ALGINT, \hyperpage{327}, \hyperpage{706}
+  \item ALLBRANCH, \hyperpage{328}
+  \item ALLFAC, \hyperpage{329}
+  \item AND, \hyperpage{66}
+  \item ANTISYMMETRIC, \hyperpage{236}
+  \item APPEND, \hyperpage{174}
+  \item APPLYSYM, \hyperpage{707}
+  \item approximation, \hyperpage{182}, \hyperpage{195}, 
+		\hyperpage{499}, \hyperpage{501}
+  \item ARBCOMPLEX, \hyperpage{176}
+  \item ARBINT, \hyperpage{175}
+  \item arbitrary value, \hyperpage{175, 176}
+  \item ARBVARS, \hyperpage{330}
+  \item arccosecant, \hyperpage{302--304}
+  \item arccosine, \hyperpage{298}
+  \item arccotangent, \hyperpage{300}
+  \item arcsine, \hyperpage{306}
+  \item arctangent, \hyperpage{308}
+  \item ARG, \hyperpage{106}
+  \item ARGLENGTH, \hyperpage{177}
+  \item argument, \hyperpage{177}, \hyperpage{260}, \hyperpage{369}
+  \item arithmetic, \hyperpage{72}
+  \item ARITHMETIC\_OPERATIONS, \hyperpage{103}
+  \item ARNUM, \hyperpage{708}
+  \item ARRAY, \hyperpage{237}
+  \item ASEC, \hyperpage{304}
+  \item ASECH, \hyperpage{305}
+  \item ASIN, \hyperpage{306}
+  \item ASINH, \hyperpage{307}
+  \item assign, \hyperpage{50}, \hyperpage{97, 98}
+  \item assignment-trace, \hyperpage{780, 781}
+  \item ASSIST, \hyperpage{709}
+  \item ASSUMPTIONS, \hyperpage{30}
+  \item ATAN, \hyperpage{308}
+  \item ATAN2, \hyperpage{310}
+  \item ATANH, \hyperpage{309}
+  \item AUGMENT_COLUMNS, \hyperpage{642}
+  \item AVECTOR, \hyperpage{710}
+  \item Axes names, \hyperpage{611}
 
   \indexspace
 
-  \item BALANCED\_MOD, \hyperpage{321}
-  \item band_matrix, \hyperpage{623}
-  \item BEGIN, \hyperpage{64}
-  \item BERNOULLI, \hyperpage{501}
-  \item BERNOULLIP, \hyperpage{502}
-  \item BESSELI, \hyperpage{510}
-  \item BESSELJ, \hyperpage{506}
-  \item BESSELK, \hyperpage{511}
-  \item BESSELY, \hyperpage{507}
-  \item BETA, \hyperpage{544}
-  \item BFSPACE, \hyperpage{322}
-  \item BINOMIAL, \hyperpage{568}
-  \item BLOCK, \hyperpage{65}
-  \item block_matrix, \hyperpage{624}
-  \item BOOLEAN, \hyperpage{689}
-  \item boolean expressions, \hyperpage{689}
-  \item BOOLEAN VALUE, \hyperpage{139}
-  \item bounds, \hyperpage{485}
-  \item br, \hyperpage{761}
-  \item break, \hyperpage{760--764}
-  \item breakloop, \hyperpage{752}
-  \item brwhen, \hyperpage{763}
-  \item Buchberger algorithm, \hyperpage{409}, \hyperpage{426}
-  \item BYE, \hyperpage{153}
+  \item BALANCED\_MOD, \hyperpage{331}
+  \item BAND_MATRIX, \hyperpage{643}
+  \item BEGIN, \hyperpage{67}
+  \item BERNOULLI, \hyperpage{516}
+  \item BERNOULLIP, \hyperpage{517}
+  \item BESSELI, \hyperpage{525}
+  \item BESSELJ, \hyperpage{521}
+  \item BESSELK, \hyperpage{526}
+  \item BESSELY, \hyperpage{522}
+  \item BETA, \hyperpage{559}
+  \item BFSPACE, \hyperpage{332}
+  \item BINOMIAL, \hyperpage{583}
+  \item BLOCK, \hyperpage{68}
+  \item BLOCK_MATRIX, \hyperpage{644}
+  \item BOOLEAN, \hyperpage{711}
+  \item boolean expressions, \hyperpage{711}
+  \item BOOLEAN VALUE, \hyperpage{144}
+  \item bounds, \hyperpage{498}
+  \item br, \hyperpage{785}
+  \item break, \hyperpage{784--788}
+  \item breakloop, \hyperpage{776}
+  \item brwhen, \hyperpage{787}
+  \item Buchberger algorithm, \hyperpage{420}, \hyperpage{437}
+  \item BYE, \hyperpage{159}
 
   \indexspace
 
-  \item C, \hyperpage{703}
-  \item CALI, \hyperpage{690}
-  \item CAMAL, \hyperpage{691}
-  \item CARD_NO, \hyperpage{29}
-  \item Catalan's constant, \hyperpage{500}
-  \item CEILING, \hyperpage{103}
-  \item celestial mechanics, \hyperpage{691}
-  \item CHANGEVR, \hyperpage{692}
-  \item char_matrix, \hyperpage{625}
-  \item char_poly, \hyperpage{626}
-  \item character, \hyperpage{376}
-  \item Chebyshev fit, \hyperpage{486}
-  \item ChebyshevT, \hyperpage{549}
-  \item ChebyshevU, \hyperpage{550}
-  \item chemical reaction, \hyperpage{715}
-  \item Chi, \hyperpage{562}
-  \item cholesky, \hyperpage{627}
-  \item CHOOSE, \hyperpage{104}
-  \item Ci, \hyperpage{561}
-  \item CLEAR, \hyperpage{231}
-  \item CLEARRULES, \hyperpage{233}
-  \item Clebsch_Gordan, \hyperpage{572}
-  \item close, \hyperpage{288}
-  \item code generation, \hyperpage{703}, \hyperpage{719}
-  \item COEFF, \hyperpage{171}
-  \item coeff_matrix, \hyperpage{628}
-  \item coefficient, \hyperpage{171}, \hyperpage{173}, \hyperpage{189}
-  \item COEFFN, \hyperpage{173}
-  \item COFACTOR, \hyperpage{396}
-  \item column_dim, \hyperpage{629}
-  \item COMBINEEXPT, \hyperpage{323}
-  \item COMBINELOGS, \hyperpage{324}
+  \item C, \hyperpage{725}
+  \item CALI, \hyperpage{712}
+  \item CAMAL, \hyperpage{713}
+  \item CARD_NO, \hyperpage{31}
+  \item Catalan's constant, \hyperpage{515}
+  \item CEILING, \hyperpage{107}
+  \item celestial mechanics, \hyperpage{713}
+  \item CHANGEVR, \hyperpage{714}
+  \item CHAR_MATRIX, \hyperpage{645}
+  \item CHAR_POLY, \hyperpage{646}
+  \item character, \hyperpage{386}
+  \item Chebyshev fit, \hyperpage{499}
+  \item ChebyshevT, \hyperpage{564}
+  \item ChebyshevU, \hyperpage{565}
+  \item chemical reaction, \hyperpage{737}
+  \item Chi, \hyperpage{577}
+  \item CHOLESKY, \hyperpage{647}
+  \item CHOOSE, \hyperpage{108}
+  \item Ci, \hyperpage{576}
+  \item CLEAR, \hyperpage{239}
+  \item CLEARRULES, \hyperpage{241}
+  \item Clebsch_Gordan, \hyperpage{587}
+  \item close, \hyperpage{296}
+  \item code generation, \hyperpage{725}, \hyperpage{741}
+  \item COEFF, \hyperpage{178}
+  \item COEFF_MATRIX, \hyperpage{648}
+  \item coefficient, \hyperpage{178}, \hyperpage{180}, \hyperpage{196}
+  \item COEFFN, \hyperpage{180}
+  \item COFACTOR, \hyperpage{407}
+  \item COLUMN_DIM, \hyperpage{649}
+  \item COMBINEEXPT, \hyperpage{333}
+  \item COMBINELOGS, \hyperpage{334}
   \item Command
-    \subitem ;, \hyperpage{42}
-    \subitem \$, \hyperpage{43}
-    \subitem \%, \hyperpage{44}
-    \subitem \ll , \hyperpage{62}
-    \subitem ALGEBRAIC, \hyperpage{227}
-    \subitem BEGIN, \hyperpage{64}
-    \subitem BLOCK, \hyperpage{65}
-    \subitem BYE, \hyperpage{153}
-    \subitem CLEAR, \hyperpage{231}
-    \subitem CLEARRULES, \hyperpage{233}
-    \subitem COMMENT, \hyperpage{66}
-    \subitem CONT, \hyperpage{154}
-    \subitem DEFINE, \hyperpage{234}
-    \subitem DISPLAY, \hyperpage{155}
-    \subitem ED, \hyperpage{734}
-    \subitem EDITDEF, \hyperpage{740}
-    \subitem END, \hyperpage{68}
-    \subitem FOR, \hyperpage{71}
-    \subitem FORALL, \hyperpage{239}
-    \subitem FOREACH, \hyperpage{74}
-    \subitem GOTO, \hyperpage{76}
-    \subitem IF, \hyperpage{78}
-    \subitem IN, \hyperpage{285}
-    \subitem INPUT, \hyperpage{286}
-    \subitem LET, \hyperpage{244}
-    \subitem LISP, \hyperpage{251}
-    \subitem LOAD\_PACKAGE, \hyperpage{156}
-    \subitem MASS, \hyperpage{468}
-    \subitem MATCH, \hyperpage{254}
-    \subitem MKID, \hyperpage{199}
-    \subitem MSHELL, \hyperpage{469}
-    \subitem OFF, \hyperpage{259}
-    \subitem ON, \hyperpage{260}
-    \subitem OUT, \hyperpage{287}
-    \subitem PAUSE, \hyperpage{157}
-    \subitem PLOT, \hyperpage{596}
-    \subitem PLOTRESET, \hyperpage{598}
-    \subitem PROCEDURE, \hyperpage{82}
-    \subitem QUIT, \hyperpage{159}
-    \subitem REDERR, \hyperpage{161}
-    \subitem REPEAT, \hyperpage{85}
-    \subitem RETRY, \hyperpage{162}
-    \subitem RETURN, \hyperpage{87}
-    \subitem SAVEAS, \hyperpage{163}
-    \subitem SETMOD, \hyperpage{135}
-    \subitem SHOWTIME, \hyperpage{164}
-    \subitem SHUT, \hyperpage{288}
-    \subitem SYMBOLIC, \hyperpage{272}
-    \subitem VECDIM, \hyperpage{473}
-    \subitem WEIGHT, \hyperpage{278}
-    \subitem WHILE, \hyperpage{282}
-    \subitem WRITE, \hyperpage{165}
-    \subitem WTLEVEL, \hyperpage{283}
-  \item COMMENT, \hyperpage{66}
-  \item commutative, \hyperpage{256}
-  \item commutative algebra, \hyperpage{690}, \hyperpage{704}
-  \item COMP, \hyperpage{325}
-  \item COMPACT, \hyperpage{693}
-  \item companion, \hyperpage{630}
-  \item compiler, \hyperpage{325}
-  \item complementary error function, \hyperpage{564}
-  \item COMPLEX, \hyperpage{327}
-  \item complex, \hyperpage{34}, \hyperpage{102}, \hyperpage{125}, 
-		\hyperpage{174}, \hyperpage{185}, \hyperpage{209}, 
-		\hyperpage{327}, \hyperpage{380}, \hyperpage{496, 497}
-  \item composite structure, \hyperpage{197}
+    \subitem ;, \hyperpage{45}
+    \subitem \$, \hyperpage{46}
+    \subitem \%, \hyperpage{47}
+    \subitem \ll , \hyperpage{65}
+    \subitem ALGEBRAIC, \hyperpage{235}
+    \subitem BEGIN, \hyperpage{67}
+    \subitem BLOCK, \hyperpage{68}
+    \subitem BYE, \hyperpage{159}
+    \subitem CLEAR, \hyperpage{239}
+    \subitem CLEARRULES, \hyperpage{241}
+    \subitem COMMENT, \hyperpage{69}
+    \subitem CONT, \hyperpage{160}
+    \subitem DEFINE, \hyperpage{242}
+    \subitem DISPLAY, \hyperpage{161}
+    \subitem ED, \hyperpage{758}
+    \subitem EDITDEF, \hyperpage{764}
+    \subitem END, \hyperpage{71}
+    \subitem FOR, \hyperpage{74}
+    \subitem FORALL, \hyperpage{247}
+    \subitem FOREACH, \hyperpage{77}
+    \subitem GOTO, \hyperpage{79}
+    \subitem IF, \hyperpage{81}
+    \subitem IN, \hyperpage{293}
+    \subitem INPUT, \hyperpage{294}
+    \subitem LET, \hyperpage{252}
+    \subitem LISP, \hyperpage{259}
+    \subitem LOAD\_PACKAGE, \hyperpage{162}
+    \subitem MASS, \hyperpage{480}
+    \subitem MATCH, \hyperpage{262}
+    \subitem MKID, \hyperpage{206}
+    \subitem MSHELL, \hyperpage{481}
+    \subitem OFF, \hyperpage{267}
+    \subitem ON, \hyperpage{268}
+    \subitem OUT, \hyperpage{295}
+    \subitem PAUSE, \hyperpage{163}
+    \subitem PLOT, \hyperpage{613}
+    \subitem PLOTRESET, \hyperpage{615}
+    \subitem PROCEDURE, \hyperpage{85}
+    \subitem QUIT, \hyperpage{165}
+    \subitem REDERR, \hyperpage{167}
+    \subitem REPEAT, \hyperpage{88}
+    \subitem RETRY, \hyperpage{168}
+    \subitem RETURN, \hyperpage{90}
+    \subitem SAVEAS, \hyperpage{169}
+    \subitem SETMOD, \hyperpage{139}
+    \subitem SHOWTIME, \hyperpage{170}
+    \subitem SHUT, \hyperpage{296}
+    \subitem SYMBOLIC, \hyperpage{280}
+    \subitem VECDIM, \hyperpage{485}
+    \subitem WEIGHT, \hyperpage{286}
+    \subitem WHILE, \hyperpage{290}
+    \subitem WRITE, \hyperpage{171}
+    \subitem WTLEVEL, \hyperpage{291}
+  \item COMMENT, \hyperpage{69}
+  \item commutative, \hyperpage{264}
+  \item commutative algebra, \hyperpage{712}, \hyperpage{726}
+  \item COMP, \hyperpage{335}
+  \item COMPACT, \hyperpage{715}
+  \item COMPANION, \hyperpage{650}
+  \item compiler, \hyperpage{335}
+  \item complementary error function, \hyperpage{579}
+  \item COMPLEX, \hyperpage{337}
+  \item complex, \hyperpage{36}, \hyperpage{106}, \hyperpage{129}, 
+		\hyperpage{181}, \hyperpage{192}, \hyperpage{216}, 
+		\hyperpage{337}, \hyperpage{390}, \hyperpage{510, 511}
+  \item composite structure, \hyperpage{204}
   \item Concept
-    \subitem Axes names, \hyperpage{594}
-    \subitem BOOLEAN VALUE, \hyperpage{139}
-    \subitem breakloop, \hyperpage{752}
-    \subitem Chebyshev fit, \hyperpage{486}
-    \subitem Constants, \hyperpage{500}
-    \subitem FALSE, \hyperpage{142}
-    \subitem graded term order, \hyperpage{423}
-    \subitem gradlex term order, \hyperpage{416}
-    \subitem gradlexgradlex term order, \hyperpage{418}
-    \subitem gradlexrevgradlex term order, \hyperpage{419}
-    \subitem Ideal Parameters, \hyperpage{410}
-    \subitem lex term order, \hyperpage{415}
-    \subitem lexgradlex term order, \hyperpage{420}
-    \subitem lexrevgradlex term order, \hyperpage{421}
-    \subitem matrix term order, \hyperpage{424}
-    \subitem Module, \hyperpage{457}
-    \subitem numeric accuracy, \hyperpage{478}
-    \subitem revgradlex term order, \hyperpage{417}
-    \subitem TRUE, \hyperpage{152}
-    \subitem weighted term order, \hyperpage{422}
-  \item Confluent Hypergeometric function, \hyperpage{514--516}
-  \item CONJ, \hyperpage{174}
-  \item conjugate, \hyperpage{174}
-  \item CONS, \hyperpage{67}
+    \subitem Axes names, \hyperpage{611}
+    \subitem BOOLEAN VALUE, \hyperpage{144}
+    \subitem breakloop, \hyperpage{776}
+    \subitem Chebyshev fit, \hyperpage{499}
+    \subitem Constants, \hyperpage{515}
+    \subitem FALSE, \hyperpage{147}
+    \subitem graded term order, \hyperpage{434}
+    \subitem gradlex term order, \hyperpage{427}
+    \subitem gradlexgradlex term order, \hyperpage{429}
+    \subitem gradlexrevgradlex term order, \hyperpage{430}
+    \subitem Ideal Parameters, \hyperpage{421}
+    \subitem lex term order, \hyperpage{426}
+    \subitem lexgradlex term order, \hyperpage{431}
+    \subitem lexrevgradlex term order, \hyperpage{432}
+    \subitem matrix term order, \hyperpage{435}
+    \subitem Module, \hyperpage{468}
+    \subitem numeric accuracy, \hyperpage{491}
+    \subitem revgradlex term order, \hyperpage{428}
+    \subitem TRUE, \hyperpage{157}
+    \subitem weighted term order, \hyperpage{433}
+  \item Confluent Hypergeometric function, \hyperpage{529--531}
+  \item CONJ, \hyperpage{181}
+  \item conjugate, \hyperpage{181}
+  \item CONS, \hyperpage{70}
   \item Constant
-    \subitem E, \hyperpage{30}
-    \subitem I, \hyperpage{34}
-    \subitem INFINITY, \hyperpage{35}
-    \subitem NIL, \hyperpage{37}
-    \subitem PI, \hyperpage{38}
-    \subitem T, \hyperpage{41}
-  \item Constants, \hyperpage{500}
-  \item CONT, \hyperpage{154}
-  \item CONTINUED_FRACTION, \hyperpage{175}
-  \item contour, \hyperpage{606}
-  \item copy_into, \hyperpage{631}
-  \item COS, \hyperpage{302}
-  \item cosecant, \hyperpage{306}
-  \item COSH, \hyperpage{303}
-  \item cosine integral function, \hyperpage{561}
-  \item COT, \hyperpage{304}
-  \item COTH, \hyperpage{305}
-  \item CRACK, \hyperpage{694}
-  \item CRAMER, \hyperpage{329}
-  \item CREF, \hyperpage{328}
-  \item cross product, \hyperpage{688}, \hyperpage{711}
-  \item cross reference, \hyperpage{328}
-  \item CSC, \hyperpage{306}
-  \item CSCH, \hyperpage{307}
-  \item curl, \hyperpage{711}
-  \item CVIT, \hyperpage{695}
+    \subitem E, \hyperpage{32}
+    \subitem I, \hyperpage{36}
+    \subitem INFINITY, \hyperpage{37}
+    \subitem NIL, \hyperpage{39}
+    \subitem PI, \hyperpage{40}
+    \subitem T, \hyperpage{43}
+  \item Constants, \hyperpage{515}
+  \item CONT, \hyperpage{160}
+  \item CONTINUED_FRACTION, \hyperpage{182}
+  \item contour, \hyperpage{623}
+  \item COPY_INTO, \hyperpage{651}
+  \item COS, \hyperpage{311}
+  \item cosecant, \hyperpage{315}
+  \item COSH, \hyperpage{312}
+  \item cosine integral function, \hyperpage{576}
+  \item COT, \hyperpage{313}
+  \item COTH, \hyperpage{314}
+  \item CRACK, \hyperpage{716}
+  \item CRAMER, \hyperpage{339}
+  \item CREF, \hyperpage{338}
+  \item cross product, \hyperpage{710}, \hyperpage{733}
+  \item cross reference, \hyperpage{338}
+  \item CSC, \hyperpage{315}
+  \item CSCH, \hyperpage{316}
+  \item curl, \hyperpage{733}
+  \item CVIT, \hyperpage{717}
 
   \indexspace
 
-  \item d, \hyperpage{105}
-  \item dd_groebner, \hyperpage{441}
-  \item debug, \hyperpage{752}, \hyperpage{754--769}
+  \item d, \hyperpage{109}
+  \item dd_groebner, \hyperpage{452}
+  \item debug, \hyperpage{776}, \hyperpage{778--793}
   \item Declaration
-    \subitem ANTISYMMETRIC, \hyperpage{228}
-    \subitem ARRAY, \hyperpage{229}
-    \subitem DEPEND, \hyperpage{235}
-    \subitem EVEN, \hyperpage{236}
-    \subitem FACTOR, \hyperpage{237}
-    \subitem INDEX, \hyperpage{467}
-    \subitem INFIX, \hyperpage{241}
-    \subitem INTEGER, \hyperpage{242}
-    \subitem KORDER, \hyperpage{243}
-    \subitem LINEAR, \hyperpage{248}
-    \subitem LINELENGTH, \hyperpage{250}
-    \subitem LISTARGP, \hyperpage{252}
-    \subitem MATRIX, \hyperpage{401}
-    \subitem NODEPEND, \hyperpage{253}
-    \subitem NONCOM, \hyperpage{256}
-    \subitem NONZERO, \hyperpage{257}
-    \subitem NOSPUR, \hyperpage{470}
-    \subitem ODD, \hyperpage{258}
-    \subitem OPERATOR, \hyperpage{261}
-    \subitem ORDER, \hyperpage{263}
-    \subitem PRECEDENCE, \hyperpage{264}
-    \subitem PRECISION, \hyperpage{265}
-    \subitem PRINT\_PRECISION, \hyperpage{266}
-    \subitem REAL, \hyperpage{267}
-    \subitem REMFAC, \hyperpage{268}
-    \subitem REMIND, \hyperpage{471}
-    \subitem SCALAR, \hyperpage{269}
-    \subitem SCIENTIFIC\_NOTATION, \hyperpage{270}
-    \subitem SHARE, \hyperpage{271}
-    \subitem SPUR, \hyperpage{472}
-    \subitem SYMMETRIC, \hyperpage{273}
-    \subitem TR, \hyperpage{274}
-    \subitem UNTR, \hyperpage{276}
-    \subitem VARNAME, \hyperpage{277}
-    \subitem VECTOR, \hyperpage{474}
-  \item DECOMPOSE, \hyperpage{176}
-  \item decomposition, \hyperpage{70}, \hyperpage{86}, \hyperpage{93}, 
-		\hyperpage{97}, \hyperpage{176}, \hyperpage{204}, 
-		\hyperpage{221}
-  \item DEFINE, \hyperpage{234}
-  \item definite integration, \hyperpage{696}
-  \item DEFINT, \hyperpage{696}
-  \item DEFN, \hyperpage{330}
-  \item DEG, \hyperpage{177}
-  \item DEG2RAD, \hyperpage{106}
-  \item degree, \hyperpage{33}, \hyperpage{36}, \hyperpage{177}
-  \item degrees, \hyperpage{105, 106}, \hyperpage{109, 110}, 
-		\hyperpage{130, 131}
-  \item DEMO, \hyperpage{332}
-  \item DEN, \hyperpage{178}
-  \item denominator, \hyperpage{178}
-  \item DEPEND, \hyperpage{235}
-  \item depend, \hyperpage{253}
-  \item dependency, \hyperpage{235}
-  \item derivative, \hyperpage{179}, \hyperpage{333}, \hyperpage{366}
-  \item DESIR, \hyperpage{697}
-  \item DET, \hyperpage{397}
-  \item determinant, \hyperpage{397}
-  \item DF, \hyperpage{179}
-  \item DFPART, \hyperpage{698}
-  \item DFPRINT, \hyperpage{333}
-  \item diagonal, \hyperpage{632}
-  \item DIFFERENCE, \hyperpage{107}
-  \item differential calculus, \hyperpage{700}
-  \item differential equation, \hyperpage{202}, \hyperpage{694}, 
-		\hyperpage{697}, \hyperpage{721}
-  \item differential equations, \hyperpage{685}
-  \item differential form, \hyperpage{700}
-  \item DILOG, \hyperpage{108}
-  \item DILOG extended, \hyperpage{547}
-  \item dilogarithm function, \hyperpage{108}, \hyperpage{547}
-  \item Dirac algebra, \hyperpage{695}
-  \item DISPLAY, \hyperpage{155}
-  \item distributive polynomials, \hyperpage{412}, \hyperpage{459--461}
-  \item DIV, \hyperpage{334}
-  \item div, \hyperpage{711}
-  \item DMS2DEG, \hyperpage{109}
-  \item DMS2RAD, \hyperpage{110}
-  \item dot product, \hyperpage{688}, \hyperpage{711}
-  \item DUMMY, \hyperpage{699}
-  \item dummy variable, \hyperpage{699}
+    \subitem ANTISYMMETRIC, \hyperpage{236}
+    \subitem ARRAY, \hyperpage{237}
+    \subitem DEPEND, \hyperpage{243}
+    \subitem EVEN, \hyperpage{244}
+    \subitem FACTOR, \hyperpage{245}
+    \subitem INDEX, \hyperpage{479}
+    \subitem INFIX, \hyperpage{249}
+    \subitem INTEGER, \hyperpage{250}
+    \subitem KORDER, \hyperpage{251}
+    \subitem LINEAR, \hyperpage{256}
+    \subitem LINELENGTH, \hyperpage{258}
+    \subitem LISTARGP, \hyperpage{260}
+    \subitem MATRIX, \hyperpage{412}
+    \subitem NODEPEND, \hyperpage{261}
+    \subitem NONCOM, \hyperpage{264}
+    \subitem NONZERO, \hyperpage{265}
+    \subitem NOSPUR, \hyperpage{482}
+    \subitem ODD, \hyperpage{266}
+    \subitem OPERATOR, \hyperpage{269}
+    \subitem ORDER, \hyperpage{271}
+    \subitem PRECEDENCE, \hyperpage{272}
+    \subitem PRECISION, \hyperpage{273}
+    \subitem PRINT\_PRECISION, \hyperpage{274}
+    \subitem REAL, \hyperpage{275}
+    \subitem REMFAC, \hyperpage{276}
+    \subitem REMIND, \hyperpage{483}
+    \subitem SCALAR, \hyperpage{277}
+    \subitem SCIENTIFIC\_NOTATION, \hyperpage{278}
+    \subitem SHARE, \hyperpage{279}
+    \subitem SPUR, \hyperpage{484}
+    \subitem SYMMETRIC, \hyperpage{281}
+    \subitem TR, \hyperpage{282}
+    \subitem UNTR, \hyperpage{284}
+    \subitem VARNAME, \hyperpage{285}
+    \subitem VECTOR, \hyperpage{486}
+  \item DECOMPOSE, \hyperpage{183}
+  \item decomposition, \hyperpage{73}, \hyperpage{89}, \hyperpage{96}, 
+		\hyperpage{100}, \hyperpage{183}, \hyperpage{211}, 
+		\hyperpage{228}
+  \item DEFINE, \hyperpage{242}
+  \item definite integration, \hyperpage{718}
+  \item DEFINT, \hyperpage{718}
+  \item DEFN, \hyperpage{340}
+  \item DEG, \hyperpage{184}
+  \item DEG2RAD, \hyperpage{110}
+  \item degree, \hyperpage{35}, \hyperpage{38}, \hyperpage{184}
+  \item degrees, \hyperpage{109, 110}, \hyperpage{113, 114}, 
+		\hyperpage{134, 135}
+  \item DEMO, \hyperpage{342}
+  \item DEN, \hyperpage{185}
+  \item denominator, \hyperpage{185}
+  \item DEPEND, \hyperpage{243}
+  \item depend, \hyperpage{261}
+  \item dependency, \hyperpage{243}
+  \item derivative, \hyperpage{186}, \hyperpage{343}, \hyperpage{376}
+  \item DESIR, \hyperpage{719}
+  \item DET, \hyperpage{408}
+  \item determinant, \hyperpage{408}
+  \item DF, \hyperpage{186}
+  \item DFPART, \hyperpage{720}
+  \item DFPRINT, \hyperpage{343}
+  \item DIAGONAL, \hyperpage{652}
+  \item DIFFERENCE, \hyperpage{111}
+  \item differential calculus, \hyperpage{722}
+  \item differential equation, \hyperpage{209}, \hyperpage{716}, 
+		\hyperpage{719}, \hyperpage{743}
+  \item differential equations, \hyperpage{707}
+  \item differential form, \hyperpage{722}
+  \item DILOG, \hyperpage{112}
+  \item DILOG extended, \hyperpage{562}
+  \item dilogarithm function, \hyperpage{112}, \hyperpage{562}
+  \item Dirac algebra, \hyperpage{717}
+  \item DISPLAY, \hyperpage{161}
+  \item distributive polynomials, \hyperpage{423}, \hyperpage{470--472}
+  \item DIV, \hyperpage{344}
+  \item div, \hyperpage{733}
+  \item DMS2DEG, \hyperpage{113}
+  \item DMS2RAD, \hyperpage{114}
+  \item dot product, \hyperpage{710}, \hyperpage{733}
+  \item DUMMY, \hyperpage{721}
+  \item dummy variable, \hyperpage{721}
 
   \indexspace
 
-  \item E, \hyperpage{30}
-  \item ECHO, \hyperpage{335}
-  \item ED, \hyperpage{734}
-  \item EDITDEF, \hyperpage{740}
-  \item Ei, \hyperpage{565}
-  \item eigenvalue, \hyperpage{399}
-  \item EllipticE, \hyperpage{539}
-  \item EllipticF, \hyperpage{536}
-  \item EllipticK, \hyperpage{537}
-  \item EllipticKprime, \hyperpage{538}
-  \item EllipticTHETA, \hyperpage{540}
-  \item else, \hyperpage{79}
-  \item END, \hyperpage{68}
-  \item EPS, \hyperpage{464}
-  \item EQ, \hyperpage{731}
-  \item EQUAL, \hyperpage{140}
-  \item equal, \hyperpage{69}
-  \item EQUATION, \hyperpage{69}
-  \item equation, \hyperpage{69}, \hyperpage{140}, \hyperpage{192}, 
-		\hyperpage{212}, \hyperpage{217}, \hyperpage{337}
-  \item equation solving, \hyperpage{217}, \hyperpage{481}
-  \item equation system, \hyperpage{217}, \hyperpage{481}
-  \item ERF, \hyperpage{308}
-  \item ERF extended, \hyperpage{563}
-  \item erfc, \hyperpage{564}
-  \item erfi, \hyperpage{577}
-  \item ERRCONT, \hyperpage{336}
-  \item error function, \hyperpage{308}, \hyperpage{563, 564}
-  \item error handling, \hyperpage{161}, \hyperpage{336}
-  \item EULER, \hyperpage{503}
-  \item Euler's constant, \hyperpage{500}, \hyperpage{545}
-  \item EULERP, \hyperpage{504}
-  \item EVAL\_MODE, \hyperpage{31}
-  \item EVALLHSEQP, \hyperpage{337}
-  \item evaluation, \hyperpage{227}
-  \item EVEN, \hyperpage{236}
-  \item EVENP, \hyperpage{141}
-  \item EXCALC, \hyperpage{700}
-  \item EXP, \hyperpage{309}, \hyperpage{338}
-  \item EXPAND\_CASES, \hyperpage{180}
-  \item EXPANDLOGS, \hyperpage{339}
-  \item exponent simplification, \hyperpage{323}
-  \item exponential function, \hyperpage{309}
-  \item exponential integral function, \hyperpage{565}
-  \item EXPREAD, \hyperpage{181}
-  \item EXPT, \hyperpage{115}
-  \item extend, \hyperpage{633}
-  \item exterior calculus, \hyperpage{700}
-  \item EZGCD, \hyperpage{340}
+  \item E, \hyperpage{32}
+  \item ECHO, \hyperpage{345}
+  \item ED, \hyperpage{758}
+  \item EDITDEF, \hyperpage{764}
+  \item Ei, \hyperpage{580}
+  \item eigenvalue, \hyperpage{410}
+  \item EllipticE, \hyperpage{554}
+  \item EllipticF, \hyperpage{551}
+  \item EllipticK, \hyperpage{552}
+  \item EllipticKprime, \hyperpage{553}
+  \item EllipticTHETA, \hyperpage{555}
+  \item else, \hyperpage{82}
+  \item END, \hyperpage{71}
+  \item EPS, \hyperpage{476}
+  \item EQ, \hyperpage{754}
+  \item EQUAL, \hyperpage{145}
+  \item equal, \hyperpage{72}
+  \item EQUATION, \hyperpage{72}
+  \item equation, \hyperpage{72}, \hyperpage{145}, \hyperpage{199}, 
+		\hyperpage{219}, \hyperpage{224}, \hyperpage{347}
+  \item equation solving, \hyperpage{224}, \hyperpage{494}
+  \item equation system, \hyperpage{224}, \hyperpage{494}
+  \item ERF, \hyperpage{317}
+  \item ERF extended, \hyperpage{578}
+  \item erfc, \hyperpage{579}
+  \item erfi, \hyperpage{592}
+  \item ERRCONT, \hyperpage{346}
+  \item error function, \hyperpage{317}, \hyperpage{578, 579}
+  \item error handling, \hyperpage{167}, \hyperpage{346}
+  \item EULER, \hyperpage{518}
+  \item Euler's constant, \hyperpage{515}, \hyperpage{560}
+  \item EULERP, \hyperpage{519}
+  \item EVAL\_MODE, \hyperpage{33}
+  \item EVALLHSEQP, \hyperpage{347}
+  \item evaluation, \hyperpage{235}
+  \item EVEN, \hyperpage{244}
+  \item EVENP, \hyperpage{146}
+  \item EXCALC, \hyperpage{722}
+  \item EXP, \hyperpage{318}, \hyperpage{348}
+  \item EXPAND\_CASES, \hyperpage{187}
+  \item EXPANDLOGS, \hyperpage{349}
+  \item exponent simplification, \hyperpage{333}
+  \item exponential function, \hyperpage{318}
+  \item exponential integral function, \hyperpage{580}
+  \item EXPREAD, \hyperpage{188}
+  \item EXPT, \hyperpage{119}
+  \item EXTEND, \hyperpage{653}
+  \item exterior calculus, \hyperpage{722}
+  \item EZGCD, \hyperpage{350}
 
   \indexspace
 
-  \item FACTOR, \hyperpage{237}, \hyperpage{341}
-  \item factor, \hyperpage{268}
-  \item FACTORIAL, \hyperpage{111}
-  \item FACTORIZE, \hyperpage{182}
-  \item factorize, \hyperpage{182}, \hyperpage{351}, \hyperpage{357}, 
-		\hyperpage{371}, \hyperpage{390, 391}
-  \item FAILHARD, \hyperpage{343}
-  \item FALSE, \hyperpage{142}
-  \item false, \hyperpage{37}, \hyperpage{152}
-  \item fast_la, \hyperpage{617}
-  \item FASTFOR, \hyperpage{732}
-  \item Faugere-Gianni-Lazard-Mora algorithm, \hyperpage{409}
-  \item FIDE, \hyperpage{702}
-  \item find_companion, \hyperpage{634}
-  \item FIRST, \hyperpage{70}
-  \item firstroot, \hyperpage{489}
-  \item FIX, \hyperpage{112}
-  \item FIXP, \hyperpage{113}
-  \item Fletcher Reeves, \hyperpage{480}
-  \item floating point, \hyperpage{265, 266}, \hyperpage{270}, 
-		\hyperpage{322}, \hyperpage{384}, \hyperpage{386}
-  \item FLOOR, \hyperpage{114}
-  \item FOR, \hyperpage{71}
-  \item FORALL, \hyperpage{239}
-  \item FOREACH, \hyperpage{74}
-  \item FORT, \hyperpage{344}
-  \item FORT\_WIDTH, \hyperpage{32}
-  \item FORTRAN, \hyperpage{29}, \hyperpage{32}, \hyperpage{344, 345}, 
-		\hyperpage{703}
-  \item FORTUPPER, \hyperpage{345}
-  \item Fourier series, \hyperpage{691}
-  \item FPS, \hyperpage{701}
-  \item Free Variable, \hyperpage{91}
-  \item FREEOF, \hyperpage{143}
-  \item Fresnel_C, \hyperpage{566}
-  \item Fresnel_S, \hyperpage{567}
-  \item Frobenius, \hyperpage{675}
-  \item FULLPREC, \hyperpage{346}
-  \item FULLROOTS, \hyperpage{347}
+  \item FACTOR, \hyperpage{245}, \hyperpage{351}
+  \item factor, \hyperpage{276}
+  \item FACTORIAL, \hyperpage{115}
+  \item FACTORIZE, \hyperpage{189}
+  \item factorize, \hyperpage{189}, \hyperpage{361}, \hyperpage{367}, 
+		\hyperpage{381}, \hyperpage{400, 401}
+  \item FAILHARD, \hyperpage{353}
+  \item FALSE, \hyperpage{147}
+  \item false, \hyperpage{39}, \hyperpage{157}
+  \item FAST_LA, \hyperpage{636}
+  \item FASTFOR, \hyperpage{755}
+  \item Faugere-Gianni-Lazard-Mora algorithm, \hyperpage{420}
+  \item FIDE, \hyperpage{724}
+  \item FIND_COMPANION, \hyperpage{654}
+  \item FIRST, \hyperpage{73}
+  \item firstroot, \hyperpage{503}
+  \item FIX, \hyperpage{116}
+  \item FIXP, \hyperpage{117}
+  \item Fletcher Reeves, \hyperpage{493}
+  \item floating point, \hyperpage{273, 274}, \hyperpage{278}, 
+		\hyperpage{332}, \hyperpage{394}, \hyperpage{396}
+  \item FLOOR, \hyperpage{118}
+  \item FOR, \hyperpage{74}
+  \item FORALL, \hyperpage{247}
+  \item FOREACH, \hyperpage{77}
+  \item FORT, \hyperpage{354}
+  \item FORT\_WIDTH, \hyperpage{34}
+  \item FORTRAN, \hyperpage{31}, \hyperpage{34}, \hyperpage{354, 355}, 
+		\hyperpage{725}
+  \item FORTUPPER, \hyperpage{355}
+  \item Fourier series, \hyperpage{713}
+  \item FPS, \hyperpage{723}
+  \item Free Variable, \hyperpage{94}
+  \item FREEOF, \hyperpage{148}
+  \item Fresnel_C, \hyperpage{581}
+  \item Fresnel_S, \hyperpage{582}
+  \item FROBENIUS, \hyperpage{696}
+  \item FULLPREC, \hyperpage{356}
+  \item FULLROOTS, \hyperpage{357}
 
   \indexspace
 
-  \item G, \hyperpage{465}
-  \item GAMMA, \hyperpage{543}
-  \item gamma, \hyperpage{111}
-  \item GC, \hyperpage{348}
-  \item GCD, \hyperpage{116}, \hyperpage{349}
-  \item gdimension, \hyperpage{439}
-  \item GegenbauerP, \hyperpage{555}
-  \item generalized hypergeometric function, \hyperpage{574}
-  \item GENTRAN, \hyperpage{703}
-  \item GEQ, \hyperpage{75}
-  \item get_columns, \hyperpage{635}
-  \item get_rows, \hyperpage{636}
-  \item getroot, \hyperpage{489}
-  \item gindependent\_sets, \hyperpage{440}
-  \item glexconvert, \hyperpage{442}
-  \item gltb, \hyperpage{433}
-  \item gltbasis, \hyperpage{432}
-  \item glterms, \hyperpage{434}
-  \item gmodule, \hyperpage{458}
-  \item GNUPLOT and REDUCE, \hyperpage{593}
-  \item Golden_Ratio, \hyperpage{500}
-  \item Gosper algorithm, \hyperpage{207}, \hyperpage{224}
-  \item GOTO, \hyperpage{76}
-  \item grad, \hyperpage{711}
-  \item graded term order, \hyperpage{423}
-  \item gradlex term order, \hyperpage{416}
-  \item gradlexgradlex term order, \hyperpage{418}
-  \item gradlexrevgradlex term order, \hyperpage{419}
-  \item gram_schmidt, \hyperpage{637}
-  \item graphics, \hyperpage{596}
-  \item GREATERP, \hyperpage{77}
-  \item greatest common divisor, \hyperpage{116}, \hyperpage{340}, 
-		\hyperpage{349}
-  \item greduce, \hyperpage{443}
-  \item groebfullreduction, \hyperpage{431}
-  \item groebmonfac, \hyperpage{450}
-  \item Groebner, \hyperpage{690}, \hyperpage{704}
-  \item groebner, \hyperpage{426}, \hyperpage{439, 440}
-  \item Groebner bases, \hyperpage{409}
-  \item Groebner basis, \hyperpage{727}
-  \item groebner\_walk, \hyperpage{427}
-  \item groebnerf, \hyperpage{448}
-  \item groebnert, \hyperpage{455}
-  \item groebopt, \hyperpage{428}
-  \item groebprereduce, \hyperpage{430}
-  \item groebprot, \hyperpage{453}
-  \item groebprotfile, \hyperpage{454}
-  \item groebresmax, \hyperpage{451}
-  \item groebrestriction, \hyperpage{452}
-  \item groebstat, \hyperpage{435}
-  \item gsort, \hyperpage{459}
-  \item gsplit, \hyperpage{460}
-  \item gspoly, \hyperpage{461}
-  \item gvars, \hyperpage{425}
-  \item gvarslast, \hyperpage{429}
-  \item gzerodim?, \hyperpage{438}
+  \item G, \hyperpage{477}
+  \item GAMMA, \hyperpage{558}
+  \item gamma, \hyperpage{115}
+  \item GC, \hyperpage{358}
+  \item GCD, \hyperpage{120}, \hyperpage{359}
+  \item gdimension, \hyperpage{450}
+  \item GegenbauerP, \hyperpage{570}
+  \item generalized hypergeometric function, \hyperpage{589}
+  \item GENTRAN, \hyperpage{725}
+  \item GEQ, \hyperpage{78}
+  \item GET_COLUMNS, \hyperpage{655}
+  \item GET_ROWS, \hyperpage{656}
+  \item getroot, \hyperpage{503}
+  \item gindependent\_sets, \hyperpage{451}
+  \item glexconvert, \hyperpage{453}
+  \item gltb, \hyperpage{444}
+  \item gltbasis, \hyperpage{443}
+  \item glterms, \hyperpage{445}
+  \item gmodule, \hyperpage{469}
+  \item GNUPLOT and REDUCE, \hyperpage{610}
+  \item Golden_Ratio, \hyperpage{515}
+  \item Gosper algorithm, \hyperpage{214}, \hyperpage{231}
+  \item GOTO, \hyperpage{79}
+  \item grad, \hyperpage{733}
+  \item graded term order, \hyperpage{434}
+  \item gradlex term order, \hyperpage{427}
+  \item gradlexgradlex term order, \hyperpage{429}
+  \item gradlexrevgradlex term order, \hyperpage{430}
+  \item GRAM_SCHMIDT, \hyperpage{657}
+  \item graphics, \hyperpage{613}
+  \item GREATERP, \hyperpage{80}
+  \item greatest common divisor, \hyperpage{120}, \hyperpage{350}, 
+		\hyperpage{359}
+  \item greduce, \hyperpage{454}
+  \item groebfullreduction, \hyperpage{442}
+  \item groebmonfac, \hyperpage{461}
+  \item Groebner, \hyperpage{712}, \hyperpage{726}
+  \item groebner, \hyperpage{437}, \hyperpage{450, 451}
+  \item Groebner bases, \hyperpage{420}
+  \item Groebner basis, \hyperpage{749}
+  \item groebner\_walk, \hyperpage{438}
+  \item groebnerf, \hyperpage{459}
+  \item groebnert, \hyperpage{466}
+  \item groebopt, \hyperpage{439}
+  \item groebprereduce, \hyperpage{441}
+  \item groebprot, \hyperpage{464}
+  \item groebprotfile, \hyperpage{465}
+  \item groebresmax, \hyperpage{462}
+  \item groebrestriction, \hyperpage{463}
+  \item groebstat, \hyperpage{446}
+  \item gsort, \hyperpage{470}
+  \item gsplit, \hyperpage{471}
+  \item gspoly, \hyperpage{472}
+  \item gvars, \hyperpage{436}
+  \item gvarslast, \hyperpage{440}
+  \item gzerodim?, \hyperpage{449}
 
   \indexspace
 
-  \item HANKEL1, \hyperpage{508}
-  \item HANKEL2, \hyperpage{509}
-  \item Heaviside, \hyperpage{576}
-  \item HEPHYS, \hyperpage{462}
-  \item HermiteP, \hyperpage{551}
-  \item hermitian_tp, \hyperpage{638}
-  \item hessian, \hyperpage{639}
-  \item hidden3d, \hyperpage{608}
-  \item high energy physics, \hyperpage{726}
-  \item HIGH\_POW, \hyperpage{33}
-  \item hilbert, \hyperpage{640}
-  \item hilbertpolynomial, \hyperpage{446}
-  \item history, \hyperpage{155}
-  \item Hollmann algorithm, \hyperpage{409}, \hyperpage{446}
-  \item HORNER, \hyperpage{350}
-  \item hyperbolic arccosecant, \hyperpage{296}
-  \item hyperbolic arccosine, \hyperpage{290}
-  \item hyperbolic arcsine, \hyperpage{298}
-  \item hyperbolic arctangent, \hyperpage{300}
-  \item hyperbolic cosecan, \hyperpage{307}
-  \item hyperbolic cosine, \hyperpage{303}
-  \item hyperbolic cosine integral function, \hyperpage{562}
-  \item hyperbolic cotangent, \hyperpage{292}, \hyperpage{305}
-  \item hyperbolic secant, \hyperpage{311}
-  \item hyperbolic sine, \hyperpage{313}
-  \item hyperbolic sine integral function, \hyperpage{559}
-  \item hyperbolic tangent, \hyperpage{315}
-  \item HYPERGEOMETRIC, \hyperpage{574}
-  \item hypergeometric function, \hyperpage{574}
-  \item HYPOT, \hyperpage{184}
+  \item HANKEL1, \hyperpage{523}
+  \item HANKEL2, \hyperpage{524}
+  \item Heaviside, \hyperpage{591}
+  \item HEPHYS, \hyperpage{474}
+  \item HermiteP, \hyperpage{566}
+  \item HERMITIAN_TP, \hyperpage{658}
+  \item HESSIAN, \hyperpage{659}
+  \item hidden3d, \hyperpage{625}
+  \item high energy physics, \hyperpage{748}
+  \item HIGH\_POW, \hyperpage{35}
+  \item HILBERT, \hyperpage{660}
+  \item hilbertpolynomial, \hyperpage{457}
+  \item history, \hyperpage{161}
+  \item Hollmann algorithm, \hyperpage{420}, \hyperpage{457}
+  \item HORNER, \hyperpage{360}
+  \item hyperbolic arccosecant, \hyperpage{305}
+  \item hyperbolic arccosine, \hyperpage{299}
+  \item hyperbolic arcsine, \hyperpage{307}
+  \item hyperbolic arctangent, \hyperpage{309}
+  \item hyperbolic cosecan, \hyperpage{316}
+  \item hyperbolic cosine, \hyperpage{312}
+  \item hyperbolic cosine integral function, \hyperpage{577}
+  \item hyperbolic cotangent, \hyperpage{301}, \hyperpage{314}
+  \item hyperbolic secant, \hyperpage{320}
+  \item hyperbolic sine, \hyperpage{322}
+  \item hyperbolic sine integral function, \hyperpage{574}
+  \item hyperbolic tangent, \hyperpage{324}
+  \item HYPERGEOMETRIC, \hyperpage{589}
+  \item hypergeometric function, \hyperpage{589}
+  \item HYPOT, \hyperpage{191}
 
   \indexspace
 
-  \item I, \hyperpage{34}
-  \item ideal, \hyperpage{704}
-  \item ideal dimension, \hyperpage{439, 440}
-  \item Ideal Parameters, \hyperpage{410}
-  \item ideal variables, \hyperpage{440}, \hyperpage{442}
-  \item idealquotient, \hyperpage{445}
-  \item IDEALS, \hyperpage{704}
-  \item IDENTIFIER, \hyperpage{25}
-  \item identifier, \hyperpage{199}
-  \item IF, \hyperpage{78}
-  \item IFACTOR, \hyperpage{351}
-  \item imaginary part, \hyperpage{185}
-  \item IMPART, \hyperpage{185}
-  \item IN, \hyperpage{285}
-  \item INDEX, \hyperpage{467}
-  \item INEQ, \hyperpage{705}
-  \item inequality, \hyperpage{705}
-  \item INFINITY, \hyperpage{35}
-  \item INFIX, \hyperpage{241}
-  \item initial value problem, \hyperpage{483}
-  \item INPUT, \hyperpage{286}
-  \item input, \hyperpage{101}, \hyperpage{181}, \hyperpage{285}, 
-		\hyperpage{376}
-  \item INT, \hyperpage{186}, \hyperpage{352}
-  \item INTEGER, \hyperpage{242}
-  \item integer, \hyperpage{103}, \hyperpage{112--114}, \hyperpage{134}, 
-		\hyperpage{351}, \hyperpage{372}
-  \item integral function, \hyperpage{558--560}, \hyperpage{562}
-  \item integration, \hyperpage{186}, \hyperpage{317}, \hyperpage{343}, 
-		\hyperpage{367}, \hyperpage{393}, \hyperpage{482}, 
-		\hyperpage{684}
-  \item integration of square roots, \hyperpage{684}
-  \item interactive, \hyperpage{155}, \hyperpage{157}, \hyperpage{162}, 
-		\hyperpage{225}, \hyperpage{286}, \hyperpage{332}, 
-		\hyperpage{352}
-  \item INTERPOL, \hyperpage{188}
-  \item interpolation, \hyperpage{188}, \hyperpage{490}
-  \item Interval, \hyperpage{477}
+  \item I, \hyperpage{36}
+  \item ideal, \hyperpage{726}
+  \item ideal dimension, \hyperpage{450, 451}
+  \item Ideal Parameters, \hyperpage{421}
+  \item ideal variables, \hyperpage{451}, \hyperpage{453}
+  \item idealquotient, \hyperpage{456}
+  \item IDEALS, \hyperpage{726}
+  \item IDENTIFIER, \hyperpage{26}
+  \item identifier, \hyperpage{206}
+  \item IF, \hyperpage{81}
+  \item IFACTOR, \hyperpage{361}
+  \item imaginary part, \hyperpage{192}
+  \item IMPART, \hyperpage{192}
+  \item IN, \hyperpage{293}
+  \item INDEX, \hyperpage{479}
+  \item INEQ, \hyperpage{727}
+  \item inequality, \hyperpage{727}
+  \item INFINITY, \hyperpage{37}
+  \item INFIX, \hyperpage{249}
+  \item initial value problem, \hyperpage{496}
+  \item INPUT, \hyperpage{294}
+  \item input, \hyperpage{105}, \hyperpage{188}, \hyperpage{293}, 
+		\hyperpage{386}
+  \item INT, \hyperpage{193}, \hyperpage{362}
+  \item INTEGER, \hyperpage{250}
+  \item integer, \hyperpage{107}, \hyperpage{116--118}, \hyperpage{138}, 
+		\hyperpage{361}, \hyperpage{382}
+  \item integral function, \hyperpage{573--575}, \hyperpage{577}
+  \item integration, \hyperpage{193}, \hyperpage{327}, \hyperpage{353}, 
+		\hyperpage{377}, \hyperpage{403}, \hyperpage{495}, 
+		\hyperpage{706}
+  \item integration of square roots, \hyperpage{706}
+  \item interactive, \hyperpage{161}, \hyperpage{163}, \hyperpage{168}, 
+		\hyperpage{232}, \hyperpage{294}, \hyperpage{342}, 
+		\hyperpage{362}
+  \item INTERPOL, \hyperpage{195}
+  \item interpolation, \hyperpage{195}, \hyperpage{504}
+  \item Interval, \hyperpage{490}
   \item Introduction
-    \subitem ARITHMETIC\_OPERATIONS, \hyperpage{99}
-    \subitem GNUPLOT and REDUCE, \hyperpage{593}
-    \subitem Groebner bases, \hyperpage{409}
-    \subitem HEPHYS, \hyperpage{462}
-    \subitem Linear Algebra package, \hyperpage{615}
-    \subitem Miscellaneous Packages, \hyperpage{683}
-    \subitem Numeric Package, \hyperpage{476}
-    \subitem Roots Package, \hyperpage{489}
-    \subitem Special Function Package, \hyperpage{498}
-    \subitem SWITCHES, \hyperpage{316}
-    \subitem TAYLOR, \hyperpage{578}
-    \subitem Term order, \hyperpage{412}
-  \item INTSTR, \hyperpage{353}
-  \item INVBASE, \hyperpage{706}
-  \item io, \hyperpage{767--769}
-  \item isolater, \hyperpage{489}
+    \subitem ARITHMETIC\_OPERATIONS, \hyperpage{103}
+    \subitem GNUPLOT and REDUCE, \hyperpage{610}
+    \subitem Groebner bases, \hyperpage{420}
+    \subitem HEPHYS, \hyperpage{474}
+    \subitem Linear Algebra package, \hyperpage{633}
+    \subitem Miscellaneous Packages, \hyperpage{705}
+    \subitem Numeric Package, \hyperpage{489}
+    \subitem Roots Package, \hyperpage{503}
+    \subitem Special Function Package, \hyperpage{513}
+    \subitem SWITCHES, \hyperpage{326}
+    \subitem TAYLOR, \hyperpage{594}
+    \subitem Term order, \hyperpage{423}
+  \item INTSTR, \hyperpage{363}
+  \item INVBASE, \hyperpage{728}
+  \item io, \hyperpage{791--793}
+  \item isolater, \hyperpage{503}
 
   \indexspace
 
-  \item JacobiAMPLITUDE, \hyperpage{533}
-  \item jacobian, \hyperpage{641}
-  \item Jacobian matrix, \hyperpage{481}
-  \item JacobiCD, \hyperpage{524}
-  \item JacobiCN, \hyperpage{522}
-  \item JacobiCS, \hyperpage{532}
-  \item JacobiDC, \hyperpage{527}
-  \item JacobiDN, \hyperpage{523}
-  \item JacobiDS, \hyperpage{531}
-  \item JacobiNC, \hyperpage{528}
-  \item JacobiND, \hyperpage{526}
-  \item JacobiNS, \hyperpage{530}
-  \item JacobiP, \hyperpage{554}
-  \item JacobiSC, \hyperpage{529}
-  \item JacobiSD, \hyperpage{525}
-  \item JacobiSN, \hyperpage{521}
-  \item JacobiZETA, \hyperpage{541}
-  \item Jordan, \hyperpage{681}
-  \item jordan_block, \hyperpage{642}
-  \item Jordansymbolic, \hyperpage{679}
+  \item JacobiAMPLITUDE, \hyperpage{548}
+  \item JACOBIAN, \hyperpage{661}
+  \item Jacobian matrix, \hyperpage{494}
+  \item JacobiCD, \hyperpage{539}
+  \item JacobiCN, \hyperpage{537}
+  \item JacobiCS, \hyperpage{547}
+  \item JacobiDC, \hyperpage{542}
+  \item JacobiDN, \hyperpage{538}
+  \item JacobiDS, \hyperpage{546}
+  \item JacobiNC, \hyperpage{543}
+  \item JacobiND, \hyperpage{541}
+  \item JacobiNS, \hyperpage{545}
+  \item JacobiP, \hyperpage{569}
+  \item JacobiSC, \hyperpage{544}
+  \item JacobiSD, \hyperpage{540}
+  \item JacobiSN, \hyperpage{536}
+  \item JacobiZETA, \hyperpage{556}
+  \item JORDAN, \hyperpage{702}
+  \item JORDAN_BLOCK, \hyperpage{662}
+  \item JORDANSYMBOLIC, \hyperpage{700}
 
   \indexspace
 
-  \item KERNEL, \hyperpage{26}
-  \item kernel order, \hyperpage{243}
-  \item Khinchin's constant, \hyperpage{500}
-  \item KORDER, \hyperpage{243}
-  \item Kredel-Weispfenning algorithm, \hyperpage{409}, \hyperpage{440}
-  \item KummerM, \hyperpage{514}
-  \item KummerU, \hyperpage{515}
+  \item KERNEL, \hyperpage{27}
+  \item kernel order, \hyperpage{251}
+  \item Khinchin's constant, \hyperpage{515}
+  \item KORDER, \hyperpage{251}
+  \item Kredel-Weispfenning algorithm, \hyperpage{420}, \hyperpage{451}
+  \item KummerM, \hyperpage{529}
+  \item KummerU, \hyperpage{530}
 
   \indexspace
 
-  \item l'Hopital's rule, \hyperpage{193}
-  \item LaguerreP, \hyperpage{552}
-  \item Lambert\_W function, \hyperpage{548}
-  \item LANDENTRANS, \hyperpage{535}
-  \item LAPLACE, \hyperpage{707}
-  \item Laplacian, \hyperpage{711}
-  \item Laurent-Puiseux series, \hyperpage{701}
-  \item LCM, \hyperpage{354}
-  \item LCOF, \hyperpage{189}
-  \item leading power, \hyperpage{194}
-  \item leading term, \hyperpage{195}
-  \item least squares, \hyperpage{488}
-  \item left-hand side, \hyperpage{192}
-  \item LegendreP, \hyperpage{553}
-  \item LENGTH, \hyperpage{190}
-  \item LEQ, \hyperpage{144}
-  \item LESSP, \hyperpage{145}
-  \item LESSSPACE, \hyperpage{356}
-  \item LET, \hyperpage{244}
-  \item lex term order, \hyperpage{415}
-  \item lexgradlex term order, \hyperpage{420}
-  \item lexrevgradlex term order, \hyperpage{421}
-  \item LHS, \hyperpage{192}
-  \item LIE, \hyperpage{708}
-  \item Lie symmetry, \hyperpage{721}
-  \item LIMIT, \hyperpage{193}
-  \item limit, \hyperpage{193}
-  \item LIMITEDFACTORS, \hyperpage{357}
-  \item LINEAR, \hyperpage{248}
-  \item Linear Algebra package, \hyperpage{615}
-  \item linear system, \hyperpage{329}
-  \item LINELENGTH, \hyperpage{250}
-  \item LISP, \hyperpage{251}
-  \item lisp, \hyperpage{330}, \hyperpage{383}
-  \item LIST, \hyperpage{80}, \hyperpage{358}
-  \item list, \hyperpage{46}, \hyperpage{70}, \hyperpage{80}, 
-		\hyperpage{86}, \hyperpage{89}, \hyperpage{93}, 
-		\hyperpage{97}, \hyperpage{146}, \hyperpage{167}, 
-		\hyperpage{190}, \hyperpage{214}, \hyperpage{252}, 
-		\hyperpage{359}
-  \item LISTARGP, \hyperpage{252}
-  \item LISTARGS, \hyperpage{359}
-  \item LN, \hyperpage{117}
-  \item LOAD\_PACKAGE, \hyperpage{156}
-  \item LOG, \hyperpage{118}
-  \item logarithm, \hyperpage{117--119}, \hyperpage{324}, 
-		\hyperpage{339}
-  \item LOGB, \hyperpage{119}
-  \item loop, \hyperpage{71}, \hyperpage{74}, \hyperpage{85}, 
-		\hyperpage{282}
-  \item LOW\_POW, \hyperpage{36}
-  \item LPOWER, \hyperpage{194}
-  \item LTERM, \hyperpage{195}
-  \item lu_decom, \hyperpage{643}
+  \item l'Hopital's rule, \hyperpage{200}
+  \item LaguerreP, \hyperpage{567}
+  \item Lambert\_W function, \hyperpage{563}
+  \item LANDENTRANS, \hyperpage{550}
+  \item LAPLACE, \hyperpage{729}
+  \item Laplacian, \hyperpage{733}
+  \item Laurent-Puiseux series, \hyperpage{723}
+  \item LCM, \hyperpage{364}
+  \item LCOF, \hyperpage{196}
+  \item leading power, \hyperpage{201}
+  \item leading term, \hyperpage{202}
+  \item least squares, \hyperpage{501}
+  \item left-hand side, \hyperpage{199}
+  \item LegendreP, \hyperpage{568}
+  \item LENGTH, \hyperpage{197}
+  \item LEQ, \hyperpage{149}
+  \item LESSP, \hyperpage{150}
+  \item LESSSPACE, \hyperpage{366}
+  \item LET, \hyperpage{252}
+  \item lex term order, \hyperpage{426}
+  \item lexgradlex term order, \hyperpage{431}
+  \item lexrevgradlex term order, \hyperpage{432}
+  \item LHS, \hyperpage{199}
+  \item LIE, \hyperpage{730}
+  \item Lie symmetry, \hyperpage{743}
+  \item LIMIT, \hyperpage{200}
+  \item limit, \hyperpage{200}
+  \item LIMITEDFACTORS, \hyperpage{367}
+  \item LINEAR, \hyperpage{256}
+  \item Linear Algebra package, \hyperpage{633}
+  \item linear system, \hyperpage{339}
+  \item LINELENGTH, \hyperpage{258}
+  \item LISP, \hyperpage{259}
+  \item lisp, \hyperpage{340}, \hyperpage{393}
+  \item LIST, \hyperpage{83}, \hyperpage{368}
+  \item list, \hyperpage{49}, \hyperpage{73}, \hyperpage{83}, 
+		\hyperpage{89}, \hyperpage{92}, \hyperpage{96}, 
+		\hyperpage{100}, \hyperpage{151}, \hyperpage{174}, 
+		\hyperpage{197}, \hyperpage{221}, \hyperpage{260}, 
+		\hyperpage{369}
+  \item LISTARGP, \hyperpage{260}
+  \item LISTARGS, \hyperpage{369}
+  \item LN, \hyperpage{121}
+  \item LOAD\_PACKAGE, \hyperpage{162}
+  \item LOG, \hyperpage{122}
+  \item logarithm, \hyperpage{121--123}, \hyperpage{334}, 
+		\hyperpage{349}
+  \item LOGB, \hyperpage{123}
+  \item loop, \hyperpage{74}, \hyperpage{77}, \hyperpage{88}, 
+		\hyperpage{290}
+  \item LOW\_POW, \hyperpage{38}
+  \item LPOWER, \hyperpage{201}
+  \item LTERM, \hyperpage{202}
+  \item LU_DECOM, \hyperpage{663}
 
   \indexspace
 
-  \item main variable, \hyperpage{196}
-  \item MAINVAR, \hyperpage{196}
-  \item make_identity, \hyperpage{646}
-  \item MAP, \hyperpage{197}
-  \item map, \hyperpage{197}, \hyperpage{214}
-  \item MASS, \hyperpage{468}
-  \item MAT, \hyperpage{398}
-  \item MATCH, \hyperpage{254}
-  \item MATEIGEN, \hyperpage{399}
-  \item MATRIX, \hyperpage{401}
-  \item matrix, \hyperpage{329}, \hyperpage{396--399}, \hyperpage{403}, 
-		\hyperpage{405--407}
-  \item matrix term order, \hyperpage{424}
-  \item matrix_augment, \hyperpage{647}
-  \item matrix_stack, \hyperpage{649}
-  \item matrixp, \hyperpage{648}
-  \item MAX, \hyperpage{120}
-  \item maximum, \hyperpage{120}
-  \item MCD, \hyperpage{360}
-  \item MeijerG, \hyperpage{575}
-  \item MEMBER, \hyperpage{146}
-  \item memory, \hyperpage{160}, \hyperpage{348}
-  \item MEMQ, \hyperpage{733}
-  \item MIN, \hyperpage{121}
-  \item minimum, \hyperpage{121}, \hyperpage{480}
-  \item minor, \hyperpage{650}
-  \item MINUS, \hyperpage{122}
-  \item Miscellaneous Packages, \hyperpage{683}
-  \item MKID, \hyperpage{199}
-  \item MKPOLY, \hyperpage{490}
-  \item MODSR, \hyperpage{709}
-  \item MODULAR, \hyperpage{361}
-  \item modular, \hyperpage{135}, \hyperpage{321}, \hyperpage{361}
-  \item modular polynomial, \hyperpage{709}
-  \item Module, \hyperpage{457}
-  \item MSG, \hyperpage{362}
-  \item MSHELL, \hyperpage{469}
-  \item mult_columns, \hyperpage{651}
-  \item mult_rows, \hyperpage{652}
-  \item MULTIPLICITIES, \hyperpage{363}
+  \item main variable, \hyperpage{203}
+  \item MAINVAR, \hyperpage{203}
+  \item MAKE_IDENTITY, \hyperpage{666}
+  \item MAP, \hyperpage{204}
+  \item map, \hyperpage{204}, \hyperpage{221}
+  \item MASS, \hyperpage{480}
+  \item MAT, \hyperpage{409}
+  \item MATCH, \hyperpage{262}
+  \item MATEIGEN, \hyperpage{410}
+  \item MATRIX, \hyperpage{412}
+  \item matrix, \hyperpage{339}, \hyperpage{407--410}, \hyperpage{414}, 
+		\hyperpage{416--418}
+  \item matrix term order, \hyperpage{435}
+  \item MATRIX_AUGMENT, \hyperpage{667}
+  \item MATRIX_STACK, \hyperpage{669}
+  \item MATRIXP, \hyperpage{668}
+  \item MAX, \hyperpage{124}
+  \item maximum, \hyperpage{124}
+  \item MCD, \hyperpage{370}
+  \item MeijerG, \hyperpage{590}
+  \item MEMBER, \hyperpage{151}
+  \item memory, \hyperpage{166}, \hyperpage{358}
+  \item MEMQ, \hyperpage{756}
+  \item MIN, \hyperpage{125}
+  \item minimum, \hyperpage{125}, \hyperpage{493}
+  \item MINOR, \hyperpage{670}
+  \item MINUS, \hyperpage{126}
+  \item Miscellaneous Packages, \hyperpage{705}
+  \item MKID, \hyperpage{206}
+  \item MKPOLY, \hyperpage{504}
+  \item MODSR, \hyperpage{731}
+  \item MODULAR, \hyperpage{371}
+  \item modular, \hyperpage{139}, \hyperpage{331}, \hyperpage{371}
+  \item modular polynomial, \hyperpage{731}
+  \item Module, \hyperpage{468}
+  \item MSG, \hyperpage{372}
+  \item MSHELL, \hyperpage{481}
+  \item MULT_COLUMNS, \hyperpage{671}
+  \item MULT_ROWS, \hyperpage{672}
+  \item MULTIPLICITIES, \hyperpage{373}
 
   \indexspace
 
-  \item NAT, \hyperpage{364}
-  \item NCPOLY, \hyperpage{710}
-  \item NEARESTROOT, \hyperpage{491}
-  \item NEQ, \hyperpage{147}
-  \item NERO, \hyperpage{365}
-  \item Newton iteration, \hyperpage{481}
-  \item NEXTPRIME, \hyperpage{123}
-  \item NIL, \hyperpage{37}
-  \item NOARG, \hyperpage{366}
-  \item NOCONVERT, \hyperpage{124}
-  \item NODEPEND, \hyperpage{253}
-  \item NOLNR, \hyperpage{367}
-  \item non commutative, \hyperpage{256}
-  \item non-commutativity, \hyperpage{710}
-  \item NONCOM, \hyperpage{256}
-  \item NONZERO, \hyperpage{257}
-  \item NORM, \hyperpage{125}
-  \item NOSPLIT, \hyperpage{368}
-  \item NOSPUR, \hyperpage{470}
-  \item NOT, \hyperpage{148}
-  \item NPRIMITIVE, \hyperpage{200}
-  \item NULLSPACE, \hyperpage{403}
-  \item NUM, \hyperpage{201}
-  \item num_fit, \hyperpage{488}
-  \item num_int, \hyperpage{482}
-  \item num_min, \hyperpage{480}
-  \item num_odesolve, \hyperpage{483}
-  \item num_solve, \hyperpage{481}
-  \item NUMBERP, \hyperpage{149}
-  \item numerator, \hyperpage{201}
-  \item numeric accuracy, \hyperpage{478}
-  \item Numeric Package, \hyperpage{476}
-  \item NUMVAL, \hyperpage{369}
+  \item NAT, \hyperpage{374}
+  \item NCPOLY, \hyperpage{732}
+  \item NEARESTROOT, \hyperpage{505}
+  \item NEQ, \hyperpage{152}
+  \item NERO, \hyperpage{375}
+  \item Newton iteration, \hyperpage{494}
+  \item NEXTPRIME, \hyperpage{127}
+  \item NIL, \hyperpage{39}
+  \item NOARG, \hyperpage{376}
+  \item NOCONVERT, \hyperpage{128}
+  \item NODEPEND, \hyperpage{261}
+  \item NOLNR, \hyperpage{377}
+  \item non commutative, \hyperpage{264}
+  \item non-commutativity, \hyperpage{732}
+  \item NONCOM, \hyperpage{264}
+  \item NONZERO, \hyperpage{265}
+  \item NORM, \hyperpage{129}
+  \item NOSPLIT, \hyperpage{378}
+  \item NOSPUR, \hyperpage{482}
+  \item NOT, \hyperpage{153}
+  \item NPRIMITIVE, \hyperpage{207}
+  \item NULLSPACE, \hyperpage{414}
+  \item NUM, \hyperpage{208}
+  \item num_fit, \hyperpage{501}
+  \item num_int, \hyperpage{495}
+  \item num_min, \hyperpage{493}
+  \item num_odesolve, \hyperpage{496}
+  \item num_solve, \hyperpage{494}
+  \item NUMBERP, \hyperpage{154}
+  \item numerator, \hyperpage{208}
+  \item numeric accuracy, \hyperpage{491}
+  \item Numeric Package, \hyperpage{489}
+  \item NUMVAL, \hyperpage{379}
 
   \indexspace
 
-  \item ODD, \hyperpage{258}
-  \item ODE, \hyperpage{483}
-  \item ODESOLVE, \hyperpage{202}
-  \item OFF, \hyperpage{259}
-  \item ON, \hyperpage{260}
-  \item ONE\_OF, \hyperpage{203}
-  \item open, \hyperpage{287}
-  \item OPERATOR, \hyperpage{261}
+  \item ODD, \hyperpage{266}
+  \item ODE, \hyperpage{496}
+  \item ODESOLVE, \hyperpage{209}
+  \item OFF, \hyperpage{267}
+  \item ON, \hyperpage{268}
+  \item ONE\_OF, \hyperpage{210}
+  \item open, \hyperpage{295}
+  \item OPERATOR, \hyperpage{269}
   \item Operator
-    \subitem *, \hyperpage{53}
-    \subitem **, \hyperpage{55}
-    \subitem +, \hyperpage{51}
-    \subitem -, \hyperpage{52}
-    \subitem ., \hyperpage{46}, \hyperpage{463}
-    \subitem /, \hyperpage{54}
-    \subitem :=, \hyperpage{47}
-    \subitem =, \hyperpage{49}
-    \subitem \&, \hyperpage{45}
-    \subitem \Rightarrow , \hyperpage{50}
-    \subitem \geq , \hyperpage{57}
-    \subitem \leq , \hyperpage{59}
-    \subitem \textasciicircum , \hyperpage{56}
-    \subitem \textasciitilde , \hyperpage{61}
-    \subitem \textgreater , \hyperpage{58}
-    \subitem \textless , \hyperpage{60}
-    \subitem ABS, \hyperpage{100}
-    \subitem ACOS, \hyperpage{289}
-    \subitem ACOSH, \hyperpage{290}
-    \subitem ACOT, \hyperpage{291}
-    \subitem ACOTH, \hyperpage{292}
-    \subitem ACSC, \hyperpage{293}
-    \subitem ACSCH, \hyperpage{294}
-    \subitem add_columns, \hyperpage{618}
-    \subitem add_rows, \hyperpage{619}
-    \subitem add_to_columns, \hyperpage{620}
-    \subitem add_to_rows, \hyperpage{621}
-    \subitem AGM_FUNCTION, \hyperpage{534}
-    \subitem Airy_Ai, \hyperpage{517}
-    \subitem Airy_Aiprime, \hyperpage{519}
-    \subitem Airy_Bi, \hyperpage{518}
-    \subitem Airy_Biprime, \hyperpage{520}
-    \subitem AND, \hyperpage{63}
-    \subitem APPEND, \hyperpage{167}
-    \subitem ARBCOMPLEX, \hyperpage{169}
-    \subitem ARBINT, \hyperpage{168}
-    \subitem ARG, \hyperpage{102}
-    \subitem ARGLENGTH, \hyperpage{170}
-    \subitem ASEC, \hyperpage{295}
-    \subitem ASECH, \hyperpage{296}
-    \subitem ASIN, \hyperpage{297}
-    \subitem ASINH, \hyperpage{298}
-    \subitem ATAN, \hyperpage{299}
-    \subitem ATAN2, \hyperpage{301}
-    \subitem ATANH, \hyperpage{300}
-    \subitem augment_columns, \hyperpage{622}
-    \subitem band_matrix, \hyperpage{623}
-    \subitem BERNOULLI, \hyperpage{501}
-    \subitem BERNOULLIP, \hyperpage{502}
-    \subitem BESSELI, \hyperpage{510}
-    \subitem BESSELJ, \hyperpage{506}
-    \subitem BESSELK, \hyperpage{511}
-    \subitem BESSELY, \hyperpage{507}
-    \subitem BETA, \hyperpage{544}
-    \subitem BINOMIAL, \hyperpage{568}
-    \subitem block_matrix, \hyperpage{624}
-    \subitem bounds, \hyperpage{485}
-    \subitem br, \hyperpage{761}
-    \subitem brwhen, \hyperpage{763}
-    \subitem CEILING, \hyperpage{103}
-    \subitem char_matrix, \hyperpage{625}
-    \subitem char_poly, \hyperpage{626}
-    \subitem ChebyshevT, \hyperpage{549}
-    \subitem ChebyshevU, \hyperpage{550}
-    \subitem Chi, \hyperpage{562}
-    \subitem cholesky, \hyperpage{627}
-    \subitem CHOOSE, \hyperpage{104}
-    \subitem Ci, \hyperpage{561}
-    \subitem Clebsch_Gordan, \hyperpage{572}
-    \subitem COEFF, \hyperpage{171}
-    \subitem coeff_matrix, \hyperpage{628}
-    \subitem COEFFN, \hyperpage{173}
-    \subitem COFACTOR, \hyperpage{396}
-    \subitem column_dim, \hyperpage{629}
-    \subitem companion, \hyperpage{630}
-    \subitem CONJ, \hyperpage{174}
-    \subitem CONS, \hyperpage{67}
-    \subitem CONTINUED_FRACTION, \hyperpage{175}
-    \subitem copy_into, \hyperpage{631}
-    \subitem COS, \hyperpage{302}
-    \subitem COSH, \hyperpage{303}
-    \subitem COT, \hyperpage{304}
-    \subitem COTH, \hyperpage{305}
-    \subitem CSC, \hyperpage{306}
-    \subitem CSCH, \hyperpage{307}
-    \subitem d, \hyperpage{105}
-    \subitem dd_groebner, \hyperpage{441}
-    \subitem DECOMPOSE, \hyperpage{176}
-    \subitem DEG, \hyperpage{177}
-    \subitem DEG2RAD, \hyperpage{106}
-    \subitem DEN, \hyperpage{178}
-    \subitem DET, \hyperpage{397}
-    \subitem DF, \hyperpage{179}
-    \subitem diagonal, \hyperpage{632}
-    \subitem DIFFERENCE, \hyperpage{107}
-    \subitem DILOG, \hyperpage{108}
-    \subitem DILOG extended, \hyperpage{547}
-    \subitem DMS2DEG, \hyperpage{109}
-    \subitem DMS2RAD, \hyperpage{110}
-    \subitem Ei, \hyperpage{565}
-    \subitem EllipticE, \hyperpage{539}
-    \subitem EllipticF, \hyperpage{536}
-    \subitem EllipticK, \hyperpage{537}
-    \subitem EllipticKprime, \hyperpage{538}
-    \subitem EllipticTHETA, \hyperpage{540}
-    \subitem EPS, \hyperpage{464}
-    \subitem EQ, \hyperpage{731}
-    \subitem EQUAL, \hyperpage{140}
-    \subitem ERF, \hyperpage{308}
-    \subitem ERF extended, \hyperpage{563}
-    \subitem erfc, \hyperpage{564}
-    \subitem erfi, \hyperpage{577}
-    \subitem EULER, \hyperpage{503}
-    \subitem EULERP, \hyperpage{504}
-    \subitem EVENP, \hyperpage{141}
-    \subitem EXP, \hyperpage{309}
-    \subitem EXPAND\_CASES, \hyperpage{180}
-    \subitem EXPREAD, \hyperpage{181}
-    \subitem EXPT, \hyperpage{115}
-    \subitem extend, \hyperpage{633}
-    \subitem FACTORIAL, \hyperpage{111}
-    \subitem FACTORIZE, \hyperpage{182}
-    \subitem find_companion, \hyperpage{634}
-    \subitem FIRST, \hyperpage{70}
-    \subitem FIX, \hyperpage{112}
-    \subitem FIXP, \hyperpage{113}
-    \subitem FLOOR, \hyperpage{114}
-    \subitem FREEOF, \hyperpage{143}
-    \subitem Fresnel_C, \hyperpage{566}
-    \subitem Fresnel_S, \hyperpage{567}
-    \subitem Frobenius, \hyperpage{675}
-    \subitem G, \hyperpage{465}
-    \subitem GAMMA, \hyperpage{543}
-    \subitem GCD, \hyperpage{116}
-    \subitem gdimension, \hyperpage{439}
-    \subitem GegenbauerP, \hyperpage{555}
-    \subitem GEQ, \hyperpage{75}
-    \subitem get_columns, \hyperpage{635}
-    \subitem get_rows, \hyperpage{636}
-    \subitem gindependent\_sets, \hyperpage{440}
-    \subitem glexconvert, \hyperpage{442}
-    \subitem gram_schmidt, \hyperpage{637}
-    \subitem GREATERP, \hyperpage{77}
-    \subitem greduce, \hyperpage{443}
-    \subitem groebner, \hyperpage{426}
-    \subitem groebner\_walk, \hyperpage{427}
-    \subitem groebnerf, \hyperpage{448}
-    \subitem groebnert, \hyperpage{455}
-    \subitem gsort, \hyperpage{459}
-    \subitem gsplit, \hyperpage{460}
-    \subitem gspoly, \hyperpage{461}
-    \subitem gvars, \hyperpage{425}
-    \subitem gzerodim?, \hyperpage{438}
-    \subitem HANKEL1, \hyperpage{508}
-    \subitem HANKEL2, \hyperpage{509}
-    \subitem Heaviside, \hyperpage{576}
-    \subitem HermiteP, \hyperpage{551}
-    \subitem hermitian_tp, \hyperpage{638}
-    \subitem hessian, \hyperpage{639}
-    \subitem hilbert, \hyperpage{640}
-    \subitem hilbertpolynomial, \hyperpage{446}
-    \subitem HYPERGEOMETRIC, \hyperpage{574}
-    \subitem HYPOT, \hyperpage{184}
-    \subitem idealquotient, \hyperpage{445}
-    \subitem IMPART, \hyperpage{185}
-    \subitem INT, \hyperpage{186}
-    \subitem INTERPOL, \hyperpage{188}
-    \subitem JacobiAMPLITUDE, \hyperpage{533}
-    \subitem jacobian, \hyperpage{641}
-    \subitem JacobiCD, \hyperpage{524}
-    \subitem JacobiCN, \hyperpage{522}
-    \subitem JacobiCS, \hyperpage{532}
-    \subitem JacobiDC, \hyperpage{527}
-    \subitem JacobiDN, \hyperpage{523}
-    \subitem JacobiDS, \hyperpage{531}
-    \subitem JacobiNC, \hyperpage{528}
-    \subitem JacobiND, \hyperpage{526}
-    \subitem JacobiNS, \hyperpage{530}
-    \subitem JacobiP, \hyperpage{554}
-    \subitem JacobiSC, \hyperpage{529}
-    \subitem JacobiSD, \hyperpage{525}
-    \subitem JacobiSN, \hyperpage{521}
-    \subitem JacobiZETA, \hyperpage{541}
-    \subitem Jordan, \hyperpage{681}
-    \subitem jordan_block, \hyperpage{642}
-    \subitem Jordansymbolic, \hyperpage{679}
-    \subitem KummerM, \hyperpage{514}
-    \subitem KummerU, \hyperpage{515}
-    \subitem LaguerreP, \hyperpage{552}
-    \subitem Lambert\_W function, \hyperpage{548}
-    \subitem LANDENTRANS, \hyperpage{535}
-    \subitem LCOF, \hyperpage{189}
-    \subitem LegendreP, \hyperpage{553}
-    \subitem LENGTH, \hyperpage{190}
-    \subitem LEQ, \hyperpage{144}
-    \subitem LESSP, \hyperpage{145}
-    \subitem LHS, \hyperpage{192}
-    \subitem LIMIT, \hyperpage{193}
-    \subitem LIST, \hyperpage{80}
-    \subitem LN, \hyperpage{117}
-    \subitem LOG, \hyperpage{118}
-    \subitem LOGB, \hyperpage{119}
-    \subitem LPOWER, \hyperpage{194}
-    \subitem LTERM, \hyperpage{195}
-    \subitem lu_decom, \hyperpage{643}
-    \subitem MAINVAR, \hyperpage{196}
-    \subitem make_identity, \hyperpage{646}
-    \subitem MAP, \hyperpage{197}
-    \subitem MAT, \hyperpage{398}
-    \subitem MATEIGEN, \hyperpage{399}
-    \subitem matrix_augment, \hyperpage{647}
-    \subitem matrix_stack, \hyperpage{649}
-    \subitem matrixp, \hyperpage{648}
-    \subitem MAX, \hyperpage{120}
-    \subitem MeijerG, \hyperpage{575}
-    \subitem MEMBER, \hyperpage{146}
-    \subitem MEMQ, \hyperpage{733}
-    \subitem MIN, \hyperpage{121}
-    \subitem minor, \hyperpage{650}
-    \subitem MINUS, \hyperpage{122}
-    \subitem MKPOLY, \hyperpage{490}
-    \subitem mult_columns, \hyperpage{651}
-    \subitem mult_rows, \hyperpage{652}
-    \subitem NEARESTROOT, \hyperpage{491}
-    \subitem NEQ, \hyperpage{147}
-    \subitem NEXTPRIME, \hyperpage{123}
-    \subitem NORM, \hyperpage{125}
-    \subitem NOT, \hyperpage{148}
-    \subitem NPRIMITIVE, \hyperpage{200}
-    \subitem NULLSPACE, \hyperpage{403}
-    \subitem NUM, \hyperpage{201}
-    \subitem num_fit, \hyperpage{488}
-    \subitem num_int, \hyperpage{482}
-    \subitem num_min, \hyperpage{480}
-    \subitem num_odesolve, \hyperpage{483}
-    \subitem num_solve, \hyperpage{481}
-    \subitem NUMBERP, \hyperpage{149}
-    \subitem ODESOLVE, \hyperpage{202}
-    \subitem OR, \hyperpage{81}
-    \subitem ORDP, \hyperpage{150}
-    \subitem PART, \hyperpage{204}
-    \subitem PERM, \hyperpage{126}
-    \subitem PF, \hyperpage{206}
-    \subitem pivot, \hyperpage{653}
-    \subitem PLUS, \hyperpage{127}
-    \subitem POCHHAMMER, \hyperpage{542}
-    \subitem POLYGAMMA, \hyperpage{546}
-    \subitem preduce, \hyperpage{444}
-    \subitem preducet, \hyperpage{456}
-    \subitem PRIMEP, \hyperpage{151}
-    \subitem PROD, \hyperpage{207}
-    \subitem pseudo_inverse, \hyperpage{654}
-    \subitem PSI, \hyperpage{545}
-    \subitem QUOTIENT, \hyperpage{128}
-    \subitem RAD2DEG, \hyperpage{130}
-    \subitem RAD2DMS, \hyperpage{131}
-    \subitem random_matrix, \hyperpage{655}
-    \subitem RANK, \hyperpage{405}
-    \subitem Ratjordan, \hyperpage{677}
-    \subitem REALROOTS, \hyperpage{492}
-    \subitem RECIP, \hyperpage{132}
-    \subitem RECLAIM, \hyperpage{160}
-    \subitem REDUCT, \hyperpage{208}
-    \subitem REMAINDER, \hyperpage{133}
-    \subitem remove_columns, \hyperpage{657}
-    \subitem remove_rows, \hyperpage{658}
-    \subitem REPART, \hyperpage{209}
-    \subitem REST, \hyperpage{86}
-    \subitem RESULTANT, \hyperpage{210}
-    \subitem REVERSE, \hyperpage{89}
-    \subitem RHS, \hyperpage{212}
-    \subitem ROOT\_OF, \hyperpage{213}
-    \subitem ROOT\_VAL, \hyperpage{495}
-    \subitem ROOTACC, \hyperpage{493}
-    \subitem ROOTS, \hyperpage{494}
-    \subitem ROUND, \hyperpage{134}
-    \subitem row_dim, \hyperpage{659}
-    \subitem rows_pivot, \hyperpage{660}
-    \subitem s_i, \hyperpage{560}
-    \subitem saturation, \hyperpage{447}
-    \subitem SEC, \hyperpage{310}
-    \subitem SECH, \hyperpage{311}
-    \subitem SECOND, \hyperpage{93}
-    \subitem SELECT, \hyperpage{214}
-    \subitem SET, \hyperpage{94}
-    \subitem SETQ, \hyperpage{95}
-    \subitem Shi, \hyperpage{559}
-    \subitem SHOWRULES, \hyperpage{216}
-    \subitem Si, \hyperpage{558}
-    \subitem SIGN, \hyperpage{136}
-    \subitem simplex, \hyperpage{661}
-    \subitem SIN, \hyperpage{312}
-    \subitem SINH, \hyperpage{313}
-    \subitem SixjSymbol, \hyperpage{573}
-    \subitem Smithex, \hyperpage{673}
-    \subitem Smithex\_int, \hyperpage{674}
-    \subitem SolidHarmonicY, \hyperpage{556}
-    \subitem SOLVE, \hyperpage{217}
-    \subitem SORT, \hyperpage{220}
-    \subitem SphericalHarmonicY, \hyperpage{557}
-    \subitem SQRT, \hyperpage{137}
-    \subitem squarep, \hyperpage{662}
-    \subitem stack_rows, \hyperpage{663}
-    \subitem STIRLING1, \hyperpage{569}
-    \subitem STIRLING2, \hyperpage{570}
-    \subitem STRUCTR, \hyperpage{221}
-    \subitem StruveH, \hyperpage{512}
-    \subitem StruveL, \hyperpage{513}
-    \subitem SUB, \hyperpage{223}
-    \subitem sub_matrix, \hyperpage{664}
-    \subitem SUM, \hyperpage{224}
-    \subitem svd, \hyperpage{665}
-    \subitem swap_columns, \hyperpage{667}
-    \subitem swap_entries, \hyperpage{668}
-    \subitem swap_rows, \hyperpage{669}
-    \subitem symmetricp, \hyperpage{670}
-    \subitem TAN, \hyperpage{314}
-    \subitem TANH, \hyperpage{315}
-    \subitem taylor, \hyperpage{579}
-    \subitem taylorcombine, \hyperpage{583}
-    \subitem taylororiginal, \hyperpage{586}
-    \subitem taylorrevert, \hyperpage{589}
-    \subitem taylorseriesp, \hyperpage{590}
-    \subitem taylortemplate, \hyperpage{591}
-    \subitem taylortostandard, \hyperpage{592}
-    \subitem THIRD, \hyperpage{97}
-    \subitem ThreejSymbol, \hyperpage{571}
-    \subitem TIMES, \hyperpage{138}
-    \subitem toeplitz, \hyperpage{671}
-    \subitem torder, \hyperpage{413}
-    \subitem torder_compile, \hyperpage{414}
-    \subitem TP, \hyperpage{406}
-    \subitem tr, \hyperpage{754}
-    \subitem TRACE, \hyperpage{407}
-    \subitem trout, \hyperpage{767}
-    \subitem trrl, \hyperpage{765}
-    \subitem trst, \hyperpage{756}
-    \subitem trwhen, \hyperpage{758}
-    \subitem unbr, \hyperpage{762}
-    \subitem unbrwhen, \hyperpage{764}
-    \subitem untr, \hyperpage{755}
-    \subitem untrrl, \hyperpage{766}
-    \subitem untrst, \hyperpage{757}
-    \subitem untrwhen, \hyperpage{759}
-    \subitem vandermonde, \hyperpage{672}
-    \subitem WHEN, \hyperpage{98}
-    \subitem WHERE, \hyperpage{280}
-    \subitem WhittakerW, \hyperpage{516}
-    \subitem WS, \hyperpage{225}
-    \subitem ZETA, \hyperpage{505}
-  \item operator, \hyperpage{241}, \hyperpage{248}, 
-		\hyperpage{256--258}, \hyperpage{264}, \hyperpage{273}, 
-		\hyperpage{359}
-  \item optimization, \hyperpage{719}
-  \item Optional Free Variable, \hyperpage{92}
-  \item OR, \hyperpage{81}
-  \item ORDER, \hyperpage{263}
-  \item order, \hyperpage{150}, \hyperpage{243}, \hyperpage{263}
-  \item ORDP, \hyperpage{150}
-  \item ORTHOVEC, \hyperpage{711}
-  \item OUT, \hyperpage{287}
-  \item OUTPUT, \hyperpage{370}
-  \item output, \hyperpage{29}, \hyperpage{32}, \hyperpage{165}, 
-		\hyperpage{216}, \hyperpage{237}, \hyperpage{250}, 
-		\hyperpage{263}, \hyperpage{266}, \hyperpage{268}, 
-		\hyperpage{270}, \hyperpage{287, 288}, \hyperpage{319}, 
-		\hyperpage{322}, \hyperpage{332--335}, \hyperpage{341}, 
-		\hyperpage{350}, \hyperpage{353}, \hyperpage{356}, 
-		\hyperpage{362}, \hyperpage{364--366}, \hyperpage{368}, 
-		\hyperpage{370}, \hyperpage{372}, \hyperpage{374, 375}, 
-		\hyperpage{377}, \hyperpage{381, 382}, \hyperpage{718}, 
-		\hyperpage{724}
-  \item OVERVIEW, \hyperpage{371}
+    \subitem *, \hyperpage{56}
+    \subitem **, \hyperpage{58}
+    \subitem +, \hyperpage{54}
+    \subitem -, \hyperpage{55}
+    \subitem ., \hyperpage{49}, \hyperpage{475}
+    \subitem /, \hyperpage{57}
+    \subitem :=, \hyperpage{50}
+    \subitem =, \hyperpage{52}
+    \subitem \&, \hyperpage{48}
+    \subitem \Rightarrow , \hyperpage{53}
+    \subitem \geq , \hyperpage{60}
+    \subitem \leq , \hyperpage{62}
+    \subitem \textasciicircum , \hyperpage{59}
+    \subitem \textasciitilde , \hyperpage{64}
+    \subitem \textgreater , \hyperpage{61}
+    \subitem \textless , \hyperpage{63}
+    \subitem ABS, \hyperpage{104}
+    \subitem ACOS, \hyperpage{298}
+    \subitem ACOSH, \hyperpage{299}
+    \subitem ACOT, \hyperpage{300}
+    \subitem ACOTH, \hyperpage{301}
+    \subitem ACSC, \hyperpage{302}
+    \subitem ACSCH, \hyperpage{303}
+    \subitem ADD_COLUMNS, \hyperpage{638}
+    \subitem ADD_ROWS, \hyperpage{639}
+    \subitem ADD_TO_COLUMNS, \hyperpage{640}
+    \subitem ADD_TO_ROWS, \hyperpage{641}
+    \subitem AGM_FUNCTION, \hyperpage{549}
+    \subitem Airy_Ai, \hyperpage{532}
+    \subitem Airy_Aiprime, \hyperpage{534}
+    \subitem Airy_Bi, \hyperpage{533}
+    \subitem Airy_Biprime, \hyperpage{535}
+    \subitem AND, \hyperpage{66}
+    \subitem APPEND, \hyperpage{174}
+    \subitem ARBCOMPLEX, \hyperpage{176}
+    \subitem ARBINT, \hyperpage{175}
+    \subitem ARG, \hyperpage{106}
+    \subitem ARGLENGTH, \hyperpage{177}
+    \subitem ASEC, \hyperpage{304}
+    \subitem ASECH, \hyperpage{305}
+    \subitem ASIN, \hyperpage{306}
+    \subitem ASINH, \hyperpage{307}
+    \subitem ATAN, \hyperpage{308}
+    \subitem ATAN2, \hyperpage{310}
+    \subitem ATANH, \hyperpage{309}
+    \subitem AUGMENT_COLUMNS, \hyperpage{642}
+    \subitem BAND_MATRIX, \hyperpage{643}
+    \subitem BERNOULLI, \hyperpage{516}
+    \subitem BERNOULLIP, \hyperpage{517}
+    \subitem BESSELI, \hyperpage{525}
+    \subitem BESSELJ, \hyperpage{521}
+    \subitem BESSELK, \hyperpage{526}
+    \subitem BESSELY, \hyperpage{522}
+    \subitem BETA, \hyperpage{559}
+    \subitem BINOMIAL, \hyperpage{583}
+    \subitem BLOCK_MATRIX, \hyperpage{644}
+    \subitem bounds, \hyperpage{498}
+    \subitem br, \hyperpage{785}
+    \subitem brwhen, \hyperpage{787}
+    \subitem CEILING, \hyperpage{107}
+    \subitem CHAR_MATRIX, \hyperpage{645}
+    \subitem CHAR_POLY, \hyperpage{646}
+    \subitem ChebyshevT, \hyperpage{564}
+    \subitem ChebyshevU, \hyperpage{565}
+    \subitem Chi, \hyperpage{577}
+    \subitem CHOLESKY, \hyperpage{647}
+    \subitem CHOOSE, \hyperpage{108}
+    \subitem Ci, \hyperpage{576}
+    \subitem Clebsch_Gordan, \hyperpage{587}
+    \subitem COEFF, \hyperpage{178}
+    \subitem COEFF_MATRIX, \hyperpage{648}
+    \subitem COEFFN, \hyperpage{180}
+    \subitem COFACTOR, \hyperpage{407}
+    \subitem COLUMN_DIM, \hyperpage{649}
+    \subitem COMPANION, \hyperpage{650}
+    \subitem CONJ, \hyperpage{181}
+    \subitem CONS, \hyperpage{70}
+    \subitem CONTINUED_FRACTION, \hyperpage{182}
+    \subitem COPY_INTO, \hyperpage{651}
+    \subitem COS, \hyperpage{311}
+    \subitem COSH, \hyperpage{312}
+    \subitem COT, \hyperpage{313}
+    \subitem COTH, \hyperpage{314}
+    \subitem CSC, \hyperpage{315}
+    \subitem CSCH, \hyperpage{316}
+    \subitem d, \hyperpage{109}
+    \subitem dd_groebner, \hyperpage{452}
+    \subitem DECOMPOSE, \hyperpage{183}
+    \subitem DEG, \hyperpage{184}
+    \subitem DEG2RAD, \hyperpage{110}
+    \subitem DEN, \hyperpage{185}
+    \subitem DET, \hyperpage{408}
+    \subitem DF, \hyperpage{186}
+    \subitem DIAGONAL, \hyperpage{652}
+    \subitem DIFFERENCE, \hyperpage{111}
+    \subitem DILOG, \hyperpage{112}
+    \subitem DILOG extended, \hyperpage{562}
+    \subitem DMS2DEG, \hyperpage{113}
+    \subitem DMS2RAD, \hyperpage{114}
+    \subitem Ei, \hyperpage{580}
+    \subitem EllipticE, \hyperpage{554}
+    \subitem EllipticF, \hyperpage{551}
+    \subitem EllipticK, \hyperpage{552}
+    \subitem EllipticKprime, \hyperpage{553}
+    \subitem EllipticTHETA, \hyperpage{555}
+    \subitem EPS, \hyperpage{476}
+    \subitem EQ, \hyperpage{754}
+    \subitem EQUAL, \hyperpage{145}
+    \subitem ERF, \hyperpage{317}
+    \subitem ERF extended, \hyperpage{578}
+    \subitem erfc, \hyperpage{579}
+    \subitem erfi, \hyperpage{592}
+    \subitem EULER, \hyperpage{518}
+    \subitem EULERP, \hyperpage{519}
+    \subitem EVENP, \hyperpage{146}
+    \subitem EXP, \hyperpage{318}
+    \subitem EXPAND\_CASES, \hyperpage{187}
+    \subitem EXPREAD, \hyperpage{188}
+    \subitem EXPT, \hyperpage{119}
+    \subitem EXTEND, \hyperpage{653}
+    \subitem FACTORIAL, \hyperpage{115}
+    \subitem FACTORIZE, \hyperpage{189}
+    \subitem FIND_COMPANION, \hyperpage{654}
+    \subitem FIRST, \hyperpage{73}
+    \subitem FIX, \hyperpage{116}
+    \subitem FIXP, \hyperpage{117}
+    \subitem FLOOR, \hyperpage{118}
+    \subitem FREEOF, \hyperpage{148}
+    \subitem Fresnel_C, \hyperpage{581}
+    \subitem Fresnel_S, \hyperpage{582}
+    \subitem FROBENIUS, \hyperpage{696}
+    \subitem G, \hyperpage{477}
+    \subitem GAMMA, \hyperpage{558}
+    \subitem GCD, \hyperpage{120}
+    \subitem gdimension, \hyperpage{450}
+    \subitem GegenbauerP, \hyperpage{570}
+    \subitem GEQ, \hyperpage{78}
+    \subitem GET_COLUMNS, \hyperpage{655}
+    \subitem GET_ROWS, \hyperpage{656}
+    \subitem gindependent\_sets, \hyperpage{451}
+    \subitem glexconvert, \hyperpage{453}
+    \subitem GRAM_SCHMIDT, \hyperpage{657}
+    \subitem GREATERP, \hyperpage{80}
+    \subitem greduce, \hyperpage{454}
+    \subitem groebner, \hyperpage{437}
+    \subitem groebner\_walk, \hyperpage{438}
+    \subitem groebnerf, \hyperpage{459}
+    \subitem groebnert, \hyperpage{466}
+    \subitem gsort, \hyperpage{470}
+    \subitem gsplit, \hyperpage{471}
+    \subitem gspoly, \hyperpage{472}
+    \subitem gvars, \hyperpage{436}
+    \subitem gzerodim?, \hyperpage{449}
+    \subitem HANKEL1, \hyperpage{523}
+    \subitem HANKEL2, \hyperpage{524}
+    \subitem Heaviside, \hyperpage{591}
+    \subitem HermiteP, \hyperpage{566}
+    \subitem HERMITIAN_TP, \hyperpage{658}
+    \subitem HESSIAN, \hyperpage{659}
+    \subitem HILBERT, \hyperpage{660}
+    \subitem hilbertpolynomial, \hyperpage{457}
+    \subitem HYPERGEOMETRIC, \hyperpage{589}
+    \subitem HYPOT, \hyperpage{191}
+    \subitem idealquotient, \hyperpage{456}
+    \subitem IMPART, \hyperpage{192}
+    \subitem INT, \hyperpage{193}
+    \subitem INTERPOL, \hyperpage{195}
+    \subitem JacobiAMPLITUDE, \hyperpage{548}
+    \subitem JACOBIAN, \hyperpage{661}
+    \subitem JacobiCD, \hyperpage{539}
+    \subitem JacobiCN, \hyperpage{537}
+    \subitem JacobiCS, \hyperpage{547}
+    \subitem JacobiDC, \hyperpage{542}
+    \subitem JacobiDN, \hyperpage{538}
+    \subitem JacobiDS, \hyperpage{546}
+    \subitem JacobiNC, \hyperpage{543}
+    \subitem JacobiND, \hyperpage{541}
+    \subitem JacobiNS, \hyperpage{545}
+    \subitem JacobiP, \hyperpage{569}
+    \subitem JacobiSC, \hyperpage{544}
+    \subitem JacobiSD, \hyperpage{540}
+    \subitem JacobiSN, \hyperpage{536}
+    \subitem JacobiZETA, \hyperpage{556}
+    \subitem JORDAN, \hyperpage{702}
+    \subitem JORDAN_BLOCK, \hyperpage{662}
+    \subitem JORDANSYMBOLIC, \hyperpage{700}
+    \subitem KummerM, \hyperpage{529}
+    \subitem KummerU, \hyperpage{530}
+    \subitem LaguerreP, \hyperpage{567}
+    \subitem Lambert\_W function, \hyperpage{563}
+    \subitem LANDENTRANS, \hyperpage{550}
+    \subitem LCOF, \hyperpage{196}
+    \subitem LegendreP, \hyperpage{568}
+    \subitem LENGTH, \hyperpage{197}
+    \subitem LEQ, \hyperpage{149}
+    \subitem LESSP, \hyperpage{150}
+    \subitem LHS, \hyperpage{199}
+    \subitem LIMIT, \hyperpage{200}
+    \subitem LIST, \hyperpage{83}
+    \subitem LN, \hyperpage{121}
+    \subitem LOG, \hyperpage{122}
+    \subitem LOGB, \hyperpage{123}
+    \subitem LPOWER, \hyperpage{201}
+    \subitem LTERM, \hyperpage{202}
+    \subitem LU_DECOM, \hyperpage{663}
+    \subitem MAINVAR, \hyperpage{203}
+    \subitem MAKE_IDENTITY, \hyperpage{666}
+    \subitem MAP, \hyperpage{204}
+    \subitem MAT, \hyperpage{409}
+    \subitem MATEIGEN, \hyperpage{410}
+    \subitem MATRIX_AUGMENT, \hyperpage{667}
+    \subitem MATRIX_STACK, \hyperpage{669}
+    \subitem MATRIXP, \hyperpage{668}
+    \subitem MAX, \hyperpage{124}
+    \subitem MeijerG, \hyperpage{590}
+    \subitem MEMBER, \hyperpage{151}
+    \subitem MEMQ, \hyperpage{756}
+    \subitem MIN, \hyperpage{125}
+    \subitem MINOR, \hyperpage{670}
+    \subitem MINUS, \hyperpage{126}
+    \subitem MKPOLY, \hyperpage{504}
+    \subitem MULT_COLUMNS, \hyperpage{671}
+    \subitem MULT_ROWS, \hyperpage{672}
+    \subitem NEARESTROOT, \hyperpage{505}
+    \subitem NEQ, \hyperpage{152}
+    \subitem NEXTPRIME, \hyperpage{127}
+    \subitem NORM, \hyperpage{129}
+    \subitem NOT, \hyperpage{153}
+    \subitem NPRIMITIVE, \hyperpage{207}
+    \subitem NULLSPACE, \hyperpage{414}
+    \subitem NUM, \hyperpage{208}
+    \subitem num_fit, \hyperpage{501}
+    \subitem num_int, \hyperpage{495}
+    \subitem num_min, \hyperpage{493}
+    \subitem num_odesolve, \hyperpage{496}
+    \subitem num_solve, \hyperpage{494}
+    \subitem NUMBERP, \hyperpage{154}
+    \subitem ODESOLVE, \hyperpage{209}
+    \subitem OR, \hyperpage{84}
+    \subitem ORDP, \hyperpage{155}
+    \subitem PART, \hyperpage{211}
+    \subitem PERM, \hyperpage{130}
+    \subitem PF, \hyperpage{213}
+    \subitem PIVOT, \hyperpage{673}
+    \subitem PLUS, \hyperpage{131}
+    \subitem POCHHAMMER, \hyperpage{557}
+    \subitem POLYGAMMA, \hyperpage{561}
+    \subitem preduce, \hyperpage{455}
+    \subitem preducet, \hyperpage{467}
+    \subitem PRIMEP, \hyperpage{156}
+    \subitem PROD, \hyperpage{214}
+    \subitem PSEUDO_INVERSE, \hyperpage{674}
+    \subitem PSI, \hyperpage{560}
+    \subitem QUOTIENT, \hyperpage{132}
+    \subitem RAD2DEG, \hyperpage{134}
+    \subitem RAD2DMS, \hyperpage{135}
+    \subitem RANDOM_MATRIX, \hyperpage{675}
+    \subitem RANK, \hyperpage{416}
+    \subitem RATJORDAN, \hyperpage{698}
+    \subitem REALROOTS, \hyperpage{506}
+    \subitem RECIP, \hyperpage{136}
+    \subitem RECLAIM, \hyperpage{166}
+    \subitem REDUCT, \hyperpage{215}
+    \subitem REMAINDER, \hyperpage{137}
+    \subitem REMOVE_COLUMNS, \hyperpage{677}
+    \subitem REMOVE_ROWS, \hyperpage{678}
+    \subitem REPART, \hyperpage{216}
+    \subitem REST, \hyperpage{89}
+    \subitem RESULTANT, \hyperpage{217}
+    \subitem REVERSE, \hyperpage{92}
+    \subitem RHS, \hyperpage{219}
+    \subitem ROOT\_OF, \hyperpage{220}
+    \subitem ROOT\_VAL, \hyperpage{509}
+    \subitem ROOTACC, \hyperpage{507}
+    \subitem ROOTS, \hyperpage{508}
+    \subitem ROUND, \hyperpage{138}
+    \subitem ROW_DIM, \hyperpage{679}
+    \subitem ROWS_PIVOT, \hyperpage{680}
+    \subitem s_i, \hyperpage{575}
+    \subitem saturation, \hyperpage{458}
+    \subitem SEC, \hyperpage{319}
+    \subitem SECH, \hyperpage{320}
+    \subitem SECOND, \hyperpage{96}
+    \subitem SELECT, \hyperpage{221}
+    \subitem SET, \hyperpage{97}
+    \subitem SETQ, \hyperpage{98}
+    \subitem Shi, \hyperpage{574}
+    \subitem SHOWRULES, \hyperpage{223}
+    \subitem Si, \hyperpage{573}
+    \subitem SIGN, \hyperpage{140}
+    \subitem SIMPLEX, \hyperpage{681}
+    \subitem SIN, \hyperpage{321}
+    \subitem SINH, \hyperpage{322}
+    \subitem SixjSymbol, \hyperpage{588}
+    \subitem SMITHEX, \hyperpage{694}
+    \subitem SMITHEX_INT, \hyperpage{695}
+    \subitem SolidHarmonicY, \hyperpage{571}
+    \subitem SOLVE, \hyperpage{224}
+    \subitem SORT, \hyperpage{227}
+    \subitem SphericalHarmonicY, \hyperpage{572}
+    \subitem SQRT, \hyperpage{141}
+    \subitem SQUAREP, \hyperpage{682}
+    \subitem STACK_ROWS, \hyperpage{683}
+    \subitem STIRLING1, \hyperpage{584}
+    \subitem STIRLING2, \hyperpage{585}
+    \subitem STRUCTR, \hyperpage{228}
+    \subitem StruveH, \hyperpage{527}
+    \subitem StruveL, \hyperpage{528}
+    \subitem SUB, \hyperpage{230}
+    \subitem SUB_MATRIX, \hyperpage{684}
+    \subitem SUM, \hyperpage{231}
+    \subitem SVD, \hyperpage{685}
+    \subitem SWAP_COLUMNS, \hyperpage{687}
+    \subitem SWAP_ENTRIES, \hyperpage{688}
+    \subitem SWAP_ROWS, \hyperpage{689}
+    \subitem SYMMETRICP, \hyperpage{690}
+    \subitem TAN, \hyperpage{323}
+    \subitem TANH, \hyperpage{324}
+    \subitem taylor, \hyperpage{595}
+    \subitem taylorcombine, \hyperpage{599}
+    \subitem taylororiginal, \hyperpage{602}
+    \subitem taylorrevert, \hyperpage{605}
+    \subitem taylorseriesp, \hyperpage{606}
+    \subitem taylortemplate, \hyperpage{607}
+    \subitem taylortostandard, \hyperpage{608}
+    \subitem THIRD, \hyperpage{100}
+    \subitem ThreejSymbol, \hyperpage{586}
+    \subitem TIMES, \hyperpage{142}
+    \subitem TOEPLITZ, \hyperpage{691}
+    \subitem torder, \hyperpage{424}
+    \subitem torder_compile, \hyperpage{425}
+    \subitem TP, \hyperpage{417}
+    \subitem tr, \hyperpage{778}
+    \subitem TRACE, \hyperpage{418}
+    \subitem trout, \hyperpage{791}
+    \subitem trrl, \hyperpage{789}
+    \subitem trst, \hyperpage{780}
+    \subitem trwhen, \hyperpage{782}
+    \subitem unbr, \hyperpage{786}
+    \subitem unbrwhen, \hyperpage{788}
+    \subitem untr, \hyperpage{779}
+    \subitem untrrl, \hyperpage{790}
+    \subitem untrst, \hyperpage{781}
+    \subitem untrwhen, \hyperpage{783}
+    \subitem VANDERMONDE, \hyperpage{692}
+    \subitem WHEN, \hyperpage{101}
+    \subitem WHERE, \hyperpage{288}
+    \subitem WhittakerW, \hyperpage{531}
+    \subitem WS, \hyperpage{232}
+    \subitem ZETA, \hyperpage{520}
+  \item operator, \hyperpage{249}, \hyperpage{256}, 
+		\hyperpage{264--266}, \hyperpage{272}, \hyperpage{281}, 
+		\hyperpage{369}
+  \item optimization, \hyperpage{741}
+  \item Optional Free Variable, \hyperpage{95}
+  \item OR, \hyperpage{84}
+  \item ORDER, \hyperpage{271}
+  \item order, \hyperpage{155}, \hyperpage{251}, \hyperpage{271}
+  \item ORDP, \hyperpage{155}
+  \item ORTHOVEC, \hyperpage{733}
+  \item OUT, \hyperpage{295}
+  \item OUTPUT, \hyperpage{380}
+  \item output, \hyperpage{31}, \hyperpage{34}, \hyperpage{171}, 
+		\hyperpage{223}, \hyperpage{245}, \hyperpage{258}, 
+		\hyperpage{271}, \hyperpage{274}, \hyperpage{276}, 
+		\hyperpage{278}, \hyperpage{295, 296}, \hyperpage{329}, 
+		\hyperpage{332}, \hyperpage{342--345}, \hyperpage{351}, 
+		\hyperpage{360}, \hyperpage{363}, \hyperpage{366}, 
+		\hyperpage{372}, \hyperpage{374--376}, \hyperpage{378}, 
+		\hyperpage{380}, \hyperpage{382}, \hyperpage{384, 385}, 
+		\hyperpage{387}, \hyperpage{391, 392}, \hyperpage{740}, 
+		\hyperpage{746}
+  \item OVERVIEW, \hyperpage{381}
 
   \indexspace
 
   \item Package
-    \subitem ALGINT, \hyperpage{684}
-    \subitem APPLYSYM, \hyperpage{685}
-    \subitem ARNUM, \hyperpage{686}
-    \subitem ASSIST, \hyperpage{687}
-    \subitem AVECTOR, \hyperpage{688}
-    \subitem BOOLEAN, \hyperpage{689}
-    \subitem CALI, \hyperpage{690}
-    \subitem CAMAL, \hyperpage{691}
-    \subitem CHANGEVR, \hyperpage{692}
-    \subitem COMPACT, \hyperpage{693}
-    \subitem CRACK, \hyperpage{694}
-    \subitem CVIT, \hyperpage{695}
-    \subitem DEFINT, \hyperpage{696}
-    \subitem DESIR, \hyperpage{697}
-    \subitem DFPART, \hyperpage{698}
-    \subitem DUMMY, \hyperpage{699}
-    \subitem EXCALC, \hyperpage{700}
-    \subitem FIDE, \hyperpage{702}
-    \subitem FPS, \hyperpage{701}
-    \subitem GENTRAN, \hyperpage{703}
-    \subitem IDEALS, \hyperpage{704}
-    \subitem INEQ, \hyperpage{705}
-    \subitem INVBASE, \hyperpage{706}
-    \subitem LAPLACE, \hyperpage{707}
-    \subitem LIE, \hyperpage{708}
-    \subitem MODSR, \hyperpage{709}
-    \subitem NCPOLY, \hyperpage{710}
-    \subitem ORTHOVEC, \hyperpage{711}
-    \subitem PHYSOP, \hyperpage{712}
-    \subitem PM, \hyperpage{713}
-    \subitem RANDPOLY, \hyperpage{714}
-    \subitem REACTEQN, \hyperpage{715}
-    \subitem RESET, \hyperpage{716}
-    \subitem RESIDUE, \hyperpage{717}
-    \subitem RLFI, \hyperpage{718}
-    \subitem SCOPE, \hyperpage{719}
-    \subitem SETS, \hyperpage{720}
-    \subitem SPDE, \hyperpage{721}
-    \subitem SYMMETRY, \hyperpage{722}
-    \subitem TPS, \hyperpage{723}
-    \subitem TRI, \hyperpage{724}
-    \subitem TRIGSIMP, \hyperpage{725}
-    \subitem WU, \hyperpage{728}
-    \subitem XCOLOR, \hyperpage{726}
-    \subitem XIDEAL, \hyperpage{727}
-    \subitem ZEILBERG, \hyperpage{729}
-    \subitem ZTRANS, \hyperpage{730}
-  \item package, \hyperpage{156}
-  \item PART, \hyperpage{204}
-  \item partial derivative, \hyperpage{179}, \hyperpage{698}
-  \item partial fraction, \hyperpage{206}
-  \item pattern matching, \hyperpage{713}
-  \item PAUSE, \hyperpage{157}
-  \item PERIOD, \hyperpage{372}
-  \item PERM, \hyperpage{126}
-  \item permutation, \hyperpage{126}
-  \item PF, \hyperpage{206}
-  \item PHYSOP, \hyperpage{712}
-  \item PI, \hyperpage{38}
-  \item pivot, \hyperpage{653}
-  \item PLOT, \hyperpage{596}
-  \item plot, \hyperpage{595, 596}, \hyperpage{599--614}
-  \item plot_xmesh, \hyperpage{611}
-  \item plot_ymesh, \hyperpage{612}
-  \item PLOTKEEP, \hyperpage{609}
-  \item PLOTREFINE, \hyperpage{610}
-  \item PLOTRESET, \hyperpage{598}
-  \item PLUS, \hyperpage{127}
-  \item PM, \hyperpage{713}
-  \item POCHHAMMER, \hyperpage{542}
-  \item Pointset, \hyperpage{595}
-  \item polar angle, \hyperpage{102}
-  \item POLYGAMMA, \hyperpage{546}
-  \item polynomial, \hyperpage{33}, \hyperpage{36}, \hyperpage{40}, 
-		\hyperpage{116}, \hyperpage{133}, \hyperpage{176, 177}, 
-		\hyperpage{182}, \hyperpage{188, 189}, 
-		\hyperpage{194--196}, \hyperpage{200}, \hyperpage{208}, 
-		\hyperpage{210}, \hyperpage{340}, \hyperpage{347}, 
-		\hyperpage{350}, \hyperpage{357}, \hyperpage{378, 379}, 
-		\hyperpage{392}, \hyperpage{410}, \hyperpage{489, 490}, 
-		\hyperpage{494, 495}, \hyperpage{690}, \hyperpage{704}, 
-		\hyperpage{728}
-  \item power series, \hyperpage{701}, \hyperpage{723}
-  \item PRECEDENCE, \hyperpage{264}
-  \item PRECISE, \hyperpage{373}
-  \item PRECISION, \hyperpage{265}
-  \item precision, \hyperpage{101}, \hyperpage{346}
-  \item preduce, \hyperpage{444}
-  \item preducet, \hyperpage{456}
-  \item PRET, \hyperpage{374}
-  \item PRI, \hyperpage{375}
-  \item prime number, \hyperpage{123}, \hyperpage{151}
-  \item PRIMEP, \hyperpage{151}
-  \item primitive part, \hyperpage{200}
-  \item PRINT\_PRECISION, \hyperpage{266}
-  \item PROCEDURE, \hyperpage{82}
-  \item PROD, \hyperpage{207}
-  \item product, \hyperpage{207}
-  \item pseudo_inverse, \hyperpage{654}
-  \item PSI, \hyperpage{545}
+    \subitem ALGINT, \hyperpage{706}
+    \subitem APPLYSYM, \hyperpage{707}
+    \subitem ARNUM, \hyperpage{708}
+    \subitem ASSIST, \hyperpage{709}
+    \subitem AVECTOR, \hyperpage{710}
+    \subitem BOOLEAN, \hyperpage{711}
+    \subitem CALI, \hyperpage{712}
+    \subitem CAMAL, \hyperpage{713}
+    \subitem CHANGEVR, \hyperpage{714}
+    \subitem COMPACT, \hyperpage{715}
+    \subitem CRACK, \hyperpage{716}
+    \subitem CVIT, \hyperpage{717}
+    \subitem DEFINT, \hyperpage{718}
+    \subitem DESIR, \hyperpage{719}
+    \subitem DFPART, \hyperpage{720}
+    \subitem DUMMY, \hyperpage{721}
+    \subitem EXCALC, \hyperpage{722}
+    \subitem FIDE, \hyperpage{724}
+    \subitem FPS, \hyperpage{723}
+    \subitem GENTRAN, \hyperpage{725}
+    \subitem IDEALS, \hyperpage{726}
+    \subitem INEQ, \hyperpage{727}
+    \subitem INVBASE, \hyperpage{728}
+    \subitem LAPLACE, \hyperpage{729}
+    \subitem LIE, \hyperpage{730}
+    \subitem MODSR, \hyperpage{731}
+    \subitem NCPOLY, \hyperpage{732}
+    \subitem ORTHOVEC, \hyperpage{733}
+    \subitem PHYSOP, \hyperpage{734}
+    \subitem PM, \hyperpage{735}
+    \subitem RANDPOLY, \hyperpage{736}
+    \subitem REACTEQN, \hyperpage{737}
+    \subitem RESET, \hyperpage{738}
+    \subitem RESIDUE, \hyperpage{739}
+    \subitem RLFI, \hyperpage{740}
+    \subitem SCOPE, \hyperpage{741}
+    \subitem SETS, \hyperpage{742}
+    \subitem SPDE, \hyperpage{743}
+    \subitem SYMMETRY, \hyperpage{744}
+    \subitem TPS, \hyperpage{745}
+    \subitem TRI, \hyperpage{746}
+    \subitem TRIGSIMP, \hyperpage{747}
+    \subitem WU, \hyperpage{750}
+    \subitem XCOLOR, \hyperpage{748}
+    \subitem XIDEAL, \hyperpage{749}
+    \subitem ZEILBERG, \hyperpage{751}
+    \subitem ZTRANS, \hyperpage{752}
+  \item package, \hyperpage{162}
+  \item PART, \hyperpage{211}
+  \item partial derivative, \hyperpage{186}, \hyperpage{720}
+  \item partial fraction, \hyperpage{213}
+  \item pattern matching, \hyperpage{735}
+  \item PAUSE, \hyperpage{163}
+  \item PERIOD, \hyperpage{382}
+  \item PERM, \hyperpage{130}
+  \item permutation, \hyperpage{130}
+  \item PF, \hyperpage{213}
+  \item PHYSOP, \hyperpage{734}
+  \item PI, \hyperpage{40}
+  \item PIVOT, \hyperpage{673}
+  \item PLOT, \hyperpage{613}
+  \item plot, \hyperpage{612, 613}, \hyperpage{616--631}
+  \item plot_xmesh, \hyperpage{628}
+  \item plot_ymesh, \hyperpage{629}
+  \item PLOTKEEP, \hyperpage{626}
+  \item PLOTREFINE, \hyperpage{627}
+  \item PLOTRESET, \hyperpage{615}
+  \item PLUS, \hyperpage{131}
+  \item PM, \hyperpage{735}
+  \item POCHHAMMER, \hyperpage{557}
+  \item Pointset, \hyperpage{612}
+  \item polar angle, \hyperpage{106}
+  \item POLYGAMMA, \hyperpage{561}
+  \item polynomial, \hyperpage{35}, \hyperpage{38}, \hyperpage{42}, 
+		\hyperpage{120}, \hyperpage{137}, \hyperpage{183, 184}, 
+		\hyperpage{189}, \hyperpage{195, 196}, 
+		\hyperpage{201--203}, \hyperpage{207}, \hyperpage{215}, 
+		\hyperpage{217}, \hyperpage{350}, \hyperpage{357}, 
+		\hyperpage{360}, \hyperpage{367}, \hyperpage{388, 389}, 
+		\hyperpage{402}, \hyperpage{421}, \hyperpage{503, 504}, 
+		\hyperpage{508, 509}, \hyperpage{712}, \hyperpage{726}, 
+		\hyperpage{750}
+  \item power series, \hyperpage{723}, \hyperpage{745}
+  \item PRECEDENCE, \hyperpage{272}
+  \item PRECISE, \hyperpage{383}
+  \item PRECISION, \hyperpage{273}
+  \item precision, \hyperpage{105}, \hyperpage{356}
+  \item preduce, \hyperpage{455}
+  \item preducet, \hyperpage{467}
+  \item PRET, \hyperpage{384}
+  \item PRI, \hyperpage{385}
+  \item prime number, \hyperpage{127}, \hyperpage{156}
+  \item PRIMEP, \hyperpage{156}
+  \item primitive part, \hyperpage{207}
+  \item PRINT\_PRECISION, \hyperpage{274}
+  \item PROCEDURE, \hyperpage{85}
+  \item PROD, \hyperpage{214}
+  \item product, \hyperpage{214}
+  \item PSEUDO_INVERSE, \hyperpage{674}
+  \item PSI, \hyperpage{560}
 
   \indexspace
 
-  \item QUIT, \hyperpage{159}
-  \item QUOTIENT, \hyperpage{128}
+  \item QUIT, \hyperpage{165}
+  \item QUOTIENT, \hyperpage{132}
 
   \indexspace
 
-  \item RAD2DEG, \hyperpage{130}
-  \item RAD2DMS, \hyperpage{131}
-  \item radians, \hyperpage{105, 106}, \hyperpage{109, 110}, 
-		\hyperpage{130, 131}
-  \item RAISE, \hyperpage{376}
-  \item random polynomial, \hyperpage{714}
-  \item random_matrix, \hyperpage{655}
-  \item RANDPOLY, \hyperpage{714}
-  \item RANK, \hyperpage{405}
-  \item RAT, \hyperpage{377}
-  \item RATARG, \hyperpage{378}
-  \item RATIONAL, \hyperpage{379}
-  \item rational expression, \hyperpage{178}, \hyperpage{201}, 
-		\hyperpage{206}, \hyperpage{349}, \hyperpage{354}, 
-		\hyperpage{360}, \hyperpage{378--381}, \hyperpage{384}
-  \item rational numbers, \hyperpage{175}
-  \item RATIONALIZE, \hyperpage{380}
-  \item Ratjordan, \hyperpage{677}
-  \item RATPRI, \hyperpage{381}
-  \item REACTEQN, \hyperpage{715}
-  \item REAL, \hyperpage{267}
-  \item real part, \hyperpage{209}
-  \item REALROOTS, \hyperpage{492}
-  \item RECIP, \hyperpage{132}
-  \item RECLAIM, \hyperpage{160}
-  \item REDERR, \hyperpage{161}
-  \item REDUCT, \hyperpage{208}
-  \item reductum, \hyperpage{208}
-  \item REMAINDER, \hyperpage{133}
-  \item REMFAC, \hyperpage{268}
-  \item REMIND, \hyperpage{471}
-  \item remove_columns, \hyperpage{657}
-  \item remove_rows, \hyperpage{658}
-  \item REPART, \hyperpage{209}
-  \item REPEAT, \hyperpage{85}
-  \item REQUIREMENTS, \hyperpage{39}
-  \item RESET, \hyperpage{716}
-  \item RESIDUE, \hyperpage{717}
-  \item REST, \hyperpage{86}
-  \item RESULTANT, \hyperpage{210}
-  \item RETRY, \hyperpage{162}
-  \item RETURN, \hyperpage{87}
-  \item REVERSE, \hyperpage{89}
-  \item revgradlex term order, \hyperpage{417}
-  \item REVPRI, \hyperpage{382}
-  \item RHS, \hyperpage{212}
-  \item right-hand side, \hyperpage{212}
-  \item RLFI, \hyperpage{718}
-  \item RLISP88, \hyperpage{383}
-  \item rlrootno, \hyperpage{489}
-  \item root, \hyperpage{40}, \hyperpage{217}, \hyperpage{481}
-  \item ROOT\_MULTIPLICITIES, \hyperpage{40}
-  \item ROOT\_OF, \hyperpage{213}
-  \item ROOT\_VAL, \hyperpage{495}
-  \item ROOTACC, \hyperpage{493}
-  \item ROOTS, \hyperpage{494}
-  \item roots, \hyperpage{213}, \hyperpage{489--497}
-  \item Roots Package, \hyperpage{489}
-  \item rootsat-prec, \hyperpage{489}
-  \item ROOTSCOMPLEX, \hyperpage{496}
-  \item ROOTSREAL, \hyperpage{497}
-  \item rootval, \hyperpage{489}
-  \item ROUND, \hyperpage{134}
-  \item ROUNDALL, \hyperpage{384}
-  \item ROUNDBF, \hyperpage{385}
-  \item ROUNDED, \hyperpage{386}
-  \item rounded, \hyperpage{265, 266}, \hyperpage{270}, \hyperpage{346}, 
-		\hyperpage{369}, \hyperpage{384}
-  \item row_dim, \hyperpage{659}
-  \item rows_pivot, \hyperpage{660}
-  \item RULE, \hyperpage{90}
-  \item rule, \hyperpage{90}, \hyperpage{98}, \hyperpage{216}, 
-		\hyperpage{233}, \hyperpage{244}, \hyperpage{765, 766}
-  \item rule list, \hyperpage{90}
-  \item ruleset, \hyperpage{765, 766}
-  \item Runge-Kutta, \hyperpage{483}
+  \item RAD2DEG, \hyperpage{134}
+  \item RAD2DMS, \hyperpage{135}
+  \item radians, \hyperpage{109, 110}, \hyperpage{113, 114}, 
+		\hyperpage{134, 135}
+  \item RAISE, \hyperpage{386}
+  \item random polynomial, \hyperpage{736}
+  \item RANDOM_MATRIX, \hyperpage{675}
+  \item RANDPOLY, \hyperpage{736}
+  \item RANK, \hyperpage{416}
+  \item RAT, \hyperpage{387}
+  \item RATARG, \hyperpage{388}
+  \item RATIONAL, \hyperpage{389}
+  \item rational expression, \hyperpage{185}, \hyperpage{208}, 
+		\hyperpage{213}, \hyperpage{359}, \hyperpage{364}, 
+		\hyperpage{370}, \hyperpage{388--391}, \hyperpage{394}
+  \item rational numbers, \hyperpage{182}
+  \item RATIONALIZE, \hyperpage{390}
+  \item RATJORDAN, \hyperpage{698}
+  \item RATPRI, \hyperpage{391}
+  \item REACTEQN, \hyperpage{737}
+  \item REAL, \hyperpage{275}
+  \item real part, \hyperpage{216}
+  \item REALROOTS, \hyperpage{506}
+  \item RECIP, \hyperpage{136}
+  \item RECLAIM, \hyperpage{166}
+  \item REDERR, \hyperpage{167}
+  \item REDUCT, \hyperpage{215}
+  \item reductum, \hyperpage{215}
+  \item REMAINDER, \hyperpage{137}
+  \item REMFAC, \hyperpage{276}
+  \item REMIND, \hyperpage{483}
+  \item REMOVE_COLUMNS, \hyperpage{677}
+  \item REMOVE_ROWS, \hyperpage{678}
+  \item REPART, \hyperpage{216}
+  \item REPEAT, \hyperpage{88}
+  \item REQUIREMENTS, \hyperpage{41}
+  \item RESET, \hyperpage{738}
+  \item RESIDUE, \hyperpage{739}
+  \item REST, \hyperpage{89}
+  \item RESULTANT, \hyperpage{217}
+  \item RETRY, \hyperpage{168}
+  \item RETURN, \hyperpage{90}
+  \item REVERSE, \hyperpage{92}
+  \item revgradlex term order, \hyperpage{428}
+  \item REVPRI, \hyperpage{392}
+  \item RHS, \hyperpage{219}
+  \item right-hand side, \hyperpage{219}
+  \item RLFI, \hyperpage{740}
+  \item RLISP88, \hyperpage{393}
+  \item rlrootno, \hyperpage{503}
+  \item root, \hyperpage{42}, \hyperpage{224}, \hyperpage{494}
+  \item ROOT\_MULTIPLICITIES, \hyperpage{42}
+  \item ROOT\_OF, \hyperpage{220}
+  \item ROOT\_VAL, \hyperpage{509}
+  \item ROOTACC, \hyperpage{507}
+  \item ROOTS, \hyperpage{508}
+  \item roots, \hyperpage{220}, \hyperpage{503--511}
+  \item Roots Package, \hyperpage{503}
+  \item rootsat-prec, \hyperpage{503}
+  \item ROOTSCOMPLEX, \hyperpage{510}
+  \item ROOTSREAL, \hyperpage{511}
+  \item rootval, \hyperpage{503}
+  \item ROUND, \hyperpage{138}
+  \item ROUNDALL, \hyperpage{394}
+  \item ROUNDBF, \hyperpage{395}
+  \item ROUNDED, \hyperpage{396}
+  \item rounded, \hyperpage{273, 274}, \hyperpage{278}, \hyperpage{356}, 
+		\hyperpage{379}, \hyperpage{394}
+  \item ROW_DIM, \hyperpage{679}
+  \item ROWS_PIVOT, \hyperpage{680}
+  \item RULE, \hyperpage{93}
+  \item rule, \hyperpage{93}, \hyperpage{101}, \hyperpage{223}, 
+		\hyperpage{241}, \hyperpage{252}, \hyperpage{789, 790}
+  \item rule list, \hyperpage{93}
+  \item ruleset, \hyperpage{789, 790}
+  \item Runge-Kutta, \hyperpage{496}
 
   \indexspace
 
-  \item s_i, \hyperpage{560}
-  \item saturation, \hyperpage{447}
-  \item SAVEAS, \hyperpage{163}
-  \item SAVESTRUCTR, \hyperpage{387}
-  \item SCALAR, \hyperpage{269}
-  \item SCIENTIFIC\_NOTATION, \hyperpage{270}
-  \item SCOPE, \hyperpage{719}
-  \item SEC, \hyperpage{310}
-  \item SECH, \hyperpage{311}
-  \item SECOND, \hyperpage{93}
-  \item SELECT, \hyperpage{214}
-  \item SET, \hyperpage{94}
-  \item SETMOD, \hyperpage{135}
-  \item SETQ, \hyperpage{95}
-  \item SETS, \hyperpage{720}
-  \item SHARE, \hyperpage{271}
-  \item Shi, \hyperpage{559}
-  \item SHOW_GRID, \hyperpage{613}
-  \item SHOWRULES, \hyperpage{216}
-  \item SHOWTIME, \hyperpage{164}
-  \item SHUT, \hyperpage{288}
-  \item Si, \hyperpage{558}
-  \item SIGN, \hyperpage{136}
-  \item simplex, \hyperpage{661}
-  \item simplification, \hyperpage{338}, \hyperpage{373}, 
-		\hyperpage{380}, \hyperpage{693}, \hyperpage{725}
-  \item SIN, \hyperpage{312}
-  \item sine, \hyperpage{312}
-  \item Sine integral function, \hyperpage{558}
-  \item sine integral function, \hyperpage{557}, \hyperpage{560}
-  \item singular value decomposition, \hyperpage{665}
-  \item SINH, \hyperpage{313}
-  \item SixjSymbol, \hyperpage{573}
-  \item size, \hyperpage{604}
-  \item Smithex, \hyperpage{673}
-  \item Smithex\_int, \hyperpage{674}
-  \item Solid harmonic polynomials, \hyperpage{556}
-  \item SolidHarmonicY, \hyperpage{556}
-  \item SOLVE, \hyperpage{217}
-  \item solve, \hyperpage{28}, \hyperpage{39, 40}, \hyperpage{180}, 
-		\hyperpage{202}, \hyperpage{213}, \hyperpage{217}, 
-		\hyperpage{320}, \hyperpage{329}, \hyperpage{347}, 
-		\hyperpage{363}, \hyperpage{388}, \hyperpage{392}, 
-		\hyperpage{394, 395}, \hyperpage{491, 492}, 
-		\hyperpage{494, 495}
-  \item SOLVESINGULAR, \hyperpage{388}
-  \item SORT, \hyperpage{220}
-  \item sorting, \hyperpage{220}
-  \item SPDE, \hyperpage{721}
-  \item Special Function Package, \hyperpage{498}
-  \item Spence's Integral, \hyperpage{547}
-  \item Spherical harmonic polynomials, \hyperpage{557}
-  \item SphericalHarmonicY, \hyperpage{557}
-  \item SPUR, \hyperpage{472}
-  \item SQRT, \hyperpage{137}
-  \item square root, \hyperpage{137}, \hyperpage{373}
-  \item squarep, \hyperpage{662}
-  \item stack_rows, \hyperpage{663}
-  \item steepest descent, \hyperpage{480}
-  \item STIRLING1, \hyperpage{569}
-  \item STIRLING2, \hyperpage{570}
-  \item STRING, \hyperpage{27}
-  \item STRUCTR, \hyperpage{221}
-  \item STRUCTR OPERATOR, \hyperpage{387}
-  \item StruveH, \hyperpage{512}
-  \item StruveL, \hyperpage{513}
-  \item SUB, \hyperpage{223}
-  \item sub_matrix, \hyperpage{664}
-  \item substitution, \hyperpage{223}, \hyperpage{239}, \hyperpage{244}, 
-		\hyperpage{254}, \hyperpage{280}
-  \item SUM, \hyperpage{224}
-  \item summation, \hyperpage{224}, \hyperpage{729}
-  \item surface, \hyperpage{607}
-  \item svd, \hyperpage{665}
-  \item swap_columns, \hyperpage{667}
-  \item swap_entries, \hyperpage{668}
-  \item swap_rows, \hyperpage{669}
+  \item s_i, \hyperpage{575}
+  \item saturation, \hyperpage{458}
+  \item SAVEAS, \hyperpage{169}
+  \item SAVESTRUCTR, \hyperpage{397}
+  \item SCALAR, \hyperpage{277}
+  \item SCIENTIFIC\_NOTATION, \hyperpage{278}
+  \item SCOPE, \hyperpage{741}
+  \item SEC, \hyperpage{319}
+  \item SECH, \hyperpage{320}
+  \item SECOND, \hyperpage{96}
+  \item SELECT, \hyperpage{221}
+  \item SET, \hyperpage{97}
+  \item SETMOD, \hyperpage{139}
+  \item SETQ, \hyperpage{98}
+  \item SETS, \hyperpage{742}
+  \item SHARE, \hyperpage{279}
+  \item Shi, \hyperpage{574}
+  \item SHOW_GRID, \hyperpage{630}
+  \item SHOWRULES, \hyperpage{223}
+  \item SHOWTIME, \hyperpage{170}
+  \item SHUT, \hyperpage{296}
+  \item Si, \hyperpage{573}
+  \item SIGN, \hyperpage{140}
+  \item SIMPLEX, \hyperpage{681}
+  \item simplification, \hyperpage{348}, \hyperpage{383}, 
+		\hyperpage{390}, \hyperpage{715}, \hyperpage{747}
+  \item SIN, \hyperpage{321}
+  \item sine, \hyperpage{321}
+  \item Sine integral function, \hyperpage{573}
+  \item sine integral function, \hyperpage{572}, \hyperpage{575}
+  \item singular value decomposition, \hyperpage{685}
+  \item SINH, \hyperpage{322}
+  \item SixjSymbol, \hyperpage{588}
+  \item size, \hyperpage{621}
+  \item SMITHEX, \hyperpage{694}
+  \item SMITHEX_INT, \hyperpage{695}
+  \item Solid harmonic polynomials, \hyperpage{571}
+  \item SolidHarmonicY, \hyperpage{571}
+  \item SOLVE, \hyperpage{224}
+  \item solve, \hyperpage{30}, \hyperpage{41, 42}, \hyperpage{187}, 
+		\hyperpage{209}, \hyperpage{220}, \hyperpage{224}, 
+		\hyperpage{330}, \hyperpage{339}, \hyperpage{357}, 
+		\hyperpage{373}, \hyperpage{398}, \hyperpage{402}, 
+		\hyperpage{404, 405}, \hyperpage{505, 506}, 
+		\hyperpage{508, 509}
+  \item SOLVESINGULAR, \hyperpage{398}
+  \item SORT, \hyperpage{227}
+  \item sorting, \hyperpage{227}
+  \item SPDE, \hyperpage{743}
+  \item Special Function Package, \hyperpage{513}
+  \item Spence's Integral, \hyperpage{562}
+  \item Spherical harmonic polynomials, \hyperpage{572}
+  \item SphericalHarmonicY, \hyperpage{572}
+  \item SPUR, \hyperpage{484}
+  \item SQRT, \hyperpage{141}
+  \item square root, \hyperpage{141}, \hyperpage{383}
+  \item SQUAREP, \hyperpage{682}
+  \item STACK_ROWS, \hyperpage{683}
+  \item steepest descent, \hyperpage{493}
+  \item STIRLING1, \hyperpage{584}
+  \item STIRLING2, \hyperpage{585}
+  \item STRING, \hyperpage{28}
+  \item STRUCTR, \hyperpage{228}
+  \item STRUCTR OPERATOR, \hyperpage{397}
+  \item StruveH, \hyperpage{527}
+  \item StruveL, \hyperpage{528}
+  \item SUB, \hyperpage{230}
+  \item SUB_MATRIX, \hyperpage{684}
+  \item substitution, \hyperpage{230}, \hyperpage{247}, \hyperpage{252}, 
+		\hyperpage{262}, \hyperpage{288}
+  \item SUM, \hyperpage{231}
+  \item summation, \hyperpage{231}, \hyperpage{751}
+  \item surface, \hyperpage{624}
+  \item SVD, \hyperpage{685}
+  \item SWAP_COLUMNS, \hyperpage{687}
+  \item SWAP_ENTRIES, \hyperpage{688}
+  \item SWAP_ROWS, \hyperpage{689}
   \item Switch
-    \subitem ADJPREC, \hyperpage{101}
-    \subitem ALGINT, \hyperpage{317}
-    \subitem ALLBRANCH, \hyperpage{318}
-    \subitem ALLFAC, \hyperpage{319}
-    \subitem ARBVARS, \hyperpage{320}
-    \subitem BALANCED\_MOD, \hyperpage{321}
-    \subitem BFSPACE, \hyperpage{322}
-    \subitem break, \hyperpage{760}
-    \subitem COMBINEEXPT, \hyperpage{323}
-    \subitem COMBINELOGS, \hyperpage{324}
-    \subitem COMP, \hyperpage{325}
-    \subitem COMPLEX, \hyperpage{327}
-    \subitem contour, \hyperpage{606}
-    \subitem CRAMER, \hyperpage{329}
-    \subitem CREF, \hyperpage{328}
-    \subitem DEFN, \hyperpage{330}
-    \subitem DEMO, \hyperpage{332}
-    \subitem DFPRINT, \hyperpage{333}
-    \subitem DIV, \hyperpage{334}
-    \subitem ECHO, \hyperpage{335}
-    \subitem ERRCONT, \hyperpage{336}
-    \subitem EVALLHSEQP, \hyperpage{337}
-    \subitem EXP, \hyperpage{338}
-    \subitem EXPANDLOGS, \hyperpage{339}
-    \subitem EZGCD, \hyperpage{340}
-    \subitem FACTOR, \hyperpage{341}
-    \subitem FAILHARD, \hyperpage{343}
-    \subitem fast_la, \hyperpage{617}
-    \subitem FASTFOR, \hyperpage{732}
-    \subitem FORT, \hyperpage{344}
-    \subitem FORTUPPER, \hyperpage{345}
-    \subitem FULLPREC, \hyperpage{346}
-    \subitem FULLROOTS, \hyperpage{347}
-    \subitem GC, \hyperpage{348}
-    \subitem GCD, \hyperpage{349}
-    \subitem gltbasis, \hyperpage{432}
-    \subitem groebfullreduction, \hyperpage{431}
-    \subitem groebopt, \hyperpage{428}
-    \subitem groebprereduce, \hyperpage{430}
-    \subitem groebprot, \hyperpage{453}
-    \subitem groebstat, \hyperpage{435}
-    \subitem hidden3d, \hyperpage{608}
-    \subitem HORNER, \hyperpage{350}
-    \subitem IFACTOR, \hyperpage{351}
-    \subitem INT, \hyperpage{352}
-    \subitem INTSTR, \hyperpage{353}
-    \subitem LCM, \hyperpage{354}
-    \subitem LESSSPACE, \hyperpage{356}
-    \subitem LIMITEDFACTORS, \hyperpage{357}
-    \subitem LIST, \hyperpage{358}
-    \subitem LISTARGS, \hyperpage{359}
-    \subitem MCD, \hyperpage{360}
-    \subitem MODULAR, \hyperpage{361}
-    \subitem MSG, \hyperpage{362}
-    \subitem MULTIPLICITIES, \hyperpage{363}
-    \subitem NAT, \hyperpage{364}
-    \subitem NERO, \hyperpage{365}
-    \subitem NOARG, \hyperpage{366}
-    \subitem NOCONVERT, \hyperpage{124}
-    \subitem NOLNR, \hyperpage{367}
-    \subitem NOSPLIT, \hyperpage{368}
-    \subitem NUMVAL, \hyperpage{369}
-    \subitem OUTPUT, \hyperpage{370}
-    \subitem OVERVIEW, \hyperpage{371}
-    \subitem PERIOD, \hyperpage{372}
-    \subitem PLOTKEEP, \hyperpage{609}
-    \subitem PLOTREFINE, \hyperpage{610}
-    \subitem PRECISE, \hyperpage{373}
-    \subitem PRET, \hyperpage{374}
-    \subitem PRI, \hyperpage{375}
-    \subitem RAISE, \hyperpage{376}
-    \subitem RAT, \hyperpage{377}
-    \subitem RATARG, \hyperpage{378}
-    \subitem RATIONAL, \hyperpage{379}
-    \subitem RATIONALIZE, \hyperpage{380}
-    \subitem RATPRI, \hyperpage{381}
-    \subitem REVPRI, \hyperpage{382}
-    \subitem RLISP88, \hyperpage{383}
-    \subitem ROUNDALL, \hyperpage{384}
-    \subitem ROUNDBF, \hyperpage{385}
-    \subitem ROUNDED, \hyperpage{386}
-    \subitem SAVESTRUCTR, \hyperpage{387}
-    \subitem SHOW_GRID, \hyperpage{613}
-    \subitem SOLVESINGULAR, \hyperpage{388}
-    \subitem surface, \hyperpage{607}
-    \subitem taylorautocombine, \hyperpage{581}
-    \subitem taylorautoexpand, \hyperpage{582}
-    \subitem taylorkeeporiginal, \hyperpage{585}
-    \subitem taylorprintorder, \hyperpage{587}
-    \subitem TIME, \hyperpage{389}
-    \subitem TRALLFAC, \hyperpage{390}
-    \subitem TRFAC, \hyperpage{391}
-    \subitem trgroeb, \hyperpage{436}
-    \subitem trgroebs, \hyperpage{437}
-    \subitem TRIGFORM, \hyperpage{392}
-    \subitem TRINT, \hyperpage{393}
-    \subitem TRNONLNR, \hyperpage{394}
-    \subitem TRNUMERIC, \hyperpage{479}
-    \subitem TRPLOT, \hyperpage{614}
-    \subitem VAROPT, \hyperpage{395}
-  \item switch, \hyperpage{259, 260}
-  \item SWITCHES, \hyperpage{316}
-  \item SYMBOLIC, \hyperpage{272}
-  \item symbolic, \hyperpage{31}
-  \item SYMMETRIC, \hyperpage{273}
-  \item symmetricp, \hyperpage{670}
-  \item symmetries, \hyperpage{685}
-  \item SYMMETRY, \hyperpage{722}
+    \subitem ADJPREC, \hyperpage{105}
+    \subitem ALGINT, \hyperpage{327}
+    \subitem ALLBRANCH, \hyperpage{328}
+    \subitem ALLFAC, \hyperpage{329}
+    \subitem ARBVARS, \hyperpage{330}
+    \subitem BALANCED\_MOD, \hyperpage{331}
+    \subitem BFSPACE, \hyperpage{332}
+    \subitem break, \hyperpage{784}
+    \subitem COMBINEEXPT, \hyperpage{333}
+    \subitem COMBINELOGS, \hyperpage{334}
+    \subitem COMP, \hyperpage{335}
+    \subitem COMPLEX, \hyperpage{337}
+    \subitem contour, \hyperpage{623}
+    \subitem CRAMER, \hyperpage{339}
+    \subitem CREF, \hyperpage{338}
+    \subitem DEFN, \hyperpage{340}
+    \subitem DEMO, \hyperpage{342}
+    \subitem DFPRINT, \hyperpage{343}
+    \subitem DIV, \hyperpage{344}
+    \subitem ECHO, \hyperpage{345}
+    \subitem ERRCONT, \hyperpage{346}
+    \subitem EVALLHSEQP, \hyperpage{347}
+    \subitem EXP, \hyperpage{348}
+    \subitem EXPANDLOGS, \hyperpage{349}
+    \subitem EZGCD, \hyperpage{350}
+    \subitem FACTOR, \hyperpage{351}
+    \subitem FAILHARD, \hyperpage{353}
+    \subitem FAST_LA, \hyperpage{636}
+    \subitem FASTFOR, \hyperpage{755}
+    \subitem FORT, \hyperpage{354}
+    \subitem FORTUPPER, \hyperpage{355}
+    \subitem FULLPREC, \hyperpage{356}
+    \subitem FULLROOTS, \hyperpage{357}
+    \subitem GC, \hyperpage{358}
+    \subitem GCD, \hyperpage{359}
+    \subitem gltbasis, \hyperpage{443}
+    \subitem groebfullreduction, \hyperpage{442}
+    \subitem groebopt, \hyperpage{439}
+    \subitem groebprereduce, \hyperpage{441}
+    \subitem groebprot, \hyperpage{464}
+    \subitem groebstat, \hyperpage{446}
+    \subitem hidden3d, \hyperpage{625}
+    \subitem HORNER, \hyperpage{360}
+    \subitem IFACTOR, \hyperpage{361}
+    \subitem INT, \hyperpage{362}
+    \subitem INTSTR, \hyperpage{363}
+    \subitem LCM, \hyperpage{364}
+    \subitem LESSSPACE, \hyperpage{366}
+    \subitem LIMITEDFACTORS, \hyperpage{367}
+    \subitem LIST, \hyperpage{368}
+    \subitem LISTARGS, \hyperpage{369}
+    \subitem MCD, \hyperpage{370}
+    \subitem MODULAR, \hyperpage{371}
+    \subitem MSG, \hyperpage{372}
+    \subitem MULTIPLICITIES, \hyperpage{373}
+    \subitem NAT, \hyperpage{374}
+    \subitem NERO, \hyperpage{375}
+    \subitem NOARG, \hyperpage{376}
+    \subitem NOCONVERT, \hyperpage{128}
+    \subitem NOLNR, \hyperpage{377}
+    \subitem NOSPLIT, \hyperpage{378}
+    \subitem NUMVAL, \hyperpage{379}
+    \subitem OUTPUT, \hyperpage{380}
+    \subitem OVERVIEW, \hyperpage{381}
+    \subitem PERIOD, \hyperpage{382}
+    \subitem PLOTKEEP, \hyperpage{626}
+    \subitem PLOTREFINE, \hyperpage{627}
+    \subitem PRECISE, \hyperpage{383}
+    \subitem PRET, \hyperpage{384}
+    \subitem PRI, \hyperpage{385}
+    \subitem RAISE, \hyperpage{386}
+    \subitem RAT, \hyperpage{387}
+    \subitem RATARG, \hyperpage{388}
+    \subitem RATIONAL, \hyperpage{389}
+    \subitem RATIONALIZE, \hyperpage{390}
+    \subitem RATPRI, \hyperpage{391}
+    \subitem REVPRI, \hyperpage{392}
+    \subitem RLISP88, \hyperpage{393}
+    \subitem ROUNDALL, \hyperpage{394}
+    \subitem ROUNDBF, \hyperpage{395}
+    \subitem ROUNDED, \hyperpage{396}
+    \subitem SAVESTRUCTR, \hyperpage{397}
+    \subitem SHOW_GRID, \hyperpage{630}
+    \subitem SOLVESINGULAR, \hyperpage{398}
+    \subitem surface, \hyperpage{624}
+    \subitem taylorautocombine, \hyperpage{597}
+    \subitem taylorautoexpand, \hyperpage{598}
+    \subitem taylorkeeporiginal, \hyperpage{601}
+    \subitem taylorprintorder, \hyperpage{603}
+    \subitem TIME, \hyperpage{399}
+    \subitem TRALLFAC, \hyperpage{400}
+    \subitem TRFAC, \hyperpage{401}
+    \subitem trgroeb, \hyperpage{447}
+    \subitem trgroebs, \hyperpage{448}
+    \subitem TRIGFORM, \hyperpage{402}
+    \subitem TRINT, \hyperpage{403}
+    \subitem TRNONLNR, \hyperpage{404}
+    \subitem TRNUMERIC, \hyperpage{492}
+    \subitem TRPLOT, \hyperpage{631}
+    \subitem VAROPT, \hyperpage{405}
+  \item switch, \hyperpage{267, 268}
+  \item SWITCHES, \hyperpage{326}
+  \item SYMBOLIC, \hyperpage{280}
+  \item symbolic, \hyperpage{33}
+  \item SYMMETRIC, \hyperpage{281}
+  \item SYMMETRICP, \hyperpage{690}
+  \item symmetries, \hyperpage{707}
+  \item SYMMETRY, \hyperpage{744}
 
   \indexspace
 
-  \item T, \hyperpage{41}
-  \item TAN, \hyperpage{314}
-  \item TANH, \hyperpage{315}
-  \item TAYLOR, \hyperpage{578}
-  \item Taylor, \hyperpage{711}
-  \item taylor, \hyperpage{579}
-  \item Taylor series, \hyperpage{723}
-  \item taylorautocombine, \hyperpage{581}
-  \item taylorautoexpand, \hyperpage{582}
-  \item taylorcombine, \hyperpage{583}
-  \item taylorkeeporiginal, \hyperpage{585}
-  \item taylororiginal, \hyperpage{586}
-  \item taylorprintorder, \hyperpage{587}
-  \item taylorprintterms, \hyperpage{588}
-  \item taylorrevert, \hyperpage{589}
-  \item taylorseriesp, \hyperpage{590}
-  \item taylortemplate, \hyperpage{591}
-  \item taylortostandard, \hyperpage{592}
-  \item Term order, \hyperpage{412}
-  \item term order, \hyperpage{414--424}, \hyperpage{442}
-  \item terminal, \hyperpage{603}
-  \item TEX, \hyperpage{718}, \hyperpage{724}
-  \item then, \hyperpage{79}
-  \item THIRD, \hyperpage{97}
-  \item ThreejSymbol, \hyperpage{571}
-  \item TIME, \hyperpage{389}
-  \item time, \hyperpage{164}, \hyperpage{389}
-  \item TIMES, \hyperpage{138}
-  \item title, \hyperpage{599}
-  \item toeplitz, \hyperpage{671}
-  \item torder, \hyperpage{413}
-  \item torder_compile, \hyperpage{414}
-  \item TP, \hyperpage{406}
-  \item TPS, \hyperpage{723}
-  \item TR, \hyperpage{274}
-  \item tr, \hyperpage{754}
-  \item TRACE, \hyperpage{407}
-  \item trace, \hyperpage{274}, \hyperpage{276}, \hyperpage{754--759}
-  \item tracing Groebner, \hyperpage{452}
-  \item TRALLFAC, \hyperpage{390}
-  \item transform, \hyperpage{707}
-  \item transpose, \hyperpage{406}
-  \item TRFAC, \hyperpage{391}
-  \item trgroeb, \hyperpage{436}
-  \item trgroebs, \hyperpage{437}
-  \item TRI, \hyperpage{724}
-  \item TRIGFORM, \hyperpage{392}
-  \item TRIGSIMP, \hyperpage{725}
-  \item TRINT, \hyperpage{393}
-  \item trlimit, \hyperpage{768}
-  \item TRNONLNR, \hyperpage{394}
-  \item TRNUMERIC, \hyperpage{479}
-  \item trout, \hyperpage{767}
-  \item TRPLOT, \hyperpage{614}
-  \item trprinter, \hyperpage{769}
-  \item trrl, \hyperpage{765}
-  \item trst, \hyperpage{756}
-  \item TRUE, \hyperpage{152}
-  \item trwhen, \hyperpage{758}
+  \item T, \hyperpage{43}
+  \item TAN, \hyperpage{323}
+  \item TANH, \hyperpage{324}
+  \item TAYLOR, \hyperpage{594}
+  \item Taylor, \hyperpage{733}
+  \item taylor, \hyperpage{595}
+  \item Taylor series, \hyperpage{745}
+  \item taylorautocombine, \hyperpage{597}
+  \item taylorautoexpand, \hyperpage{598}
+  \item taylorcombine, \hyperpage{599}
+  \item taylorkeeporiginal, \hyperpage{601}
+  \item taylororiginal, \hyperpage{602}
+  \item taylorprintorder, \hyperpage{603}
+  \item taylorprintterms, \hyperpage{604}
+  \item taylorrevert, \hyperpage{605}
+  \item taylorseriesp, \hyperpage{606}
+  \item taylortemplate, \hyperpage{607}
+  \item taylortostandard, \hyperpage{608}
+  \item Term order, \hyperpage{423}
+  \item term order, \hyperpage{425--435}, \hyperpage{453}
+  \item terminal, \hyperpage{620}
+  \item TEX, \hyperpage{740}, \hyperpage{746}
+  \item then, \hyperpage{82}
+  \item THIRD, \hyperpage{100}
+  \item ThreejSymbol, \hyperpage{586}
+  \item TIME, \hyperpage{399}
+  \item time, \hyperpage{170}, \hyperpage{399}
+  \item TIMES, \hyperpage{142}
+  \item title, \hyperpage{616}
+  \item TOEPLITZ, \hyperpage{691}
+  \item torder, \hyperpage{424}
+  \item torder_compile, \hyperpage{425}
+  \item TP, \hyperpage{417}
+  \item TPS, \hyperpage{745}
+  \item TR, \hyperpage{282}
+  \item tr, \hyperpage{778}
+  \item TRACE, \hyperpage{418}
+  \item trace, \hyperpage{282}, \hyperpage{284}, \hyperpage{778--783}
+  \item tracing Groebner, \hyperpage{463}
+  \item TRALLFAC, \hyperpage{400}
+  \item transform, \hyperpage{729}
+  \item transpose, \hyperpage{417}
+  \item TRFAC, \hyperpage{401}
+  \item trgroeb, \hyperpage{447}
+  \item trgroebs, \hyperpage{448}
+  \item TRI, \hyperpage{746}
+  \item TRIGFORM, \hyperpage{402}
+  \item TRIGSIMP, \hyperpage{747}
+  \item TRINT, \hyperpage{403}
+  \item trlimit, \hyperpage{792}
+  \item TRNONLNR, \hyperpage{404}
+  \item TRNUMERIC, \hyperpage{492}
+  \item trout, \hyperpage{791}
+  \item TRPLOT, \hyperpage{631}
+  \item trprinter, \hyperpage{793}
+  \item trrl, \hyperpage{789}
+  \item trst, \hyperpage{780}
+  \item TRUE, \hyperpage{157}
+  \item trwhen, \hyperpage{782}
   \item Type
-    \subitem EQUATION, \hyperpage{69}
-    \subitem Free Variable, \hyperpage{91}
-    \subitem IDENTIFIER, \hyperpage{25}
-    \subitem Interval, \hyperpage{477}
-    \subitem KERNEL, \hyperpage{26}
-    \subitem ONE\_OF, \hyperpage{203}
-    \subitem Optional Free Variable, \hyperpage{92}
-    \subitem Pointset, \hyperpage{595}
-    \subitem RULE, \hyperpage{90}
-    \subitem STRING, \hyperpage{27}
+    \subitem EQUATION, \hyperpage{72}
+    \subitem Free Variable, \hyperpage{94}
+    \subitem IDENTIFIER, \hyperpage{26}
+    \subitem Interval, \hyperpage{490}
+    \subitem KERNEL, \hyperpage{27}
+    \subitem ONE\_OF, \hyperpage{210}
+    \subitem Optional Free Variable, \hyperpage{95}
+    \subitem Pointset, \hyperpage{612}
+    \subitem RULE, \hyperpage{93}
+    \subitem STRING, \hyperpage{28}
 
   \indexspace
 
-  \item ultraspherical polynomials, \hyperpage{555}
-  \item unbr, \hyperpage{762}
-  \item unbrwhen, \hyperpage{764}
-  \item univariate polynomial, \hyperpage{442}
-  \item until, \hyperpage{85}
-  \item UNTR, \hyperpage{276}
-  \item untr, \hyperpage{755}
-  \item untrrl, \hyperpage{766}
-  \item untrst, \hyperpage{757}
-  \item untrwhen, \hyperpage{759}
-  \item utilities, \hyperpage{687}
+  \item ultraspherical polynomials, \hyperpage{570}
+  \item unbr, \hyperpage{786}
+  \item unbrwhen, \hyperpage{788}
+  \item univariate polynomial, \hyperpage{453}
+  \item until, \hyperpage{88}
+  \item UNTR, \hyperpage{284}
+  \item untr, \hyperpage{779}
+  \item untrrl, \hyperpage{790}
+  \item untrst, \hyperpage{781}
+  \item untrwhen, \hyperpage{783}
+  \item utilities, \hyperpage{709}
 
   \indexspace
 
-  \item vandermonde, \hyperpage{672}
+  \item VANDERMONDE, \hyperpage{692}
   \item Variable
-    \subitem ASSUMPTIONS, \hyperpage{28}
-    \subitem CARD_NO, \hyperpage{29}
-    \subitem EVAL\_MODE, \hyperpage{31}
-    \subitem FORT\_WIDTH, \hyperpage{32}
-    \subitem gltb, \hyperpage{433}
-    \subitem glterms, \hyperpage{434}
-    \subitem gmodule, \hyperpage{458}
-    \subitem groebmonfac, \hyperpage{450}
-    \subitem groebprotfile, \hyperpage{454}
-    \subitem groebresmax, \hyperpage{451}
-    \subitem groebrestriction, \hyperpage{452}
-    \subitem gvarslast, \hyperpage{429}
-    \subitem HIGH\_POW, \hyperpage{33}
-    \subitem LOW\_POW, \hyperpage{36}
-    \subitem plot_xmesh, \hyperpage{611}
-    \subitem plot_ymesh, \hyperpage{612}
-    \subitem REQUIREMENTS, \hyperpage{39}
-    \subitem ROOT\_MULTIPLICITIES, \hyperpage{40}
-    \subitem ROOTSCOMPLEX, \hyperpage{496}
-    \subitem ROOTSREAL, \hyperpage{497}
-    \subitem size, \hyperpage{604}
-    \subitem taylorprintterms, \hyperpage{588}
-    \subitem terminal, \hyperpage{603}
-    \subitem title, \hyperpage{599}
-    \subitem trlimit, \hyperpage{768}
-    \subitem trprinter, \hyperpage{769}
-    \subitem view, \hyperpage{605}
-    \subitem xlabel, \hyperpage{600}
-    \subitem ylabel, \hyperpage{601}
-    \subitem zlabel, \hyperpage{602}
-  \item variable, \hyperpage{91, 92}
-  \item variable elimination, \hyperpage{415}
-  \item variable order, \hyperpage{243}, \hyperpage{263}
-  \item VARNAME, \hyperpage{277}
-  \item VAROPT, \hyperpage{395}
-  \item VECDIM, \hyperpage{473}
-  \item VECTOR, \hyperpage{474}
-  \item vector algebra, \hyperpage{688}, \hyperpage{711}
-  \item vector calculus, \hyperpage{711}
-  \item view, \hyperpage{605}
+    \subitem ASSUMPTIONS, \hyperpage{30}
+    \subitem CARD_NO, \hyperpage{31}
+    \subitem EVAL\_MODE, \hyperpage{33}
+    \subitem FORT\_WIDTH, \hyperpage{34}
+    \subitem gltb, \hyperpage{444}
+    \subitem glterms, \hyperpage{445}
+    \subitem gmodule, \hyperpage{469}
+    \subitem groebmonfac, \hyperpage{461}
+    \subitem groebprotfile, \hyperpage{465}
+    \subitem groebresmax, \hyperpage{462}
+    \subitem groebrestriction, \hyperpage{463}
+    \subitem gvarslast, \hyperpage{440}
+    \subitem HIGH\_POW, \hyperpage{35}
+    \subitem LOW\_POW, \hyperpage{38}
+    \subitem plot_xmesh, \hyperpage{628}
+    \subitem plot_ymesh, \hyperpage{629}
+    \subitem REQUIREMENTS, \hyperpage{41}
+    \subitem ROOT\_MULTIPLICITIES, \hyperpage{42}
+    \subitem ROOTSCOMPLEX, \hyperpage{510}
+    \subitem ROOTSREAL, \hyperpage{511}
+    \subitem size, \hyperpage{621}
+    \subitem taylorprintterms, \hyperpage{604}
+    \subitem terminal, \hyperpage{620}
+    \subitem title, \hyperpage{616}
+    \subitem trlimit, \hyperpage{792}
+    \subitem trprinter, \hyperpage{793}
+    \subitem view, \hyperpage{622}
+    \subitem xlabel, \hyperpage{617}
+    \subitem ylabel, \hyperpage{618}
+    \subitem zlabel, \hyperpage{619}
+  \item variable, \hyperpage{94, 95}
+  \item variable elimination, \hyperpage{426}
+  \item variable order, \hyperpage{251}, \hyperpage{271}
+  \item VARNAME, \hyperpage{285}
+  \item VAROPT, \hyperpage{405}
+  \item VECDIM, \hyperpage{485}
+  \item VECTOR, \hyperpage{486}
+  \item vector algebra, \hyperpage{710}, \hyperpage{733}
+  \item vector calculus, \hyperpage{733}
+  \item view, \hyperpage{622}
 
   \indexspace
 
-  \item Weber's function, \hyperpage{507}
-  \item WEIGHT, \hyperpage{278}
-  \item weighted term order, \hyperpage{422}
-  \item WHEN, \hyperpage{98}
-  \item WHERE, \hyperpage{280}
-  \item WHILE, \hyperpage{282}
-  \item WhittakerW, \hyperpage{516}
-  \item work space, \hyperpage{225}
-  \item WRITE, \hyperpage{165}
-  \item WS, \hyperpage{225}
-  \item WTLEVEL, \hyperpage{283}
-  \item WU, \hyperpage{728}
-  \item Wu-Wen-Tsun algorithm, \hyperpage{728}
+  \item Weber's function, \hyperpage{522}
+  \item WEIGHT, \hyperpage{286}
+  \item weighted term order, \hyperpage{433}
+  \item WHEN, \hyperpage{101}
+  \item WHERE, \hyperpage{288}
+  \item WHILE, \hyperpage{290}
+  \item WhittakerW, \hyperpage{531}
+  \item work space, \hyperpage{232}
+  \item WRITE, \hyperpage{171}
+  \item WS, \hyperpage{232}
+  \item WTLEVEL, \hyperpage{291}
+  \item WU, \hyperpage{750}
+  \item Wu-Wen-Tsun algorithm, \hyperpage{750}
 
   \indexspace
 
-  \item XCOLOR, \hyperpage{726}
-  \item XIDEAL, \hyperpage{727}
-  \item xlabel, \hyperpage{600}
+  \item XCOLOR, \hyperpage{748}
+  \item XIDEAL, \hyperpage{749}
+  \item xlabel, \hyperpage{617}
 
   \indexspace
 
-  \item ylabel, \hyperpage{601}
+  \item ylabel, \hyperpage{618}
 
   \indexspace
 
-  \item ZEILBERG, \hyperpage{729}
-  \item ZETA, \hyperpage{505}
-  \item zlabel, \hyperpage{602}
-  \item ZTRANS, \hyperpage{730}
+  \item ZEILBERG, \hyperpage{751}
+  \item ZETA, \hyperpage{520}
+  \item zlabel, \hyperpage{619}
+  \item ZTRANS, \hyperpage{752}
 
 \end{theindex}

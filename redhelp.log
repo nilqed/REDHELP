@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  12 MAR 2019 23:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  12 MAR 2019 23:30
 entering extended mode
 **./redhelp.tex
 (redhelp.tex
@@ -2321,7 +2321,7 @@ or  <return>  to continue without it.
 <inserted text> 
                 $
 l.15   \item \Rightarrow
-                         , \hyperpage{50}
+                         , \hyperpage{53}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2329,7 +2329,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.16   \item
-             \geq , \hyperpage{57}
+             \geq , \hyperpage{60}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2337,7 +2337,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.16   \item \geq
-                  , \hyperpage{57}
+                  , \hyperpage{60}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2345,7 +2345,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.17   \item
-             \leq , \hyperpage{59}
+             \leq , \hyperpage{62}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2353,7 +2353,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.17   \item \leq
-                  , \hyperpage{59}
+                  , \hyperpage{62}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2361,7 +2361,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.18   \item
-             \ll , \hyperpage{62}
+             \ll , \hyperpage{65}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2369,7 +2369,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.18   \item \ll
-                 , \hyperpage{62}
+                 , \hyperpage{65}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2377,7 +2377,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.19   \item
-             \textasciicircum , \hyperpage{56}
+             \textasciicircum , \hyperpage{59}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2389,7 +2389,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.154     \subitem \ll
-                       , \hyperpage{62}
+                       , \hyperpage{65}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2397,23 +2397,28 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.155     \subitem
-                   ALGEBRAIC, \hyperpage{227}
+                   ALGEBRAIC, \hyperpage{235}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [795]
 Overfull \hbox (2.22261pt too wide) in paragraph at lines 238--239
-[]\OT1/cmr/m/n/10 Confluent Hy-per-ge-o-met-ric func-tion, [][]514[][]--
+[]\OT1/cmr/m/n/10 Confluent Hy-per-ge-o-met-ric func-tion, [][]529[][]--
  []
 
 [796] [797] [798]
 Overfull \hbox (0.86147pt too wide) in paragraph at lines 461--462
-[]\OT1/cmr/m/n/10 generalized hy-per-ge-o-met-ric func-tion, [][]574[][] 
+[]\OT1/cmr/m/n/10 generalized hy-per-ge-o-met-ric func-tion, [][]589[][] 
  []
 
 [799] [800]
+Overfull \hbox (2.90584pt too wide) in paragraph at lines 585--586
+[]| \OT1/cmr/m/n/10 ARITH-METIC[]OPERATIONS, [][]103[][] 
+ []
+
+
 Overfull \hbox (0.27817pt too wide) in paragraph at lines 631--632
-[]\OT1/cmr/m/n/10 Kredel-Weispfenning al-go-rithm, [][]409[][], [][]440[][] 
+[]\OT1/cmr/m/n/10 Kredel-Weispfenning al-go-rithm, [][]420[][], [][]451[][] 
  []
 
 [801] [802]
@@ -2421,7 +2426,7 @@ Overfull \hbox (0.27817pt too wide) in paragraph at lines 631--632
 <inserted text> 
                 $
 l.791     \subitem \Rightarrow
-                               , \hyperpage{50}
+                               , \hyperpage{53}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2429,7 +2434,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.792     \subitem
-                   \geq , \hyperpage{57}
+                   \geq , \hyperpage{60}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2437,7 +2442,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.792     \subitem \geq
-                        , \hyperpage{57}
+                        , \hyperpage{60}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2445,7 +2450,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.793     \subitem
-                   \leq , \hyperpage{59}
+                   \leq , \hyperpage{62}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2453,7 +2458,7 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.793     \subitem \leq
-                        , \hyperpage{59}
+                        , \hyperpage{62}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -2461,26 +2466,26 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.794     \subitem
-                   \textasciicircum , \hyperpage{56}
+                   \textasciicircum , \hyperpage{59}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [803] [804] [805] [806] [807]
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1144--1154
-[][]\OT1/cmr/m/n/10 322[][], [][]332[][]--[][]335[][], [][]341[][], [][]350[][]
-, [][]353[][], [][]356[][],
+[][]\OT1/cmr/m/n/10 332[][], [][]342[][]--[][]345[][], [][]351[][], [][]360[][]
+, [][]363[][], [][]366[][],
  []
 
 
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1144--1154
-[][]\OT1/cmr/m/n/10 362[][], [][]364[][]--[][]366[][], [][]368[][], [][]370[][]
-, [][]372[][], [][]374[][],
+[][]\OT1/cmr/m/n/10 372[][], [][]374[][]--[][]376[][], [][]378[][], [][]380[][]
+, [][]382[][], [][]384[][],
  []
 
 [808]
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1232--1241
-[][]\OT1/cmr/m/n/10 177[][], [][]182[][], [][]188[][], [][]189[][], [][]194[][]
---[][]196[][], [][]200[][],
+[][]\OT1/cmr/m/n/10 184[][], [][]189[][], [][]195[][], [][]196[][], [][]201[][]
+--[][]203[][], [][]207[][],
  []
 
 [809] [810] [811] [812] [813] [814])
@@ -2548,7 +2553,7 @@ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmtt12.pfb>
-Output written on redhelp.pdf (814 pages, 2605617 bytes).
+Output written on redhelp.pdf (814 pages, 2605573 bytes).
 PDF statistics:
  11109 PDF objects out of 12825 (max. 8388607)
  1543 named destinations out of 1728 (max. 500000)
