@@ -7,7 +7,7 @@ The default setting of the switches described in this section is
 \nameref{off} unless stated otherwise. 
 \end{Introduction}
 
-\begin{Switch}{ALGINT}
+\begin{Switch}[algint]{ALGINT}
 \index{integration}
 When the \name{algint} switch is on, the algebraic integration module (which
 must be loaded from the REDUCE library) is used for integration.
@@ -20,7 +20,7 @@ turned on when the \name{algint} has not been loaded from the library.
 \end{Switch}
 
 
-\begin{Switch}{ALLBRANCH}
+\begin{Switch}[allbranch]{ALLBRANCH}
 When \name{allbranch} is on, the operator \nameref{solve} selects all 
 branches of solutions. 
 When \name{allbranch} is off, it selects only the principal
@@ -47,7 +47,7 @@ canonical solution is given.
 \end{Switch}
 
 
-\begin{Switch}{ALLFAC}
+\begin{Switch}[allfac]{ALLFAC}
 \index{output}
 The \name{allfac} switch, when on, causes REDUCE to factor out automatically
 common products in the output of expressions.  Default is \name{on}.
@@ -70,7 +70,7 @@ switch setting stays as it was, printing behavior is as if it were off.
 % \end{Switch}
 %
 %
-\begin{Switch}{ARBVARS}
+\begin{Switch}[arbvars]{ARBVARS}
 \index{solve}
 When \name{arbvars} is on, the solutions of singular or underdetermined
 systems of equations are presented in terms of arbitrary complex variables
@@ -97,7 +97,7 @@ variables.
 \end{Switch}
 
 
-\begin{Switch}{BALANCED\_MOD}
+\begin{Switch}[balanced\_mod]{BALANCED\_MOD}
 \index{modular}
 \nameref{modular} numbers are normally produced in the range [0,...\meta{n}), 
 where
@@ -115,7 +115,7 @@ on balanced_mod; \\
 \end{Switch}
 
 
-\begin{Switch}{BFSPACE}
+\begin{Switch}[bfspace]{BFSPACE}
 \index{output}\index{floating point}
 Floating point numbers are normally printed in a compact notation (either
 fixed point or in scientific notation if \nameref{SCIENTIFIC\_NOTATION}
@@ -135,7 +135,7 @@ on bfspace; \\
 \end{Switch}
 
 
-\begin{Switch}{COMBINEEXPT}
+\begin{Switch}[combineexpt]{COMBINEEXPT}
 \index{exponent simplification}
 REDUCE is in general poor at surd simplification.  However, when the
 switch \name{combineexpt} is on, the system attempts to combine
@@ -158,7 +158,7 @@ ws; & 1
 \end{Switch}
 
 
-\begin{Switch}{COMBINELOGS}
+\begin{Switch}[combinelogs]{COMBINELOGS}
 \index{logarithm}
 In many cases it is desirable to expand product arguments of logarithms,
 or collect a sum of logarithms into a single logarithm.  Since these are
@@ -183,7 +183,7 @@ on this behavior, since it may change in the next release.
 \end{Switch}
 
 
-\begin{Switch}{COMP}
+\begin{Switch}[comp]{COMP}
 \index{compiler}
 When \name{comp} is on, any succeeding function definitions are compiled
 into a faster-running form.  Default is \name{off}.
@@ -204,7 +204,7 @@ end;
 \explanation{Now load REDUCE and run the following:}\\
 on time;                     &             Time: 100 ms \\
 
-in "refib"$                  &             Time: 0 ms \\
+in "refib"\$                  &             Time: 0 ms \\
 
                              &              REFIB \\
 
@@ -218,7 +218,7 @@ refib(80);                   &             37889062373143906 \\
 
 on comp;                     &             Time: 80 ms \\
 
-in "refib"$                  &             Time: 20 ms \\
+in "refib"\$                  &             Time: 20 ms \\
 
                              &              REFIB \\
 
@@ -241,7 +241,7 @@ as it makes the processing of procedures much slower.
 \end{Switch}
 
 
-\begin{Switch}{COMPLEX}
+\begin{Switch}[complex]{COMPLEX}
 \index{complex}
 When the \name{complex} switch is on, full complex arithmetic is used in
 simplification, function evaluation, and factorization.  Default is \name{off}.
@@ -275,7 +275,7 @@ switch \nameref{rationalize}.
 \end{Switch}
 
 
-\begin{Switch}{CREF}
+\begin{Switch}[cref]{CREF}
 \index{cross reference}
 The switch \name{cref} invokes the CREF cross-reference program that
 processes a set of procedure definitions to produce a summary of their
@@ -301,7 +301,7 @@ functions, such as \name{aeval}.
 \end{Switch}
 
 
-\begin{Switch}{CRAMER}
+\begin{Switch}[cramer]{CRAMER}
 \index{matrix}\index{linear system}\index{solve}
 When the \name{cramer} switch is on, \nameref{matrix} inversion 
 and linear equation
@@ -340,7 +340,7 @@ number, or you can assign them to an identifier for further use.
 \end{Switch}
 
 
-\begin{Switch}{DEFN}
+\begin{Switch}[defn]{DEFN}
 \index{lisp}
 When the switch \name{defn} is on, the Standard Lisp equivalent of the
 input statement or procedure is printed, but not evaluated.  Default is
@@ -416,7 +416,7 @@ with
 \end{Switch}
 
 
-\begin{Switch}{DEMO}
+\begin{Switch}[demo]{DEMO}
 \index{interactive}\index{output}
 The \name{demo} switch is used for interactive files, causing the system
 to pause after each command in the file until you type a \key{Return}.
@@ -436,7 +436,7 @@ the file for questions of your own.
 \end{Switch}
 
 
-\begin{Switch}{DFPRINT}
+\begin{Switch}[dfprint]{DFPRINT}
 \index{output}\index{derivative}
 When \name{dfprint} is on, expressions in the differentiation operator
 \nameref{df} are printed in a more ``natural'' notation, with the
@@ -457,7 +457,7 @@ ws; & F(X,Y)_{X}
 \end{Switch}
 
 
-\begin{Switch}{DIV}
+\begin{Switch}[div]{DIV}
 \index{output}
 When \name{div} is on, the system divides any simple factors found in
 the denominator of an expression into the numerator.  Default is \name{off}.
@@ -486,7 +486,7 @@ printing behavior is as if \name{div} were off.
 \end{Switch}
 
 
-\begin{Switch}{ECHO}
+\begin{Switch}[echo]{ECHO}
 \index{output}
 The \name{echo} switch is normally off for top-level entry, and on when files
 are brought in.  If \name{echo} is turned on at the top level, your input
@@ -510,7 +510,7 @@ Since \name{echo} is on for files, the output file echoes input statements
 \end{Switch}
 
 
-\begin{Switch}{ERRCONT}
+\begin{Switch}[errcont]{ERRCONT}
 \index{error handling}
 When the \name{errcont} switch is on, error conditions do not stop file
 execution.  Error messages will be printed whether \name{errcont} is on or
@@ -567,7 +567,7 @@ Both on: Message is printed, and file continues to execute without pause.
 \end{Switch}
 
 
-\begin{Switch}{EVALLHSEQP}
+\begin{Switch}[evallhseqp]{EVALLHSEQP}
 \index{equation}
 Under normal circumstances, the right-hand-side of an \nameref{equation}
 is evaluated but not the left-hand-side.  This also applies to any
@@ -577,7 +577,7 @@ evaluated, the switch \name{evallhseqp} should be turned on.
 \end{Switch}
 
 
-\begin{Switch}{EXP}
+\begin{Switch}[switch:exp]{EXP}
 \index{simplification}
 When the \name{exp} switch is on, powers and products of expressions are
 expanded.  Default is \name{on}.
@@ -601,7 +601,7 @@ off, such as \nameref{length}.  Be cautious about leaving \name{exp} off.
 \end{Switch}
 
 
-\begin{Switch}{EXPANDLOGS}
+\begin{Switch}[expandlogs]{EXPANDLOGS}
 \index{logarithm}
 In many cases it is desirable to expand product arguments of logarithms,
 or collect a sum of logarithms into a single logarithm.  Since these are
@@ -626,7 +626,7 @@ on this behavior, since it may change in the next release.
 \end{Switch}
 
 
-\begin{Switch}{EZGCD}
+\begin{Switch}[ezgcd]{EZGCD}
 \index{greatest common divisor}\index{polynomial}
 When \name{ezgcd} and \nameref{gcd} are on, greatest common divisors are
 computed using the EZ GCD algorithm that uses modular arithmetic (and is
@@ -644,7 +644,7 @@ effect.
 \end{Switch}
 
 
-\begin{Switch}{FACTOR}
+\begin{Switch}[factor]{FACTOR}
 \index{output}
 When the \name{factor} switch is on, input expressions and results are
 automatically factored.
@@ -690,7 +690,7 @@ To factor a polynomial explicitly and store the results, use the operator
 \end{Switch}
 
 
-\begin{Switch}{FAILHARD}
+\begin{Switch}[failhard]{FAILHARD}
 \index{integration}
 When the \name{failhard} switch is on, the integration operator \nameref{int} 
 terminates with an error message if the integral cannot be done in closed 
@@ -707,7 +707,7 @@ complete the integration.
 \end{Switch}
 
 
-\begin{Switch}{FORT}
+\begin{Switch}[fort]{FORT}
 \index{FORTRAN}
 When \name{fort} is on, output is given Fortran-compatible syntax.  Default
 is \name{off}.
@@ -733,7 +733,7 @@ double precision output.
 \end{Comments}
 \end{Switch}
 
-\begin{Switch}{FORTUPPER}
+\begin{Switch}[fortupper]{FORTUPPER}
 \index{FORTRAN}
 When \name{fortupper} is on, any Fortran-style output appears in upper case.
 Default is \name{off}.
@@ -747,7 +747,7 @@ df(sin(7*x + y),x);          &     ANS=7.*COS(7*X+Y) \\
 \end{Switch}
 
 
-\begin{Switch}{FULLPREC}
+\begin{Switch}[fullprec]{FULLPREC}
 \index{precision}\index{rounded}
 Trailing zeroes of rounded numbers to the full system precision are
 normally not printed.  If this information is needed, for example to get a
@@ -769,7 +769,7 @@ See also \nameref{scientific_notation}.
 \end{Comments}
 \end{Switch}
 
-\begin{Switch}{FULLROOTS}
+\begin{Switch}[fullroots]{FULLROOTS}
 \index{solve}\index{polynomial}
 Since roots of cubic and quartic polynomials can often be very
 messy, a switch \name{fullroots} controls the production
@@ -779,7 +779,7 @@ formulas for explicit forms for degrees 3 and 4 only if
 are built using \nameref{root\_of}. Default is \name{off}.
 \end{Switch}
 
-\begin{Switch}{GC}
+\begin{Switch}[gc]{GC}
 \index{memory}
 With the \name{gc} switch, you can turn the garbage collection messages on
 or off.  The form of the message depends on the particular Lisp used for
@@ -792,7 +792,7 @@ garbage collection when needed even if you have turned the notices off.
 \end{Switch}
 
 
-\begin{Switch}{GCD}
+\begin{Switch}[switch:gcd]{GCD}
 \index{greatest common divisor}\index{rational expression}
 When \name{gcd} is on, common factors in numerators and denominators of
 expressions are canceled.  Default is \name{off}.
@@ -824,7 +824,7 @@ use of \name{gcd} is somewhat complicated.  Note when \nameref{exp} is off,
 \end{Switch}
 
 
-\begin{Switch}{HORNER}
+\begin{Switch}[horner]{HORNER}
 \index{output}\index{polynomial}
 When the \name{horner} switch is on, polynomial expressions are printed
 in Horner's form for faster and safer numerical evaluation. Default
@@ -843,7 +843,7 @@ ws;&
 \end{Switch}
 
 
-\begin{Switch}{IFACTOR}
+\begin{Switch}[ifactor]{IFACTOR}
 \index{integer}\index{factorize}
 When the \name{ifactor} switch is on, any integer terms appearing as a result
 of the \nameref{factorize} command are factored themselves into primes.  Default
@@ -869,7 +869,7 @@ with \nameref{factorize}, not on factoring done automatically when the
 \end{Switch}
 
 
-\begin{Switch}{INT}
+\begin{Switch}[int]{INT}
 \index{interactive}
 The \name{int} switch specifies an interactive mode of operation.  Default
 \name{on}.
@@ -885,7 +885,7 @@ everything else is ignored, even the command \name{on int}.
 \end{Switch}
 
 
-\begin{Switch}{INTSTR}
+\begin{Switch}[intstr]{INTSTR}
 \index{output}
 If \name{intstr} (for ``internal structure'') is on, arguments of an
 operator are printed in a more structured form.
@@ -900,7 +900,7 @@ ws; & F(2*(X + Y))
 \end{Switch}
 
 
-\begin{Switch}{LCM}
+\begin{Switch}[switch:lcm]{LCM}
 \index{rational expression}
 The \name{lcm} switch instructs REDUCE to compute the least common multiple
 of denominators whenever rational expressions occur.  Default is \name{on}.
@@ -939,14 +939,14 @@ switch.
 \end{Switch}
 
 
-\begin{Switch}{LESSSPACE}
+\begin{Switch}[lessspace]{LESSSPACE}
 \index{output}
 You can turn on the switch \name{lessspace} if you want fewer
 blank lines in your output.
 \end{Switch}
 
 
-\begin{Switch}{LIMITEDFACTORS}
+\begin{Switch}[limitedfactors]{LIMITEDFACTORS}
 \index{factorize}\index{polynomial}
 To get limited factorization in cases where it is too expensive to use
 full multivariate polynomial factorization, the switch
@@ -955,7 +955,7 @@ factoring operations, such as square-free factorization, will be used
 when \nameref{factorize} is called.
 
 \begin{Examples}
-a := (y-x)^2*(y^3+2x*y+5)*(y^2-3x*y+7)$ \\
+a := (y-x)^2*(y^3+2x*y+5)*(y^2-3x*y+7)\$ \\
 factorize a; &
 \begin{multilineoutput}{7cm}
 \{- 3*X*Y + Y^{2} + 7,1\}
@@ -973,7 +973,7 @@ factorize a; &
 \end{Switch}
 
 
-\begin{Switch}{LIST}
+\begin{Switch}[switch:list]{LIST}
 The \name{list} switch causes REDUCE to print each term in any sum on
 separate lines.
 
@@ -993,7 +993,7 @@ ws;                         &
 \end{Switch}
 
 
-\begin{Switch}{LISTARGS}
+\begin{Switch}[listargs]{LISTARGS}
 \index{list}\index{argument}\index{operator}
 If an operator other than those specifically defined for lists is given a
 single argument that is a list, then the result of this operation will be
@@ -1017,7 +1017,7 @@ has no effect.
 \end{Switch}
 
 
-\begin{Switch}{MCD}
+\begin{Switch}[switch:mcd]{MCD}
 \index{rational expression}
 When \name{mcd} is on, sums and differences of rational expressions are put
 on a common denominator.  Default is \name{on}.
@@ -1045,7 +1045,7 @@ a complicated calculation, and should be turned back on for the last stage.
 \end{Switch}
 
 
-\begin{Switch}{MODULAR}
+\begin{Switch}[modular]{MODULAR}
 \index{modular}
 When \name{modular} is on, polynomial coefficients are reduced by the
 modulus set by \nameref{setmod}.  If no modulus has been set, \name{modular}
@@ -1072,7 +1072,7 @@ The representation of modular number can be influenced by
 \end{Switch}
 
 
-\begin{Switch}{MSG}
+\begin{Switch}[msg]{MSG}
 \index{output}
 When \name{msg} is off, the printing of warning messages is suppressed.  Error
 messages are still printed.
@@ -1084,7 +1084,7 @@ or declaring an \nameref{operator} where one is expected.
 \end{Switch}
 
 
-\begin{Switch}{MULTIPLICITIES}
+\begin{Switch}[multiplicities]{MULTIPLICITIES}
 \index{solve}
 When \nameref{solve} is applied to a set of equations with multiple roots,
 solution multiplicities are normally stored in the global variable
@@ -1103,7 +1103,7 @@ root_multiplicities; &
 \end{Switch}
 
 
-\begin{Switch}{NAT}
+\begin{Switch}[nat]{NAT}
 \index{output}
 When \name{nat} is on, output is printed to the screen in natural form, with
 raised exponents.  \name{nat} should be turned off when outputting expressions
@@ -1124,7 +1124,7 @@ using the command \nameref{in}.
 \end{Switch}
 
 
-\begin{Switch}{NERO}
+\begin{Switch}[nero]{NERO}
 \index{output}
 When \name{nero} is on, zero assignments (such as matrix elements) are not
 printed.
@@ -1154,7 +1154,7 @@ being overloaded with zero assignments.
 \end{Switch}
 
 
-\begin{Switch}{NOARG}
+\begin{Switch}[noarg]{NOARG}
 \index{output}\index{derivative}
 When \nameref{dfprint} is on, expressions in the differentiation operator
 \nameref{df} are printed in a more ``natural'' notation, with the
@@ -1174,7 +1174,7 @@ ws; & F(X)_{X}
 \end{Switch}
 
 
-\begin{Switch}{NOLNR}
+\begin{Switch}[nolnr]{NOLNR}
 \index{integration}
 When \name{nolnr} is on, the linear properties of the integration operator
 \nameref{int} are suppressed if the integral cannot be found in closed terms.
@@ -1196,7 +1196,7 @@ fails, the rest of them remain unevaluated.
 %\end{Switch}
 
 
-\begin{Switch}{NOSPLIT}
+\begin{Switch}[nosplit]{NOSPLIT}
 \index{output}
 Under normal circumstances, the printing routines try to break an expression
 across lines at a natural point.  This is a fairly expensive process.  If
@@ -1207,7 +1207,7 @@ can speed up the printing of expressions by turning off the switch
 \end{Switch}
 
 
-\begin{Switch}{NUMVAL}
+\begin{Switch}[numval]{NUMVAL}
 \index{rounded}
 With \nameref{rounded} on, elementary functions with numerical arguments
 will return a numerical answer where appropriate.  If you wish to inhibit
@@ -1223,7 +1223,7 @@ cos 3.4; & COS(3.4)
 \end{Switch}
 
 
-\begin{Switch}{OUTPUT}
+\begin{Switch}[switch:output]{OUTPUT}
 \index{output}
 When \name{output} is off, no output is printed from any REDUCE calculation.
 The calculations have their usual effects other than printing.  Default is
@@ -1238,7 +1238,7 @@ assigned variables.
 \end{Switch}
 
 
-\begin{Switch}{OVERVIEW}
+\begin{Switch}[overview]{OVERVIEW}
 \index{factorize}
 When \name{overview} is on, the amount of detail reported by the factorizer
 switches \nameref{trfac} and \nameref{trallfac} is reduced.
@@ -1246,7 +1246,7 @@ switches \nameref{trfac} and \nameref{trallfac} is reduced.
 \end{Switch}
 
 
-\begin{Switch}{PERIOD}
+\begin{Switch}[period]{PERIOD}
 \index{output}\index{integer}
 When \name{period} is on, periods are added after integers in
 Fortran-compatible output (when \nameref{fort} is on).  There is no effect
@@ -1254,7 +1254,7 @@ when \name{fort} is off.  Default is \name{on}.
 \end{Switch}
 
 
-\begin{Switch}{PRECISE}
+\begin{Switch}[precise]{PRECISE}
 \index{simplification}\index{square root}
 When the \name{precise} switch is on, simplification of roots of even
 powers returns absolute values, a more precise answer mathematically.
@@ -1281,7 +1281,7 @@ zero.
 \end{Switch}
 
 
-\begin{Switch}{PRET}
+\begin{Switch}[pret]{PRET}
 \index{output}
 When \name{pret} is on, input is printed in standard REDUCE format and then
 evaluated.
@@ -1326,7 +1326,7 @@ side.  In addition, syntactical constructs like
 \end{Switch}
 
 
-\begin{Switch}{PRI}
+\begin{Switch}[pri]{PRI}
 \index{output}
 When \name{pri} is on, the declarations \nameref{order} and \nameref{factor} can
 be used, and the switches \nameref{allfac}, \nameref{div}, \nameref{rat}, 
@@ -1342,7 +1342,7 @@ also gain insight into REDUCE's representation of expressions with
 \end{Switch}
 
 
-\begin{Switch}{RAISE}
+\begin{Switch}[raise]{RAISE}
 \index{input}\index{character}
 When \name{raise} is on, lower case letters are automatically converted to
 upper case on input.  \name{raise} is normally on.
@@ -1356,7 +1356,7 @@ lower case.
 \end{Switch}
 
 
-\begin{Switch}{RAT}
+\begin{Switch}[rat]{RAT}
 \index{output}
 When the \name{rat} switch is on, and kernels have been selected to display
 with the \nameref{factor} declaration, the denominator is printed with each
@@ -1384,7 +1384,7 @@ effect upon the display of expressions, not their internal form.
 \end{Switch}
 
 
-\begin{Switch}{RATARG}
+\begin{Switch}[ratarg]{RATARG}
 \index{rational expression}\index{polynomial}
 When \name{ratarg} is on, rational expressions can be given to operators
 such as \nameref{coeff} and \nameref{lterm} that normally require
@@ -1403,7 +1403,7 @@ coeff(aa,x);
 \end{Switch}
 
 
-\begin{Switch}{RATIONAL}
+\begin{Switch}[rational]{RATIONAL}
 \index{rational expression}\index{polynomial}
 When \name{rational} is on, polynomial expressions with rational coefficients
 are produced.
@@ -1427,7 +1427,7 @@ number coefficients.  % The \nameref{factorize} command does not accept
 \end{Switch}
 
 
-\begin{Switch}{RATIONALIZE}
+\begin{Switch}[rationalize]{RATIONALIZE}
 \index{rational expression}\index{simplification}\index{complex}
 When the \name{rationalize} switch is on, denominators of rational expressions
 that contain complex numbers or root expressions are simplified by 
@@ -1446,7 +1446,7 @@ off rationalize; \\
 \end{Switch}
 
 
-\begin{Switch}{RATPRI}
+\begin{Switch}[ratpri]{RATPRI}
 \index{output}\index{rational expression}
 When the \name{ratpri} switch is on, rational expressions and fractions are
 printed as two lines separated by a fraction bar, rather than in a linear
@@ -1462,7 +1462,7 @@ off ratpri; \\
 \end{Switch}
 
 
-\begin{Switch}{REVPRI}
+\begin{Switch}[revpri]{REVPRI}
 \index{output}
 When the \name{revpri} switch is on, terms are printed in reverse order from
 the normal printing order.
@@ -1482,7 +1482,7 @@ rather than descending order.
 \end{Switch}
 
 
-\begin{Switch}{RLISP88}
+\begin{Switch}[rlisp88]{RLISP88}
 \index{lisp}
 Rlisp '88 is a superset of the Rlisp that has been traditionally used for
 the support of REDUCE.  It is fully documented in the book Marti, J.B.,
@@ -1498,7 +1498,7 @@ in force before \name{rlisp88} was turned on.
 \end{Switch}
 
 
-\begin{Switch}{ROUNDALL}
+\begin{Switch}[roundall]{ROUNDALL}
 \index{rounded}\index{rational expression}\index{floating point}
 In \nameref{rounded} mode, rational numbers are normally converted to a
 floating point representation.  If \name{roundall} is off, this conversion
@@ -1514,7 +1514,7 @@ off roundall; \\
 \end{Switch}
 
 
-\begin{Switch}{ROUNDBF}
+\begin{Switch}[roundbf]{ROUNDBF}
 When \nameref{rounded} is on, the normal defaults cause underflows to be
 converted to zero.  If you really want the small number that results in
 such cases, \name{roundbf} can be turned on.
@@ -1558,7 +1558,7 @@ If more than the default number of decimal places are required, use the
 \end{Switch}
 
 
-\begin{Switch}{SAVESTRUCTR}
+\begin{Switch}[savestructr]{SAVESTRUCTR}
 \index{STRUCTR OPERATOR}
 When \name{savestructr} is on, results of the \nameref{structr} command are
 returned as a list whose first element is the representation for the
@@ -1594,7 +1594,7 @@ to make unique identifiers.
 \end{Switch}
 
 
-\begin{Switch}{SOLVESINGULAR}
+\begin{Switch}[solvesingular]{SOLVESINGULAR}
 \index{solve}
 When \name{solvesingular} is on, singular or underdetermined systems of
 linear equations are solved, using arbitrary real, complex or integer
@@ -1624,7 +1624,7 @@ significance.
 \end{Switch}
 
 
-\begin{Switch}{TIME}
+\begin{Switch}[time]{TIME}
 \index{time}
 When \name{time} is on, the system time used in executing each REDUCE
 statement is printed after the answer is printed.
@@ -1655,7 +1655,7 @@ printed is CPU or wall clock time, depending on the system.
 \end{Switch}
 
 
-\begin{Switch}{TRALLFAC}
+\begin{Switch}[trallfac]{TRALLFAC}
 \index{factorize}
 When \name{trallfac} is on, a more detailed trace of factorizer calls is
 generated.
@@ -1671,7 +1671,7 @@ the factorizer automatically and trace information is generated.  The
 \end{Switch}
 
 
-\begin{Switch}{TRFAC}
+\begin{Switch}[trfac]{TRFAC}
 \index{factorize}
 When \name{trfac} is on, a narrative trace of any calls to the factorizer is
 generated.  Default is \name{off}.
@@ -1690,7 +1690,7 @@ greater level of detail.
 \end{Comments}
 \end{Switch}
 
-\begin{Switch}{TRIGFORM}
+\begin{Switch}[trigform]{TRIGFORM}
 \index{solve}\index{polynomial}
 When \nameref{fullroots} is on, \nameref{solve} will compute the
 roots of a cubic or quartic polynomial is closed form. When 
@@ -1699,7 +1699,7 @@ forms. Otherwise nested surds are used. Default is \name{on}.
 \end{Switch}
 
 
-\begin{Switch}{TRINT}
+\begin{Switch}[trint]{TRINT}
 \index{integration}
 When \name{trint} is on, a narrative tracing various steps in the
 integration process is produced.
@@ -1711,7 +1711,7 @@ trace.
 \end{Comments}
 \end{Switch}
 
-\begin{Switch}{TRNONLNR}
+\begin{Switch}[trnonlnr]{TRNONLNR}
 \index{solve}
 When \name{trnonlnr} is on, a narrative tracing various steps in
 the process for solving non-linear equations is produced.
@@ -1724,7 +1724,7 @@ command saves the results of the equation solving, but not the trace.
 \end{Switch}
 
 
-\begin{Switch}{VAROPT}
+\begin{Switch}[varopt]{VAROPT}
 \index{solve}
 When \name{varopt} is on, the sequence of variables is optimized by
 \nameref{solve} with respect to execution speed. Otherwise, the sequence

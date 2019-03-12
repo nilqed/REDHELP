@@ -35,7 +35,7 @@
 % see https://tex.stackexchange.com/questions/420501/error-redefining-nameref-using-let
 \AtBeginDocument{
   \let\namerefOld\nameref
-  \renewcommand{\nameref}[1]{[\textcolor{Dark}{#1}]\ref{#1}}
+  \renewcommand{\nameref}[1]{[\textcolor{Dark}{#1},\ref{#1}]}
 }
 
 
@@ -82,6 +82,9 @@
 \input{pk-misc}
 \input{symbolic}
 \input{outmode}
+\input{guide}
+\input{help}
+\input{rdebug}
 
 
 \cleardoublepage
