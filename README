@@ -10,6 +10,9 @@ This is a reference manual (redhelp.pdf) for the REDUCE system, built upon
 
 providing bookmarks, toc and index (using: hyperref/makeindex ...).
 
+Release(s):
+[redhelp.pdf](https://github.com/nilqed/REDHELP/files/2959073/redhelp.pdf)
+
 A portable general-purpose computer algebra system
 --------------------------------------------------
 See 
@@ -23,3 +26,8 @@ calculations (as illustrated in the screenshot below) but also provides a
 full programming language, with a syntax similar to other modern programming 
 languages. REDUCE supports alternative user interfaces including Emacs and 
 TeXmacs.
+
+Pure-Reduce
+-----------
+https://github.com/agraef/pure-lang/wiki/Reduce
+https://github.com/agraef/pure-lang/wiki/ScientificComputing
