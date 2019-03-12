@@ -1,3 +1,8 @@
+% ^(\\begin{Operator}\{(((\\")|[^"])+)\})
+%  ==>  \\begin{Operator}[$2]{$2}
+
+
+\newpage
 \section{Linear Algebra package}
 
 \begin{Introduction}{Linear Algebra package}
@@ -17,187 +22,123 @@ The functions can be divided into four categories:
 
 {\bf Basic matrix handling}
  
-\nameref{add\_columns},
+\begin{itemize} 
+\item \nameref{addcolumns}
+\item \nameref{addrows}
+\item \nameref{addtocolumns}
+\item \nameref{addtorows}
+\item \nameref{augmentcolumns}
+\item \nameref{charpoly}
+\item \nameref{columndim}
+\item \nameref{copyinto}
+\item \nameref{diagonal}
+\item \nameref{extend}
+\item \nameref{findcompanion}
+\item \nameref{getcolumns}
+\item \nameref{getrows}
+\item \nameref{hermitiantp}
+\item \nameref{matrixaugment}
+\item \nameref{matrixstack} ,
+\item \nameref{minor}
+\item \nameref{multcolumns}
+\item \nameref{multrows}
+\item \nameref{pivot}
+\item \nameref{removecolumns}
+\item \nameref{removerows}
+\item \nameref{rowdim}
+\item \nameref{rowspivot}
+\item \nameref{stackrows}
+\item \nameref{submatrix}
+\item \nameref{swapcolumns}
+\item \nameref{swapentries}
+\item \nameref{swaprows}
+\end{itemize}
 
-\nameref{add\_rows},
- 
-\nameref{add\_to\_columns},
- 
-\nameref{add\_to\_rows},   
- 
-\nameref{augment\_columns},
- 
-\nameref{char\_poly},
- 
-\nameref{column\_dim},      
- 
-\nameref{copy\_into},
- 
-\nameref{diagonal},
- 
-\nameref{extend},
- 
-\nameref{find\_companion},
- 
-\nameref{get\_columns},
- 
-\nameref{get\_rows},
- 
-\nameref{hermitian\_tp},    
- 
-\nameref{matrix\_augment},  
- 
-\nameref{matrix\_stack} ,
- 
-\nameref{minor},   
- 
-\nameref{mult\_columns},    
- 
-\nameref{mult\_rows},
-
-\nameref{pivot},      
- 
-\nameref{remove\_columns},  
- 
-\nameref{remove\_rows}, 
- 
-\nameref{row\_dim},    
- 
-\nameref{rows\_pivot},     
- 
-\nameref{stack\_rows},     
- 
-\nameref{sub\_matrix},     
- 
-\nameref{swap\_columns},    
- 
-\nameref{swap\_entries},   
- 
-\nameref{swap\_rows}.  
 
 {\bf Constructors -- functions that create matrices}
- 
-\nameref{band\_matrix},
- 
-\nameref{block\_matrix},
- 
-\nameref{char\_matrix},
- 
-\nameref{coeff\_matrix},
- 
-\nameref{companion},
- 
-\nameref{hessian},
- 
-\nameref{hilbert},
- 
-\nameref{jacobian},
- 
-\nameref{jordan\_block},
- 
-\nameref{make\_identity},
- 
-\nameref{random\_matrix},
- 
-\nameref{toeplitz},
- 
-\nameref{vandermonde}.
+
+\begin{itemize} 
+\item \nameref{bandmatrix}
+\item \nameref{blockmatrix}
+\item \nameref{charmatrix}
+\item \nameref{coeffmatrix}
+\item \nameref{companion}
+\item \nameref{hessian}
+\item \nameref{hilbert}
+\item \nameref{jacobian}
+\item \nameref{jordanblock}
+\item \nameref{makeidentity}
+\item \nameref{randommatrix}
+\item \nameref{toeplitz}
+\item \nameref{vandermonde}
+\end{itemize}
 
 {\bf High level algorithms}
- 
-\nameref{char\_poly},
- 
-\nameref{cholesky},
- 
-\nameref{gram\_schmidt},
- 
-\nameref{lu\_decom},
- 
-\nameref{pseudo\_inverse},
- 
-\nameref{simplex},
- 
-\nameref{svd}.  
+
+\begin{itemize} 
+\item \nameref{charpoly}
+\item \nameref{cholesky} 
+\item \nameref{gramschmidt} 
+\item \nameref{ludecom} 
+\item \nameref{pseudoinverse}
+\item \nameref{simplex}
+\item \nameref{svd} 
+\end{itemize}
 
 {\bf Normal Forms}
 
 There is a separate package, NORMFORM, for computing
 the following matrix normal forms in \REDUCE:
 
-\nameref{smithex}, 
-
-\nameref{smithex\_int}, 
-
-\nameref{frobenius}, 
-
-\nameref{ratjordan}, 
-
-\nameref{jordansymbolic}, 
-
-\nameref{jordan}.
-
+\begin{itemize}
+\item \nameref{smithex} 
+\item \nameref{smithexint} 
+\item \nameref{frobenius} 
+\item \nameref{ratjordan} 
+\item \nameref{jordansymbolic} 
+\item \nameref{jordan}
+\end{itemize}
 
 {\bf Predicates}
 
-\nameref{matrixp},
- 
-\nameref{squarep},
- 
-\nameref{symmetricp}.
+\begin{itemize}
+\item \nameref{matrixp}
+\item \nameref{squarep}
+\item \nameref{symmetricp}
+\end{itemize}
 
 \end{Introduction}
 
 
-\begin{Switch}{fast_la}
+\begin{Switch}[fastla]{FAST_LA}
 
 By turning the \name{fast\_la} switch on, the speed of the following
 functions will be increased:
 
- 
-\nameref{add\_columns},
- 
-\nameref{add\_rows},
- 
-\nameref{augment\_columns},
- 
-\nameref{column\_dim},
- 
-\nameref{copy\_into},
- 
-\nameref{make\_identity},
- 
-\nameref{matrix\_augment},
- 
-\nameref{matrix\_stack},
- 
-\nameref{minor},
- 
-\nameref{mult\_columns},
- 
-\nameref{mult\_rows},
- 
-\nameref{pivot},
- 
-\nameref{remove\_columns},
- 
-\nameref{remove\_rows},
- 
-\nameref{rows\_pivot},
- 
-\nameref{squarep},
- 
-\nameref{stack\_rows},
- 
-\nameref{sub\_matrix},
- 
-\nameref{swap\_columns},
- 
-\nameref{swap\_entries},
- 
-\nameref{swap\_rows},
- 
-\nameref{symmetricp}.                                  
-              
+\begin{itemize}
+\item \nameref{addcolumns}
+\item \nameref{addrows} 
+\item \nameref{augmentcolumns}
+\item \nameref{columndim}
+\item \nameref{copyinto}
+\item \nameref{makeidentity}
+\item \nameref{matrixaugment}
+\item \nameref{matrixstack}
+\item \nameref{minor}
+\item \nameref{multcolumns}
+\item \nameref{multrows}
+\item \nameref{pivot}
+\item \nameref{removecolumns}
+\item \nameref{removerows}
+\item \nameref{rowspivot}
+\item \nameref{squarep}
+\item \nameref{stackrows}
+\item \nameref{submatrix}
+\item \nameref{swapcolumns}
+\item \nameref{swapentries}
+\item \nameref{swaprows} 
+\item \nameref{symmetricp}                                 
+\end{itemize}              
 
 The increase in speed will be negligible unless you are making a
 significant number (i.e. thousands) of calls. When using this switch,
@@ -205,8 +146,10 @@ error checking is minimized. This means that illegal input may give
 strange error messages. Beware.
 \end{Switch}
 
-\begin{Operator}{add_columns}
-Add columns, add rows:
+\begin{Operator}[addcolumns]{ADD_COLUMNS}
+Add columns, add rows: 
+
+
 \begin{Syntax}
 \name{add\_columns}\(\meta{matrix},\meta{c1},\meta{c2},\meta{expr}\)
 \end{Syntax}
@@ -246,19 +189,19 @@ add_rows(A,2,3,5); &
 
 \end{Examples}
 
-Related functions: \nameref{add\_to\_columns}, 
-\nameref{add\_to\_rows}, \nameref{mult\_columns}, 
-\nameref{mult\_rows}.
+Related functions: \nameref{addtocolumns}, 
+\nameref{addtorows}, \nameref{multcolumns}, 
+\nameref{multrows}.
 
 \end{Operator}
 
 
-\begin{Operator}{add_rows}
- see: \nameref{add\_columns}.
+\begin{Operator}[addrows]{ADD_ROWS}
+ see: \nameref{addcolumns}.
 \end{Operator}
 
 
-\begin{Operator}{add_to_columns}
+\begin{Operator}[addtocolumns]{ADD_TO_COLUMNS}
 Add to columns, add to rows:
 
 \begin{Syntax}
@@ -300,18 +243,18 @@ add_to_rows(A,2,-x) &
 \end{Examples}
 
 Related functions:
-\nameref{add\_columns},  \nameref{add\_rows},  \nameref{mult\_rows}, 
-\nameref{mult\_columns}.
+\nameref{addcolumns},  \nameref{addrows},  \nameref{multrows}, 
+\nameref{multcolumns}.
 
 \end{Operator}
 
 
-\begin{Operator}{add_to_rows}
- see:  \nameref{add\_to\_columns}.
+\begin{Operator}[addtorows]{ADD_TO_ROWS}
+ see:  \nameref{addtocolumns}.
 \end{Operator}
 
 
-\begin{Operator}{augment_columns}
+\begin{Operator}[augmentcolumns]{AUGMENT_COLUMNS}
 Augment columns, stack rows:
 
 \begin{Syntax}
@@ -348,12 +291,12 @@ stack_rows(A,\{1,3\}) &
 \end{Examples}
 
 Related functions:
-\nameref{get\_columns},  \nameref{get\_rows}, \nameref{sub\_matrix}.
+\nameref{getcolumns},  \nameref{getrows}, \nameref{submatrix}.
 
 \end{Operator}
 
 
-\begin{Operator}{band_matrix}
+\begin{Operator}[bandmatrix]{BAND_MATRIX}
 
 \begin{Syntax}
 \name{band\_matrix}(\meta{expr\_list},\meta{square\_size})
@@ -393,7 +336,7 @@ Related functions: \nameref{diagonal}.
 \end{Operator}
 
 
-\begin{Operator}{block_matrix}
+\begin{Operator}[blockmatrix]{BLOCK_MATRIX}
 
 \begin{Syntax}
 \name{block\_matrix}(\meta{r},\meta{c},\meta{matrix\_list})
@@ -444,7 +387,7 @@ block_matrix(2,3,\{B,C,D,D,C,B\}); &
 \end{Operator}
 
 
-\begin{Operator}{char_matrix}
+\begin{Operator}[charmatrix]{CHAR_MATRIX}
 
 \begin{Syntax}
 \name{char\_matrix}(\meta{matrix},\meta{lambda})
@@ -472,12 +415,12 @@ char_matrix(A,x); &
 
 \end{Examples}
 
-Related functions: \nameref{char\_poly}. 
+Related functions: \nameref{charpoly}. 
 
 \end{Operator}
 
 
-\begin{Operator}{char_poly}
+\begin{Operator}[charpoly]{CHAR_POLY}
 
 \begin{Syntax}
 \name{char\_poly}(\meta{matrix},\meta{lambda})
@@ -496,12 +439,12 @@ char_poly(A,x); &
 x^3-15*x^2-18*x
 \end{Examples}
 
-Related functions: \nameref{char\_matrix}. 
+Related functions: \nameref{charmatrix}. 
 
 \end{Operator}
 
 
-\begin{Operator}{cholesky}
+\begin{Operator}[cholesky]{CHOLESKY}
 
 \begin{Syntax}
 \name{cholesky}(\meta{matrix})
@@ -549,12 +492,12 @@ cholesky(F); &
 
 \end{Examples}
 
-Related functions: \nameref{lu\_decom}.
+Related functions: \nameref{ludecom}.
 
 \end{Operator}
 
 
-\begin{Operator}{coeff_matrix}
+\begin{Operator}[coeffmatrix]{COEFF_MATRIX}
 
 \begin{Syntax}
 \name{coeff\_matrix}(\{\meta{lineq\_list}\}) 
@@ -606,7 +549,7 @@ coeff_matrix(\{x+y+4*z=10,y+x-z=20,x+y+4\}); &
 \end{Operator}
 
 
-\begin{Operator}{column_dim}
+\begin{Operator}[columndim]{COLUMN_DIM}
 Column dimension, row dimension:
 
 \begin{Syntax}
@@ -632,7 +575,7 @@ row_dim(A); &
 \end{Operator}
 
 
-\begin{Operator}{companion}
+\begin{Operator}[companion]{COMPANION}
 
 \begin{Syntax}
 \name{companion}(\meta{poly},\meta{x})
@@ -670,12 +613,12 @@ companion(x^4+17*x^3-9*x^2+11,x); &
 \end{Examples}
 
 Related functions:
-\nameref{find\_companion}.
+\nameref{findcompanion}.
 
 \end{Operator}
 
 
-\begin{Operator}{copy_into}
+\begin{Operator}[copyinto]{COPY_INTO}
 
 \begin{Syntax}
 \name{copy\_into}(\meta{A},\meta{B},\meta{r},\meta{c})
@@ -720,13 +663,13 @@ copy_into(A,G,1,2); &
 \end{Examples}
 
 Related functions: 
-\nameref{augment\_columns}, \nameref{extend}, \nameref{matrix\_augment}, 
-\nameref{matrix\_stack}, \nameref{stack\_rows}, \nameref{sub\_matrix}.
+\nameref{augmentcolumns}, \nameref{extend}, \nameref{matrixaugment}, 
+\nameref{matrixstack}, \nameref{stackrows}, \nameref{submatrix}.
 
 \end{Operator}
 
 
-\begin{Operator}{diagonal}
+\begin{Operator}[diagonal]{DIAGONAL}
 
 \begin{Syntax}
 \name{diagonal}(\{\meta{mat\_list}\}) 
@@ -766,12 +709,12 @@ diagonal(\{A,x,H\}); &
 \end{Examples}
 
 Related functions: 
-\nameref{jordan\_block}.
+\nameref{jordanblock}.
 
 \end{Operator}
 
 
-\begin{Operator}{extend}
+\begin{Operator}[extend]{EXTEND}
 
 \begin{Syntax}
 \name{extend}(\meta{matrix},\meta{r},\meta{c},\meta{expr})
@@ -803,13 +746,13 @@ extend(A,1,2,x); &
 \end{Examples}
 
 Related functions: 
-\nameref{copy\_into}, \nameref{matrix\_augment}, \nameref{matrix\_stack},  
-\nameref{remove\_columns}, \nameref{remove\_rows}.
+\nameref{copyinto}, \nameref{matrixaugment}, \nameref{matrixstack},  
+\nameref{removecolumns}, \nameref{removerows}.
 
 \end{Operator}
 
 
-\begin{Operator}{find_companion}
+\begin{Operator}[findcompanion]{FIND_COMPANION}
 
 \begin{Syntax}
 \name{find\_companion}(\meta{matrix},\meta{x})
@@ -846,7 +789,7 @@ Related functions:
 \end{Operator}
 
 
-\begin{Operator}{get_columns}
+\begin{Operator}[getcolumns]{GET_COLUMNS}
 Get columns, get rows:
 
 \begin{Syntax}
@@ -898,17 +841,17 @@ get_rows(A,2); &
 \end{Examples}
 
 Related functions:
-\nameref{augment\_columns}, \nameref{stack\_rows}, \nameref{sub\_matrix}.
+\nameref{augmentcolumns}, \nameref{stackrows}, \nameref{submatrix}.
 
 \end{Operator}
 
 
-\begin{Operator}{get_rows}
-see:  \nameref{get\_columns}.
+\begin{Operator}[getrows]{GET_ROWS}
+see:  \nameref{getcolumns}.
 \end{Operator}
 
 
-\begin{Operator}{gram_schmidt}
+\begin{Operator}[gramschmidt]{GRAM_SCHMIDT}
 
 \begin{Syntax}
 \name{gram\_schmidt}(\{\meta{vec\_list}\}) 
@@ -938,7 +881,7 @@ gram_schmidt(\{\{1,2\},\{3,4\}\}); &
 \end{Operator}
 
 
-\begin{Operator}{hermitian_tp}
+\begin{Operator}[hermitiantp]{HERMITIAN_TP}
 
 \begin{Syntax}
 \name{ hermitian\_tp}(\meta{matrix})
@@ -979,7 +922,7 @@ Related functions:
 \end{Operator}
 
 
-\begin{Operator}{hessian}
+\begin{Operator}[hessian]{HESSIAN}
 
 \begin{Syntax}
 \name{hessian}(\meta{expr},\meta{variable\_list})
@@ -1018,7 +961,7 @@ Related functions: \nameref{df}.
 \end{Operator}
 
 
-\begin{Operator}{hilbert}
+\begin{Operator}[hilbert]{HILBERT}
 
 \begin{Syntax}
 \name{hilbert}(\meta{square\_size},\meta{expr})
@@ -1056,7 +999,7 @@ hilbert(3,y+x); &
 \end{Operator}
 
 
-\begin{Operator}{jacobian}
+\begin{Operator}[jacobian]{JACOBIAN}
 
 \begin{Syntax}
 \name{jacobian}(\meta{expr\_list},\meta{variable\_list})
@@ -1099,7 +1042,7 @@ Related functions:
 \end{Operator}
 
 
-\begin{Operator}{jordan_block}
+\begin{Operator}[jordanblock]{JORDAN_BLOCK}
 
 \begin{Syntax}
 \name{jordan\_block}(\meta{expr},\meta{square\_size})
@@ -1140,7 +1083,7 @@ Related functions: \nameref{diagonal}, \nameref{companion}.
 \end{Operator}
 
 
-\begin{Operator}{lu_decom}
+\begin{Operator}[ludecom]{LU_DECOM}
 
 \begin{Syntax}
 \name{lu\_decom}(\meta{matrix})
@@ -1274,7 +1217,7 @@ Related functions: \nameref{cholesky}.
 \end{Operator}
 
 
-\begin{Operator}{make_identity}
+\begin{Operator}[makeidentity]{MAKE_IDENTITY}
 
 \begin{Syntax}
 \name{make\_identity}(\meta{square\_size})
@@ -1305,7 +1248,7 @@ Related functions: \nameref{diagonal}.
 \end{Operator}
 
 
-\begin{Operator}{matrix_augment}
+\begin{Operator}[matrixaugment]{MATRIX_AUGMENT}
 Matrix augment, matrix stack:
 
 \begin{Syntax}
@@ -1352,12 +1295,12 @@ matrix_stack(A,A); &
 \end{Examples}
 
 Related functions:
-\nameref{augment\_columns}, \nameref{stack\_rows}, \nameref{sub\_matrix}.
+\nameref{augmentcolumns}, \nameref{stackrows}, \nameref{submatrix}.
 
 \end{Operator}
 
 
-\begin{Operator}{matrixp}
+\begin{Operator}[matrixp]{MATRIXP}
 
 \begin{Syntax}
 \name{matrixp}(\meta{test\_input})
@@ -1383,12 +1326,12 @@ Related functions: \nameref{squarep}, \nameref{symmetricp}.
 \end{Operator}
 
 
-\begin{Operator}{matrix_stack}
-see:  \nameref{matrix\_augment}.
+\begin{Operator}[matrixstack]{MATRIX_STACK}
+see:  \nameref{matrixaugment}.
 \end{Operator}
 
 
-\begin{Operator}{minor}
+\begin{Operator}[minor]{MINOR}
 
 \begin{Syntax}
 \name{minor}(\meta{matrix},\meta{r},\meta{c})
@@ -1414,12 +1357,12 @@ minor(A,1,3); &
 \end{Examples}
 
 Related functions:
-\nameref{remove\_columns}, \nameref{remove\_rows}.
+\nameref{removecolumns}, \nameref{removerows}.
 
 \end{Operator}
 
 
-\begin{Operator}{mult_columns}
+\begin{Operator}[multcolumns]{MULT_COLUMNS}
 Mult columns, mult rows:
 
 \begin{Syntax}
@@ -1461,17 +1404,17 @@ mult_rows(A,2,10); &
 
 \end{Examples}
 
-Related functions: \nameref{add\_to\_columns}, \nameref{add\_to\_rows}.
+Related functions: \nameref{addtocolumns}, \nameref{addtorows}.
 
 \end{Operator}
 
 
-\begin{Operator}{mult_rows}
-see:  \nameref{mult\_columns}.
+\begin{Operator}[multrows]{MULT_ROWS}
+see:  \nameref{multcolumns}.
 \end{Operator}
 
 
-\begin{Operator}{pivot}
+\begin{Operator}[pivot]{PIVOT}
 
 \begin{Syntax}
 \name{pivot}(\meta{matrix},\meta{r},\meta{c})
@@ -1510,11 +1453,11 @@ pivot(A,2,3); &
 \end{Examples}
 
 Related functions:
-\nameref{rows\_pivot}.
+\nameref{rowspivot}.
 
 \end{Operator}
 
-\begin{Operator}{pseudo_inverse}
+\begin{Operator}[pseudoinverse]{PSEUDO_INVERSE}
 
 \begin{Syntax}
 \name{pseudo\_inverse}(\meta{matrix})
@@ -1562,7 +1505,7 @@ Related functions: \nameref{svd}.
 \end{Operator}
 
 
-\begin{Operator}{random_matrix}
+\begin{Operator}[randommatrix]{RANDOM_MATRIX}
 
 \begin{Syntax}
 \name{random\_matrix}(\meta{r},\meta{c},\meta{limit})
@@ -1622,7 +1565,7 @@ random_matrix(4,4,10); &
 \end{Operator}
 
 
-\begin{Operator}{remove_columns}
+\begin{Operator}[removecolumns]{REMOVE_COLUMNS}
 Remove columns, remove rows:
 
 \begin{Syntax}
@@ -1662,17 +1605,17 @@ Related functions: \nameref{minor}.
 \end{Operator}
 
 
-\begin{Operator}{remove_rows}
-see:  \nameref{remove\_columns}.
+\begin{Operator}[removerows]{REMOVE_ROWS}
+see:  \nameref{removecolumns}.
 \end{Operator}
 
 
-\begin{Operator}{row_dim}
-see:  \nameref{column\_dim}.
+\begin{Operator}[rowdim]{ROW_DIM}
+see:  \nameref{columndim}.
 \end{Operator}
 
 
-\begin{Operator}{rows_pivot}
+\begin{Operator}[rowspivot]{ROWS_PIVOT}
 
 \begin{Syntax}
 \name{rows\_pivot}(\meta{matrix},\meta{r},\meta{c},\{\meta{row\_list}\})
@@ -1726,7 +1669,7 @@ Related functions: \nameref{pivot}.
 \end{Operator}
 
 
-\begin{Operator}{simplex}
+\begin{Operator}[simplex]{SIMPLEX}
 
 \begin{Syntax}
 \name{simplex}(\meta{max/min},\meta{objective function},
@@ -1767,7 +1710,7 @@ simplex(max,10x+5y+5.5z,\{5x+3z<=200,x+0.1y+0.5z<=12,
 \end{Operator}
 
 
-\begin{Operator}{squarep}
+\begin{Operator}[squarep]{SQUAREP}
 
 \begin{Syntax}
 \name{squarep}(\meta{matrix})
@@ -1792,12 +1735,12 @@ Related functions: \nameref{matrixp}, \nameref{symmetricp}.
 \end{Operator}
 
 
-\begin{Operator}{stack_rows}
-see:  \nameref{augment\_columns}.
+\begin{Operator}[stackrows]{STACK_ROWS}
+see:  \nameref{augmentcolumns}.
 \end{Operator}
 
 
-\begin{Operator}{sub_matrix}
+\begin{Operator}[submatrix]{SUB_MATRIX}
 
 \begin{Syntax}
 \name{sub\_matrix}(\meta{matrix},\meta{row\_list},\meta{column\_list})
@@ -1824,12 +1767,12 @@ sub_matrix(A,\{1,3\},\{2,3\}); &
 \end{Examples}
 
 Related functions:
-\nameref{augment\_columns}, \nameref{stack\_rows}.
+\nameref{augmentcolumns}, \nameref{stackrows}.
 
 \end{Operator}
 
 
-\begin{Operator}{svd}
+\begin{Operator}[svd]{SVD}
 \index{singular value decomposition}
 Singular value decomposition:
 
@@ -1902,7 +1845,7 @@ svd(Q); &
 \end{Operator}
 
 
-\begin{Operator}{swap_columns}
+\begin{Operator}[swapcolumns]{SWAP_COLUMNS}
 Swap columns, swap rows:
 
 \begin{Syntax}
@@ -1940,12 +1883,12 @@ swap_rows(A,1,3); &
 
 \end{Examples}
 
-Related functions: \nameref{swap\_entries}.
+Related functions: \nameref{swapentries}.
 
 \end{Operator}
 
 
-\begin{Operator}{swap_entries}
+\begin{Operator}[swapentries]{SWAP_ENTRIES}
 
 \begin{Syntax}
 \name{swap\_entries}(\meta{matrix},\{\meta{r1},\meta{c1}\},\{\meta{r2},
@@ -1972,17 +1915,17 @@ swap_entries(A,\{1,1\},\{3,3\}); &
 
 \end{Examples}
 
-Related functions: \nameref{swap\_columns}, \nameref{swap\_rows}.
+Related functions: \nameref{swapcolumns}, \nameref{swaprows}.
 
 \end{Operator}
 
 
-\begin{Operator}{swap_rows}
-see:  \nameref{swap\_columns}.
+\begin{Operator}[swaprows]{SWAP_ROWS}
+see:  \nameref{swapcolumns}.
 \end{Operator}
 
 
-\begin{Operator}{symmetricp}
+\begin{Operator}[symmetricp]{SYMMETRICP}
 
 \begin{Syntax}
 \name{symmetricp}(\meta{matrix})
@@ -2008,7 +1951,7 @@ Related functions: \nameref{matrixp}, \nameref{squarep}.
 \end{Operator}
 
 
-\begin{Operator}{toeplitz}
+\begin{Operator}[toeplitz]{TOEPLITZ}
 
 \begin{Syntax}
 \name{toeplitz}(\meta{expr\_list}) 
@@ -2044,7 +1987,7 @@ toeplitz({w,x,y,z}); &
 \end{Operator}
 
 
-\begin{Operator}{vandermonde}
+\begin{Operator}[vandermonde]{VANDERMONDE}
 
 \begin{Syntax}  
 \name{vandermonde}(\{\meta{expr\_list}\})  

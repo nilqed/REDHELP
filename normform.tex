@@ -1,6 +1,7 @@
+\newpage
 \section{Matrix Normal Forms}
 
-\begin{Operator}{Smithex}
+\begin{Operator}[smithex]{SMITHEX}
 The operator \name{smithex} computes the Smith normal form S of a
 \nameref{matrix} A (say). It returns \{S,P,$P^-1$\} where $P*S*P^-1 = A$.
 
@@ -32,7 +33,7 @@ The operator \name{smithex} computes the Smith normal form S of a
 \end{Operator}
 
 
-\begin{Operator}{Smithex\_int}
+\begin{Operator}[smithexint]{SMITHEX_INT}
 The operator \name{smithex\_int} performs the same task as \name{smithex}
 but on matrices containing only integer entries. Namely, 
 \name{smithex\_int} returns \{S,P,$P^-1$\} where S is the smith normal
@@ -66,7 +67,7 @@ a := [-36  192   -180]
 \end{Operator}
 
 
-\begin{Operator}{Frobenius}
+\begin{Operator}[frobenius]{FROBENIUS}
 The operator \name{frobenius} computes the \name{frobenius} normal form F of a 
 \nameref{matrix} (A say). It returns \{F,P,$P^-1$\} where $P*F*P^-1 = A$.
 
@@ -136,7 +137,7 @@ a := [              ]
 
 
 
-\begin{Operator}{Ratjordan}
+\begin{Operator}[ratjordan]{RATJORDAN}
 The operator \name{ratjordan} computes the rational Jordan normal form R
 of a \nameref{matrix} (A say). It returns \{R,P,$P^-1$\} where $P*R*P^-1 = A$.
 
@@ -210,7 +211,7 @@ a := [      ]
 
 
 
-\begin{Operator}{Jordansymbolic}
+\begin{Operator}[jordansymbolic]{JORDANSYMBOLIC}
 The operator \name{jordansymbolic} computes the Jordan normal form J
 of a \nameref{matrix} (A say). It returns \{J,L,P,$P^-1$\} where
 $P*J*P^-1 = A$. L = \{ll,mm\} where mm is a name and ll is a list of
@@ -293,7 +294,7 @@ a := [      ]
 
 
 
-\begin{Operator}{Jordan}
+\begin{Operator}[jordan]{JORDAN}
 The operator \name{jordan} computes the Jordan normal form J
 of a \nameref{matrix} (A say). It returns \{J,P,$P^-1$\} where $P*J*P^-1 = A$.
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  12 MAR 2019 19:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  12 MAR 2019 23:16
 entering extended mode
 **./redhelp.tex
 (redhelp.tex
@@ -307,7 +307,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.30 ...ine {4.8}\Rightarrow }{50}{subsection.4.8}
+l.30 ...ine {4.8}\Rightarrow }{53}{subsection.4.8}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -315,7 +315,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <argument> ...ame }{\numberline {4.8}\Rightarrow }
                                                   \hyper@linkend 
-l.30 ...ine {4.8}\Rightarrow }{50}{subsection.4.8}
+l.30 ...ine {4.8}\Rightarrow }{53}{subsection.4.8}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -326,7 +326,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.30 ...ine {4.8}\Rightarrow }{50}{subsection.4.8}
+l.30 ...ine {4.8}\Rightarrow }{53}{subsection.4.8}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -337,7 +337,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.30 ...ine {4.8}\Rightarrow }{50}{subsection.4.8}
+l.30 ...ine {4.8}\Rightarrow }{53}{subsection.4.8}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -351,7 +351,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.37 ...mberline {4.15}\geq }{57}{subsection.4.15}
+l.37 ...mberline {4.15}\geq }{60}{subsection.4.15}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -359,7 +359,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <argument> ...cdestname }{\numberline {4.15}\geq }
                                                   \hyper@linkend 
-l.37 ...mberline {4.15}\geq }{57}{subsection.4.15}
+l.37 ...mberline {4.15}\geq }{60}{subsection.4.15}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -370,7 +370,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.37 ...mberline {4.15}\geq }{57}{subsection.4.15}
+l.37 ...mberline {4.15}\geq }{60}{subsection.4.15}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -381,7 +381,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.37 ...mberline {4.15}\geq }{57}{subsection.4.15}
+l.37 ...mberline {4.15}\geq }{60}{subsection.4.15}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -399,7 +399,7 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.39 ...mberline {4.17}\leq }{59}{subsection.4.17}
+l.39 ...mberline {4.17}\leq }{62}{subsection.4.17}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -407,7 +407,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <argument> ...cdestname }{\numberline {4.17}\leq }
                                                   \hyper@linkend 
-l.39 ...mberline {4.17}\leq }{59}{subsection.4.17}
+l.39 ...mberline {4.17}\leq }{62}{subsection.4.17}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -418,7 +418,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.39 ...mberline {4.17}\leq }{59}{subsection.4.17}
+l.39 ...mberline {4.17}\leq }{62}{subsection.4.17}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -429,7 +429,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.39 ...mberline {4.17}\leq }{59}{subsection.4.17}
+l.39 ...mberline {4.17}\leq }{62}{subsection.4.17}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -440,7 +440,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.42 ...umberline {4.20}\ll }{62}{subsection.4.20}
+l.42 ...umberline {4.20}\ll }{65}{subsection.4.20}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -448,7 +448,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <argument> ...ocdestname }{\numberline {4.20}\ll }
                                                   \hyper@linkend 
-l.42 ...umberline {4.20}\ll }{62}{subsection.4.20}
+l.42 ...umberline {4.20}\ll }{65}{subsection.4.20}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -459,7 +459,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.42 ...umberline {4.20}\ll }{62}{subsection.4.20}
+l.42 ...umberline {4.20}\ll }{65}{subsection.4.20}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -470,7 +470,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.42 ...umberline {4.20}\ll }{62}{subsection.4.20}
+l.42 ...umberline {4.20}\ll }{65}{subsection.4.20}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -484,38 +484,38 @@ my insertion and my current dilemma will both disappear.
 \openout5 = `redhelp.toc'.
 
  (intro.tex [22]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
-) (concept.tex [23]
-[24] [25] [26]) (variable.tex [27] [28] [29] [30] [31]
-Overfull \hbox (5.66893pt too wide) in paragraph at lines 79--82
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+ [23]) (concept.tex
+[24] [25] [26] [27]) (variable.tex [28] [29] [30] [31] [32] [33]
+Overfull \hbox (5.66893pt too wide) in paragraph at lines 80--83
 \OT1/cmr/m/n/10 The [] vari-able sets the num-ber of char-ac-ters in a line of 
 Fortran-compatible
  []
 
-[32] [33] [34] [35] [36] [37] [38] [39] [40]) (syntax.tex [41] [42]
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[34] [35] [36] [37] [38] [39] [40] [41] [42]) (syntax.tex [43] [44] [45]
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
 []\OT1/cmtt/m/it/10 The workspace is set to \OT1/cmtt/m/sl/10 $\OT1/cmtt/m/it/1
 0 x[] + 2x +
  []
 
-[43] [44] [45] [46] [47] [48]
+[46] [47] [48] [49] [50] [51]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 195.
+(Font)              <12> on input line 196.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 195.
+(Font)              <8> on input line 196.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 195.
- [49]
+(Font)              <6> on input line 196.
+ [52]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.224 \begin{Operator}[replace]{\Rightarrow}
+l.225 \begin{Operator}[replace]{\Rightarrow}
                                             
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -523,29 +523,29 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.224 \begin{Operator}[replace]{\Rightarrow}
+l.225 \begin{Operator}[replace]{\Rightarrow}
                                             
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Rightarrow' on input line 224.
+(hyperref)                removing `\Rightarrow' on input line 225.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.224 \begin{Operator}[replace]{\Rightarrow}
+l.225 \begin{Operator}[replace]{\Rightarrow}
                                             
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 224.
+(Font)              <17.28> on input line 225.
 ! Extra }, or forgotten $.
 \newitem ...LARGE \bf \sf \uppercase {#3}\hfil #1}
                                                   \nobreak \vskip \newitem@h...
-l.224 \begin{Operator}[replace]{\Rightarrow}
+l.225 \begin{Operator}[replace]{\Rightarrow}
                                             
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -556,7 +556,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.224 \begin{Operator}[replace]{\Rightarrow}
+l.225 \begin{Operator}[replace]{\Rightarrow}
                                             
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -564,7 +564,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.224 \begin{Operator}[replace]{\Rightarrow}
+l.225 \begin{Operator}[replace]{\Rightarrow}
                                             
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -572,14 +572,14 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[50]
+[53]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 241.
- [51] [52] [53] [54] [55] [56]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 242.
+ [54] [55] [56] [57] [58] [59]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.441 \begin{Operator}[geqsign]{\geq}
+l.442 \begin{Operator}[geqsign]{\geq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -587,19 +587,19 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.441 \begin{Operator}[geqsign]{\geq}
+l.442 \begin{Operator}[geqsign]{\geq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\geq' on input line 441.
+(hyperref)                removing `\geq' on input line 442.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.441 \begin{Operator}[geqsign]{\geq}
+l.442 \begin{Operator}[geqsign]{\geq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -607,7 +607,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \newitem ...LARGE \bf \sf \uppercase {#3}\hfil #1}
                                                   \nobreak \vskip \newitem@h...
-l.441 \begin{Operator}[geqsign]{\geq}
+l.442 \begin{Operator}[geqsign]{\geq}
                                      
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -618,7 +618,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.441 \begin{Operator}[geqsign]{\geq}
+l.442 \begin{Operator}[geqsign]{\geq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -626,7 +626,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.441 \begin{Operator}[geqsign]{\geq}
+l.442 \begin{Operator}[geqsign]{\geq}
                                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -635,34 +635,34 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (34.94469pt too wide) in paragraph at lines 460--465
+Overfull \hbox (36.61134pt too wide) in paragraph at lines 461--466
 \OT1/cmr/m/n/10 com-par-i-son can only be used in-side pro-gram-ming con-struct
-s, such as [[]if[],[][]4.34[][]]...[]...[]
+s, such as []if[] ([][]4.34[][])...[]...[]
  []
 
-[57]
+[60]
 LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <14.4> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 469.
-LaTeX Font Info:    Try loading font information for OML+cmss on input line 469
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 470.
+LaTeX Font Info:    Try loading font information for OML+cmss on input line 470
 .
-LaTeX Font Info:    No file OMLcmss.fd. on input line 469.
+LaTeX Font Info:    No file OMLcmss.fd. on input line 470.
 
 
 LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textgreater' on input line 469.
+(Font)              for symbol `textgreater' on input line 470.
 
 
-Overfull \hbox (34.94469pt too wide) in paragraph at lines 489--494
+Overfull \hbox (36.61134pt too wide) in paragraph at lines 490--495
 \OT1/cmr/m/n/10 com-par-i-son can only be used in-side pro-gram-ming con-struct
-s, such as [[]if[],[][]4.34[][]]...[]...[]
+s, such as []if[] ([][]4.34[][])...[]...[]
  []
 
-[58]
+[61]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.498 \begin{Operator}[leqsign]{\leq}
+l.499 \begin{Operator}[leqsign]{\leq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -670,19 +670,19 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.498 \begin{Operator}[leqsign]{\leq}
+l.499 \begin{Operator}[leqsign]{\leq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leq' on input line 498.
+(hyperref)                removing `\leq' on input line 499.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.498 \begin{Operator}[leqsign]{\leq}
+l.499 \begin{Operator}[leqsign]{\leq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -690,7 +690,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \newitem ...LARGE \bf \sf \uppercase {#3}\hfil #1}
                                                   \nobreak \vskip \newitem@h...
-l.498 \begin{Operator}[leqsign]{\leq}
+l.499 \begin{Operator}[leqsign]{\leq}
                                      
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -701,7 +701,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.498 \begin{Operator}[leqsign]{\leq}
+l.499 \begin{Operator}[leqsign]{\leq}
                                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -709,7 +709,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.498 \begin{Operator}[leqsign]{\leq}
+l.499 \begin{Operator}[leqsign]{\leq}
                                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -718,665 +718,578 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (34.94469pt too wide) in paragraph at lines 516--521
+Overfull \hbox (36.61134pt too wide) in paragraph at lines 517--522
 \OT1/cmr/m/n/10 com-par-i-son can only be used in-side pro-gram-ming con-struct
-s, such as [[]if[],[][]4.34[][]]...[]...[]
+s, such as []if[] ([][]4.34[][])...[]...[]
  []
-
-[59]
-Overfull \hbox (34.94469pt too wide) in paragraph at lines 543--549
-\OT1/cmr/m/n/10 com-par-i-son can only be used in-side pro-gram-ming con-struct
-s, such as [[]if[],[][]4.34[][]]...[]...[]
- []
-
-[60] [61]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.559 \begin{Command}[group]{\ll}
-                                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.559 \begin{Command}[group]{\ll}
-                                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\ll' on input line 559.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.559 \begin{Command}[group]{\ll}
-                                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\newitem ...LARGE \bf \sf \uppercase {#3}\hfil #1}
-                                                  \nobreak \vskip \newitem@h...
-l.559 \begin{Command}[group]{\ll}
-                                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.559 \begin{Command}[group]{\ll}
-                                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.559 \begin{Command}[group]{\ll}
-                                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
 [62]
-Overfull \hbox (24.36166pt too wide) in paragraph at lines 615--621
-[]\OT1/cmr/m/n/10 Logical op-er-a-tors can only be used in-side con-di-tional s
-tate-ments, such as [[]while[],[][]9.43[][]]...[]
+Overfull \hbox (36.61134pt too wide) in paragraph at lines 544--550
+\OT1/cmr/m/n/10 com-par-i-son can only be used in-side pro-gram-ming con-struct
+s, such as []if[] ([][]4.34[][])...[]...[]
  []
 
 [63] [64]
-Overfull \hbox (8.52704pt too wide) in paragraph at lines 675--677
-\OT1/cmr/m/n/10 A [] is a se-quence of state-ments en-closed by com-mands [[]be
--gin[],[][]4.22[][]] and [[]end[],[][]4.26[][]]. 
- []
+! Missing $ inserted.
+<inserted text> 
+                $
+l.560 \begin{Command}[group]{\ll}
+                                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-[65] [66]
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 735
+! Missing $ inserted.
+<inserted text> 
+                $
+l.560 \begin{Command}[group]{\ll}
+                                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ll' on input line 560.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.560 \begin{Command}[group]{\ll}
+                                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\newitem ...LARGE \bf \sf \uppercase {#3}\hfil #1}
+                                                  \nobreak \vskip \newitem@h...
+l.560 \begin{Command}[group]{\ll}
+                                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.560 \begin{Command}[group]{\ll}
+                                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.560 \begin{Command}[group]{\ll}
+                                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[65] [66] [67] [68] [69]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 736
 .
-LaTeX Font Info:    No file OMScmtt.fd. on input line 735.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 736.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 735.
+(Font)              for symbol `textbraceleft' on input line 736.
 
-[67] [68] [69] [70] [71]
-Underfull \hbox (badness 10000) in paragraph at lines 908--908
+[70] [71] [72] [73] [74]
+Underfull \hbox (badness 10000) in paragraph at lines 909--909
 []|\OT1/cmr/m/n/10 expression, state-ment, com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 914--915
-[]|\OT1/cmr/m/n/10 expression, state-ment,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 914--915
-\OT1/cmr/m/n/10 com-mand, [[]group[],[][]4.20[][]] or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 918--918
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
 []|\OT1/cmr/m/n/10 expression, state-ment, com-
  []
 
 
-Overfull \hbox (1.04428pt too wide) in paragraph at lines 898--923
+Underfull \hbox (badness 1975) in paragraph at lines 915--916
+\OT1/cmr/m/n/10 mand, []group[] ([][]4.20[][]) or []block[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 919--919
+[]|\OT1/cmr/m/n/10 expression, state-ment, com-
+ []
+
+
+Overfull \hbox (1.04428pt too wide) in paragraph at lines 899--924
  [] 
  []
 
-[72] [73] [74] [75]
-Overfull \hbox (0.778pt too wide) in paragraph at lines 1039--1043
-\OT1/cmr/m/n/10 state-ments at the top level can be la-beled, not ones in-side 
-[]...[], [[]while[],[][]9.43[][]]...[],
- []
+[75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
+[90] [91] [92] [93]
 
-[76] [77]
-Overfull \hbox (7.85497pt too wide) in paragraph at lines 1086--1091
-\OT1/cmr/m/n/10 value[],[][]6.1[][]]. \OT1/cmr/m/it/10 state-ment \OT1/cmr/m/n/
-10 must be a sin-gle RE-DUCE state-ment or a [[]group[],[][]4.20[][]] ([]...[])
+LaTeX Warning: Reference `compact' on page 94 undefined on input line 1545.
 
- []
+[94] [95] [96] [97] [98] [99] [100]) (arith.tex [101] [102] [103] [104]
+[105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
 
-[78]
-Overfull \hbox (4.33412pt too wide) in paragraph at lines 1120--1123
-[]\OT1/cmr/m/n/10 The con-di-tion may be a com-pound con-di-tional state-ment u
-s-ing [[]and[],[][]4.21[][]] or [[]or[],[][]4.36[][]].
- []
+LaTeX Warning: Reference `gamma' on page 115 undefined on input line 264.
 
-[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
-Overfull \hbox (12.36108pt too wide) in paragraph at lines 1522--1526
-[][] \OT1/cmr/m/n/10 and [] are glob-ally ac-ti-vated and de-ac-ti-vated by [[]
-let[],[][]9.14[][]], [[]forall[],[][]9.10[][]],
- []
-
-[90]
-
-LaTeX Warning: Reference `compact' on page 91 undefined on input line 1544.
-
-[91] [92] [93] [94] [95] [96] [97]) (arith.tex [98] [99] [100] [101] [102]
-[103] [104] [105] [106] [107] [108] [109] [110]
-
-LaTeX Warning: Reference `gamma' on page 111 undefined on input line 263.
-
-[111] [112] [113] [114]
-Overfull \hbox (22.10075pt too wide) in paragraph at lines 366--369
+[115] [116] [117] [118]
+Overfull \hbox (22.10075pt too wide) in paragraph at lines 367--370
 [][] \OT1/cmr/m/n/10 is left as-so-cia-tive. In other words, [] is equiv-a-lent
  to [],
  []
 
-[115] [116]
-Overfull \hbox (0.61156pt too wide) in paragraph at lines 424--426
-[]\OT1/cmr/m/n/10 Because of the re-stricted al-ge-braic prop-er-ties of [], us
-ers are ad-vised to use [[]log[],[][]5.20[][]]
- []
-
-[117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128]
-[129] [130] [131] [132] [133] [134] [135] [136] [137]) (boolean.tex [138]
-[139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150]
-[151]) (command.tex [152] [153] [154] [155] [156] [157] [158]
-
-LaTeX Warning: Reference `bye' on page 159 undefined on input line 124.
-
-[159] [160] [161] [162] [163] [164]) (algebra.tex [165] [166] [167] [168]
-[169] [170]
+[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
+[131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141]) (boolean.tex
+[142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153]
+[154] [155] [156]) (command.tex [157] [158] [159] [160] [161] [162] [163]
+[164] [165] [166] [167] [168] [169] [170]) (algebra.tex [171] [172] [173]
+[174] [175] [176] [177]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.114 The variables \nameref{high\_pow}
+l.115 The variables \nameref{high\_pow}
                                         and \nameref{low\_pow} are set to the
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 171 undefined on input line
- 114.
+LaTeX Warning: Reference `\textunderscore ' on page 178 undefined on input line
+ 115.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.114 The variables \nameref{high\_pow}
+l.115 The variables \nameref{high\_pow}
                                         and \nameref{low\_pow} are set to the
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.114 ...nameref{high\_pow} and \nameref{low\_pow}
+l.115 ...nameref{high\_pow} and \nameref{low\_pow}
                                                    are set to the
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 171 undefined on input line
- 114.
+LaTeX Warning: Reference `\textunderscore ' on page 178 undefined on input line
+ 115.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.114 ...nameref{high\_pow} and \nameref{low\_pow}
+l.115 ...nameref{high\_pow} and \nameref{low\_pow}
                                                    are set to the
 I'm ignoring this, since I wasn't doing a \csname.
 
-[171] [172] [173] [174]
-Overfull \hbox (31.87892pt too wide) in paragraph at lines 204--213
+[178] [179] [180] [181]
+Overfull \hbox (2.43437pt too wide) in paragraph at lines 205--214
 \OT1/cmr/m/n/10 This op-er-a-tor ap-prox-i-mates the real num-ber \OT1/cmr/m/it
-/10 num \OT1/cmr/m/n/10 ( [[]ra-tio-nal[],[][]12.60[][]] num-ber, [[]rounded[],
-[][]12.67[][]]
+/10 num \OT1/cmr/m/n/10 ( []ra-tio-nal[] ([][]12.60[][]) num-ber, []rounded[]
  []
 
-[175] [176] [177]
+[182] [183] [184]
 
-LaTeX Warning: Reference `mcd' on page 178 undefined on input line 316.
+LaTeX Warning: Reference `mcd' on page 185 undefined on input line 317.
 
-[178] [179]
+[185] [186]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.381 When a \nameref{root\_of}
+l.382 When a \nameref{root\_of}
                                 form in a result of \nameref{solve}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 180 undefined on input line
- 381.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.381 When a \nameref{root\_of}
-                                form in a result of \nameref{solve}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.382 has been converted to a \nameref{one\_of}
-                                                form, \name{expand\_cases}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 180 undefined on input line
+LaTeX Warning: Reference `\textunderscore ' on page 187 undefined on input line
  382.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.382 has been converted to a \nameref{one\_of}
+l.382 When a \nameref{root\_of}
+                                form in a result of \nameref{solve}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.383 has been converted to a \nameref{one\_of}
+                                                form, \name{expand\_cases}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Reference `\textunderscore ' on page 187 undefined on input line
+ 383.
+
+! Extra \endcsname.
+\NR@setref ... \NR@@setref \csname r@#1\endcsname 
+                                                  
+l.383 has been converted to a \nameref{one\_of}
                                                 form, \name{expand\_cases}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.384 ...f \nameref{solve}. See \nameref{root\_of}
+l.385 ...f \nameref{solve}. See \nameref{root\_of}
                                                   .
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 180 undefined on input line
- 384.
+LaTeX Warning: Reference `\textunderscore ' on page 187 undefined on input line
+ 385.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.384 ...f \nameref{solve}. See \nameref{root\_of}
+l.385 ...f \nameref{solve}. See \nameref{root\_of}
                                                   .
 I'm ignoring this, since I wasn't doing a \csname.
 
-[180] [181]
+[187] [188]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 406.
- [182] [183] [184] [185] [186] [187] [188] [189] [190] [191]
-[192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 407.
+ [189] [190] [191] [192] [193] [194] [195] [196] [197] [198]
+[199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.984 \nameref{expand\_cases}
+l.985 \nameref{expand\_cases}
                              .  See \nameref{root\_of}.
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 203 undefined on input line
- 984.
+LaTeX Warning: Reference `\textunderscore ' on page 210 undefined on input line
+ 985.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.984 \nameref{expand\_cases}
+l.985 \nameref{expand\_cases}
                              .  See \nameref{root\_of}.
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.984 ...f{expand\_cases}.  See \nameref{root\_of}
+l.985 ...f{expand\_cases}.  See \nameref{root\_of}
                                                   .
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 203 undefined on input line
- 984.
+LaTeX Warning: Reference `\textunderscore ' on page 210 undefined on input line
+ 985.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.984 ...f{expand\_cases}.  See \nameref{root\_of}
+l.985 ...f{expand\_cases}.  See \nameref{root\_of}
                                                   .
 I'm ignoring this, since I wasn't doing a \csname.
 
-[203] [204] [205] [206] [207] [208] [209] [210] [211] [212]
+[210] [211] [212] [213] [214] [215] [216] [217] [218] [219]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1298 replaced by an operator \nameref{one\_of}
+l.1299 replaced by an operator \nameref{one\_of}
                                                 . At this point it is
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 213 undefined on input line
- 1298.
+LaTeX Warning: Reference `\textunderscore ' on page 220 undefined on input line
+ 1299.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1298 replaced by an operator \nameref{one\_of}
+l.1299 replaced by an operator \nameref{one\_of}
                                                 . At this point it is
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1301 ...is, the operator \nameref{expand\_cases}
+l.1302 ...is, the operator \nameref{expand\_cases}
                                                    can be used.
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 213 undefined on input line
- 1301.
+LaTeX Warning: Reference `\textunderscore ' on page 220 undefined on input line
+ 1302.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1301 ...is, the operator \nameref{expand\_cases}
+l.1302 ...is, the operator \nameref{expand\_cases}
                                                    can be used.
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-LaTeX Warning: Reference `arglength' on page 213 undefined on input line 1312.
+LaTeX Warning: Reference `arglength' on page 220 undefined on input line 1313.
 
-[213] [214] [215] [216] [217]
+[220] [221] [222] [223] [224]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1470 \nameref{root\_of}
+l.1471 \nameref{root\_of}
                           expression. The switch \nameref{trigform}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 218 undefined on input line
- 1470.
+LaTeX Warning: Reference `\textunderscore ' on page 225 undefined on input line
+ 1471.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1470 \nameref{root\_of}
+l.1471 \nameref{root\_of}
                           expression. The switch \nameref{trigform}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1473 ... variable \nameref{root\_multiplicities}
+l.1474 ... variable \nameref{root\_multiplicities}
                                                   .  For systems of
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 218 undefined on input line
- 1473.
+LaTeX Warning: Reference `\textunderscore ' on page 225 undefined on input line
+ 1474.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1473 ... variable \nameref{root\_multiplicities}
+l.1474 ... variable \nameref{root\_multiplicities}
                                                   .  For systems of
 I'm ignoring this, since I wasn't doing a \csname.
 
+[225]
 
-Overfull \hbox (7.56169pt too wide) in paragraph at lines 1463--1476
-\OT1/cmr/m/n/10 or when no closed form is avail-able the re-sult is re-turned a
-s [[]root[]of[],[]ofroot[]ofression.
- []
-
-[218]
-
-LaTeX Warning: Reference `roots' on page 219 undefined on input line 1513.
+LaTeX Warning: Reference `roots' on page 226 undefined on input line 1514.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1514 \item[\nameref{root\_of} operator]
+l.1515 \item[\nameref{root\_of} operator]
                                          
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 219 undefined on input line
- 1514.
+LaTeX Warning: Reference `\textunderscore ' on page 226 undefined on input line
+ 1515.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1514 \item[\nameref{root\_of} operator]
+l.1515 \item[\nameref{root\_of} operator]
                                          
 I'm ignoring this, since I wasn't doing a \csname.
 
-[219] [220] [221] [222] [223] [224]) (declare.tex [225] [226] [227] [228]
-[229] [230]
-Overfull \hbox (1.35979pt too wide) in paragraph at lines 126--130
-[]\OT1/cmr/m/it/10 identifier \OT1/cmr/m/n/10 can be any [], [[]ma-trix[],[][]1
-3.5[][]], or [[]ar-ray[],[][]9.3[][]] vari-able or [[]pro-ce-dure[],[][]4.37[][
-]]
- []
-
-[231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242]
-[243] [244] [245] [246] [247] [248] [249] [250]
-Overfull \hbox (2.68588pt too wide) in paragraph at lines 759--763
-\OT1/cmr/m/n/10 but RE-DUCE's mode is not changed. This com-mand is equiv-a-len
-t to [[]sym-bolic[],[][]9.36[][]]. 
- []
-
-[251] [252] [253] [254] [255] [256] [257] [258] [259] [260]
-Overfull \hbox (16.44492pt too wide) in paragraph at lines 1016--1022
-\OT1/cmr/m/n/10 fix[],[][]9.11[][]], [[]lin-ear[],[][]9.15[][]], [[]sym-met-ric
-[],[][]9.37[][]], [[]an-ti-sym-met-ric[],[][]9.2[][]], or [[]non-com[],[][]9.21
-[][]][].
+[226] [227] [228] [229] [230] [231]) (declare.tex [232] [233] [234] [235]
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+[248] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259]
+[260] [261] [262] [263] [264] [265] [266] [267] [268]
+Overfull \hbox (14.5004pt too wide) in paragraph at lines 1017--1023
+\OT1/cmr/m/n/10 ([][]9.11[][]), []lin-ear[] ([][]9.15[][]), []sym-met-ric[] ([]
+[]9.37[][]), []an-ti-sym-met-ric[] ([][]9.2[][]), or []non-com[] ([][]9.21[][])
+[].
  []
 
 
-Overfull \hbox (11.50055pt too wide) in paragraph at lines 1023--1031
-[]\OT1/cmr/m/n/10 Functionality is as-signed to an op-er-a-tor by a [[]let[],[]
-[]9.14[][]] state-ment or a [[]forall[],[][]9.10[][]]...[]
+Overfull \hbox (14.83386pt too wide) in paragraph at lines 1024--1032
+[]\OT1/cmr/m/n/10 Functionality is as-signed to an op-er-a-tor by a []let[] ([]
+[]9.14[][]) state-ment or a []forall[] ([][]9.10[][])...[]
  []
 
-[261] [262] [263] [264]
-Overfull \hbox (17.00012pt too wide) in paragraph at lines 1127--1129
-\OT1/cmr/m/n/10 The [] dec-la-ra-tion sets the num-ber of dec-i-mal places used
- when [[]rounded[],[][]12.67[][]]
- []
-
-[265] [266] [267] [268] [269] [270] [271] [272] [273] [274] [275] [276]
-[277] [278] [279] [280] [281] [282]) (io.tex [283] [284] [285] [286] [287]
-
-LaTeX Warning: Reference `bye' on page 288 undefined on input line 130.
-
-) (elemfn.tex [288] [289] [290] [291] [292] [293] [294] [295] [296] [297]
-[298] [299] [300] [301] [302] [303] [304] [305] [306] [307] [308] [309]
-[310] [311] [312] [313] [314]) (switch.tex [315] [316] [317] [318] [319]
-Overfull \hbox (5.52809pt too wide) in paragraph at lines 93--96
-[]\OT1/cmr/m/n/10 With [] off, the re-turn value [] means that the equa-tions g
-iven to [[]solve[],[][]8.43[][]]
- []
-
-[320] [321]
+[269] [270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280]
+[281] [282] [283] [284] [285] [286] [287] [288] [289] [290]) (io.tex [291]
+[292] [293] [294] [295]) (elemfn.tex [296] [297] [298] [299] [300] [301]
+[302] [303] [304] [305] [306] [307] [308] [309] [310] [311] [312] [313]
+[314] [315] [316] [317] [318] [319] [320] [321] [322] [323]) (switch.tex
+[324] [325] [326] [327] [328] [329] [330] [331]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.121 ...otation if \nameref{SCIENTIFIC\_NOTATION}
+l.122 ...otation if \nameref{SCIENTIFIC\_NOTATION}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 322 undefined on input line
- 121.
+LaTeX Warning: Reference `\textunderscore ' on page 332 undefined on input line
+ 122.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.121 ...otation if \nameref{SCIENTIFIC\_NOTATION}
+l.122 ...otation if \nameref{SCIENTIFIC\_NOTATION}
                                                   
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (78.14514pt too wide) in paragraph at lines 120--126
-\OT1/cmr/m/n/10 point or in sci-en-tific no-ta-tion if [[]SCI-EN-TIFIC[]NOTATIO
-N[],[]NOTATIONSCIENTIFIC[]NOTATION
+Overfull \hbox (78.70068pt too wide) in paragraph at lines 121--127
+\OT1/cmr/m/n/10 point or in sci-en-tific no-ta-tion if []SCI-EN-TIFIC[]NOTATION
+[] ([]NOTATIONSCIENTIFIC[]NOTATION
  []
 
-[322] [323] [324] [325] [326] [327] [328]
+[332] [333] [334] [335] [336] [337] [338]
 
-LaTeX Warning: Reference `output' on page 329 undefined on input line 325.
+LaTeX Warning: Reference `output' on page 339 undefined on input line 326.
 
-[329] [330] [331] [332] [333] [334] [335] [336] [337] [338] [339] [340]
-[341] [342] [343]
-Overfull \hbox (0.56984pt too wide) in paragraph at lines 729--733
-[]\OT1/cmr/m/n/10 The [[]GEN-TRAN[],[][]23.21[][]] pack-age of-fers many more p
-os-si-bil-i-ties than the [] switch.
- []
-
-[344] [345]
+[339] [340] [341] [342] [343] [344] [345] [346] [347] [348] [349] [350]
+[351] [352] [353] [354] [355]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.768 See also \nameref{scientific_notation}
+l.769 See also \nameref{scientific_notation}
                                             .
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 346 undefined on input line
- 768.
+LaTeX Warning: Reference `\textunderscore ' on page 356 undefined on input line
+ 769.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.768 See also \nameref{scientific_notation}
+l.769 See also \nameref{scientific_notation}
                                             .
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-! LaTeX Error: \begin{Comments} on input line 764 ended by \end{Switch}.
+! LaTeX Error: \begin{Comments} on input line 765 ended by \end{Switch}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.770 \end{Switch}
+l.771 \end{Switch}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[346]
+[356]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.779 are built using \nameref{root\_of}
+l.780 are built using \nameref{root\_of}
                                         . Default is \name{off}.
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 347 undefined on input line
- 779.
+LaTeX Warning: Reference `\textunderscore ' on page 357 undefined on input line
+ 780.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.779 are built using \nameref{root\_of}
+l.780 are built using \nameref{root\_of}
                                         . Default is \name{off}.
 I'm ignoring this, since I wasn't doing a \csname.
 
-[347] [348] [349] [350] [351]
-
-LaTeX Warning: Reference `bye' on page 352 undefined on input line 882.
-
-[352] [353] [354] [355] [356] [357] [358] [359] [360]
+[357] [358] [359] [360] [361] [362] [363] [364] [365] [366] [367] [368]
+[369] [370]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1070 \nameref{balanced\_mod}
+l.1071 \nameref{balanced\_mod}
                               .
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 361 undefined on input line
- 1070.
+LaTeX Warning: Reference `\textunderscore ' on page 371 undefined on input line
+ 1071.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1070 \nameref{balanced\_mod}
+l.1071 \nameref{balanced\_mod}
                               .
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-! LaTeX Error: \begin{Comments} on input line 1062 ended by \end{Switch}.
+! LaTeX Error: \begin{Comments} on input line 1063 ended by \end{Switch}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1072 \end{Switch}
+l.1073 \end{Switch}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[361] [362]
+[371] [372]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1091 \nameref{root\_multiplicities}
+l.1092 \nameref{root\_multiplicities}
                                       rather than the solution list.  If you...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 363 undefined on input line
- 1091.
+LaTeX Warning: Reference `\textunderscore ' on page 373 undefined on input line
+ 1092.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1091 \nameref{root\_multiplicities}
+l.1092 \nameref{root\_multiplicities}
                                       rather than the solution list.  If you...
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (95.47864pt too wide) in paragraph at lines 1089--1094
-\OT1/cmr/m/n/10 plic-i-ties are nor-mally stored in the global vari-able [[]roo
-t[]multiplicities[],[]multiplicitiesroot[]multiplicitiesher
+Overfull \hbox (96.03418pt too wide) in paragraph at lines 1090--1095
+\OT1/cmr/m/n/10 plic-i-ties are nor-mally stored in the global vari-able []root
+[]multiplicities[] ([]multiplicitiesroot[]multiplicitiesher
  []
 
-[363] [364] [365] [366] [367] [368] [369] [370] [371] [372] [373] [374]
-[375] [376] [377] [378] [379] [380] [381] [382] [383] [384]
+[373] [374] [375] [376] [377] [378] [379] [380] [381] [382] [383] [384]
+[385] [386] [387] [388] [389] [390] [391] [392] [393] [394]
 
-LaTeX Warning: Reference `roots' on page 385 undefined on input line 1531.
+LaTeX Warning: Reference `roots' on page 395 undefined on input line 1532.
 
-[385] [386] [387] [388] [389] [390] [391] [392] [393]
+[395] [396] [397] [398] [399] [400] [401] [402] [403]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.1721 ...explicit call of \nameref{load\_package}
+l.1722 ...explicit call of \nameref{load\_package}
                                                   ).  The \nameref{out}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 394 undefined on input line
- 1721.
+LaTeX Warning: Reference `\textunderscore ' on page 404 undefined on input line
+ 1722.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.1721 ...explicit call of \nameref{load\_package}
+l.1722 ...explicit call of \nameref{load\_package}
                                                   ).  The \nameref{out}
 I'm ignoring this, since I wasn't doing a \csname.
 
-[394]) (matrix.tex [395] [396] [397] [398] [399] [400] [401] [402] [403]
-[404] [405] [406]) (pk-groeb.tex [407] [408]
+[404]) (matrix.tex [405] [406] [407] [408] [409] [410] [411] [412] [413]
+[414] [415] [416] [417]) (pk-groeb.tex [418] [419]
 Overfull \hbox (22.42819pt too wide) in paragraph at lines 4--11
 \OT1/cmr/m/n/10 The GROEB-NER pack-age cal-cu-lates [][][] us-ing the [][][]
  []
@@ -1388,16 +1301,16 @@ Overfull \hbox (137.60905pt too wide) in paragraph at lines 4--11
  []
 
 
-LaTeX Warning: Reference `ideal parameters' on page 409 undefined on input line
+LaTeX Warning: Reference `ideal parameters' on page 420 undefined on input line
  22.
 
-[409]
+[420]
 
-LaTeX Warning: Reference `term order' on page 410 undefined on input line 53.
+LaTeX Warning: Reference `term order' on page 421 undefined on input line 53.
 
-[410] [411] [412]
+[421] [422] [423]
 
-LaTeX Warning: Reference `term order' on page 413 undefined on input line 93.
+LaTeX Warning: Reference `term order' on page 424 undefined on input line 93.
 
 ! Missing \endcsname inserted.
 <to be read again> 
@@ -1414,13 +1327,6 @@ l.122 \nameref{torder_compile}
                               .
 I'm ignoring this, since I wasn't doing a \csname.
 
-
-Overfull \hbox (132.17351pt too wide) in paragraph at lines 121--125
-[]\OT1/cmr/m/n/10 where \OT1/cmr/m/it/10 m \OT1/cmr/m/n/10 is a ma-trix with in
--te-ger el-e-ments, see [[]torder[]compile[],[][]14.5413tordersubsection.14.5[]
-[]compiletorder[]compile.
- []
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -1436,20 +1342,7 @@ l.130 \nameref{torder_compile}
                               .
 I'm ignoring this, since I wasn't doing a \csname.
 
-
-Overfull \hbox (156.67099pt too wide) in paragraph at lines 129--137
-[]\OT1/cmr/m/n/10 where \OT1/cmr/m/it/10 co \OT1/cmr/m/n/10 is the name of a ro
-u-tine gen-er-ated by [[]torder[]compile[],[][]14.5413tordersubsection.14.5[][]
-compiletorder[]compiletorder
- []
-
-[413] [414] [415] [416] [417]
-Overfull \hbox (14.91722pt too wide) in paragraph at lines 199--211
-\OT1/cmr/m/n/10 The terms are sep-a-rated into two groups where the sec-ond pa-
-ram-e-ter of the [[]torder[],[][]14.5[][]]
- []
-
-[418] [419] [420] [421] [422] [423]
+[424] [425] [426] [427] [428] [429] [430] [431] [432] [433] [434]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -1466,51 +1359,50 @@ l.265 ... explicitly, see \nameref{torder_compile}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (235.1075pt too wide) in paragraph at lines 263--269
+Overfull \hbox (7.39587pt too wide) in paragraph at lines 263--269
 \OT1/cmr/m/n/10 gram for faster ex-e-cu-tion. A ma-trix can also be com-piled e
-x-plic-itly, see [[]torder[]compile[],[][]14.5413tordersubsection.14.5[][]compi
-letorder[]compile 
+x-plic-itly, see []torder[]compile[]
  []
 
-[424] [425]
+[435] [436]
 Overfull \hbox (0.23633pt too wide) in paragraph at lines 298--305
 []\OT1/cmr/m/n/10 The op-er-a-tor [] im-ple-ments the Buch-berger al-go-rithm f
 or com-put-ing Groeb-
  []
 
-[426]
+[437]
 
-LaTeX Warning: Reference `lex' on page 427 undefined on input line 329.
-
-
-LaTeX Warning: Reference `graded' on page 427 undefined on input line 330.
+LaTeX Warning: Reference `lex' on page 438 undefined on input line 329.
 
 
-LaTeX Warning: Reference `weighted' on page 427 undefined on input line 330.
+LaTeX Warning: Reference `graded' on page 438 undefined on input line 330.
 
 
-LaTeX Warning: Reference `graded' on page 427 undefined on input line 335.
+LaTeX Warning: Reference `weighted' on page 438 undefined on input line 330.
 
 
-LaTeX Warning: Reference `weighted' on page 427 undefined on input line 335.
+LaTeX Warning: Reference `graded' on page 438 undefined on input line 335.
 
 
-LaTeX Warning: Reference `kex' on page 427 undefined on input line 339.
+LaTeX Warning: Reference `weighted' on page 438 undefined on input line 335.
 
 
-LaTeX Warning: Reference `lex' on page 427 undefined on input line 351.
-
-[427] [428] [429] [430] [431] [432] [433] [434] [435] [436] [437]
-
-LaTeX Warning: Reference `term order' on page 438 undefined on input line 460.
+LaTeX Warning: Reference `kex' on page 438 undefined on input line 339.
 
 
-LaTeX Warning: Reference `ideal parameters' on page 438 undefined on input line
+LaTeX Warning: Reference `lex' on page 438 undefined on input line 351.
+
+[438] [439] [440] [441] [442] [443] [444] [445] [446] [447] [448]
+
+LaTeX Warning: Reference `term order' on page 449 undefined on input line 460.
+
+
+LaTeX Warning: Reference `ideal parameters' on page 449 undefined on input line
  461.
 
-[438]
+[449]
 
-LaTeX Warning: Reference `ideal parameters' on page 439 undefined on input line
+LaTeX Warning: Reference `ideal parameters' on page 450 undefined on input line
  479.
 
 ! Missing \endcsname inserted.
@@ -1522,7 +1414,7 @@ The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 439 undefined on input line
+LaTeX Warning: Reference `\textunderscore ' on page 450 undefined on input line
  484.
 
 ! Extra \endcsname.
@@ -1532,118 +1424,118 @@ l.484 see \nameref{gindependent\_sets}
                                       
 I'm ignoring this, since I wasn't doing a \csname.
 
-[439]
+[450]
 
-LaTeX Warning: Reference `ideal parameters' on page 440 undefined on input line
+LaTeX Warning: Reference `ideal parameters' on page 451 undefined on input line
  500.
 
-[440] [441]
+[451] [452]
 
-LaTeX Warning: Reference `ideal parameters' on page 442 undefined on input line
+LaTeX Warning: Reference `ideal parameters' on page 453 undefined on input line
  547.
 
-[442] [443]
+[453] [454]
 
-LaTeX Warning: Reference `term order' on page 444 undefined on input line 607.
+LaTeX Warning: Reference `term order' on page 455 undefined on input line 607.
 
-[444] [445]
+[455] [456]
 
-LaTeX Warning: Reference `term order' on page 446 undefined on input line 642.
+LaTeX Warning: Reference `term order' on page 457 undefined on input line 642.
 
-[446] [447] [448] [449] [450] [451] [452]
-Overfull \hbox (5.94507pt too wide) in paragraph at lines 778--784
-\OT1/cmr/m/n/10 and [[]groeb-ner[],[][]14.19[][]] are col-lected in a list whic
-h is as-signed to the vari-able [[]groebprot-
+[457] [458] [459] [460] [461] [462] [463]
+Overfull \hbox (4.83394pt too wide) in paragraph at lines 778--784
+\OT1/cmr/m/n/10 and []groeb-ner[] ([][]14.19[][]) are col-lected in a list whic
+h is as-signed to the vari-able []groebprot-
  []
 
-[453] [454] [455] [456] [457]
+[464] [465] [466] [467] [468]
 
-LaTeX Warning: Reference `module' on page 458 undefined on input line 854.
-
-[458]
-
-LaTeX Warning: Reference `term order' on page 459 undefined on input line 889.
-
-[459]
-
-LaTeX Warning: Reference `term order' on page 460 undefined on input line 909.
-
-[460]) (hephys.tex [461] [462]
-
-LaTeX Warning: Reference `index' on page 463 undefined on input line 44.
-
-[463]
-
-LaTeX Warning: Reference `index' on page 464 undefined on input line 80.
-
-[464] [465]
-
-LaTeX Warning: Reference `nospur' on page 466 undefined on input line 136.
-
-
-LaTeX Warning: Reference `spur' on page 466 undefined on input line 137.
-
-[466]
-
-LaTeX Warning: Reference `eps' on page 467 undefined on input line 167.
-
-
-LaTeX Warning: Reference `remind' on page 467 undefined on input line 170.
-
-[467]
-
-LaTeX Warning: Reference `mshell' on page 468 undefined on input line 196.
-
-[468]
-
-LaTeX Warning: Reference `mass' on page 469 undefined on input line 210.
+LaTeX Warning: Reference `module' on page 469 undefined on input line 854.
 
 [469]
 
-LaTeX Warning: Reference `spur' on page 470 undefined on input line 249.
+LaTeX Warning: Reference `term order' on page 470 undefined on input line 889.
 
 [470]
 
-LaTeX Warning: Reference `index' on page 471 undefined on input line 256.
+LaTeX Warning: Reference `term order' on page 471 undefined on input line 909.
+
+[471]) (hephys.tex [472] [473] [474]
+
+LaTeX Warning: Reference `index' on page 475 undefined on input line 45.
+
+[475]
+
+LaTeX Warning: Reference `index' on page 476 undefined on input line 81.
+
+[476] [477]
+
+LaTeX Warning: Reference `nospur' on page 478 undefined on input line 137.
 
 
-LaTeX Warning: Reference `index' on page 471 undefined on input line 262.
+LaTeX Warning: Reference `spur' on page 478 undefined on input line 138.
 
-[471]
+[478]
 
-LaTeX Warning: Reference `nospur' on page 472 undefined on input line 268.
-
-[472]
-
-LaTeX Warning: Reference `eps' on page 473 undefined on input line 291.
-
-[473]
-
-LaTeX Warning: Reference `eps' on page 474 undefined on input line 313.
+LaTeX Warning: Reference `eps' on page 479 undefined on input line 168.
 
 
-LaTeX Warning: Reference `g' on page 474 undefined on input line 313.
+LaTeX Warning: Reference `remind' on page 479 undefined on input line 171.
 
-[474]
+[479]
 
-LaTeX Warning: Reference `mshell' on page 475 undefined on input line 351.
+LaTeX Warning: Reference `mshell' on page 480 undefined on input line 197.
 
-) (pk-numer.tex [475] [476] [477] [478]
-Overfull \hbox (41.04578pt too wide) in paragraph at lines 45--50
+[480]
+
+LaTeX Warning: Reference `mass' on page 481 undefined on input line 211.
+
+[481]
+
+LaTeX Warning: Reference `spur' on page 482 undefined on input line 250.
+
+[482]
+
+LaTeX Warning: Reference `index' on page 483 undefined on input line 257.
+
+
+LaTeX Warning: Reference `index' on page 483 undefined on input line 263.
+
+[483]
+
+LaTeX Warning: Reference `nospur' on page 484 undefined on input line 269.
+
+[484]
+
+LaTeX Warning: Reference `eps' on page 485 undefined on input line 292.
+
+[485]
+
+LaTeX Warning: Reference `eps' on page 486 undefined on input line 314.
+
+
+LaTeX Warning: Reference `g' on page 486 undefined on input line 314.
+
+[486]
+
+LaTeX Warning: Reference `mshell' on page 487 undefined on input line 352.
+
+) (pk-numer.tex [487] [488] [489] [490] [491]
+Overfull \hbox (41.04578pt too wide) in paragraph at lines 46--51
 \OT1/cmr/m/n/10 er-a-tion. In cases of an un-suc-cess-ful or un-ex-pected long 
 op-er-a-tion a []
  []
 
-[479]
-Overfull \hbox (6.5994pt too wide) in paragraph at lines 71--74
+[492]
+Overfull \hbox (6.5994pt too wide) in paragraph at lines 72--75
 [][]$\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 exp; \OMS/cmtt/m/n/12 f[][]\OT1/cmr/m/n/
 12 [= [][]][\OML/cmm/m/it/12 ; [][]\OT1/cmr/m/n/12 [= [][]]\OML/cmm/m/it/12 :::
 \OT1/cmr/m/n/12 ]\OMS/cmtt/m/n/12 g\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 ; accuracy
  \OT1/cmr/m/n/12 = [][]][\OML/cmm/m/it/12 ; iterations \OT1/cmr/m/n/12 =
  []
 
-[480]
-Overfull \hbox (55.05447pt too wide) in paragraph at lines 116--118
+[493]
+Overfull \hbox (55.05447pt too wide) in paragraph at lines 117--119
 [][]$\OT1/cmr/m/n/12 (\OMS/cmtt/m/n/12 f[][]\OML/cmm/m/it/12 ; :::; [][]\OMS/cm
 tt/m/n/12 g\OML/cmm/m/it/12 ; [][]\OT1/cmr/m/n/12 [= [][]]\OML/cmm/m/it/12 ; ::
 :; [][]\OT1/cmr/m/n/12 [= [][]][\OML/cmm/m/it/12 ; accuracy \OT1/cmr/m/n/12 = [
@@ -1651,7 +1543,7 @@ tt/m/n/12 g\OML/cmm/m/it/12 ; [][]\OT1/cmr/m/n/12 [= [][]]\OML/cmm/m/it/12 ; ::
  []
 
 
-Overfull \hbox (67.0545pt too wide) in paragraph at lines 121--123
+Overfull \hbox (67.0545pt too wide) in paragraph at lines 122--124
 [][]$\OT1/cmr/m/n/12 (\OMS/cmtt/m/n/12 f[][]\OML/cmm/m/it/12 ; :::; [][]\OMS/cm
 tt/m/n/12 g\OML/cmm/m/it/12 ; \OMS/cmtt/m/n/12 f[][]\OT1/cmr/m/n/12 [= [][]]\OM
 L/cmm/m/it/12 ; :::; [][]\OT1/cmr/m/n/12 [= [][]]\OMS/cmtt/m/n/12 g\OT1/cmr/m/n
@@ -1659,8 +1551,8 @@ L/cmm/m/it/12 ; :::; [][]\OT1/cmr/m/n/12 [= [][]]\OMS/cmtt/m/n/12 g\OT1/cmr/m/n
 rations \OT1/cmr/m/n/12 =
  []
 
-[481]
-Overfull \hbox (24.04616pt too wide) in paragraph at lines 177--180
+[494]
+Overfull \hbox (24.04616pt too wide) in paragraph at lines 178--181
 [][]$\OT1/cmr/m/n/12 ([][]\OML/cmm/m/it/12 ; [][] \OT1/cmr/m/n/12 =$(\OT1/cmr/m
 /it/12 l \OT1/cmr/m/n/12 .. \OT1/cmr/m/it/12 u\OT1/cmr/m/n/12 )$[\OML/cmm/m/it/
 12 ; [][] \OT1/cmr/m/n/12 =$(\OT1/cmr/m/it/12 l \OT1/cmr/m/n/12 .. \OT1/cmr/m/i
@@ -1669,2104 +1561,735 @@ t/12 u\OT1/cmr/m/n/12 )$\OML/cmm/m/it/12 ; :::\OT1/cmr/m/n/12 ][\OML/cmm/m/it/1
 /12 =
  []
 
-[482]
-Overfull \hbox (47.60815pt too wide) in paragraph at lines 206--210
+[495]
+Overfull \hbox (47.60815pt too wide) in paragraph at lines 207--211
 [][]$\OT1/cmr/m/n/12 (\OMS/cmtt/m/n/12 f[][]\OML/cmm/m/it/12 ; [][]; :::\OMS/cm
 tt/m/n/12 g\OML/cmm/m/it/12 ; \OMS/cmtt/m/n/12 f[][] \OT1/cmr/m/n/12 = [][]\OML
 /cmm/m/it/12 ; [][] \OT1/cmr/m/n/12 = [][]\OML/cmm/m/it/12 ; :::\OMS/cmtt/m/n/1
 2 g[][] \OT1/cmr/m/n/12 =$(\OT1/cmr/m/it/12 from
  []
 
-[483] [484]
+[496] [497]
 
-LaTeX Warning: Reference `interval' on page 485 undefined on input line 254.
-
-
-LaTeX Warning: Reference `interval' on page 485 undefined on input line 282.
+LaTeX Warning: Reference `interval' on page 498 undefined on input line 255.
 
 
-LaTeX Warning: Reference `interval' on page 485 undefined on input line 285.
-
-[485]
-
-LaTeX Warning: Reference `interval' on page 486 undefined on input line 335.
-
-[486] [487]) (pk-roots.tex [488] [489]
-
-LaTeX Warning: Reference `roots' on page 490 undefined on input line 30.
-
-[490]
-
-LaTeX Warning: Reference `rootacc' on page 491 undefined on input line 66.
-
-[491]
-
-LaTeX Warning: Reference `rootacc' on page 492 undefined on input line 96.
-
-[492] [493]
-
-LaTeX Warning: Reference `rootsreal' on page 494 undefined on input line 128.
+LaTeX Warning: Reference `interval' on page 498 undefined on input line 283.
 
 
-LaTeX Warning: Reference `rootscomplex' on page 494 undefined on input line 128
+LaTeX Warning: Reference `interval' on page 498 undefined on input line 286.
+
+[498]
+
+LaTeX Warning: Reference `interval' on page 499 undefined on input line 336.
+
+[499] [500]) (pk-roots.tex [501] [502] [503]
+
+LaTeX Warning: Reference `roots' on page 504 undefined on input line 31.
+
+[504]
+
+LaTeX Warning: Reference `rootacc' on page 505 undefined on input line 67.
+
+[505]
+
+LaTeX Warning: Reference `rootacc' on page 506 undefined on input line 97.
+
+[506] [507]
+
+LaTeX Warning: Reference `rootsreal' on page 508 undefined on input line 129.
+
+
+LaTeX Warning: Reference `rootscomplex' on page 508 undefined on input line 129
 .
 
 
-LaTeX Warning: Reference `rootacc' on page 494 undefined on input line 140.
+LaTeX Warning: Reference `rootacc' on page 508 undefined on input line 141.
 
-[494] [495]
+[508] [509]
 
-LaTeX Warning: Reference `roots' on page 496 undefined on input line 168.
+LaTeX Warning: Reference `roots' on page 510 undefined on input line 169.
 
-[496]
+[510]
 
-LaTeX Warning: Reference `roots' on page 497 undefined on input line 176.
+LaTeX Warning: Reference `roots' on page 511 undefined on input line 177.
 
-) (pk-specf.tex [497]
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
+) (pk-specf.tex [511] [512]
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--21
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--21
+Underfull \hbox (badness 10000) in paragraph at lines 15--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--27
+Underfull \hbox (badness 10000) in paragraph at lines 15--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--27
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--43
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--43
-
- []
-
-[498]
-Underfull \hbox (badness 10000) in paragraph at lines 44--48
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--48
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
+
+ []
+
+[513]
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
  []
 
 
-LaTeX Warning: Reference `hypergeometric' on page 499 undefined on input line 5
-3.
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
-[499]
+ []
 
-LaTeX Warning: Reference `Psi' on page 500 undefined on input line 67.
 
-[500] [501] [502] [503] [504] [505] [506] [507] [508] [509] [510] [511]
-[512] [513]
-
-LaTeX Warning: Reference `hypergeometric' on page 514 undefined on input line 3
-40.
+LaTeX Warning: Reference `hypergeometric' on page 514 undefined on input line 5
+4.
 
 [514]
 
-LaTeX Warning: Reference `hypergeometric' on page 515 undefined on input line 3
-58.
+LaTeX Warning: Reference `Psi' on page 515 undefined on input line 68.
 
-[515]
+[515] [516] [517] [518] [519] [520] [521] [522] [523] [524] [525] [526]
+[527] [528]
 
-LaTeX Warning: Reference `hypergeometric' on page 516 undefined on input line 3
-76.
+LaTeX Warning: Reference `hypergeometric' on page 529 undefined on input line 3
+41.
 
-[516] [517] [518] [519] [520] [521] [522] [523] [524] [525] [526] [527]
-[528] [529] [530] [531] [532] [533] [534] [535] [536] [537] [538] [539]
-[540]
+[529]
 
-LaTeX Warning: Reference `Zeta' on page 541 undefined on input line 811.
+LaTeX Warning: Reference `hypergeometric' on page 530 undefined on input line 3
+59.
 
-[541] [542] [543] [544] [545] [546] [547] [548] [549] [550] [551]
-Underfull \hbox (badness 10000) in paragraph at lines 1058--1062
+[530]
 
- []
+LaTeX Warning: Reference `hypergeometric' on page 531 undefined on input line 3
+77.
 
-[552]
-Underfull \hbox (badness 10000) in paragraph at lines 1066--1073
+[531] [532] [533] [534] [535] [536] [537] [538] [539] [540] [541] [542]
+[543] [544] [545] [546] [547] [548] [549] [550] [551] [552] [553] [554]
+[555]
 
- []
+LaTeX Warning: Reference `Zeta' on page 556 undefined on input line 812.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1066--1073
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1086--1090
+[556] [557] [558] [559] [560] [561] [562] [563] [564] [565] [566]
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1063
 
  []
 
-[553] [554] [555]
-Overfull \hbox (52.47359pt too wide) in paragraph at lines 1133--1135
+[567]
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1091
+
+ []
+
+[568] [569] [570]
+Overfull \hbox (52.47359pt too wide) in paragraph at lines 1134--1136
 [][]$\OT1/cmr/m/n/12 ([][]\OML/cmm/m/it/12 ; [][]; [][]; [][]; [][]; [][]\OT1/c
 mr/m/n/12 )$ 
  []
 
-[556] [557] [558] [559]
+[571] [572] [573] [574]
 
-LaTeX Warning: Reference `SI' on page 560 undefined on input line 1228.
+LaTeX Warning: Reference `SI' on page 575 undefined on input line 1229.
 
-[560] [561] [562]
-Underfull \hbox (badness 10000) in paragraph at lines 1276--1281
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1276--1281
-
- []
-
-[563]
-Underfull \hbox (badness 10000) in paragraph at lines 1299--1303
+[575] [576] [577]
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1299--1303
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1282
 
  []
 
-[564] [565] [566] [567] [568] [569] [570] [571]
-
-LaTeX Warning: Reference `Threejsymbol' on page 572 undefined on input line 146
-7.
-
-[572]
-
-LaTeX Warning: Reference `ineq' on page 573 undefined on input line 1495.
-
-[573] [574]
-
-LaTeX Warning: Reference `hypergeometric' on page 575 undefined on input line 1
-532.
-
-[575]
-Underfull \hbox (badness 10000) in paragraph at lines 1565--1566
+[578]
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1304
 
  []
 
 
-LaTeX Warning: Reference `hypergeometric' on page 576 undefined on input line 1
-576.
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1304
 
-[576]
+ []
 
-LaTeX Warning: Reference `hypergeometric' on page 577 undefined on input line 1
-595.
+[579] [580] [581] [582] [583] [584] [585] [586]
 
-) (taylor.tex [577] [578] [579] [580] [581] [582] [583] [584] [585] [586]
-[587] [588] [589] [590] [591]
-Overfull \hbox (13.92288pt too wide) in paragraph at lines 280--282
+LaTeX Warning: Reference `Threejsymbol' on page 587 undefined on input line 146
+8.
+
+[587]
+
+LaTeX Warning: Reference `ineq' on page 588 undefined on input line 1496.
+
+[588] [589]
+
+LaTeX Warning: Reference `hypergeometric' on page 590 undefined on input line 1
+533.
+
+[590]
+Underfull \hbox (badness 10000) in paragraph at lines 1566--1567
+
+ []
+
+
+LaTeX Warning: Reference `hypergeometric' on page 591 undefined on input line 1
+577.
+
+[591]
+
+LaTeX Warning: Reference `hypergeometric' on page 592 undefined on input line 1
+596.
+
+) (taylor.tex [592] [593] [594] [595] [596] [597] [598] [599] [600] [601]
+[602] [603] [604] [605] [606] [607]
+Overfull \hbox (13.92288pt too wide) in paragraph at lines 281--283
 [][]$\OT1/cmr/m/n/12 ([][])$ or [] \OT1/cmr/m/it/12 sim-ple[]expression 
  []
 
-) (pk-gplot.tex [592] [593] [594] [595]
+) (pk-gplot.tex [608] [609] [610] [611] [612]
 
-LaTeX Warning: Reference `pointset' on page 596 undefined on input line 95.
+LaTeX Warning: Reference `pointset' on page 613 undefined on input line 96.
 
 
-LaTeX Warning: Reference `interval' on page 596 undefined on input line 102.
+LaTeX Warning: Reference `interval' on page 613 undefined on input line 103.
 
-[596]
+[613]
 
-LaTeX Warning: Reference `plotrefine' on page 597 undefined on input line 150.
+LaTeX Warning: Reference `plotrefine' on page 614 undefined on input line 151.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.151 \nameref{plot_xmesh}
+l.152 \nameref{plot_xmesh}
                           , \nameref{plot_ymesh}, \nameref{trplot},
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 597 undefined on input line
- 151.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.151 \nameref{plot_xmesh}
-                          , \nameref{plot_ymesh}, \nameref{trplot},
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-LaTeX Warning: Reference `trplot' on page 597 undefined on input line 151.
-
-
-LaTeX Warning: Reference `plotkeep' on page 597 undefined on input line 152.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.152 \nameref{plotkeep}, \nameref{show_grid}
-                                             .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 597 undefined on input line
+LaTeX Warning: Reference `\textunderscore ' on page 614 undefined on input line
  152.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.152 \nameref{plotkeep}, \nameref{show_grid}
+l.152 \nameref{plot_xmesh}
+                          , \nameref{plot_ymesh}, \nameref{trplot},
+I'm ignoring this, since I wasn't doing a \csname.
+
+
+LaTeX Warning: Reference `trplot' on page 614 undefined on input line 152.
+
+
+LaTeX Warning: Reference `plotkeep' on page 614 undefined on input line 153.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.153 \nameref{plotkeep}, \nameref{show_grid}
+                                             .
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Reference `\textunderscore ' on page 614 undefined on input line
+ 153.
+
+! Extra \endcsname.
+\NR@setref ... \NR@@setref \csname r@#1\endcsname 
+                                                  
+l.153 \nameref{plotkeep}, \nameref{show_grid}
                                              .
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (27.89493pt too wide) in paragraph at lines 149--155
-[]\OT1/cmr/m/n/10 Additional con-trol of the [] op-er-a-tion: [[]plotre-fine[],
-[]], [[]plot[]xmesh[],[]xmeshplot[]xmesh,
+Overfull \hbox (30.11713pt too wide) in paragraph at lines 150--156
+[]\OT1/cmr/m/n/10 Additional con-trol of the [] op-er-a-tion: []plotre-fine[] (
+[]), []plot[]xmesh[] ([]xmeshplot[]xmesh,
  []
 
-[597]
+[614]
 
-LaTeX Warning: Reference `plot' on page 598 undefined on input line 158.
-
-[598]
-
-LaTeX Warning: Reference `plot' on page 599 undefined on input line 169.
-
-[599]
-
-LaTeX Warning: Reference `plot' on page 600 undefined on input line 182.
-
-
-LaTeX Warning: Reference `axes names' on page 600 undefined on input line 183.
-
-[600]
-
-LaTeX Warning: Reference `plot' on page 601 undefined on input line 195.
-
-
-LaTeX Warning: Reference `axes names' on page 601 undefined on input line 196.
-
-[601]
-
-LaTeX Warning: Reference `plot' on page 602 undefined on input line 208.
-
-
-LaTeX Warning: Reference `axes names' on page 602 undefined on input line 209.
-
-[602]
-
-LaTeX Warning: Reference `plot' on page 603 undefined on input line 221.
-
-[603]
-
-LaTeX Warning: Reference `plot' on page 604 undefined on input line 236.
-
-[604]
-
-LaTeX Warning: Reference `plot' on page 605 undefined on input line 252.
-
-
-LaTeX Warning: Reference `axes names' on page 605 undefined on input line 254.
-
-[605]
-
-LaTeX Warning: Reference `plot' on page 606 undefined on input line 268.
-
-
-LaTeX Warning: Reference `plot' on page 606 undefined on input line 269.
-
-
-LaTeX Warning: Reference `axes names' on page 606 undefined on input line 271.
-
-[606]
-
-LaTeX Warning: Reference `plot' on page 607 undefined on input line 279.
-
-
-LaTeX Warning: Reference `plot' on page 607 undefined on input line 280.
-
-[607]
-
-LaTeX Warning: Reference `plot' on page 608 undefined on input line 289.
-
-
-LaTeX Warning: Reference `plot' on page 608 undefined on input line 290.
-
-[608] [609]
-
-LaTeX Warning: Reference `plot' on page 610 undefined on input line 307.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.313 ...he basic points (see \nameref{plot_xmesh}
-                                                  ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 610 undefined on input line
- 313.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.313 ...he basic points (see \nameref{plot_xmesh}
-                                                  ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-[610]
-
-LaTeX Warning: Reference `axes names' on page 611 undefined on input line 321.
-
-
-LaTeX Warning: Reference `plot' on page 611 undefined on input line 321.
-
-
-LaTeX Warning: Reference `plotrefine' on page 611 undefined on input line 322.
-
-[611]
-
-LaTeX Warning: Reference `plot' on page 612 undefined on input line 330.
-
-
-LaTeX Warning: Reference `axes names' on page 612 undefined on input line 331.
-
-[612]
-
-LaTeX Warning: Reference `plot' on page 613 undefined on input line 337.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.339 ... plane controlled by \nameref{plot_xmesh}
-                                                  . The grid is
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 613 undefined on input line
- 339.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.339 ... plane controlled by \nameref{plot_xmesh}
-                                                  . The grid is
-I'm ignoring this, since I wasn't doing a \csname.
-
-[613]) (linalg.tex [614]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.20 \nameref{add\_columns}
-                           ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 20.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.20 \nameref{add\_columns}
-                           ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.24 \nameref{add\_to\_columns}
-                               ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 24.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.24 \nameref{add\_to\_columns}
-                               ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.28 \nameref{augment\_columns}
-                               ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 28.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.28 \nameref{augment\_columns}
-                               ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.32 \nameref{column\_dim}
-                          ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 32.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.32 \nameref{column\_dim}
-                          ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.40 \nameref{find\_companion}
-                              ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 40.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.40 \nameref{find\_companion}
-                              ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.44 \nameref{get\_rows}
-                        ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 44.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.44 \nameref{get\_rows}
-                        ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.48 \nameref{matrix\_augment}
-                              ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.48 \nameref{matrix\_augment}
-                              ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (18.6898pt too wide) in paragraph at lines 48--51
-[]\OT1/cmr/m/n/10 [[]matrix[]augment[],[][]13.5401MATRIXsubsection.13.5[][]augm
-entmatrix[]augmentmatrix[]stack
- []
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.54 \nameref{mult\_columns}
-                            ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 54.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.54 \nameref{mult\_columns}
-                            ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.60 \nameref{remove\_columns}
-                              ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 60.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.60 \nameref{remove\_columns}
-                              ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 \nameref{row\_dim}
-                       ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 64.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.64 \nameref{row\_dim}
-                       ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 \nameref{stack\_rows}
-                          ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 68.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.68 \nameref{stack\_rows}
-                          ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 \nameref{swap\_columns}
-                            ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 72.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.72 \nameref{swap\_columns}
-                            ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.76 \nameref{swap\_rows}
-                         .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 615 undefined on input line
- 76.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.76 \nameref{swap\_rows}
-                         .
-I'm ignoring this, since I wasn't doing a \csname.
+LaTeX Warning: Reference `plot' on page 615 undefined on input line 159.
 
 [615]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.80 \nameref{band\_matrix}
-                           ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
 
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 80.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.80 \nameref{band\_matrix}
-                           ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.84 \nameref{char\_matrix}
-                           ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 84.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.84 \nameref{char\_matrix}
-                           ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.96 \nameref{jordan\_block}
-                            ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 96.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.96 \nameref{jordan\_block}
-                            ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.100 \nameref{random\_matrix}
-                              ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 100.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.100 \nameref{random\_matrix}
-                              ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.108 \nameref{char\_poly}
-                          ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 108.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.108 \nameref{char\_poly}
-                          ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.112 \nameref{gram\_schmidt}
-                             ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 112.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.112 \nameref{gram\_schmidt}
-                             ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.116 \nameref{pseudo\_inverse}
-                               ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 116.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.116 \nameref{pseudo\_inverse}
-                               ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-LaTeX Warning: Reference `smithex' on page 616 undefined on input line 127.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.129 \nameref{smithex\_int}
-                            ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 616 undefined on input line
- 129.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.129 \nameref{smithex\_int}
-                            ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-LaTeX Warning: Reference `ratjordan' on page 616 undefined on input line 133.
-
-
-LaTeX Warning: Reference `jordansymbolic' on page 616 undefined on input line 1
-35.
-
-
-LaTeX Warning: Reference `jordan' on page 616 undefined on input line 137.
+LaTeX Warning: Reference `plot' on page 616 undefined on input line 170.
 
 [616]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.157 \nameref{add\_columns}
-                            ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+
+LaTeX Warning: Reference `plot' on page 617 undefined on input line 183.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 157.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.157 \nameref{add\_columns}
-                            ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.161 \nameref{augment\_columns}
-                                ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 161.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.161 \nameref{augment\_columns}
-                                ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.165 \nameref{copy\_into}
-                          ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 165.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.165 \nameref{copy\_into}
-                          ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.169 \nameref{matrix\_augment}
-                               ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.169 \nameref{matrix\_augment}
-                               ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (21.46759pt too wide) in paragraph at lines 169--172
-[]\OT1/cmr/m/n/10 [[]matrix[]augment[],[][]13.5401MATRIXsubsection.13.5[][]augm
-entmatrix[]augmentmatrix[]stack, 
- []
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.175 \nameref{mult\_columns}
-                             ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 175.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.175 \nameref{mult\_columns}
-                             ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.181 \nameref{remove\_columns}
-                               ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 181.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.181 \nameref{remove\_columns}
-                               ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.185 \nameref{rows\_pivot}
-                           ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 185.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.185 \nameref{rows\_pivot}
-                           ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.189 \nameref{stack\_rows}
-                           ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 189.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.189 \nameref{stack\_rows}
-                           ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.193 \nameref{swap\_columns}
-                             ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 193.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.193 \nameref{swap\_columns}
-                             ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.197 \nameref{swap\_rows}
-                          ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 617 undefined on input line
- 197.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.197 \nameref{swap\_rows}
-                          ,
-I'm ignoring this, since I wasn't doing a \csname.
+LaTeX Warning: Reference `axes names' on page 617 undefined on input line 184.
 
 [617]
-Overfull \hbox (11.00282pt too wide) in paragraph at lines 220--223
+
+LaTeX Warning: Reference `plot' on page 618 undefined on input line 196.
+
+
+LaTeX Warning: Reference `axes names' on page 618 undefined on input line 197.
+
+[618]
+
+LaTeX Warning: Reference `plot' on page 619 undefined on input line 209.
+
+
+LaTeX Warning: Reference `axes names' on page 619 undefined on input line 210.
+
+[619]
+
+LaTeX Warning: Reference `plot' on page 620 undefined on input line 222.
+
+[620]
+
+LaTeX Warning: Reference `plot' on page 621 undefined on input line 237.
+
+[621]
+
+LaTeX Warning: Reference `plot' on page 622 undefined on input line 253.
+
+
+LaTeX Warning: Reference `axes names' on page 622 undefined on input line 255.
+
+[622]
+
+LaTeX Warning: Reference `plot' on page 623 undefined on input line 269.
+
+
+LaTeX Warning: Reference `plot' on page 623 undefined on input line 270.
+
+
+LaTeX Warning: Reference `axes names' on page 623 undefined on input line 272.
+
+[623]
+
+LaTeX Warning: Reference `plot' on page 624 undefined on input line 280.
+
+
+LaTeX Warning: Reference `plot' on page 624 undefined on input line 281.
+
+[624]
+
+LaTeX Warning: Reference `plot' on page 625 undefined on input line 290.
+
+
+LaTeX Warning: Reference `plot' on page 625 undefined on input line 291.
+
+[625] [626]
+
+LaTeX Warning: Reference `plot' on page 627 undefined on input line 308.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.314 ...he basic points (see \nameref{plot_xmesh}
+                                                  ,
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Reference `\textunderscore ' on page 627 undefined on input line
+ 314.
+
+! Extra \endcsname.
+\NR@setref ... \NR@@setref \csname r@#1\endcsname 
+                                                  
+l.314 ...he basic points (see \nameref{plot_xmesh}
+                                                  ,
+I'm ignoring this, since I wasn't doing a \csname.
+
+[627]
+
+LaTeX Warning: Reference `axes names' on page 628 undefined on input line 322.
+
+
+LaTeX Warning: Reference `plot' on page 628 undefined on input line 322.
+
+
+LaTeX Warning: Reference `plotrefine' on page 628 undefined on input line 323.
+
+[628]
+
+LaTeX Warning: Reference `plot' on page 629 undefined on input line 331.
+
+
+LaTeX Warning: Reference `axes names' on page 629 undefined on input line 332.
+
+[629]
+
+LaTeX Warning: Reference `plot' on page 630 undefined on input line 338.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.340 ... plane controlled by \nameref{plot_xmesh}
+                                                  . The grid is
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Reference `\textunderscore ' on page 630 undefined on input line
+ 340.
+
+! Extra \endcsname.
+\NR@setref ... \NR@@setref \csname r@#1\endcsname 
+                                                  
+l.340 ... plane controlled by \nameref{plot_xmesh}
+                                                  . The grid is
+I'm ignoring this, since I wasn't doing a \csname.
+
+[630]) (linalg.tex [631] [632] [633] [634] [635] [636] [637]
+Overfull \hbox (11.00282pt too wide) in paragraph at lines 163--166
 []\OT1/cmr/m/n/10 The Op-er-a-tor [] re-places col-umn \OT1/cmr/m/it/10 c2 \OT1
 /cmr/m/n/10 of \OT1/cmr/m/it/10 ma-trix \OT1/cmr/m/n/10 by \OT1/cmr/m/it/10 exp
 r \OT1/cmr/m/n/10 * col-umn(\OT1/cmr/m/it/10 matrix\OT1/cmr/m/n/10 ,\OT1/cmr/m/
 it/10 c1\OT1/cmr/m/n/10 )
  []
 
+[638] [639] [640] [641] [642] [643] [644] [645] [646] [647] [648] [649]
+[650] [651] [652] [653] [654] [655] [656] [657] [658] [659] [660] [661]
+[662] [663] [664] [665] [666] [667] [668] [669] [670] [671] [672] [673]
+[674] [675] [676] [677] [678] [679] [680] [681] [682] [683] [684] [685]
+[686] [687] [688] [689] [690] [691]) (normform.tex [692] [693] [694] [695]
+
+LaTeX Warning: Reference `arnum' on page 696 undefined on input line 83.
+
+[696] [697] [698] [699]
+
+LaTeX Warning: Reference `arnum' on page 700 undefined on input line 229.
+
+[700] [701]) (pk-misc.tex [702] [703] [704]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
-l.249 ...ted functions: \nameref{add\_to\_columns}
-                                                  ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 618 undefined on input line
- 249.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.249 ...ted functions: \nameref{add\_to\_columns}
-                                                  ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.250 ...f{add\_to\_rows}, \nameref{mult\_columns}
-                                                  ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 618 undefined on input line
- 250.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.250 ...f{add\_to\_rows}, \nameref{mult\_columns}
-                                                  ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (101.28423pt too wide) in paragraph at lines 249--252
-[]\OT1/cmr/m/n/10 Related func-tions: [[]add[]to[]columns[],[]to[]columnsadd[]t
-o[]columns, [[]mult[]columns[],[]columnsmult[]columns. 
- []
-
-[618]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.257  see: \nameref{add\_columns}
-                                  .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 619 undefined on input line
- 257.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.257  see: \nameref{add\_columns}
-                                  .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[619]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.303 \nameref{add\_columns}
-                            ,  \nameref{add\_rows},  \nameref{mult\_rows},
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 620 undefined on input line
- 303.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.303 \nameref{add\_columns}
-                            ,  \nameref{add\_rows},  \nameref{mult\_rows},
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.303 ...nameref{add\_rows},  \nameref{mult\_rows}
-                                                  ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 620 undefined on input line
- 303.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.303 ...nameref{add\_rows},  \nameref{mult\_rows}
-                                                  ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (16.4006pt too wide) in paragraph at lines 302--305
-[]\OT1/cmr/m/n/10 Related func-tions: [[]add[]columns[],[]columnsadd[]columns, 
-[[]mult[]rows[],[]rowsmult[]rows. 
- []
-
-[620]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.310  see:  \nameref{add\_to\_columns}
-                                       .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 621 undefined on input line
- 310.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.310  see:  \nameref{add\_to\_columns}
-                                       .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[621]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.351 \nameref{get\_columns}
-                            ,  \nameref{get\_rows}, \nameref{sub\_matrix}.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 622 undefined on input line
- 351.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.351 \nameref{get\_columns}
-                            ,  \nameref{get\_rows}, \nameref{sub\_matrix}.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.351 ...nameref{get\_rows}, \nameref{sub\_matrix}
-                                                  .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.351 ...nameref{get\_rows}, \nameref{sub\_matrix}
-                                                  .
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (173.29007pt too wide) in paragraph at lines 350--354
-[]\OT1/cmr/m/n/10 Related func-tions: [[]get[]columns[],[]columnsget[]columns, 
-[[]sub[]matrix[],[][]8.46223SUBsubsection.8.46[][]matrixsub[]matrixOperator 
- []
-
-[622] [623] [624]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.475 Related functions: \nameref{char\_poly}
-                                             .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 625 undefined on input line
- 475.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.475 Related functions: \nameref{char\_poly}
-                                             .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[625]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.499 Related functions: \nameref{char\_matrix}
-                                               .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 626 undefined on input line
- 499.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.499 Related functions: \nameref{char\_matrix}
-                                               .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[626]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.552 Related functions: \nameref{lu\_decom}
-                                            .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 627 undefined on input line
- 552.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.552 Related functions: \nameref{lu\_decom}
-                                            .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[627] [628] [629]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.673 \nameref{find\_companion}
-                               .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 630 undefined on input line
- 673.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.673 \nameref{find\_companion}
-                               .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[630]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.723 \nameref{augment\_columns}
-                                , \nameref{extend}, \nameref{matrix\_augment},
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 631 undefined on input line
- 723.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.723 \nameref{augment\_columns}
-                                , \nameref{extend}, \nameref{matrix\_augment},
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.723 ...ameref{extend}, \nameref{matrix\_augment}
-                                                  ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.723 ...ameref{extend}, \nameref{matrix\_augment}
-                                                  ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.724 ...ref{matrix\_stack}, \nameref{stack\_rows}
-                                                  , \nameref{sub\_matrix}.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 631 undefined on input line
- 724.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.724 ...ref{matrix\_stack}, \nameref{stack\_rows}
-                                                  , \nameref{sub\_matrix}.
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (259.2069pt too wide) in paragraph at lines 722--725
-[]\OT1/cmr/m/n/10 Related func-tions: [[]aug-ment[]columns[],[]columnsaugment[]
-columns, [[]ma-trix[]augment[],[][]13.5401MATRIXsubsection.13.5[][]augmentmatri
-x[]augment,
- []
-
-[631]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.769 \nameref{jordan\_block}
-                             .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 632 undefined on input line
- 769.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.769 \nameref{jordan\_block}
-                             .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[632]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.806 \nameref{copy\_into}
-                          , \nameref{matrix\_augment}, \nameref{matrix\_stack},
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 633 undefined on input line
- 806.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.806 \nameref{copy\_into}
-                          , \nameref{matrix\_augment}, \nameref{matrix\_stack},
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.806 ...matrix\_augment}, \nameref{matrix\_stack}
-                                                  ,
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.806 ...matrix\_augment}, \nameref{matrix\_stack}
-                                                  ,
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.807 ...{remove\_columns}, \nameref{remove\_rows}
-                                                  .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 633 undefined on input line
- 807.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.807 ...{remove\_columns}, \nameref{remove\_rows}
-                                                  .
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (122.53987pt too wide) in paragraph at lines 805--810
-[]\OT1/cmr/m/n/10 Related func-tions: [[]copy[]into[],[]intocopy[]into, [[]ma-t
-rix[]stack[],[][]13.5401MATRIXsubsection.13.5[][]stackmatrix[]stack,
- []
-
-[633] [634]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.901 \nameref{augment\_columns}
-                                , \nameref{stack\_rows}, \nameref{sub\_matrix}.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 635 undefined on input line
- 901.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.901 \nameref{augment\_columns}
-                                , \nameref{stack\_rows}, \nameref{sub\_matrix}.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.901 ...meref{stack\_rows}, \nameref{sub\_matrix}
-                                                  .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.901 ...meref{stack\_rows}, \nameref{sub\_matrix}
-                                                  .
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (221.62354pt too wide) in paragraph at lines 900--904
-[]\OT1/cmr/m/n/10 Related func-tions: [[]aug-ment[]columns[],[]columnsaugment[]
-columns, [[]sub[]matrix[],[][]8.46223SUBsubsection.8.46[][]matrixsub[]matrixOpe
-rator 
- []
-
-[635]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.907 see:  \nameref{get\_columns}
-                                  .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 636 undefined on input line
- 907.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.907 see:  \nameref{get\_columns}
-                                  .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[636] [637] [638] [639] [640] [641] [642] [643] [644] [645] [646]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1355 \nameref{augment\_columns}
-                                 , \nameref{stack\_rows}, \nameref{sub\_matr...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 647 undefined on input line
- 1355.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1355 \nameref{augment\_columns}
-                                 , \nameref{stack\_rows}, \nameref{sub\_matr...
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1355 ...eref{stack\_rows}, \nameref{sub\_matrix}
-                                                  .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1355 ...eref{stack\_rows}, \nameref{sub\_matrix}
-                                                  .
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (221.62354pt too wide) in paragraph at lines 1354--1358
-[]\OT1/cmr/m/n/10 Related func-tions: [[]aug-ment[]columns[],[]columnsaugment[]
-columns, [[]sub[]matrix[],[][]8.46223SUBsubsection.8.46[][]matrixsub[]matrixOpe
-rator 
- []
-
-[647] [648]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1387 see:  \nameref{matrix\_augment}
-                                      .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1387 see:  \nameref{matrix\_augment}
-                                      .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[649]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1417 \nameref{remove\_columns}
-                                , \nameref{remove\_rows}.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 650 undefined on input line
- 1417.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1417 \nameref{remove\_columns}
-                                , \nameref{remove\_rows}.
-I'm ignoring this, since I wasn't doing a \csname.
-
-[650]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1464 ...ed functions: \nameref{add\_to\_columns}
-                                                  , \nameref{add\_to\_rows}.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 651 undefined on input line
- 1464.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1464 ...ed functions: \nameref{add\_to\_columns}
-                                                  , \nameref{add\_to\_rows}.
-I'm ignoring this, since I wasn't doing a \csname.
-
-[651]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1470 see:  \nameref{mult\_columns}
-                                    .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 652 undefined on input line
- 1470.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1470 see:  \nameref{mult\_columns}
-                                    .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[652]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1513 \nameref{rows\_pivot}
-                            .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 653 undefined on input line
- 1513.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1513 \nameref{rows\_pivot}
-                            .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[653] [654] [655] [656] [657]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1666 see:  \nameref{remove\_columns}
-                                      .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 658 undefined on input line
- 1666.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1666 see:  \nameref{remove\_columns}
-                                      .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[658]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1671 see:  \nameref{column\_dim}
-                                  .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 659 undefined on input line
- 1671.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1671 see:  \nameref{column\_dim}
-                                  .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[659] [660] [661] [662]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1796 see:  \nameref{augment\_columns}
-                                       .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 663 undefined on input line
- 1796.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1796 see:  \nameref{augment\_columns}
-                                       .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[663]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1827 \nameref{augment\_columns}
-                                 , \nameref{stack\_rows}.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 664 undefined on input line
- 1827.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1827 \nameref{augment\_columns}
-                                 , \nameref{stack\_rows}.
-I'm ignoring this, since I wasn't doing a \csname.
-
-[664] [665] [666]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1943 Related functions: \nameref{swap\_entries}
-                                                 .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 667 undefined on input line
- 1943.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1943 Related functions: \nameref{swap\_entries}
-                                                 .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[667]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1975 Related functions: \nameref{swap\_columns}
-                                                 , \nameref{swap\_rows}.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 668 undefined on input line
- 1975.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1975 Related functions: \nameref{swap\_columns}
-                                                 , \nameref{swap\_rows}.
-I'm ignoring this, since I wasn't doing a \csname.
-
-[668]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.1981 see:  \nameref{swap\_columns}
-                                    .
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 669 undefined on input line
- 1981.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
-                                                  
-l.1981 see:  \nameref{swap\_columns}
-                                    .
-I'm ignoring this, since I wasn't doing a \csname.
-
-[669] [670] [671]) (normform.tex [672] [673] [674]
-
-LaTeX Warning: Reference `arnum' on page 675 undefined on input line 82.
-
-
-LaTeX Warning: Reference `ratjordan' on page 675 undefined on input line 93.
-
-[675] [676]
-
-LaTeX Warning: Reference `frobenius' on page 677 undefined on input line 156.
-
-[677] [678]
-
-LaTeX Warning: Reference `arnum' on page 679 undefined on input line 228.
-
-
-LaTeX Warning: Reference `frobenius' on page 679 undefined on input line 232.
-
-
-LaTeX Warning: Reference `ratjordan' on page 679 undefined on input line 240.
-
-[679] [680]
-
-LaTeX Warning: Reference `frobenius' on page 681 undefined on input line 312.
-
-
-LaTeX Warning: Reference `ratjordan' on page 681 undefined on input line 319.
-
-) (pk-misc.tex [681] [682]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.14 ...ce} directory.  The \nameref{load_package}
+l.15 ...ce} directory.  The \nameref{load_package}
                                                    command is used to
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
 
-LaTeX Warning: Reference `\textunderscore ' on page 683 undefined on input line
- 14.
+LaTeX Warning: Reference `\textunderscore ' on page 705 undefined on input line
+ 15.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
-l.14 ...ce} directory.  The \nameref{load_package}
+l.15 ...ce} directory.  The \nameref{load_package}
                                                    command is used to
 I'm ignoring this, since I wasn't doing a \csname.
-
-[683]
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-[684]
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
-
-[685]
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-[686]
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-
- []
-
-[687]
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
-[688]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
-[689]
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-[690]
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
-
- []
-
-[691]
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
-
- []
-
-[692]
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-[693]
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
-
- []
-
-[694]
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
-
- []
-
-[695]
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
-
- []
-
-[696]
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
-
- []
-
-[697]
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
-
- []
-
-[698]
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-
- []
-
-[699]
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-
- []
-
-[700]
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
-
- []
-
-[701]
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
-
- []
-
-[702]
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
-
- []
-
-[703]
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
-
- []
-
-[704]
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
 
 [705]
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
 [706]
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 [707]
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 [708]
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
 [709]
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 [710]
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
 [711]
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 [712]
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
 [713]
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 [714]
-Underfull \hbox (badness 10000) in paragraph at lines 387--388
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 [715]
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
 [716]
-Underfull \hbox (badness 10000) in paragraph at lines 406--407
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
 [717]
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
 [718]
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
 
 [719]
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
 [720]
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
 
 [721]
-Underfull \hbox (badness 10000) in paragraph at lines 457--458
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 [722]
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
 [723]
-Underfull \hbox (badness 10000) in paragraph at lines 485--486
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
-[724] [725]
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
+[724]
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[725]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
 
 [726]
-Underfull \hbox (badness 10000) in paragraph at lines 518--519
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
 
 [727]
-Underfull \hbox (badness 10000) in paragraph at lines 531--532
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 
- []
-
-
-Overfull \hbox (8.88855pt too wide) in paragraph at lines 533--538
-\OT1/cmr/m/n/10 work-ing di-rectly from ``A Zero Struc-ture The-o-rem for Polyn
-omial-Equations-Solving,''
  []
 
 [728]
-Underfull \hbox (badness 10000) in paragraph at lines 541--542
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
 
  []
 
 [729]
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
-) (symbolic.tex [730] [731] [732]
+[730]
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
-LaTeX Warning: Reference `eq' on page 733 undefined on input line 44.
+ []
 
-) (outmode.tex [733] [734] [735] [736] [737] [738] [739]
+[731]
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
-LaTeX Warning: Reference `ed' on page 740 undefined on input line 220.
+ []
+
+[732]
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+
+ []
+
+[733]
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+
+ []
+
+[734]
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+[735]
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
+[736]
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+[737]
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+[738]
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+
+ []
+
+[739]
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+[740]
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+[741]
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+
+ []
+
+[742]
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+
+ []
+
+[743]
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+
+ []
+
+[744]
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+[745]
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
+
+ []
+
+[746] [747]
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+[748]
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+[749]
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+
+ []
 
 
-LaTeX Warning: Reference `ed' on page 740 undefined on input line 228.
+Overfull \hbox (8.88855pt too wide) in paragraph at lines 534--539
+\OT1/cmr/m/n/10 work-ing di-rectly from ``A Zero Struc-ture The-o-rem for Polyn
+omial-Equations-Solving,''
+ []
 
-) (guide.tex [740]
+[750]
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+
+ []
+
+[751]
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+) (symbolic.tex [752] [753] [754] [755]
+
+LaTeX Warning: Reference `eq' on page 756 undefined on input line 45.
+
+) (outmode.tex [756] [757] [758] [759] [760] [761] [762] [763]) (guide.tex
+[764]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 12.
- [741] [742]
+ [765] [766]
 Overfull \hbox (5.71954pt too wide) in paragraph at lines 140--143
 []\OT1/cmr/bx/n/10 Declaration\OT1/cmr/m/n/10 : de-scrip-tion of a dec-la-ra-ti
 on type syn-tax ex-ten-sion. [][]\OT1/cmtt/m/n/10 <node-name>
  []
 
-[743] [744] [745] [746] [747]) (help.tex [748]
+[767] [768] [769] [770] [771]) (help.tex [772]
 Overfull \hbox (20.72513pt too wide) in paragraph at lines 56--59
 []\OT1/cmr/m/n/10 This is sim-i-lar to an [][]\OT1/cmtt/m/n/10 itemize []\OT1/c
 mr/m/n/10 en-vi-ron-ment. Ev-ery en-try starts with a [][]\OT1/cmtt/m/n/10 \ite
 m[[]\OT1/cmr/m/it/10 name[][]\OT1/cmtt/m/n/10 ]
  []
 
-[749]) (rdebug.tex [750]
-Overfull \hbox (45.1398pt too wide) in paragraph at lines 24--26
-[]\OT1/cmr/m/n/10 Conditional trace ([[]tr-when[],[][]33.6[][]], [[]un-tr-when[
-],[][]33.7[][]]) or break ([[]br-when[],[][]33.11[][]],[[]unbrwhen[],[][]33.12[
-][]]). 
- []
+[773]) (rdebug.tex [774]
 
-
-! LaTeX Error: \begin{Operator} on input line 1980 ended by \end{Introduction}.
-
+! LaTeX Error: \begin{Command} on input line 66 ended by \end{Introduction}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -3778,8 +2301,8 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[751] [752] [753] [754] [755] [756] [757] [758] [759] [760] [761] [762]
-[763] [764] [765] [766] [767] [768]
+[775] [776] [777] [778] [779] [780] [781] [782] [783] [784] [785] [786]
+[787] [788] [789] [790] [791] [792]
 
 ! LaTeX Error: \begin{Syntax} on input line 377 ended by \end{syntax}.
 
@@ -3793,7 +2316,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [769] (redhelp.ind
+) [793] (redhelp.ind
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -3858,7 +2381,7 @@ l.19   \item
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[770
+[794
 
 
 ]
@@ -3878,22 +2401,22 @@ l.155     \subitem
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[771]
+[795]
 Overfull \hbox (2.22261pt too wide) in paragraph at lines 238--239
 []\OT1/cmr/m/n/10 Confluent Hy-per-ge-o-met-ric func-tion, [][]514[][]--
  []
 
-[772] [773] [774]
+[796] [797] [798]
 Overfull \hbox (0.86147pt too wide) in paragraph at lines 461--462
 []\OT1/cmr/m/n/10 generalized hy-per-ge-o-met-ric func-tion, [][]574[][] 
  []
 
-[775] [776]
+[799] [800]
 Overfull \hbox (0.27817pt too wide) in paragraph at lines 631--632
 []\OT1/cmr/m/n/10 Kredel-Weispfenning al-go-rithm, [][]409[][], [][]440[][] 
  []
 
-[777] [778]
+[801] [802]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -3942,7 +2465,7 @@ l.794     \subitem
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[779] [780] [781] [782] [783]
+[803] [804] [805] [806] [807]
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1144--1154
 [][]\OT1/cmr/m/n/10 322[][], [][]332[][]--[][]335[][], [][]341[][], [][]350[][]
 , [][]353[][], [][]356[][],
@@ -3954,15 +2477,15 @@ Overfull \hbox (3.88927pt too wide) in paragraph at lines 1144--1154
 , [][]372[][], [][]374[][],
  []
 
-[784]
+[808]
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1232--1241
 [][]\OT1/cmr/m/n/10 177[][], [][]182[][], [][]188[][], [][]189[][], [][]194[][]
 --[][]196[][], [][]200[][],
  []
 
-[785] [786] [787] [788] [789] [790])
+[809] [810] [811] [812] [813] [814])
 
-! LaTeX Error: \begin{Operator} on input line 1905 ended by \end{document}.
+! LaTeX Error: \begin{Operator} on input line 471 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -3984,43 +2507,23 @@ made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
 ) )
-(\end occurred inside a group at level 26)
+(\end occurred inside a group at level 6)
 
-### semi simple group (level 26) entered at line 1905 (\begingroup)
-### semi simple group (level 25) entered at line 1795 (\begingroup)
-### semi simple group (level 24) entered at line 1670 (\begingroup)
-### semi simple group (level 23) entered at line 1665 (\begingroup)
-### semi simple group (level 22) entered at line 1474 (\begingroup)
-### semi simple group (level 21) entered at line 1469 (\begingroup)
-### semi simple group (level 20) entered at line 1386 (\begingroup)
-### semi simple group (level 19) entered at line 1308 (\begingroup)
-### semi simple group (level 18) entered at line 906 (\begingroup)
-### semi simple group (level 17) entered at line 849 (\begingroup)
-### semi simple group (level 16) entered at line 774 (\begingroup)
-### semi simple group (level 15) entered at line 729 (\begingroup)
-### semi simple group (level 14) entered at line 635 (\begingroup)
-### semi simple group (level 13) entered at line 504 (\begingroup)
-### semi simple group (level 12) entered at line 480 (\begingroup)
-### semi simple group (level 11) entered at line 447 (\begingroup)
-### semi simple group (level 10) entered at line 314 (\begingroup)
-### semi simple group (level 9) entered at line 309 (\begingroup)
-### semi simple group (level 8) entered at line 256 (\begingroup)
-### semi simple group (level 7) entered at line 65 (\begingroup)
 ### semi simple group (level 6) entered at line 471 (\begingroup)
 ### semi simple group (level 5) entered at line 250 (\begingroup)
-### semi simple group (level 4) entered at line 1048 (\begingroup)
-### semi simple group (level 3) entered at line 750 (\begingroup)
-### semi simple group (level 2) entered at line 973 (\begingroup)
-### semi simple group (level 1) entered at line 379 (\begingroup)
+### semi simple group (level 4) entered at line 1049 (\begingroup)
+### semi simple group (level 3) entered at line 751 (\begingroup)
+### semi simple group (level 2) entered at line 974 (\begingroup)
+### semi simple group (level 1) entered at line 380 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9070 strings out of 492972
- 128522 string characters out of 3135889
- 233889 words of memory out of 3000000
- 11295 multiletter control sequences out of 15000+200000
+ 9069 strings out of 492972
+ 128455 string characters out of 3135889
+ 229388 words of memory out of 3000000
+ 11270 multiletter control sequences out of 15000+200000
  16034 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,10n,34p,188b,1807s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,10n,34p,188b,816s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Progr
@@ -4045,9 +2548,9 @@ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmtt12.pfb>
-Output written on redhelp.pdf (790 pages, 2566959 bytes).
+Output written on redhelp.pdf (814 pages, 2605617 bytes).
 PDF statistics:
- 10882 PDF objects out of 12825 (max. 8388607)
- 1519 named destinations out of 1728 (max. 500000)
+ 11109 PDF objects out of 12825 (max. 8388607)
+ 1543 named destinations out of 1728 (max. 500000)
  5769 words of extra memory for PDF output out of 10000 (max. 10000000)
 
