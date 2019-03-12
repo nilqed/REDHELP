@@ -1,6 +1,6 @@
 \section{Input and Output}
 
-\begin{Command}{IN}
+\begin{Command}[in]{IN}
 \index{input}
 The \name{in} command takes a list of file names and inputs each file into
 the system.
@@ -35,7 +35,7 @@ ending procedures in the file.
 \end{Command}
 
 
-\begin{Command}{INPUT}
+\begin{Command}[input]{INPUT}
 \index{interactive}
 The \name{input} command returns the input expression to the REDUCE numbered
 prompt that is its argument.
@@ -69,7 +69,7 @@ An error message is given if a number is called for that has not yet been used.
 \end{Command}
 
 
-\begin{Command}{OUT}
+\begin{Command}[out]{OUT}
 \index{output}\index{open}
 The \name{out} command directs output to the filename that is its argument,
 until another \name{out} changes the output file, or \nameref{shut} closes it.
@@ -113,7 +113,7 @@ output again.
 \end{Command}
 
 
-\begin{Command}{SHUT}
+\begin{Command}[shut]{SHUT}
 \index{output}\index{close}
 The \name{shut} command closes output files.
 \begin{Syntax}

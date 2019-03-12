@@ -1,6 +1,6 @@
 \section{Boolean Operators}
 
-\begin{Concept}{boolean value}
+\begin{Concept}[boolean value]{boolean value}
 There are no extra symbols for the truth values true
 and false. Instead, \nameref{nil} and the number zero
 are interpreted as truth value false in algebraic
@@ -8,7 +8,7 @@ programs (see \nameref{false}), while any different
 value is considered as true (see \nameref{true}).
 \end{Concept}
 
-\begin{Operator}{EQUAL}
+\begin{Operator}[equal]{EQUAL}
 \index{equation}
 The operator \name{equal} is an infix binary comparison
 operator.  It is identical with \name{=}.  It returns \nameref{true} if its two
@@ -41,7 +41,7 @@ is not encouraged.
 \end{Operator}
 
 
-\begin{Operator}{EVENP}
+\begin{Operator}[evenp]{EVENP}
 The \name{evenp} logical operator returns \nameref{true} if its argument is an
 even integer, and \nameref{nil} if its argument is an odd integer.  An error
 message is returned if its argument is not an integer.
@@ -67,7 +67,7 @@ or \name{while}\ldots\name{do}.
 \end{Comments}
 \end{Operator}
 
-\begin{Concept}{false}
+\begin{Concept}[false]{FALSE}
 The symbol \nameref{nil} and the number zero are considered
 as \nameref{boolean value} false if used in a place where
 a boolean value is required. Most builtin operators return
@@ -76,7 +76,7 @@ Note that \name{nil} is not printed when returned as result to
 a top level evaluation.
 \end{Concept}
 
-\begin{Operator}{FREEOF}
+\begin{Operator}[freeof]{FREEOF}
 The \name{freeof} logical operator returns 
 \nameref{true} if its first argument does
 not contain its second argument anywhere in its structure.
@@ -106,7 +106,7 @@ Logical operators can only be used in conditional expressions such as \\
 \end{Operator}
 
 
-\begin{Operator}{LEQ}
+\begin{Operator}[leq]{LEQ}
 The \name{leq} operator is a binary infix or prefix logical operator.  It
 returns \nameref{true} if its first argument is less than or equal to its second
 argument.  As an infix operator it is identical with \name{<=}.
@@ -136,7 +136,7 @@ Logical operators can only be used in conditional statements such as \\
 \end{Operator}
 
 
-\begin{Operator}{LESSP}
+\begin{Operator}[lessp]{LESSP}
 The \name{lessp} operator is a binary infix or prefix logical operator.  It
 returns \nameref{true} if its first argument is strictly less than its second
 argument.  As an infix operator it is identical with \name{<}.
@@ -166,7 +166,7 @@ Logical operators can only be used in conditional statements such as \\
 \end{Operator}
 
 
-\begin{Operator}{MEMBER}
+\begin{Operator}[member]{MEMBER}
 \index{list}
 
 \begin{Syntax}
@@ -194,7 +194,7 @@ within the list, so expressions must be of the same type to match.
 \end{Operator}
 
 
-\begin{Operator}{NEQ}
+\begin{Operator}[neq]{NEQ}
 The operator \name{neq} is an infix binary comparison
 operator.  It returns \nameref{true} if its two
 arguments are not \nameref{equal}.
@@ -224,7 +224,7 @@ is not encouraged.
 \end{Operator}
 
 
-\begin{Operator}{NOT}
+\begin{Operator}[not]{NOT}
 The \name{not} operator returns \nameref{true} if its argument evaluates to
 \nameref{nil}, and \name{nil} if its argument is \name{true}.
 \begin{Syntax}
@@ -248,7 +248,7 @@ Logical operators can only be used in conditional statements such as \\
 \end{Operator}
 
 
-\begin{Operator}{NUMBERP}
+\begin{Operator}[numberp]{NUMBERP}
 The \name{numberp} operator returns \nameref{true} if its argument is a number,
 and \nameref{nil} otherwise.
 \begin{Syntax}
@@ -270,7 +270,7 @@ Logical operators can only be used in conditional expressions, such as \\
 \end{Operator}
 
 
-\begin{Operator}{ORDP}
+\begin{Operator}[ordp]{ORDP}
 \index{order}
 The \name{ordp} logical operator returns \nameref{true} if its first argument is
 ordered ahead of its second argument in canonical internal ordering, or is
@@ -300,7 +300,7 @@ Logical operators can only be used in conditional expressions, such as \\
 \end{Operator}
 
 
-\begin{Operator}{PRIMEP}
+\begin{Operator}[primep]{PRIMEP}
 \index{prime number}
 
 \begin{Syntax}
@@ -322,7 +322,7 @@ if primep a then 1; & ***** A invalid as integer
 \end{Operator}
 
 
-\begin{Concept}{TRUE}
+\begin{Concept}[true]{TRUE}
 
 Any value of the boolean part of a logical expression which is neither
 \nameref{nil} nor \name{0} is considered as \name{true}. Most

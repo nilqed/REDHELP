@@ -1,6 +1,6 @@
 \section{Variables}
 
-\begin{Variable}{assumptions}
+\begin{Variable}[assumptions]{ASSUMPTIONS}
 \index{solve}
 After solving a linear or polynomial equation system
 with parameters, the variable \name{assumptions} contains a list 
@@ -14,7 +14,7 @@ assumptions; & \{a + 1\}
 \end{Variable}
 
 
-\begin{Variable}{CARD_NO}
+\begin{Variable}[card_no]{CARD_NO}
 \index{FORTRAN}\index{output}
 \name{card_no} sets the total number of cards allowed in a Fortran
 output statement when \name{fort} is on.  Default is 20.
@@ -41,7 +41,7 @@ continuation cards.
 \end{Variable}
 
 
-\begin{Constant}{E}
+\begin{Constant}[e]{E}
 The constant \name{e} is reserved for use as the base of the natural
 logarithm.  Its value is approximately 2.71828284590, which REDUCE gives
 to the current decimal precision when the switch \nameref{rounded} is on.
@@ -56,7 +56,7 @@ natural logarithm would be suspended inside the procedure.
 \end{Constant}
 
 
-\begin{Variable}{EVAL\_MODE}
+\begin{Variable}[eval\_mode]{EVAL\_MODE}
 \index{algebraic}\index{symbolic}
 The system variable \name{eval\_mode} contains the current mode, either
 \nameref{algebraic} or \nameref{symbolic}.
@@ -74,7 +74,7 @@ Some commands do not behave the same way in algebraic and symbolic modes.
 \end{Variable}
 
 
-\begin{Variable}{FORT\_WIDTH}
+\begin{Variable}[fort\_width]{FORT\_WIDTH}
 \index{output}\index{FORTRAN}
 The \name{fort\_width} variable sets the number of characters in a line of
 Fortran-compatible output produced when the \nameref{fort} switch is on.
@@ -98,7 +98,7 @@ lines even shorter than it was told.
 \end{Variable}
 
 
-\begin{Variable}{HIGH\_POW}
+\begin{Variable}[high_pow]{HIGH\_POW}
 \index{polynomial}\index{degree}
 The variable \name{high\_pow} is set by \nameref{coeff} to the highest power
 of the variable of interest in the given expression.  You can access this
@@ -145,7 +145,7 @@ arithmetic in factoring, simplification, and functional values.
 \end{Constant}
 
 
-\begin{Constant}{INFINITY}
+\begin{Constant}[infinity]{INFINITY}
 The name \name{infinity} is used to represent the infinite positive number.
 However, at the present time, arithmetic in terms of this operator reflects
 finite arithmetic, rather than true operations on infinity.
@@ -153,7 +153,7 @@ finite arithmetic, rather than true operations on infinity.
 \end{Constant}
 
 
-\begin{Variable}{LOW\_POW}
+\begin{Variable}[low\_pow]{LOW\_POW}
 \index{degree}\index{polynomial}
 The variable \name{low\_pow} is set by \nameref{coeff} to the lowest power
 of the variable of interest in the given expression.  You can access this
@@ -179,7 +179,7 @@ low_pow;                    &      2
 \end{Variable}
 
 
-\begin{Constant}{NIL}
+\begin{Constant}[nil]{NIL}
 \index{false}
 \name{nil} represents the truth value {\it false} in symbolic mode, and is
 a synonym for 0 in algebraic mode.  It cannot be used for any other
@@ -187,7 +187,7 @@ purpose, even inside procedures or \nameref{for} loops.
 \end{Constant}
 
 
-\begin{Constant}{PI}
+\begin{Constant}[pi]{PI}
 The identifier \name{pi} is reserved for use as the circular constant.
 Its value is given by 3.14159265358..., which REDUCE gives to the current
 decimal precision when REDUCE is in a floating-point mode.
@@ -199,7 +199,7 @@ will be taken from the local environment.
 \end{Comments}
 \end{Constant}
 
-\begin{Variable}{requirements}
+\begin{Variable}[requirements]{REQUIREMENTS}
 \index{solve}
 After an attempt to solve an inconsistent equation system
 with parameters, the variable \name{requirements} contains a list 
@@ -212,7 +212,7 @@ requirements;&\{a - 1\}
 \end{Examples}
 \end{Variable}
 
-\begin{Variable}{ROOT\_MULTIPLICITIES}
+\begin{Variable}[root\_multiplicities]{ROOT\_MULTIPLICITIES}
 \index{root}\index{solve}\index{polynomial}
 The \name{root\_multiplicities} variable is set to the list of the
 multiplicities of the roots of an equation by the \nameref{solve} operator.
@@ -225,7 +225,7 @@ each solution are put in the corresponding locations of the list
 \end{Variable}
 
 
-\begin{Constant}{T}
+\begin{Constant}[t]{T}
 The constant \name{t} stands for the truth value {\it true}.  It cannot be used
 as a scalar variable in a \nameref{block}, as a looping variable in a
 \nameref{for} statement or as an \nameref{operator} name.

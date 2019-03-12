@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  12 MAR 2019 00:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  12 MAR 2019 18:15
 entering extended mode
 **./redhelp.tex
 (redhelp.tex
@@ -235,15 +235,11 @@ Writing index file redhelp.idx
 LaTeX Warning: Label `false' multiply defined.
 
 Double found: EXP, list: 
-Double found: FACTOR, list: EXP\relax 
-Double found: GCD, list: EXP\relax FACTOR\relax 
-Double found: INT, list: EXP\relax FACTOR\relax GCD\relax 
-Double found: LIST, list: EXP\relax FACTOR\relax GCD\relax INT\relax 
+Double found: LIST, list: EXP\relax 
 
 LaTeX Warning: Label `Groebner bases' multiply defined.
 
-Double found: ALGINT, list: EXP\relax FACTOR\relax GCD\relax INT\relax LIST\rel
-ax 
+Double found: ALGINT, list: EXP\relax LIST\relax 
 )
 \openout1 = `redhelp.aux'.
 
@@ -540,14 +536,7 @@ LaTeX Warning: Reference `for' on page 29 undefined on input line 50.
 
 LaTeX Warning: Reference `procedure' on page 29 undefined on input line 51.
 
-[29]
-
-LaTeX Warning: Reference `algebraic' on page 30 undefined on input line 62.
-
-
-LaTeX Warning: Reference `symbolic' on page 30 undefined on input line 62.
-
-[30]
+[29] [30]
 
 LaTeX Warning: Reference `fort' on page 31 undefined on input line 80.
 
@@ -557,19 +546,11 @@ Overfull \hbox (5.66893pt too wide) in paragraph at lines 79--82
 Fortran-compatible
  []
 
-[31]
-
-LaTeX Warning: Reference `coeff' on page 32 undefined on input line 103.
-
-[32]
+[31] [32]
 
 LaTeX Warning: Reference `complex' on page 33 undefined on input line 141.
 
-[33] [34]
-
-LaTeX Warning: Reference `coeff' on page 35 undefined on input line 158.
-
-[35]
+[33] [34] [35]
 
 LaTeX Warning: Reference `for' on page 36 undefined on input line 186.
 
@@ -580,19 +561,9 @@ LaTeX Warning: Reference `for' on page 37 undefined on input line 196.
 
 LaTeX Warning: Reference `procedure' on page 37 undefined on input line 197.
 
-[37] [38]
-
-LaTeX Warning: Reference `solve' on page 39 undefined on input line 218.
-
-
-LaTeX Warning: Reference `solve' on page 39 undefined on input line 221.
-
-[39]
+[37] [38] [39]
 
 LaTeX Warning: Reference `for' on page 40 undefined on input line 231.
-
-
-LaTeX Warning: Reference `operator' on page 40 undefined on input line 231.
 
 ) (syntax.tex [40] [41]
 Underfull \hbox (badness 10000) in paragraph at lines 41--41
@@ -610,14 +581,7 @@ LaTeX Warning: Reference `list' on page 44 undefined on input line 98.
 
 LaTeX Warning: Reference `list' on page 44 undefined on input line 107.
 
-[44]
-
-LaTeX Warning: Reference `matrix' on page 45 undefined on input line 134.
-
-[45]
-
-LaTeX Warning: Reference `array' on page 46 undefined on input line 178.
-
+[44] [45]
 
 LaTeX Warning: Reference `for' on page 46 undefined on input line 185.
 
@@ -710,38 +674,19 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 241.
 
 
-LaTeX Warning: Reference `matrix' on page 49 undefined on input line 255.
-
-
 LaTeX Warning: Reference `equation' on page 49 undefined on input line 256.
 
 [49]
-
-LaTeX Warning: Reference `matrix' on page 50 undefined on input line 282.
-
 
 LaTeX Warning: Reference `equation' on page 50 undefined on input line 283.
 
 [50]
 
-LaTeX Warning: Reference `matrix' on page 51 undefined on input line 315.
-
-
 LaTeX Warning: Reference `equation' on page 51 undefined on input line 320.
 
-[51]
-
-LaTeX Warning: Reference `recip' on page 52 undefined on input line 329.
-
-
-LaTeX Warning: Reference `matrix' on page 52 undefined on input line 354.
-
-[52]
+[51] [52]
 
 LaTeX Warning: Reference `nat' on page 53 undefined on input line 392.
-
-
-LaTeX Warning: Reference `matrix' on page 53 undefined on input line 396.
 
 
 LaTeX Warning: Reference `equation' on page 53 undefined on input line 398.
@@ -749,9 +694,6 @@ LaTeX Warning: Reference `equation' on page 53 undefined on input line 398.
 [53]
 
 LaTeX Warning: Reference `nat' on page 54 undefined on input line 428.
-
-
-LaTeX Warning: Reference `matrix' on page 54 undefined on input line 431.
 
 
 LaTeX Warning: Reference `equation' on page 54 undefined on input line 434.
@@ -822,9 +764,6 @@ LaTeX Warning: Reference `if' on page 55 undefined on input line 463.
 LaTeX Warning: Reference `repeat' on page 55 undefined on input line 464.
 
 
-LaTeX Warning: Reference `while' on page 55 undefined on input line 464.
-
-
 Overfull \hbox (25.25012pt too wide) in paragraph at lines 460--465
 \OT1/cmr/m/n/10 com-par-i-son can only be used in-side pro-gram-ming con-struct
 s, such as [[]if[]][]...[]...[]
@@ -847,9 +786,6 @@ LaTeX Warning: Reference `if' on page 56 undefined on input line 492.
 
 
 LaTeX Warning: Reference `repeat' on page 56 undefined on input line 493.
-
-
-LaTeX Warning: Reference `while' on page 56 undefined on input line 493.
 
 
 Overfull \hbox (25.25012pt too wide) in paragraph at lines 489--494
@@ -923,9 +859,6 @@ LaTeX Warning: Reference `if' on page 57 undefined on input line 519.
 LaTeX Warning: Reference `repeat' on page 57 undefined on input line 520.
 
 
-LaTeX Warning: Reference `while' on page 57 undefined on input line 520.
-
-
 Overfull \hbox (25.25012pt too wide) in paragraph at lines 516--521
 \OT1/cmr/m/n/10 com-par-i-son can only be used in-side pro-gram-ming con-struct
 s, such as [[]if[]][]...[]...[]
@@ -937,9 +870,6 @@ LaTeX Warning: Reference `if' on page 58 undefined on input line 546.
 
 
 LaTeX Warning: Reference `repeat' on page 58 undefined on input line 547.
-
-
-LaTeX Warning: Reference `while' on page 58 undefined on input line 548.
 
 
 Overfull \hbox (25.25012pt too wide) in paragraph at lines 543--549
@@ -1024,37 +954,19 @@ LaTeX Warning: Reference `if' on page 60 undefined on input line 584.
 
 LaTeX Warning: Reference `repeat' on page 60 undefined on input line 585.
 
-
-LaTeX Warning: Reference `while' on page 60 undefined on input line 586.
-
 [60]
-
-LaTeX Warning: Reference `while' on page 61 undefined on input line 616.
-
 
 LaTeX Warning: Reference `if' on page 61 undefined on input line 617.
 
 
-Overfull \hbox (14.6671pt too wide) in paragraph at lines 615--621
+Overfull \hbox (21.58388pt too wide) in paragraph at lines 615--621
 []\OT1/cmr/m/n/10 Logical op-er-a-tors can only be used in-side con-di-tional s
-tate-ments, such as [[]while[]][]...[]
+tate-ments, such as [[]while[]][][]9.43[][]...[]
  []
 
 [61]
 
 LaTeX Warning: Reference `return' on page 62 undefined on input line 654.
-
-
-LaTeX Warning: Reference `array' on page 62 undefined on input line 660.
-
-
-LaTeX Warning: Reference `let' on page 62 undefined on input line 662.
-
-
-LaTeX Warning: Reference `let' on page 62 undefined on input line 663.
-
-
-LaTeX Warning: Reference `let' on page 62 undefined on input line 664.
 
 [62]
 
@@ -1084,40 +996,16 @@ LaTeX Warning: Reference `begin' on page 66 undefined on input line 749.
 
 [66]
 
-LaTeX Warning: Reference `equal' on page 67 undefined on input line 774.
-
-
-LaTeX Warning: Reference `lhs' on page 67 undefined on input line 776.
-
-
-LaTeX Warning: Reference `rhs' on page 67 undefined on input line 776.
-
-
-LaTeX Warning: Reference `part' on page 67 undefined on input line 776.
-
-
 LaTeX Warning: Reference `evallhseqp' on page 67 undefined on input line 778.
 
 
 LaTeX Warning: Reference `if' on page 67 undefined on input line 780.
 
 
-LaTeX Warning: Reference `while' on page 67 undefined on input line 780.
-
-
-LaTeX Warning: Reference `sub' on page 67 undefined on input line 784.
-
-
-LaTeX Warning: Reference `solve' on page 67 undefined on input line 786.
-
-
 LaTeX Warning: Reference `list' on page 67 undefined on input line 786.
 
 
 LaTeX Warning: Reference `evallhseqp' on page 67 undefined on input line 788.
-
-
-LaTeX Warning: Reference `map' on page 67 undefined on input line 801.
 
 [67]
 
@@ -1164,19 +1052,12 @@ LaTeX Warning: Reference `if' on page 73 undefined on input line 1010.
 
 LaTeX Warning: Reference `repeat' on page 73 undefined on input line 1011.
 
-[73]
-
-LaTeX Warning: Reference `while' on page 74 undefined on input line 1042.
-
-[74]
+[73] [74]
 
 LaTeX Warning: Reference `if' on page 75 undefined on input line 1072.
 
 
 LaTeX Warning: Reference `repeat' on page 75 undefined on input line 1073.
-
-
-LaTeX Warning: Reference `while' on page 75 undefined on input line 1073.
 
 [75]
 Overfull \hbox (2.2994pt too wide) in paragraph at lines 1086--1091
@@ -1191,54 +1072,13 @@ LaTeX Warning: Reference `and' on page 77 undefined on input line 1120.
 
 LaTeX Warning: Reference `or' on page 77 undefined on input line 1121.
 
-[77]
-
-LaTeX Warning: Reference `part' on page 78 undefined on input line 1186.
-
-
-LaTeX Warning: Reference `length' on page 78 undefined on input line 1187.
-
-[78]
+[77] [78]
 
 LaTeX Warning: Reference `if' on page 79 undefined on input line 1221.
 
-
-LaTeX Warning: Reference `while' on page 79 undefined on input line 1222.
-
-[79]
-
-LaTeX Warning: Reference `algebraic' on page 80 undefined on input line 1237.
-
-
-LaTeX Warning: Reference `symbolic' on page 80 undefined on input line 1237.
-
-
-LaTeX Warning: Reference `real' on page 80 undefined on input line 1239.
-
-
-LaTeX Warning: Reference `integer' on page 80 undefined on input line 1240.
-
-
-LaTeX Warning: Reference `array' on page 80 undefined on input line 1245.
-
-
-LaTeX Warning: Reference `matrix' on page 80 undefined on input line 1245.
-
-
-LaTeX Warning: Reference `let' on page 80 undefined on input line 1269.
-
-[80]
-
-LaTeX Warning: Reference `let' on page 81 undefined on input line 1288.
-
+[79] [80]
 
 LaTeX Warning: Reference `begin' on page 81 undefined on input line 1291.
-
-
-LaTeX Warning: Reference `clear' on page 81 undefined on input line 1292.
-
-
-LaTeX Warning: Reference `let' on page 81 undefined on input line 1306.
 
 [81]
 
@@ -1266,9 +1106,6 @@ LaTeX Warning: Reference `for' on page 86 undefined on input line 1459.
 LaTeX Warning: Reference `repeat' on page 86 undefined on input line 1460.
 
 
-LaTeX Warning: Reference `while' on page 86 undefined on input line 1460.
-
-
 LaTeX Warning: Reference `goto' on page 86 undefined on input line 1462.
 
 [86]
@@ -1291,25 +1128,13 @@ LaTeX Warning: Reference `optional free variable' on page 88 undefined on input
  line 1512.
 
 
-LaTeX Warning: Reference `true' on page 88 undefined on input line 1515.
-
-
 LaTeX Warning: Reference `list' on page 88 undefined on input line 1518.
 
 
-LaTeX Warning: Reference `let' on page 88 undefined on input line 1523.
-
-
-LaTeX Warning: Reference `forall' on page 88 undefined on input line 1523.
-
-
-LaTeX Warning: Reference `clearrules' on page 88 undefined on input line 1523.
-
-
-LaTeX Warning: Reference `where' on page 88 undefined on input line 1524.
-
-
-LaTeX Warning: Reference `showrules' on page 88 undefined on input line 1525.
+Overfull \hbox (6.80551pt too wide) in paragraph at lines 1522--1526
+[][] \OT1/cmr/m/n/10 and [] are glob-ally ac-ti-vated and de-ac-ti-vated by [[]
+let[]][][]9.14[][], [[]forall[]][][]9.10[][],
+ []
 
 [88]
 
@@ -1317,12 +1142,6 @@ LaTeX Warning: Reference `rule' on page 89 undefined on input line 1544.
 
 
 LaTeX Warning: Reference `compact' on page 89 undefined on input line 1544.
-
-
-LaTeX Warning: Reference `map' on page 89 undefined on input line 1545.
-
-
-LaTeX Warning: Reference `select' on page 89 undefined on input line 1545.
 
 
 LaTeX Warning: Reference `rule' on page 89 undefined on input line 1546.
@@ -1345,18 +1164,7 @@ or pat-tern with an []
 
 LaTeX Warning: Reference `rule' on page 90 undefined on input line 1573.
 
-[90] [91]
-
-LaTeX Warning: Reference `array' on page 92 undefined on input line 1620.
-
-
-LaTeX Warning: Reference `matrix' on page 92 undefined on input line 1620.
-
-[92]
-
-LaTeX Warning: Reference `matrix' on page 93 undefined on input line 1640.
-
-[93] [94]
+[90] [91] [92] [93] [94]
 
 LaTeX Warning: Reference `list' on page 95 undefined on input line 1684.
 
@@ -1364,34 +1172,15 @@ LaTeX Warning: Reference `list' on page 95 undefined on input line 1684.
 
 LaTeX Warning: Reference `rule' on page 96 undefined on input line 1708.
 
-) (arith.tex [96] [97] [98]
-
-LaTeX Warning: Reference `precision' on page 99 undefined on input line 39.
-
-[99]
+) (arith.tex [96] [97] [98] [99]
 
 LaTeX Warning: Reference `complex' on page 100 undefined on input line 60.
 
-[100]
-
-LaTeX Warning: Reference `fix' on page 101 undefined on input line 84.
-
-[101] [102] [103] [104] [105] [106] [107] [108]
+[100] [101] [102] [103] [104] [105] [106] [107] [108]
 
 LaTeX Warning: Reference `gamma' on page 109 undefined on input line 263.
 
-[109]
-
-LaTeX Warning: Reference `floor' on page 110 undefined on input line 283.
-
-
-LaTeX Warning: Reference `ceiling' on page 110 undefined on input line 283.
-
-[110] [111]
-
-LaTeX Warning: Reference `fix' on page 112 undefined on input line 335.
-
-[112]
+[109] [110] [111] [112]
 Overfull \hbox (22.10075pt too wide) in paragraph at lines 366--369
 [][] \OT1/cmr/m/n/10 is left as-so-cia-tive. In other words, [] is equiv-a-lent
  to [],
@@ -1401,21 +1190,7 @@ Overfull \hbox (22.10075pt too wide) in paragraph at lines 366--369
 
 LaTeX Warning: Reference `ezgcd' on page 114 undefined on input line 393.
 
-[114]
-
-LaTeX Warning: Reference `log' on page 115 undefined on input line 409.
-
-
-LaTeX Warning: Reference `log' on page 115 undefined on input line 425.
-
-[115] [116]
-
-LaTeX Warning: Reference `log' on page 117 undefined on input line 465.
-
-[117] [118] [119] [120] [121] [122] [123] [124] [125]
-
-LaTeX Warning: Reference `recip' on page 126 undefined on input line 643.
-
+[114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
 [126] [127] [128] [129] [130] [131] [132]
 
 LaTeX Warning: Reference `modular' on page 133 undefined on input line 796.
@@ -1435,17 +1210,7 @@ LaTeX Warning: Reference `precise' on page 135 undefined on input line 879.
 
 LaTeX Warning: Reference `nil' on page 137 undefined on input line 5.
 
-
-LaTeX Warning: Reference `true' on page 137 undefined on input line 8.
-
-[137]
-
-LaTeX Warning: Reference `true' on page 138 undefined on input line 14.
-
-[138]
-
-LaTeX Warning: Reference `true' on page 139 undefined on input line 45.
-
+[137] [138]
 
 LaTeX Warning: Reference `nil' on page 139 undefined on input line 46.
 
@@ -1456,60 +1221,19 @@ LaTeX Warning: Reference `nil' on page 140 undefined on input line 71.
 
 LaTeX Warning: Reference `nil' on page 140 undefined on input line 74.
 
-[140]
-
-LaTeX Warning: Reference `true' on page 141 undefined on input line 81.
-
-[141]
-
-LaTeX Warning: Reference `true' on page 142 undefined on input line 111.
-
-[142]
-
-LaTeX Warning: Reference `true' on page 143 undefined on input line 141.
-
-[143]
-
-LaTeX Warning: Reference `true' on page 144 undefined on input line 177.
-
-
-LaTeX Warning: Reference `equal' on page 144 undefined on input line 177.
-
+[140] [141] [142] [143]
 
 LaTeX Warning: Reference `list' on page 144 undefined on input line 178.
 
-
-LaTeX Warning: Reference `equal' on page 144 undefined on input line 190.
-
-[144]
-
-LaTeX Warning: Reference `true' on page 145 undefined on input line 199.
-
-
-LaTeX Warning: Reference `equal' on page 145 undefined on input line 200.
-
-[145]
-
-LaTeX Warning: Reference `true' on page 146 undefined on input line 228.
-
+[144] [145]
 
 LaTeX Warning: Reference `nil' on page 146 undefined on input line 229.
 
 [146]
 
-LaTeX Warning: Reference `true' on page 147 undefined on input line 252.
-
-
 LaTeX Warning: Reference `nil' on page 147 undefined on input line 253.
 
-[147]
-
-LaTeX Warning: Reference `true' on page 148 undefined on input line 275.
-
-[148]
-
-LaTeX Warning: Reference `true' on page 149 undefined on input line 311.
-
+[147] [148]
 
 LaTeX Warning: Reference `nil' on page 149 undefined on input line 314.
 
@@ -1523,14 +1247,7 @@ LaTeX Warning: Reference `t' on page 150 undefined on input line 329.
 
 LaTeX Warning: Reference `nil' on page 150 undefined on input line 330.
 
-) (command.tex [150] [151]
-
-LaTeX Warning: Reference `pause' on page 152 undefined on input line 13.
-
-
-LaTeX Warning: Reference `pause' on page 152 undefined on input line 28.
-
-[152] [153] [154] [155] [156]
+) (command.tex [150] [151] [152] [153] [154] [155] [156]
 
 LaTeX Warning: Reference `bye' on page 157 undefined on input line 124.
 
@@ -1538,17 +1255,7 @@ LaTeX Warning: Reference `bye' on page 157 undefined on input line 124.
 
 LaTeX Warning: Reference `procedure' on page 159 undefined on input line 151.
 
-
-LaTeX Warning: Reference `string' on page 159 undefined on input line 158.
-
-[159] [160]
-
-LaTeX Warning: Reference `ws' on page 161 undefined on input line 232.
-
-[161] [162]
-
-LaTeX Warning: Reference `string' on page 163 undefined on input line 268.
-
+[159] [160] [161] [162]
 
 LaTeX Warning: Reference `for' on page 163 undefined on input line 294.
 
@@ -1558,16 +1265,9 @@ LaTeX Warning: Reference `list' on page 165 undefined on input line 5.
 
 [165]
 
-LaTeX Warning: Reference `solve' on page 166 undefined on input line 35.
-
-
 LaTeX Warning: Reference `allbranch' on page 166 undefined on input line 36.
 
-[166]
-
-LaTeX Warning: Reference `solve' on page 167 undefined on input line 50.
-
-[167] [168]
+[166] [167] [168]
 
 LaTeX Warning: Reference `list' on page 169 undefined on input line 93.
 
@@ -1597,13 +1297,7 @@ I'm ignoring this, since I wasn't doing a \csname.
 LaTeX Warning: Reference `exp' on page 169 undefined on input line 128.
 
 
-LaTeX Warning: Reference `factor' on page 169 undefined on input line 129.
-
-
 LaTeX Warning: Reference `ifactor' on page 169 undefined on input line 129.
-
-
-LaTeX Warning: Reference `coeffn' on page 169 undefined on input line 132.
 
 [169] [170]
 
@@ -1612,14 +1306,7 @@ LaTeX Warning: Reference `ratarg' on page 171 undefined on input line 148.
 
 LaTeX Warning: Reference `ratarg' on page 171 undefined on input line 173.
 
-[171]
-
-LaTeX Warning: Reference `repart' on page 172 undefined on input line 188.
-
-
-LaTeX Warning: Reference `impart' on page 172 undefined on input line 188.
-
-[172]
+[171] [172]
 
 LaTeX Warning: Reference `rational' on page 173 undefined on input line 205.
 
@@ -1641,9 +1328,6 @@ LaTeX Warning: Reference `equation' on page 174 undefined on input line 228.
 
 LaTeX Warning: Reference `ratarg' on page 175 undefined on input line 267.
 
-
-LaTeX Warning: Reference `kernel' on page 175 undefined on input line 267.
-
 [175]
 
 LaTeX Warning: Reference `mcd' on page 176 undefined on input line 316.
@@ -1651,20 +1335,7 @@ LaTeX Warning: Reference `mcd' on page 176 undefined on input line 316.
 
 LaTeX Warning: Reference `rational' on page 176 undefined on input line 316.
 
-[176]
-
-LaTeX Warning: Reference `kernel' on page 177 undefined on input line 343.
-
-
-LaTeX Warning: Reference `depend' on page 177 undefined on input line 366.
-
-
-LaTeX Warning: Reference `let' on page 177 undefined on input line 370.
-
-
-LaTeX Warning: Reference `clearrules' on page 177 undefined on input line 374.
-
-[177]
+[176] [177]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -1683,9 +1354,6 @@ LaTeX Warning: Reference `\textunderscore ' on page 178 undefined on input line
 l.381 When a \nameref{root\_of}
                                 form in a result of \nameref{solve}
 I'm ignoring this, since I wasn't doing a \csname.
-
-
-LaTeX Warning: Reference `solve' on page 178 undefined on input line 381.
 
 ! Missing \endcsname inserted.
 <to be read again> 
@@ -1706,9 +1374,6 @@ l.382 has been converted to a \nameref{one\_of}
                                                 form, \name{expand\_cases}
 I'm ignoring this, since I wasn't doing a \csname.
 
-
-LaTeX Warning: Reference `solve' on page 178 undefined on input line 384.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -1727,12 +1392,6 @@ LaTeX Warning: Reference `\textunderscore ' on page 178 undefined on input line
 l.384 ...f \nameref{solve}. See \nameref{root\_of}
                                                   .
 I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (38.37279pt too wide) in paragraph at lines 381--387
-\OT1/cmr/m/n/10 When a [[]root[]of[]][]ofroot[]of in a re-sult of [[]solve[]][]
- has been con-verted to a [[]one[]of[]][]ofone[]of,
- []
 
 [178] [179]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1754,19 +1413,10 @@ LaTeX Warning: Reference `third' on page 181 undefined on input line 442.
 LaTeX Warning: Reference `rest' on page 181 undefined on input line 442.
 
 
-LaTeX Warning: Reference `length' on page 181 undefined on input line 442.
-
-
-LaTeX Warning: Reference `part' on page 181 undefined on input line 443.
-
-
 LaTeX Warning: Reference `ifactor' on page 181 undefined on input line 447.
 
 
 LaTeX Warning: Reference `ifactor' on page 181 undefined on input line 448.
-
-
-LaTeX Warning: Reference `factor' on page 181 undefined on input line 450.
 
 
 LaTeX Warning: Reference `limitedfactors' on page 181 undefined on input line 4
@@ -1775,30 +1425,11 @@ LaTeX Warning: Reference `limitedfactors' on page 181 undefined on input line 4
 
 LaTeX Warning: Reference `modular' on page 181 undefined on input line 455.
 
-
-LaTeX Warning: Reference `setmod' on page 181 undefined on input line 455.
-
-
-LaTeX Warning: Reference `factor' on page 181 undefined on input line 459.
-
-[181] [182]
-
-LaTeX Warning: Reference `repart' on page 183 undefined on input line 492.
-
-[183]
-
-LaTeX Warning: Reference `kernel' on page 184 undefined on input line 515.
-
+[181] [182] [183]
 
 LaTeX Warning: Reference `algint' on page 184 undefined on input line 531.
 
-
-LaTeX Warning: Reference `let' on page 184 undefined on input line 532.
-
 [184]
-
-LaTeX Warning: Reference `sub' on page 185 undefined on input line 538.
-
 
 LaTeX Warning: Reference `failhard' on page 185 undefined on input line 542.
 
@@ -1809,15 +1440,9 @@ LaTeX Warning: Reference `nolnr' on page 185 undefined on input line 543.
 
 LaTeX Warning: Reference `list' on page 186 undefined on input line 557.
 
-
-LaTeX Warning: Reference `kernel' on page 186 undefined on input line 558.
-
 [186]
 
 LaTeX Warning: Reference `ratarg' on page 187 undefined on input line 585.
-
-
-LaTeX Warning: Reference `kernel' on page 187 undefined on input line 587.
 
 [187]
 
@@ -1827,43 +1452,17 @@ LaTeX Warning: Reference `list' on page 188 undefined on input line 605.
 
 LaTeX Warning: Reference `equation' on page 190 undefined on input line 646.
 
-
-LaTeX Warning: Reference `solve' on page 190 undefined on input line 648.
-
-[190]
-
-LaTeX Warning: Reference `kernel' on page 191 undefined on input line 691.
-
-[191]
+[190] [191]
 
 LaTeX Warning: Reference `ratarg' on page 192 undefined on input line 712.
-
-
-LaTeX Warning: Reference `kernel' on page 192 undefined on input line 714.
 
 [192]
 
 LaTeX Warning: Reference `ratarg' on page 193 undefined on input line 733.
 
-
-LaTeX Warning: Reference `kernel' on page 193 undefined on input line 735.
-
-[193]
-
-LaTeX Warning: Reference `kernel' on page 194 undefined on input line 758.
-
-
-LaTeX Warning: Reference `korder' on page 194 undefined on input line 775.
-
-[194]
-
-LaTeX Warning: Reference `matrix' on page 195 undefined on input line 784.
-
+[193] [194]
 
 LaTeX Warning: Reference `list' on page 195 undefined on input line 785.
-
-
-LaTeX Warning: Reference `operator' on page 195 undefined on input line 785.
 
 
 LaTeX Warning: Reference `free variable' on page 195 undefined on input line 79
@@ -1879,12 +1478,6 @@ LaTeX Warning: Reference `for' on page 197 undefined on input line 851.
 [197] [198] [199]
 
 LaTeX Warning: Reference `equation' on page 200 undefined on input line 945.
-
-
-LaTeX Warning: Reference `df' on page 200 undefined on input line 950.
-
-
-LaTeX Warning: Reference `depend' on page 200 undefined on input line 952.
 
 [200]
 ! Missing \endcsname inserted.
@@ -1946,39 +1539,18 @@ LaTeX Warning: Reference `exp' on page 204 undefined on input line 1064.
 
 LaTeX Warning: Reference `for' on page 204 undefined on input line 1066.
 
-[204]
-
-LaTeX Warning: Reference `kernel' on page 205 undefined on input line 1086.
-
-[205]
+[204] [205]
 
 LaTeX Warning: Reference `ratarg' on page 206 undefined on input line 1106.
 
-
-LaTeX Warning: Reference `kernel' on page 206 undefined on input line 1108.
-
-[206]
-
-LaTeX Warning: Reference `impart' on page 207 undefined on input line 1130.
-
-[207]
-
-LaTeX Warning: Reference `kernel' on page 208 undefined on input line 1149.
-
-[208] [209]
+[206] [207] [208] [209]
 
 LaTeX Warning: Reference `equation' on page 210 undefined on input line 1261.
 
 
 LaTeX Warning: Reference `list' on page 210 undefined on input line 1262.
 
-
-LaTeX Warning: Reference `solve' on page 210 undefined on input line 1262.
-
 [210]
-
-LaTeX Warning: Reference `solve' on page 211 undefined on input line 1290.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -2020,9 +1592,6 @@ I'm ignoring this, since I wasn't doing a \csname.
 
 LaTeX Warning: Reference `arglength' on page 211 undefined on input line 1312.
 
-
-LaTeX Warning: Reference `part' on page 211 undefined on input line 1312.
-
 [211]
 
 LaTeX Warning: Reference `free variable' on page 212 undefined on input line 13
@@ -2043,13 +1612,7 @@ LaTeX Warning: Reference `rule' on page 212 undefined on input line 1339.
 LaTeX Warning: Reference `rule' on page 214 undefined on input line 1369.
 
 
-LaTeX Warning: Reference `operator' on page 214 undefined on input line 1370.
-
-
 LaTeX Warning: Reference `list' on page 214 undefined on input line 1382.
-
-
-LaTeX Warning: Reference `odd' on page 214 undefined on input line 1388.
 
 [214]
 
@@ -2060,9 +1623,6 @@ LaTeX Warning: Reference `equation' on page 215 undefined on input line 1421.
 
 
 LaTeX Warning: Reference `list' on page 215 undefined on input line 1423.
-
-
-LaTeX Warning: Reference `kernel' on page 215 undefined on input line 1425.
 
 [215]
 
@@ -2082,18 +1642,6 @@ LaTeX Warning: Reference `third' on page 216 undefined on input line 1456.
 
 
 LaTeX Warning: Reference `rest' on page 216 undefined on input line 1456.
-
-
-LaTeX Warning: Reference `part' on page 216 undefined on input line 1456.
-
-
-LaTeX Warning: Reference `rhs' on page 216 undefined on input line 1457.
-
-
-LaTeX Warning: Reference `lhs' on page 216 undefined on input line 1458.
-
-
-LaTeX Warning: Reference `log' on page 216 undefined on input line 1464.
 
 
 LaTeX Warning: Reference `sin' on page 216 undefined on input line 1464.
@@ -2163,10 +1711,6 @@ LaTeX Warning: Reference `varopt' on page 216 undefined on input line 1497.
 
 [216]
 
-LaTeX Warning: Reference `arbcomplex' on page 217 undefined on input line 1502.
-
-
-
 LaTeX Warning: Reference `arbvars' on page 217 undefined on input line 1503.
 
 
@@ -2211,15 +1755,6 @@ LaTeX Warning: Reference `varopt' on page 217 undefined on input line 1516.
 LaTeX Warning: Reference `list' on page 218 undefined on input line 1528.
 
 
-LaTeX Warning: Reference `lessp' on page 218 undefined on input line 1532.
-
-
-LaTeX Warning: Reference `leq' on page 218 undefined on input line 1532.
-
-
-LaTeX Warning: Reference `true' on page 218 undefined on input line 1535.
-
-
 LaTeX Warning: Reference `nil' on page 218 undefined on input line 1536.
 
 [218]
@@ -2230,161 +1765,38 @@ LaTeX Warning: Reference `savestructr' on page 219 undefined on input line 1598
 
 LaTeX Warning: Reference `fort' on page 219 undefined on input line 1602.
 
-[219] [220]
-
-LaTeX Warning: Reference `kernel' on page 221 undefined on input line 1625.
-
-[221]
-
-LaTeX Warning: Reference `kernel' on page 222 undefined on input line 1652.
-
-[222]
+[219] [220] [221] [222]
 
 LaTeX Warning: Reference `input' on page 223 undefined on input line 1701.
 
 
-LaTeX Warning: Reference `saveas' on page 223 undefined on input line 1706.
-
-
 LaTeX Warning: Reference `out' on page 223 undefined on input line 1706.
 
-) (declare.tex [223] [224] [225] [226]
-
-LaTeX Warning: Reference `clear' on page 227 undefined on input line 89.
-
-
-LaTeX Warning: Reference `let' on page 227 undefined on input line 95.
-
-
-LaTeX Warning: Reference `let' on page 227 undefined on input line 98.
-
-
-LaTeX Warning: Reference `clear' on page 227 undefined on input line 103.
-
-
-LaTeX Warning: Reference `length' on page 227 undefined on input line 111.
-
-[227] [228]
-
-LaTeX Warning: Reference `matrix' on page 229 undefined on input line 126.
-
-
-LaTeX Warning: Reference `array' on page 229 undefined on input line 127.
-
+) (declare.tex [223] [224] [225] [226] [227] [228]
 
 LaTeX Warning: Reference `procedure' on page 229 undefined on input line 128.
 
-
-LaTeX Warning: Reference `let' on page 229 undefined on input line 129.
-
-[229]
-
-LaTeX Warning: Reference `let' on page 230 undefined on input line 166.
-
-
-LaTeX Warning: Reference `forall' on page 230 undefined on input line 166.
-
-
-LaTeX Warning: Reference `match' on page 230 undefined on input line 171.
-
-
-LaTeX Warning: Reference `let' on page 230 undefined on input line 172.
-
-
-LaTeX Warning: Reference `forall' on page 230 undefined on input line 173.
-
-[230]
+[229] [230]
 
 LaTeX Warning: Reference `rule' on page 231 undefined on input line 186.
 
-[231] [232]
-
-LaTeX Warning: Reference `kernel' on page 233 undefined on input line 248.
-
-
-LaTeX Warning: Reference `nodepend' on page 233 undefined on input line 273.
-
-
-LaTeX Warning: Reference `linear' on page 233 undefined on input line 276.
-
-
-LaTeX Warning: Reference `freeof' on page 233 undefined on input line 283.
-
-[233] [234]
-
-LaTeX Warning: Reference `kernel' on page 235 undefined on input line 314.
-
+[231] [232] [233] [234]
 
 LaTeX Warning: Reference `list' on page 235 undefined on input line 314.
 
 
-LaTeX Warning: Reference `remfac' on page 235 undefined on input line 334.
-
-
 LaTeX Warning: Reference `pri' on page 235 undefined on input line 335.
 
-
-LaTeX Warning: Reference `factor' on page 235 undefined on input line 339.
-
-
-LaTeX Warning: Reference `factorize' on page 235 undefined on input line 339.
-
-[235]
-
-LaTeX Warning: Reference `order' on page 236 undefined on input line 346.
-
-[236]
-
-LaTeX Warning: Reference `let' on page 237 undefined on input line 354.
-
-[237]
-
-LaTeX Warning: Reference `clear' on page 238 undefined on input line 396.
-
-
-LaTeX Warning: Reference `match' on page 238 undefined on input line 401.
-
-[238]
-
-LaTeX Warning: Reference `let' on page 239 undefined on input line 442.
-
-
-LaTeX Warning: Reference `precedence' on page 239 undefined on input line 457.
-
-[239]
+[235] [236] [237] [238] [239]
 
 LaTeX Warning: Reference `begin' on page 240 undefined on input line 468.
 
 
-LaTeX Warning: Reference `real' on page 240 undefined on input line 468.
-
-
-LaTeX Warning: Reference `scalar' on page 240 undefined on input line 469.
-
-
 LaTeX Warning: Reference `begin' on page 240 undefined on input line 480.
-
-
-LaTeX Warning: Reference `real' on page 240 undefined on input line 482.
-
-
-LaTeX Warning: Reference `scalar' on page 240 undefined on input line 482.
-
-
-LaTeX Warning: Reference `array' on page 240 undefined on input line 491.
-
-
-LaTeX Warning: Reference `matrix' on page 240 undefined on input line 491.
 
 [240]
 
-LaTeX Warning: Reference `kernel' on page 241 undefined on input line 504.
-
-
 LaTeX Warning: Reference `list' on page 241 undefined on input line 504.
-
-
-LaTeX Warning: Reference `order' on page 241 undefined on input line 521.
 
 [241] [242]
 
@@ -2393,99 +1805,29 @@ LaTeX Warning: Reference `rule' on page 243 undefined on input line 565.
 
 LaTeX Warning: Reference `modular' on page 243 undefined on input line 611.
 
-
-LaTeX Warning: Reference `clear' on page 243 undefined on input line 616.
-
-
-LaTeX Warning: Reference `forall' on page 243 undefined on input line 621.
-
 [243]
 
 LaTeX Warning: Reference `begin' on page 244 undefined on input line 645.
 
-[244] [245]
-
-LaTeX Warning: Reference `kernel' on page 246 undefined on input line 702.
-
-[246] [247] [248]
-
-LaTeX Warning: Reference `symbolic' on page 249 undefined on input line 762.
-
-[249]
+[244] [245] [246] [247] [248] [249]
 
 LaTeX Warning: Reference `list' on page 250 undefined on input line 782.
 
 
 LaTeX Warning: Reference `listargs' on page 250 undefined on input line 796.
 
-[250]
-
-LaTeX Warning: Reference `depend' on page 251 undefined on input line 806.
-
-[251]
-
-LaTeX Warning: Reference `let' on page 252 undefined on input line 834.
-
-
-LaTeX Warning: Reference `let' on page 252 undefined on input line 842.
-
-[252]
-
-LaTeX Warning: Reference `let' on page 253 undefined on input line 872.
+[250] [251] [252] [253] [254] [255] [256] [257] [258]
+Overfull \hbox (2.55598pt too wide) in paragraph at lines 1016--1022
+\OT1/cmr/m/n/10 fix[]][][]9.11[][], [[]lin-ear[]][][]9.15[][], [[]sym-met-ric[]
+][][]9.37[][], [[]an-ti-sym-met-ric[]][][]9.2[][], or [[]non-com[]][][]9.21[][]
+[].
+ []
 
 
-LaTeX Warning: Reference `clear' on page 253 undefined on input line 874.
-
-
-LaTeX Warning: Reference `forall' on page 253 undefined on input line 877.
-
-[253]
-
-LaTeX Warning: Reference `operator' on page 254 undefined on input line 890.
-
-[254]
-
-LaTeX Warning: Reference `operator' on page 255 undefined on input line 921.
-
-
-LaTeX Warning: Reference `odd' on page 255 undefined on input line 921.
-
-[255]
-
-LaTeX Warning: Reference `nonzero' on page 256 undefined on input line 954.
-
-[256] [257] [258]
-
-LaTeX Warning: Reference `matrix' on page 259 undefined on input line 992.
-
-
-LaTeX Warning: Reference `array' on page 259 undefined on input line 992.
-
-
-LaTeX Warning: Reference `infix' on page 259 undefined on input line 1017.
-
-
-LaTeX Warning: Reference `linear' on page 259 undefined on input line 1017.
-
-
-LaTeX Warning: Reference `symmetric' on page 259 undefined on input line 1017.
-
-
-LaTeX Warning: Reference `antisymmetric' on page 259 undefined on input line 10
-18.
-
-
-LaTeX Warning: Reference `noncom' on page 259 undefined on input line 1018.
-
-
-LaTeX Warning: Reference `precedence' on page 259 undefined on input line 1021.
-
-
-
-LaTeX Warning: Reference `let' on page 259 undefined on input line 1023.
-
-
-LaTeX Warning: Reference `forall' on page 259 undefined on input line 1024.
+Overfull \hbox (5.94498pt too wide) in paragraph at lines 1023--1031
+[]\OT1/cmr/m/n/10 Functionality is as-signed to an op-er-a-tor by a [[]let[]][]
+[]9.14[][] state-ment or a [[]forall[]][][]9.10[][]...[]
+ []
 
 [259]
 
@@ -2493,16 +1835,7 @@ LaTeX Warning: Reference `procedure' on page 260 undefined on input line 1032.
 
 [260]
 
-LaTeX Warning: Reference `kernel' on page 261 undefined on input line 1047.
-
-
-LaTeX Warning: Reference `operator' on page 261 undefined on input line 1047.
-
-
 LaTeX Warning: Reference `list' on page 261 undefined on input line 1048.
-
-
-LaTeX Warning: Reference `korder' on page 261 undefined on input line 1062.
 
 
 LaTeX Warning: Reference `pri' on page 261 undefined on input line 1073.
@@ -2521,62 +1854,16 @@ LaTeX Warning: Reference `fullprec' on page 263 undefined on input line 1148.
 LaTeX Warning: Reference `begin' on page 265 undefined on input line 1179.
 
 
-LaTeX Warning: Reference `integer' on page 265 undefined on input line 1179.
-
-
-LaTeX Warning: Reference `scalar' on page 265 undefined on input line 1180.
-
-
 LaTeX Warning: Reference `begin' on page 265 undefined on input line 1191.
 
-
-LaTeX Warning: Reference `integer' on page 265 undefined on input line 1193.
-
-
-LaTeX Warning: Reference `scalar' on page 265 undefined on input line 1193.
-
-
-LaTeX Warning: Reference `array' on page 265 undefined on input line 1202.
-
-
-LaTeX Warning: Reference `matrix' on page 265 undefined on input line 1202.
-
-[265]
-
-LaTeX Warning: Reference `factor' on page 266 undefined on input line 1211.
-
-
-LaTeX Warning: Reference `kernel' on page 266 undefined on input line 1216.
-
-
-LaTeX Warning: Reference `operator' on page 266 undefined on input line 1216.
-
-
-LaTeX Warning: Reference `factor' on page 266 undefined on input line 1217.
-
-[266]
+[265] [266]
 
 LaTeX Warning: Reference `begin' on page 267 undefined on input line 1223.
 
 
-LaTeX Warning: Reference `integer' on page 267 undefined on input line 1223.
-
-
-LaTeX Warning: Reference `real' on page 267 undefined on input line 1224.
-
-
 LaTeX Warning: Reference `begin' on page 267 undefined on input line 1235.
 
-
-LaTeX Warning: Reference `real' on page 267 undefined on input line 1237.
-
-
-LaTeX Warning: Reference `integer' on page 267 undefined on input line 1237.
-
 [267] [268]
-
-LaTeX Warning: Reference `symbolic' on page 269 undefined on input line 1315.
-
 
 LaTeX Warning: Reference `first' on page 269 undefined on input line 1331.
 
@@ -2589,60 +1876,19 @@ LaTeX Warning: Reference `third' on page 269 undefined on input line 1331.
 
 LaTeX Warning: Reference `rest' on page 269 undefined on input line 1332.
 
-[269]
-
-LaTeX Warning: Reference `lisp' on page 270 undefined on input line 1341.
-
-[270] [271]
-
-LaTeX Warning: Reference `untr' on page 272 undefined on input line 1424.
-
-[272] [273]
-
-LaTeX Warning: Reference `tr' on page 274 undefined on input line 1433.
-
-[274]
+[269] [270] [271] [272] [273] [274]
 
 LaTeX Warning: Reference `fort' on page 275 undefined on input line 1449.
 
 
-LaTeX Warning: Reference `structr' on page 275 undefined on input line 1449.
-
-
 LaTeX Warning: Reference `exp' on page 275 undefined on input line 1471.
 
-
-LaTeX Warning: Reference `structr' on page 275 undefined on input line 1471.
-
-[275]
-
-LaTeX Warning: Reference `kernel' on page 276 undefined on input line 1485.
-
-
-LaTeX Warning: Reference `wtlevel' on page 276 undefined on input line 1499.
-
-
-LaTeX Warning: Reference `clear' on page 276 undefined on input line 1503.
-
-
-LaTeX Warning: Reference `wtlevel' on page 276 undefined on input line 1510.
-
-[276] [277]
-
-LaTeX Warning: Reference `kernel' on page 278 undefined on input line 1532.
-
+[275] [276] [277]
 
 LaTeX Warning: Reference `rule' on page 278 undefined on input line 1532.
 
 
 LaTeX Warning: Reference `rule' on page 278 undefined on input line 1550.
-
-
-LaTeX Warning: Reference `let' on page 278 undefined on input line 1551.
-
-
-LaTeX Warning: Reference `clearrules' on page 278 undefined on input line 1553.
-
 
 
 LaTeX Warning: Reference `procedure' on page 278 undefined on input line 1562.
@@ -2651,20 +1897,7 @@ LaTeX Warning: Reference `procedure' on page 278 undefined on input line 1562.
 
 LaTeX Warning: Reference `begin' on page 280 undefined on input line 1578.
 
-[280]
-
-LaTeX Warning: Reference `weight' on page 281 undefined on input line 1594.
-
-
-LaTeX Warning: Reference `weight' on page 281 undefined on input line 1617.
-
-
-LaTeX Warning: Reference `kernel' on page 281 undefined on input line 1625.
-
-
-LaTeX Warning: Reference `clear' on page 281 undefined on input line 1628.
-
-) (io.tex [281] [282]
+[280]) (io.tex [281] [282]
 
 LaTeX Warning: Reference `echo' on page 283 undefined on input line 21.
 
@@ -2673,16 +1906,7 @@ LaTeX Warning: Reference `end' on page 283 undefined on input line 31.
 
 [283]
 
-LaTeX Warning: Reference `ws' on page 284 undefined on input line 56.
-
-
-LaTeX Warning: Reference `saveas' on page 284 undefined on input line 61.
-
-
 LaTeX Warning: Reference `out' on page 284 undefined on input line 61.
-
-
-LaTeX Warning: Reference `let' on page 284 undefined on input line 64.
 
 [284]
 
@@ -2718,15 +1942,7 @@ LaTeX Warning: Reference `bye' on page 286 undefined on input line 130.
 
 LaTeX Warning: Reference `acosh' on page 301 undefined on input line 434.
 
-[301] [302]
-
-LaTeX Warning: Reference `let' on page 303 undefined on input line 487.
-
-[303]
-
-LaTeX Warning: Reference `let' on page 304 undefined on input line 516.
-
-[304] [305] [306] [307] [308] [309] [310]
+[301] [302] [303] [304] [305] [306] [307] [308] [309] [310]
 
 LaTeX Warning: Reference `asinh' on page 311 undefined on input line 729.
 
@@ -2734,29 +1950,11 @@ LaTeX Warning: Reference `asinh' on page 311 undefined on input line 729.
 
 LaTeX Warning: Reference `atanh' on page 313 undefined on input line 792.
 
-) (switch.tex [313]
-
-LaTeX Warning: Reference `on' on page 314 undefined on input line 4.
-
-
-LaTeX Warning: Reference `off' on page 314 undefined on input line 5.
-
-
-LaTeX Warning: Reference `off' on page 314 undefined on input line 7.
-
-[314] [315]
-
-LaTeX Warning: Reference `solve' on page 316 undefined on input line 24.
-
-
-LaTeX Warning: Reference `arbint' on page 316 undefined on input line 42.
-
-[316] [317]
-
-LaTeX Warning: Reference `arbcomplex' on page 318 undefined on input line 77.
-
-
-LaTeX Warning: Reference `solve' on page 318 undefined on input line 94.
+) (switch.tex [313] [314] [315] [316] [317]
+Overfull \hbox (2.7503pt too wide) in paragraph at lines 93--96
+[]\OT1/cmr/m/n/10 With [] off, the re-turn value [] means that the equa-tions g
+iven to [[]solve[]][][]8.43[][]
+ []
 
 [318]
 
@@ -2803,22 +2001,9 @@ LaTeX Warning: Reference `rationalize' on page 325 undefined on input line 273.
 
 [325] [326]
 
-LaTeX Warning: Reference `matrix' on page 327 undefined on input line 306.
-
-
-LaTeX Warning: Reference `solve' on page 327 undefined on input line 308.
-
-
 LaTeX Warning: Reference `output' on page 327 undefined on input line 325.
 
-[327] [328] [329]
-
-LaTeX Warning: Reference `pause' on page 330 undefined on input line 432.
-
-[330]
-
-LaTeX Warning: Reference `df' on page 331 undefined on input line 442.
-
+[327] [328] [329] [330]
 
 LaTeX Warning: Reference `noarg' on page 331 undefined on input line 444.
 
@@ -2830,29 +2015,12 @@ LaTeX Warning: Reference `pri' on page 332 undefined on input line 482.
 
 LaTeX Warning: Reference `equation' on page 335 undefined on input line 572.
 
-
-LaTeX Warning: Reference `sub' on page 335 undefined on input line 574.
-
-[335]
-
-LaTeX Warning: Reference `length' on page 336 undefined on input line 599.
-
-[336]
+[335] [336]
 
 LaTeX Warning: Reference `combinelogs' on page 337 undefined on input line 611.
 
 
-[337]
-
-LaTeX Warning: Reference `gcd' on page 338 undefined on input line 631.
-
-
-LaTeX Warning: Reference `factorize' on page 338 undefined on input line 637.
-
-
-LaTeX Warning: Reference `gcd' on page 338 undefined on input line 641.
-
-[338]
+[337] [338]
 
 LaTeX Warning: Reference `exp' on page 339 undefined on input line 678.
 
@@ -2865,15 +2033,7 @@ LaTeX Warning: Reference `trfac' on page 339 undefined on input line 682.
 
 LaTeX Warning: Reference `trallfac' on page 339 undefined on input line 683.
 
-[339]
-
-LaTeX Warning: Reference `factorize' on page 340 undefined on input line 688.
-
-[340]
-
-LaTeX Warning: Reference `int' on page 341 undefined on input line 695.
-
-[341]
+[339] [340] [341]
 
 LaTeX Warning: Reference `out' on page 342 undefined on input line 724.
 
@@ -2898,9 +2058,6 @@ l.768 See also \nameref{scientific_notation}
 I'm ignoring this, since I wasn't doing a \csname.
 
 [344]
-
-LaTeX Warning: Reference `solve' on page 345 undefined on input line 776.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -2920,51 +2077,18 @@ l.779 are built using \nameref{root\_of}
                                         . Default is \name{off}.
 I'm ignoring this, since I wasn't doing a \csname.
 
-[345]
-
-LaTeX Warning: Reference `reclaim' on page 346 undefined on input line 789.
-
-[346]
+[345] [346]
 
 LaTeX Warning: Reference `exp' on page 347 undefined on input line 821.
 
-[347]
-
-LaTeX Warning: Reference `korder' on page 348 undefined on input line 833.
-
-[348]
-
-LaTeX Warning: Reference `factorize' on page 349 undefined on input line 849.
-
-
-LaTeX Warning: Reference `factorize' on page 349 undefined on input line 866.
-
-
-LaTeX Warning: Reference `factor' on page 349 undefined on input line 867.
-
-[349]
+[347] [348] [349]
 
 LaTeX Warning: Reference `end' on page 350 undefined on input line 882.
 
 
 LaTeX Warning: Reference `bye' on page 350 undefined on input line 882.
 
-[350] [351]
-
-LaTeX Warning: Reference `gcd' on page 352 undefined on input line 930.
-
-[352] [353] [354]
-
-LaTeX Warning: Reference `factorize' on page 355 undefined on input line 955.
-
-[355] [356]
-
-LaTeX Warning: Reference `listargp' on page 357 undefined on input line 1012.
-
-[357] [358]
-
-LaTeX Warning: Reference `setmod' on page 359 undefined on input line 1051.
-
+[350] [351] [352] [353] [354] [355] [356] [357] [358]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -2984,17 +2108,7 @@ l.1070 \nameref{balanced\_mod}
                               .
 I'm ignoring this, since I wasn't doing a \csname.
 
-[359]
-
-LaTeX Warning: Reference `array' on page 360 undefined on input line 1081.
-
-
-LaTeX Warning: Reference `operator' on page 360 undefined on input line 1082.
-
-[360]
-
-LaTeX Warning: Reference `solve' on page 361 undefined on input line 1089.
-
+[359] [360]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -3028,18 +2142,7 @@ LaTeX Warning: Reference `in' on page 362 undefined on input line 1122.
 
 LaTeX Warning: Reference `dfprint' on page 364 undefined on input line 1159.
 
-
-LaTeX Warning: Reference `df' on page 364 undefined on input line 1160.
-
-[364]
-
-LaTeX Warning: Reference `int' on page 365 undefined on input line 1180.
-
-[365] [366] [367]
-
-LaTeX Warning: Reference `ws' on page 368 undefined on input line 1235.
-
-[368]
+[364] [365] [366] [367] [368]
 
 LaTeX Warning: Reference `trfac' on page 369 undefined on input line 1244.
 
@@ -3051,12 +2154,6 @@ LaTeX Warning: Reference `trallfac' on page 369 undefined on input line 1244.
 LaTeX Warning: Reference `fort' on page 370 undefined on input line 1252.
 
 [370] [371] [372]
-
-LaTeX Warning: Reference `order' on page 373 undefined on input line 1331.
-
-
-LaTeX Warning: Reference `factor' on page 373 undefined on input line 1331.
-
 
 LaTeX Warning: Reference `allfac' on page 373 undefined on input line 1332.
 
@@ -3071,68 +2168,20 @@ LaTeX Warning: Reference `revpri' on page 373 undefined on input line 1333.
 
 [373] [374]
 
-LaTeX Warning: Reference `factor' on page 375 undefined on input line 1362.
-
-
 LaTeX Warning: Reference `pri' on page 375 undefined on input line 1379.
 
-[375]
-
-LaTeX Warning: Reference `coeff' on page 376 undefined on input line 1390.
-
-
-LaTeX Warning: Reference `lterm' on page 376 undefined on input line 1390.
-
-[376] [377] [378] [379] [380]
-
-LaTeX Warning: Reference `symbolic' on page 381 undefined on input line 1495.
-
-
-LaTeX Warning: Reference `algebraic' on page 381 undefined on input line 1495.
-
-[381] [382]
+[375] [376] [377] [378] [379] [380] [381] [382]
 
 LaTeX Warning: Reference `roots' on page 383 undefined on input line 1531.
 
-[383]
-
-LaTeX Warning: Reference `precision' on page 384 undefined on input line 1545.
-
-
-LaTeX Warning: Reference `precision' on page 384 undefined on input line 1556.
-
-[384]
-
-LaTeX Warning: Reference `structr' on page 385 undefined on input line 1563.
-
-
-LaTeX Warning: Reference `structr' on page 385 undefined on input line 1586.
-
-
-LaTeX Warning: Reference `varname' on page 385 undefined on input line 1591.
-
-[385]
-
-LaTeX Warning: Reference `arbcomplex' on page 386 undefined on input line 1620.
-
-
-[386] [387]
+[383] [384] [385] [386] [387]
 
 LaTeX Warning: Reference `trfac' on page 388 undefined on input line 1664.
-
-
-LaTeX Warning: Reference `factor' on page 388 undefined on input line 1666.
 
 
 LaTeX Warning: Reference `out' on page 388 undefined on input line 1668.
 
 [388]
-
-LaTeX Warning: Reference `factor' on page 389 undefined on input line 1680.
-
-
-LaTeX Warning: Reference `factorize' on page 389 undefined on input line 1683.
-
 
 LaTeX Warning: Reference `out' on page 389 undefined on input line 1687.
 
@@ -3142,9 +2191,6 @@ LaTeX Warning: Reference `trallfac' on page 389 undefined on input line 1688.
 [389]
 
 LaTeX Warning: Reference `fullroots' on page 390 undefined on input line 1695.
-
-
-LaTeX Warning: Reference `solve' on page 390 undefined on input line 1695.
 
 [390]
 
@@ -3175,53 +2221,9 @@ LaTeX Warning: Reference `out' on page 392 undefined on input line 1721.
 
 [392]
 
-LaTeX Warning: Reference `solve' on page 393 undefined on input line 1730.
-
-
-LaTeX Warning: Reference `solve' on page 393 undefined on input line 1731.
-
-
 LaTeX Warning: Reference `arbvars' on page 393 undefined on input line 1733.
 
-) (matrix.tex [393]
-
-LaTeX Warning: Reference `matrix' on page 394 undefined on input line 6.
-
-[394]
-
-LaTeX Warning: Reference `matrix' on page 395 undefined on input line 25.
-
-[395]
-
-LaTeX Warning: Reference `matrix' on page 396 undefined on input line 67.
-
-[396]
-
-LaTeX Warning: Reference `matrix' on page 397 undefined on input line 123.
-
-[397] [398]
-
-LaTeX Warning: Reference `mat' on page 399 undefined on input line 208.
-
-
-LaTeX Warning: Reference `let' on page 399 undefined on input line 210.
-
-
-LaTeX Warning: Reference `clear' on page 399 undefined on input line 213.
-
-
-LaTeX Warning: Reference `clear' on page 399 undefined on input line 213.
-
-
-LaTeX Warning: Reference `let' on page 399 undefined on input line 214.
-
-[399] [400]
-
-LaTeX Warning: Reference `matrix' on page 401 undefined on input line 247.
-
-
-LaTeX Warning: Reference `rank' on page 401 undefined on input line 280.
-
+) (matrix.tex [393] [394] [395] [396] [397] [398] [399] [400]
 
 LaTeX Warning: Reference `list' on page 401 undefined on input line 283.
 
@@ -3229,15 +2231,7 @@ LaTeX Warning: Reference `list' on page 401 undefined on input line 283.
 
 LaTeX Warning: Reference `list' on page 403 undefined on input line 305.
 
-[403]
-
-LaTeX Warning: Reference `matrix' on page 404 undefined on input line 317.
-
-[404]
-
-LaTeX Warning: Reference `matrix' on page 405 undefined on input line 348.
-
-) (pk-groeb.tex [405]
+[403] [404]) (pk-groeb.tex [405]
 Overfull \hbox (22.42819pt too wide) in paragraph at lines 3--10
 \OT1/cmr/m/n/10 The GROEB-NER pack-age cal-cu-lates [][][] us-ing the [][][]
  []
@@ -3249,9 +2243,6 @@ Overfull \hbox (137.60905pt too wide) in paragraph at lines 3--10
  []
 
 
-LaTeX Warning: Reference `solve' on page 406 undefined on input line 13.
-
-
 LaTeX Warning: Reference `ideal parameters' on page 406 undefined on input line
  21.
 
@@ -3260,27 +2251,14 @@ LaTeX Warning: Reference `ideal parameters' on page 406 undefined on input line
 LaTeX Warning: Reference `list' on page 407 undefined on input line 38.
 
 
-LaTeX Warning: Reference `korder' on page 407 undefined on input line 40.
-
-
-LaTeX Warning: Reference `kernel' on page 407 undefined on input line 45.
-
-
 LaTeX Warning: Reference `term order' on page 407 undefined on input line 52.
 
 
 LaTeX Warning: Reference `list' on page 407 undefined on input line 67.
 
-[407] [408]
-
-LaTeX Warning: Reference `kernel' on page 409 undefined on input line 80.
-
-[409]
+[407] [408] [409]
 
 LaTeX Warning: Reference `list' on page 410 undefined on input line 91.
-
-
-LaTeX Warning: Reference `kernel' on page 410 undefined on input line 91.
 
 
 LaTeX Warning: Reference `term order' on page 410 undefined on input line 92.
@@ -3378,9 +2356,6 @@ der[]compileBasic
 
 LaTeX Warning: Reference `equation' on page 422 undefined on input line 276.
 
-
-LaTeX Warning: Reference `kernel' on page 422 undefined on input line 278.
-
 [422]
 Overfull \hbox (0.23633pt too wide) in paragraph at lines 297--304
 []\OT1/cmr/m/n/10 The op-er-a-tor [] im-ple-ments the Buch-berger al-go-rithm f
@@ -3409,11 +2384,7 @@ LaTeX Warning: Reference `kex' on page 424 undefined on input line 338.
 
 LaTeX Warning: Reference `lex' on page 424 undefined on input line 350.
 
-[424]
-
-LaTeX Warning: Reference `depend' on page 425 undefined on input line 362.
-
-[425] [426] [427] [428] [429] [430] [431] [432] [433] [434]
+[424] [425] [426] [427] [428] [429] [430] [431] [432] [433] [434]
 
 LaTeX Warning: Reference `term order' on page 435 undefined on input line 459.
 
@@ -3466,11 +2437,7 @@ LaTeX Warning: Reference `term order' on page 441 undefined on input line 606.
 
 LaTeX Warning: Reference `term order' on page 443 undefined on input line 641.
 
-[443] [444] [445] [446] [447] [448] [449] [450] [451]
-
-LaTeX Warning: Reference `kernel' on page 452 undefined on input line 794.
-
-[452] [453] [454]
+[443] [444] [445] [446] [447] [448] [449] [450] [451] [452] [453] [454]
 
 LaTeX Warning: Reference `module' on page 455 undefined on input line 853.
 
@@ -3545,11 +2512,7 @@ LaTeX Warning: Reference `g' on page 471 undefined on input line 313.
 
 LaTeX Warning: Reference `mshell' on page 472 undefined on input line 351.
 
-) (pk-numer.tex [472] [473]
-
-LaTeX Warning: Reference `kernel' on page 474 undefined on input line 21.
-
-[474] [475]
+) (pk-numer.tex [472] [473] [474] [475]
 Overfull \hbox (41.04578pt too wide) in paragraph at lines 45--50
 \OT1/cmr/m/n/10 er-a-tion. In cases of an un-suc-cess-ful or un-ex-pected long 
 op-er-a-tion a []
@@ -3594,10 +2557,6 @@ rations \OT1/cmr/m/n/12 =
  []
 
 [478]
-
-LaTeX Warning: Reference `int' on page 479 undefined on input line 156.
-
-
 Overfull \hbox (24.04616pt too wide) in paragraph at lines 177--180
 [][]$\OT1/cmr/m/n/12 ([][]\OML/cmm/m/it/12 ; [][] \OT1/cmr/m/n/12 =$(\OT1/cmr/m
 /it/12 l \OT1/cmr/m/n/12 .. \OT1/cmr/m/it/12 u\OT1/cmr/m/n/12 )$[\OML/cmm/m/it/
@@ -3614,12 +2573,6 @@ tt/m/n/12 g\OML/cmm/m/it/12 ; \OMS/cmtt/m/n/12 f[][] \OT1/cmr/m/n/12 = [][]\OML
 /cmm/m/it/12 ; [][] \OT1/cmr/m/n/12 = [][]\OML/cmm/m/it/12 ; :::\OMS/cmtt/m/n/1
 2 g[][] \OT1/cmr/m/n/12 =$(\OT1/cmr/m/it/12 from
  []
-
-
-LaTeX Warning: Reference `depend' on page 480 undefined on input line 242.
-
-
-LaTeX Warning: Reference `solve' on page 480 undefined on input line 245.
 
 [480] [481]
 
@@ -3641,9 +2594,6 @@ LaTeX Warning: Reference `roots' on page 487 undefined on input line 30.
 
 
 LaTeX Warning: Reference `list' on page 487 undefined on input line 36.
-
-
-LaTeX Warning: Reference `kernel' on page 487 undefined on input line 37.
 
 [487]
 
@@ -3735,9 +2685,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--34
  []
 
 
-LaTeX Warning: Reference `showrules' on page 495 undefined on input line 41.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 35--43
 
  []
@@ -3787,15 +2734,7 @@ LaTeX Warning: Reference `hypergeometric' on page 513 undefined on input line 3
 
 LaTeX Warning: Reference `Zeta' on page 538 undefined on input line 811.
 
-[538] [539] [540] [541] [542] [543]
-
-LaTeX Warning: Reference `dilog' on page 544 undefined on input line 927.
-
-[544]
-
-LaTeX Warning: Reference `solve' on page 545 undefined on input line 950.
-
-[545] [546] [547] [548]
+[538] [539] [540] [541] [542] [543] [544] [545] [546] [547] [548]
 Underfull \hbox (badness 10000) in paragraph at lines 1058--1062
 
  []
@@ -3880,24 +2819,8 @@ LaTeX Warning: Reference `hypergeometric' on page 573 undefined on input line 1
 LaTeX Warning: Reference `hypergeometric' on page 574 undefined on input line 1
 595.
 
-) (taylor.tex [574] [575]
-
-LaTeX Warning: Reference `kernel' on page 576 undefined on input line 24.
-
-
-LaTeX Warning: Reference `kernel' on page 576 undefined on input line 33.
-
-
-LaTeX Warning: Reference `part' on page 576 undefined on input line 56.
-
-
-LaTeX Warning: Reference `coeff' on page 576 undefined on input line 57.
-
-
-LaTeX Warning: Reference `coeffn' on page 576 undefined on input line 57.
-
-[576] [577] [578] [579] [580] [581] [582] [583] [584] [585] [586] [587]
-[588]
+) (taylor.tex [574] [575] [576] [577] [578] [579] [580] [581] [582] [583]
+[584] [585] [586] [587] [588]
 Overfull \hbox (13.92288pt too wide) in paragraph at lines 280--282
 [][]$\OT1/cmr/m/n/12 ([][])$ or [] \OT1/cmr/m/it/12 sim-ple[]expression 
  []
@@ -3915,9 +2838,6 @@ LaTeX Warning: Reference `pointset' on page 593 undefined on input line 95.
 
 
 LaTeX Warning: Reference `interval' on page 593 undefined on input line 102.
-
-
-LaTeX Warning: Reference `string' on page 593 undefined on input line 115.
 
 [593]
 
@@ -4041,19 +2961,9 @@ LaTeX Warning: Reference `plot' on page 605 undefined on input line 289.
 
 LaTeX Warning: Reference `plot' on page 605 undefined on input line 290.
 
-[605]
-
-LaTeX Warning: Reference `on' on page 606 undefined on input line 300.
-
-[606]
+[605] [606]
 
 LaTeX Warning: Reference `plot' on page 607 undefined on input line 307.
-
-
-LaTeX Warning: Reference `on' on page 607 undefined on input line 311.
-
-
-LaTeX Warning: Reference `off' on page 607 undefined on input line 312.
 
 ! Missing \endcsname inserted.
 <to be read again> 
@@ -4075,9 +2985,9 @@ l.313 ...he basic points (see \nameref{plot_xmesh}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (19.28401pt too wide) in paragraph at lines 307--316
-\OT1/cmr/m/n/10 func-tions will be eval-u-ated only at the ba-sic points (see [
-[]plot[]xmesh[]][]xmeshplot[]xmesh.
+Overfull \hbox (35.39514pt too wide) in paragraph at lines 307--316
+\OT1/cmr/m/n/10 the func-tions will be eval-u-ated only at the ba-sic points (s
+ee [[]plot[]xmesh[]][]xmeshplot[]xmesh.
  []
 
 
@@ -4247,10 +3157,6 @@ l.48 \nameref{matrix\_augment}
                               ,
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 612 undefined on input line
- 48.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
@@ -4605,10 +3511,6 @@ l.169 \nameref{matrix\_augment}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-
-LaTeX Warning: Reference `\textunderscore ' on page 614 undefined on input line
- 169.
-
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
@@ -4731,10 +3633,6 @@ l.197 \nameref{swap\_rows}
 I'm ignoring this, since I wasn't doing a \csname.
 
 [614]
-
-LaTeX Warning: Reference `matrix' on page 615 undefined on input line 214.
-
-
 Overfull \hbox (11.00282pt too wide) in paragraph at lines 220--223
 []\OT1/cmr/m/n/10 The Op-er-a-tor [] re-places col-umn \OT1/cmr/m/it/10 c2 \OT1
 /cmr/m/n/10 of \OT1/cmr/m/it/10 ma-trix \OT1/cmr/m/n/10 by \OT1/cmr/m/it/10 exp
@@ -4899,10 +3797,6 @@ l.351 ...nameref{get\_rows}, \nameref{sub\_matrix}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-
-LaTeX Warning: Reference `\textunderscore ' on page 619 undefined on input line
- 351.
-
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
@@ -4911,9 +3805,9 @@ l.351 ...nameref{get\_rows}, \nameref{sub\_matrix}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (22.7896pt too wide) in paragraph at lines 350--354
+Overfull \hbox (130.51218pt too wide) in paragraph at lines 350--354
 []\OT1/cmr/m/n/10 Related func-tions: [[]get[]columns[]][]columnsget[]columns [
-[]sub[]matrix[]][]matrixsub[]matrix 
+[]sub[]matrix[]][][]8.46221SUBsubsection.8.46[][]matrixsub[]matrix 
  []
 
 [619] [620] [621]
@@ -5024,10 +3918,6 @@ l.723 ...ameref{extend}, \nameref{matrix\_augment}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-
-LaTeX Warning: Reference `\textunderscore ' on page 628 undefined on input line
- 723.
-
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
@@ -5055,15 +3945,13 @@ l.724 ...ref{matrix\_stack}, \nameref{stack\_rows}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (124.31763pt too wide) in paragraph at lines 722--725
+Overfull \hbox (253.4291pt too wide) in paragraph at lines 722--725
 []\OT1/cmr/m/n/10 Related func-tions: [[]aug-ment[]columns[]][]columnsaugment[]
-columns [[]ma-trix[]augment[]][]augmentmatrix[]augment
+columns [[]ma-trix[]augment[]][][]13.5399MATRIXsubsection.13.5[][]augmentmatrix
+[]augment
  []
 
 [628]
-
-LaTeX Warning: Reference `matrix' on page 629 undefined on input line 737.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5084,9 +3972,6 @@ l.769 \nameref{jordan\_block}
 I'm ignoring this, since I wasn't doing a \csname.
 
 [629]
-
-LaTeX Warning: Reference `matrix' on page 630 undefined on input line 780.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5113,10 +3998,6 @@ l.806 ...matrix\_augment}, \nameref{matrix\_stack}
                                                   ,
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `\textunderscore ' on page 630 undefined on input line
- 806.
 
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
@@ -5145,19 +4026,12 @@ l.807 ...{remove\_columns}, \nameref{remove\_rows}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (4.34505pt too wide) in paragraph at lines 805--810
+Overfull \hbox (116.76207pt too wide) in paragraph at lines 805--810
 []\OT1/cmr/m/n/10 Related func-tions: [[]copy[]into[]][]intocopy[]into [[]ma-tr
-ix[]stack[]][]stackmatrix[]stack [[]re-
+ix[]stack[]][][]13.5399MATRIXsubsection.13.5[][]stackmatrix[]stack
  []
 
-[630]
-
-LaTeX Warning: Reference `matrix' on page 631 undefined on input line 818.
-
-[631]
-
-LaTeX Warning: Reference `matrix' on page 632 undefined on input line 856.
-
+[630] [631]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5185,10 +4059,6 @@ l.901 ...meref{stack\_rows}, \nameref{sub\_matrix}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-
-LaTeX Warning: Reference `\textunderscore ' on page 632 undefined on input line
- 901.
-
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
@@ -5197,9 +4067,9 @@ l.901 ...meref{stack\_rows}, \nameref{sub\_matrix}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (71.12306pt too wide) in paragraph at lines 900--904
+Overfull \hbox (178.84564pt too wide) in paragraph at lines 900--904
 []\OT1/cmr/m/n/10 Related func-tions: [[]aug-ment[]columns[]][]columnsaugment[]
-columns [[]sub[]matrix[]][]matrixsub[]matrix 
+columns [[]sub[]matrix[]][][]8.46221SUBsubsection.8.46[][]matrixsub[]matrix 
  []
 
 [632]
@@ -5222,41 +4092,7 @@ l.907 see:  \nameref{get\_columns}
                                   .
 I'm ignoring this, since I wasn't doing a \csname.
 
-[633] [634]
-
-LaTeX Warning: Reference `matrix' on page 635 undefined on input line 947.
-
-
-LaTeX Warning: Reference `matrix' on page 635 undefined on input line 951.
-
-
-LaTeX Warning: Reference `tp' on page 635 undefined on input line 977.
-
-[635]
-
-LaTeX Warning: Reference `df' on page 636 undefined on input line 998.
-
-
-LaTeX Warning: Reference `df' on page 636 undefined on input line 1016.
-
-[636] [637]
-
-LaTeX Warning: Reference `df' on page 638 undefined on input line 1074.
-
-
-LaTeX Warning: Reference `df' on page 638 undefined on input line 1097.
-
-[638] [639]
-
-LaTeX Warning: Reference `matrix' on page 640 undefined on input line 1149.
-
-
-LaTeX Warning: Reference `matrix' on page 640 undefined on input line 1153.
-
-
-LaTeX Warning: Reference `matrix' on page 640 undefined on input line 1154.
-
-[640] [641] [642] [643]
+[633] [634] [635] [636] [637] [638] [639] [640] [641] [642] [643]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5284,10 +4120,6 @@ l.1355 ...eref{stack\_rows}, \nameref{sub\_matrix}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-
-LaTeX Warning: Reference `\textunderscore ' on page 644 undefined on input line
- 1355.
-
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
@@ -5296,9 +4128,9 @@ l.1355 ...eref{stack\_rows}, \nameref{sub\_matrix}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (71.12306pt too wide) in paragraph at lines 1354--1358
+Overfull \hbox (178.84564pt too wide) in paragraph at lines 1354--1358
 []\OT1/cmr/m/n/10 Related func-tions: [[]aug-ment[]columns[]][]columnsaugment[]
-columns [[]sub[]matrix[]][]matrixsub[]matrix 
+columns [[]sub[]matrix[]][][]8.46221SUBsubsection.8.46[][]matrixsub[]matrix 
  []
 
 [644] [645]
@@ -5310,10 +4142,6 @@ l.1387 see:  \nameref{matrix\_augment}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-
-LaTeX Warning: Reference `\textunderscore ' on page 646 undefined on input line
- 1387.
-
 ! Extra \endcsname.
 \NR@setref ... \NR@@setref \csname r@#1\endcsname 
                                                   
@@ -5322,9 +4150,6 @@ l.1387 see:  \nameref{matrix\_augment}
 I'm ignoring this, since I wasn't doing a \csname.
 
 [646]
-
-LaTeX Warning: Reference `matrix' on page 647 undefined on input line 1397.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5345,9 +4170,6 @@ l.1417 \nameref{remove\_columns}
 I'm ignoring this, since I wasn't doing a \csname.
 
 [647]
-
-LaTeX Warning: Reference `matrix' on page 648 undefined on input line 1429.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5407,15 +4229,7 @@ l.1513 \nameref{rows\_pivot}
                             .
 I'm ignoring this, since I wasn't doing a \csname.
 
-[650]
-
-LaTeX Warning: Reference `matrix' on page 651 undefined on input line 1523.
-
-[651] [652] [653]
-
-LaTeX Warning: Reference `matrix' on page 654 undefined on input line 1632.
-
-[654]
+[650] [651] [652] [653] [654]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5455,11 +4269,7 @@ l.1671 see:  \nameref{column\_dim}
                                   .
 I'm ignoring this, since I wasn't doing a \csname.
 
-[656] [657] [658]
-
-LaTeX Warning: Reference `matrix' on page 659 undefined on input line 1776.
-
-[659]
+[656] [657] [658] [659]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5499,14 +4309,7 @@ l.1827 \nameref{augment\_columns}
                                  , \nameref{stack\_rows}.
 I'm ignoring this, since I wasn't doing a \csname.
 
-[661]
-
-LaTeX Warning: Reference `matrix' on page 662 undefined on input line 1840.
-
-[662] [663]
-
-LaTeX Warning: Reference `matrix' on page 664 undefined on input line 1912.
-
+[661] [662] [663]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5527,9 +4330,6 @@ l.1943 Related functions: \nameref{swap\_entries}
 I'm ignoring this, since I wasn't doing a \csname.
 
 [664]
-
-LaTeX Warning: Reference `matrix' on page 665 undefined on input line 1955.
-
 ! Missing \endcsname inserted.
 <to be read again> 
                    \protect 
@@ -5569,31 +4369,7 @@ l.1981 see:  \nameref{swap\_columns}
                                     .
 I'm ignoring this, since I wasn't doing a \csname.
 
-[666]
-
-LaTeX Warning: Reference `matrix' on page 667 undefined on input line 1991.
-
-[667] [668]) (normform.tex [669]
-
-LaTeX Warning: Reference `matrix' on page 670 undefined on input line 5.
-
-
-LaTeX Warning: Reference `matrix' on page 670 undefined on input line 10.
-
-[670]
-
-LaTeX Warning: Reference `matrix' on page 671 undefined on input line 39.
-
-
-LaTeX Warning: Reference `matrix' on page 671 undefined on input line 44.
-
-[671]
-
-LaTeX Warning: Reference `matrix' on page 672 undefined on input line 71.
-
-
-LaTeX Warning: Reference `matrix' on page 672 undefined on input line 76.
-
+[666] [667] [668]) (normform.tex [669] [670] [671]
 
 LaTeX Warning: Reference `arnum' on page 672 undefined on input line 82.
 
@@ -5602,21 +4378,9 @@ LaTeX Warning: Reference `ratjordan' on page 672 undefined on input line 93.
 
 [672] [673]
 
-LaTeX Warning: Reference `matrix' on page 674 undefined on input line 141.
-
-
-LaTeX Warning: Reference `matrix' on page 674 undefined on input line 146.
-
-
 LaTeX Warning: Reference `frobenius' on page 674 undefined on input line 156.
 
 [674] [675]
-
-LaTeX Warning: Reference `matrix' on page 676 undefined on input line 215.
-
-
-LaTeX Warning: Reference `matrix' on page 676 undefined on input line 222.
-
 
 LaTeX Warning: Reference `arnum' on page 676 undefined on input line 228.
 
@@ -5627,12 +4391,6 @@ LaTeX Warning: Reference `frobenius' on page 676 undefined on input line 232.
 LaTeX Warning: Reference `ratjordan' on page 676 undefined on input line 240.
 
 [676] [677]
-
-LaTeX Warning: Reference `matrix' on page 678 undefined on input line 298.
-
-
-LaTeX Warning: Reference `matrix' on page 678 undefined on input line 303.
-
 
 LaTeX Warning: Reference `frobenius' on page 678 undefined on input line 312.
 
@@ -6020,23 +4778,23 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.148     \subitem
-                   ALGEBRAIC, \hyperpage{224}
+                   ALGEBRAIC, \hyperpage{225}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [739]
 Overfull \hbox (2.22261pt too wide) in paragraph at lines 230--231
-[]\OT1/cmr/m/n/10 Confluent Hy-per-ge-o-met-ric func-tion, [][]508[][]--
+[]\OT1/cmr/m/n/10 Confluent Hy-per-ge-o-met-ric func-tion, [][]511[][]--
  []
 
 [740] [741] [742]
 Overfull \hbox (0.86147pt too wide) in paragraph at lines 451--452
-[]\OT1/cmr/m/n/10 generalized hy-per-ge-o-met-ric func-tion, [][]568[][] 
+[]\OT1/cmr/m/n/10 generalized hy-per-ge-o-met-ric func-tion, [][]571[][] 
  []
 
 [743] [744]
 Overfull \hbox (0.27817pt too wide) in paragraph at lines 620--621
-[]\OT1/cmr/m/n/10 Kredel-Weispfenning al-go-rithm, [][]405[][], [][]435[][] 
+[]\OT1/cmr/m/n/10 Kredel-Weispfenning al-go-rithm, [][]406[][], [][]437[][] 
  []
 
 [745] [746]
@@ -6106,20 +4864,20 @@ you left one out. Proceed, with fingers crossed.
 
 [747] [748] [749] [750]
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1119--1129
-[][]\OT1/cmr/m/n/10 319[][], [][]329[][]--[][]332[][], [][]338[][], [][]347[][]
-, [][]350[][], [][]353[][],
+[][]\OT1/cmr/m/n/10 320[][], [][]330[][]--[][]333[][], [][]339[][], [][]348[][]
+, [][]351[][], [][]354[][],
  []
 
 
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1119--1129
-[][]\OT1/cmr/m/n/10 359[][], [][]361[][]--[][]363[][], [][]365[][], [][]367[][]
-, [][]369[][], [][]371[][],
+[][]\OT1/cmr/m/n/10 360[][], [][]362[][]--[][]364[][], [][]366[][], [][]368[][]
+, [][]370[][], [][]372[][],
  []
 
 [751]
 Overfull \hbox (3.88927pt too wide) in paragraph at lines 1207--1216
-[][]\OT1/cmr/m/n/10 174[][], [][]179[][], [][]185[][], [][]186[][], [][]191[][]
---[][]193[][], [][]197[][],
+[][]\OT1/cmr/m/n/10 175[][], [][]180[][], [][]186[][], [][]187[][], [][]192[][]
+--[][]194[][], [][]198[][],
  []
 
 [752] [753] [754] [755] [756] [757] [758
@@ -6181,13 +4939,13 @@ followed by the required stuff, so I'm ignoring it.
 ### semi simple group (level 1) entered at line 379 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9058 strings out of 492972
- 127566 string characters out of 3135889
- 232979 words of memory out of 3000000
- 11369 multiletter control sequences out of 15000+200000
+ 8980 strings out of 492972
+ 126960 string characters out of 3135889
+ 232703 words of memory out of 3000000
+ 11291 multiletter control sequences out of 15000+200000
  14467 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,10n,34p,188b,1847s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,10n,34p,188b,1878s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
@@ -6209,9 +4967,9 @@ nts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 ti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on redhelp.pdf (758 pages, 2320193 bytes).
+Output written on redhelp.pdf (758 pages, 2390823 bytes).
 PDF statistics:
- 9779 PDF objects out of 10688 (max. 8388607)
+ 10157 PDF objects out of 10688 (max. 8388607)
  1447 named destinations out of 1728 (max. 500000)
  5513 words of extra memory for PDF output out of 10000 (max. 10000000)
 

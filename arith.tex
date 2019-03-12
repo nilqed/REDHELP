@@ -1,13 +1,13 @@
 \section{Arithmetic Operations}
 
-\begin{Introduction}{ARITHMETIC\_OPERATIONS}
+\begin{Introduction}[arithmetic\_operations]{ARITHMETIC\_OPERATIONS}
 This section considers operations defined in REDUCE that concern numbers,
 or operators that can operate on numbers in addition, in most cases, to
 more general expressions.
 \end{Introduction}
 
 \newpage
-\begin{Operator}{ABS}
+\begin{Operator}[abs]{ABS}
 \index{absolute value}
 The \name{abs} operator returns the absolute value of its argument.
 
@@ -33,7 +33,7 @@ as it can, such as dropping any preceding minus sign.
 \end{Operator}
 
 
-\begin{Switch}{ADJPREC}
+\begin{Switch}[adjprec]{ADJPREC}
 \index{input}\index{precision}
 When a real number is input, it is normally truncated to the 
 \nameref{precision} in
@@ -55,7 +55,7 @@ on adjprec; \\
 \end{Switch}
 
 
-\begin{Operator}{ARG}
+\begin{Operator}[arg]{ARG}
 \index{complex}\index{polar angle}
 If \nameref{complex} and \nameref{rounded} are on, and {\em arg}
 evaluates to a complex number, \name{arg} returns the polar angle of {\em
@@ -72,7 +72,7 @@ arg a; & ARG(A)
 \end{Operator}
 
 
-\begin{Operator}{CEILING}
+\begin{Operator}[ceiling]{CEILING}
 \index{integer}
 
 \begin{Syntax}
@@ -95,7 +95,7 @@ ceiling a; & CEILING(A)
 \end{Operator}
 
 
-\begin{Operator}{CHOOSE}
+\begin{Operator}[choose]{CHOOSE}
 \name{choose}(\meta{m},\meta{m}) returns the number of ways of choosing
 \meta{m} objects from a collection of \meta{n} distinct objects --- in other
 words the binomial coefficient.  If \meta{m} and \meta{n} are not positive
@@ -109,7 +109,7 @@ choose(a,b); & CHOOSE(A,B)
 \end{Operator}
 
 
-\begin{Operator}{DEG2DMS}
+\begin{Operator}[]deg2dms{DEG2DMS}
 \index{degrees}\index{radians}
 \begin{Syntax}
 \name{deg2dms}\(\meta{expression}\)
@@ -130,7 +130,7 @@ deg2dms a; & DEG2DMS(A)
 
 \end{Operator}
 
-\begin{Operator}{DEG2RAD}
+\begin{Operator}[deg2rad]{DEG2RAD}
 \index{degrees}\index{radians}
 
 \begin{Syntax}
@@ -152,7 +152,7 @@ deg2rad a; & DEG2RAD(A)
 \end{Operator}
 
 
-\begin{Operator}{DIFFERENCE}
+\begin{Operator}[difference]{DIFFERENCE}
 The \name{difference} operator may be used as either an infix or prefix binary
 subtraction operator.  It is identical to \name{-} as a binary operator.
 
@@ -184,7 +184,7 @@ example above.
 \end{Operator}
 
 
-\begin{Operator}{DILOG}
+\begin{Operator}[dilog]{DILOG}
 \index{dilogarithm function}
 The \name{dilog} operator is known to the differentiation and integration
 operators, but has numeric value attached only at \name{dilog(0)}.  Dilog is
@@ -208,7 +208,7 @@ dilog(0);                   &     \rfrac{PI^{2}}{6}
 \end{Operator}
 
 
-\begin{Operator}{DMS2DEG}
+\begin{Operator}[dms2deg]{DMS2DEG}
 \index{degrees}\index{radians}
 
 \begin{Syntax}
@@ -230,7 +230,7 @@ dms2deg a; & DMS2DEG(A)
 \end{Operator}
 
 
-\begin{Operator}{DMS2RAD}
+\begin{Operator}[dms2rad]{DMS2RAD}
 \index{degrees}\index{radians}
 
 \begin{Syntax}
@@ -252,7 +252,7 @@ dms2rad a; & DMS2RAD(A)
 \end{Operator}
 
 
-\begin{Operator}{FACTORIAL}
+\begin{Operator}[factorial]{FACTORIAL}
 \index{gamma}
 \begin{Syntax}
 \name{factorial}\(\meta{expression}\)
@@ -272,7 +272,7 @@ factorial(a) ; FACTORIAL(A)
 \end{Operator}
 
 
-\begin{Operator}{FIX}
+\begin{Operator}[fix]{FIX}
 \index{integer}
 \begin{Syntax}
 \name{fix}\(\meta{expression}\)
@@ -296,7 +296,7 @@ fix(a); & FIX(A)
 \end{Operator}
 
 
-\begin{Operator}{FIXP}
+\begin{Operator}[fixp]{FIXP}
 \index{integer}
 The \name{fixp} logical operator returns true if its argument is an integer.
 \begin{Syntax}
@@ -323,7 +323,7 @@ Logical operators can only be used inside conditional expressions such as
 \end{Operator}
 
 
-\begin{Operator}{FLOOR}
+\begin{Operator}[floor]{FLOOR}
 \index{integer}
 
 \begin{Syntax}
@@ -346,7 +346,7 @@ floor a; & FLOOR(A)
 \end{Operator}
 
 
-\begin{Operator}{EXPT}
+\begin{Operator}[expt]{EXPT}
 The \name{expt} operator is both an infix and prefix binary exponentiation
 operator.  It is identical to \name{^} or \name{**}.
 \begin{Syntax}
@@ -370,7 +370,7 @@ would be right associative.
 \end{Operator}
 
 
-\begin{Operator}{GCD}
+\begin{Operator}[gcd]{GCD}
 \index{greatest common divisor}\index{polynomial}
 The \name{gcd} operator returns the greatest common divisor of two
 polynomials.
@@ -398,7 +398,7 @@ algorithm, which is usually faster.
 \end{Operator}
 
 
-\begin{Operator}{LN}
+\begin{Operator}[ln]{LN}
 \index{logarithm}
 \begin{Syntax}
 \name{ln}\(\meta{expression}\)
@@ -428,7 +428,7 @@ advised to use \nameref{log} whenever possible.
 \end{Operator}
 
 
-\begin{Operator}{LOG}
+\begin{Operator}[log]{LOG}
 \index{logarithm}
 The \name{log} operator returns the natural logarithm of its argument.
 \begin{Syntax}
@@ -454,7 +454,7 @@ that mode.
 \end{Operator}
 
 
-\begin{Operator}{LOGB}
+\begin{Operator}[logb]{LOGB}
 \index{logarithm}
 \begin{Syntax}
 \name{logb}\(\meta{expression}\,\meta{integer}\)
@@ -479,7 +479,7 @@ logb(2,2);                 &         1
 \end{Operator}
 
 
-\begin{Operator}{MAX}
+\begin{Operator}[max]{MAX}
 \index{maximum}
 The operator \name{max} is an n-ary prefix operator, which returns the largest
 value in its arguments.
@@ -501,7 +501,7 @@ max(-5,-10,-a);              &        -5
 \end{Operator}
 
 
-\begin{Operator}{MIN}
+\begin{Operator}[min]{MIN}
 \index{minimum}
 The operator \name{min} is an n-ary prefix operator, which returns the
 smallest value in its arguments.
@@ -520,7 +520,7 @@ min(5,10,a);                 &        5
 \end{Operator}
 
 
-\begin{Operator}{MINUS}
+\begin{Operator}[minus]{MINUS}
 The \name{minus} operator is a unary minus, returning the negative of its
 argument.  It is equivalent to the unary \name{-}.
 \begin{Syntax}
@@ -540,7 +540,7 @@ minus((x+1)**4);             &          - (X^{4} + 4*X^{3} + 6*X^{2} + 4*X + 1)
 \end{Operator}
 
 
-\begin{Operator}{NEXTPRIME}
+\begin{Operator}[nextprime]{NEXTPRIME}
 \index{prime number}
 \begin{Syntax}
 \name{nextprime}\(\meta{expression}\)
@@ -558,7 +558,7 @@ nextprime a; & ***** A invalid as integer
 \end{Operator}
 
 
-\begin{Switch}{NOCONVERT}
+\begin{Switch}[noconvert]{NOCONVERT}
 Under normal circumstances when \name{rounded} is on, \REDUCE\ converts the
 number 1.0 to the integer 1.  If this is not desired, the switch
 \name{noconvert} can be turned on.
@@ -570,7 +570,7 @@ on noconvert; \\
 \end{Examples}
 \end{Switch}
 
-\begin{Operator}{NORM}
+\begin{Operator}[norm]{NORM}
 \index{complex}
 \begin{Syntax}
 \name{norm}\(\meta{expression}\)
@@ -594,7 +594,7 @@ ws; &  5.0\\
 \end{Operator}
 
 
-\begin{Operator}{PERM}
+\begin{Operator}[perm]{PERM}
 \index{permutation}
 \begin{Syntax}
 perm(\meta{expression1},\meta{expression2})
@@ -614,7 +614,7 @@ perm(a,b); & PERM(A,B)
 
 \end{Operator}
 
-\begin{Operator}{PLUS}
+\begin{Operator}[plus]{PLUS}
 The \name{plus} operator is both an infix and prefix n-ary addition
 operator.  It exists because of the way in which {\REDUCE} handles such
 operators internally, and is not recommended for use in algebraic mode
@@ -637,7 +637,7 @@ plus(x**2,y**2);             &      X^{2} + Y^{2}
 \end{Operator}
 
 
-\begin{Operator}{QUOTIENT}
+\begin{Operator}[quotient]{QUOTIENT}
 The \name{quotient} operator is both an infix and prefix binary operator that
 returns the quotient of its first argument divided by its second.  It is
 also a unary \nameref{recip}rocal operator.  It is identical to \name{/} and 
@@ -686,7 +686,7 @@ message is given.
 \end{Operator}
 
 
-\begin{Operator}{RAD2DEG}
+\begin{Operator}[rad2deg]{RAD2DEG}
 \index{degrees}\index{radians}
 \begin{Syntax}
 \name{rad2deg}\(\meta{expression}\)
@@ -707,7 +707,7 @@ rad2deg a; & RAD2DEG(A)
 \end{Operator}
 
 
-\begin{Operator}{RAD2DMS}
+\begin{Operator}[rad2dms]{RAD2DMS}
 \index{degrees}\index{radians}
 
 \begin{Syntax}
@@ -729,7 +729,7 @@ rad2dms a; & RAD2DMS(A)
 \end{Operator}
 
 
-\begin{Operator}{RECIP}
+\begin{Operator}[recip]{RECIP}
 \name{recip} is the  alphabetical name for the division operator \name{/}
 or \nameref{slash} used as a unary operator.  The use of \name{/} is preferred.
 
@@ -741,7 +741,7 @@ recip 2; & \rfrac{1}{2}
 \end{Operator}
 
 
-\begin{Operator}{REMAINDER}
+\begin{Operator}[remainder]{REMAINDER}
 \index{polynomial}
 The \name{remainder} operator returns the remainder after its first
 argument is divided by its second argument.
@@ -771,7 +771,7 @@ If the first argument to \name{remainder} contains a denominator not equal to
 \end{Operator}
 
 
-\begin{Operator}{ROUND}
+\begin{Operator}[round]{ROUND}
 \index{integer}
 
 \begin{Syntax}
@@ -791,7 +791,7 @@ round a; & ROUND(A)
 \end{Operator}
 
 
-\begin{Command}{SETMOD}
+\begin{Command}[setmod]{SETMOD}
 \index{modular}
 The \name{setmod} command sets the modulus value for subsequent \nameref{modular}
 arithmetic.
@@ -825,7 +825,7 @@ of a non-prime modulus does not produce an error message.
 \end{Command}
 
 
-\begin{Operator}{SIGN}
+\begin{Operator}[sign]{SIGN}
 
 \begin{Syntax}
 \name{sign} \meta{expression}
@@ -847,7 +847,7 @@ as the switch \nameref{complex} is off.
 \end{Operator}
 
 
-\begin{Operator}{SQRT}
+\begin{Operator}[sqrt]{SQRT}
 \index{square root}
 The \name{sqrt} operator returns the square root of its argument.
 \begin{Syntax}
@@ -882,7 +882,7 @@ to be returned.
 \end{Operator}
 
 
-\begin{Operator}{TIMES}
+\begin{Operator}[times]{TIMES}
 The \name{times} operator is an infix or prefix n-ary multiplication
 operator.  It is identical to \name{*}.
 \begin{Syntax}

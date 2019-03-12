@@ -1,6 +1,6 @@
 \section{Algebraic Operators}
 
-\begin{Operator}{APPEND}
+\begin{Operator}[append]{APPEND}
 \index{list}
 The \name{append} operator constructs a new \nameref{list} 
 from the elements of its two arguments (which must be lists).
@@ -29,7 +29,7 @@ particularly helpful in an iterative loop.
 \end{Comments}
 \end{Operator}
 
-\begin{Operator}{ARBINT}
+\begin{Operator}[arbint]{ARBINT}
 \index{arbitrary value}
 The operator \name{arbint} is used to express arbitrary integer parts
 of an expression, e.g. in the result of \nameref{solve} when
@@ -44,7 +44,7 @@ solve(log(sin(x+3)),x);    &
 \end{Examples}
 \end{Operator} 
 
-\begin{Operator}{ARBCOMPLEX}
+\begin{Operator}[arbcomplex]{ARBCOMPLEX}
 \index{arbitrary value}
 The operator \name{arbcomplex} is used to express arbitrary scalar parts
 of an expression, e.g. in the result of \nameref{solve} when
@@ -60,7 +60,7 @@ solve({x+3=y-2z,y-3x=0},{x,y,z});    &
 \end{Examples}
 \end{Operator} 
 
-\begin{Operator}{ARGLENGTH}
+\begin{Operator}[arblength]{ARGLENGTH}
 \index{argument}
 The operator \name{arglength} returns the number of arguments of the top-level
 operator in its argument.
@@ -87,7 +87,7 @@ still only one argument at the top level.
 \end{Operator}
 
 
-\begin{Operator}{COEFF}
+\begin{Operator}[coeff]{COEFF}
 \index{coefficient}
 The \name{coeff} operator returns the coefficients of the powers of the
 specified variable in the given expression, in a \nameref{list}.
@@ -135,7 +135,7 @@ If you want only a specific coefficient rather than all of them, use the
 \end{Operator}
 
 
-\begin{Operator}{COEFFN}
+\begin{Operator}[coeffn]{COEFFN}
 \index{coefficient}
 The \name{coeffn} operator takes three arguments: an expression, a kernel, and
 a non-negative integer.  It returns the coefficient of the kernel to that
@@ -177,7 +177,7 @@ do {\em not} contain the given kernel.
 \end{Operator}
 
 
-\begin{Operator}{CONJ}
+\begin{Operator}[conj]{CONJ}
 \index{conjugate}\index{complex}
 
 \begin{Syntax}
@@ -194,7 +194,7 @@ conj(a+i*b); & REPART(A) - REPART(B)*I - IMPART(A)*I - IMPART(B)
 
 \end{Operator}
 
-\begin{Operator}{CONTINUED_FRACTION}
+\begin{Operator}[continued_fraction]{CONTINUED_FRACTION}
 \index{approximation}\index{rational numbers}
 
 \begin{Syntax}
@@ -221,7 +221,7 @@ continued_fraction(pi,100);
 
 \end{Operator}
 
-\begin{Operator}{DECOMPOSE}
+\begin{Operator}[decompose]{DECOMPOSE}
 \index{decomposition}\index{polynomial}
 The \name{decompose} operator takes a multivariate polynomial as argument,
 and returns an expression and a \nameref{list} of 
@@ -253,7 +253,7 @@ Symbolic Computation (1990) 9, 281-299.
 \end{Operator}
 
 
-\begin{Operator}{DEG}
+\begin{Operator}[deg]{DEG}
 \index{degree}\index{polynomial}
 The operator \name{deg} returns the highest degree of its variable argument
 found in its expression argument.
@@ -280,7 +280,7 @@ deg((x**2 + sin(x))**5,sin(x));                        &        5
 \end{Operator}
 
 
-\begin{Operator}{DEN}
+\begin{Operator}[den]{DEN}
 \index{denominator}\index{rational expression}
 The \name{den} operator returns the denominator of its argument.
 
@@ -319,7 +319,7 @@ effect on the denominator of an expression.
 \end{Operator}
 
 
-\begin{Operator}{DF}
+\begin{Operator}[df]{DF}
 \index{derivative}\index{partial derivative}
 The \name{df} operator finds partial derivatives with respect to one or
 more variables.
@@ -376,7 +376,7 @@ to the previous rule.
 \end{Comments}
 \end{Operator}
 
-\begin{Operator}{EXPAND\_CASES}
+\begin{Operator}[expand_cases]{EXPAND\_CASES}
 \index{solve}
 When a \nameref{root\_of} form in a result of \nameref{solve} 
 has been converted to a \nameref{one\_of} form, \name{expand\_cases}
@@ -384,7 +384,7 @@ can be used to convert this into form corresponding to the
 normal explicit results of \nameref{solve}. See \nameref{root\_of}.
 \end{Operator}
 
-\begin{Operator}{EXPREAD}
+\begin{Operator}[expread]{EXPREAD}
 \index{input}
 \begin{Syntax}
 \name{expread}\(\)
@@ -400,7 +400,7 @@ expread(); a+b;  & A + B
 \end{Operator}
 
 
-\begin{Operator}{FACTORIZE}
+\begin{Operator}[factorize]{FACTORIZE}
 \index{factorize}\index{polynomial}
 The \name{factorize} operator factors a given expression into a list of
 \{factor,power\} pairs.
@@ -461,7 +461,7 @@ For general comments on factoring, see comments under the switch
 \end{Operator}
 
 
-\begin{Operator}{HYPOT}
+\begin{Operator}[hypot]{HYPOT}
 
 \begin{Syntax}
 hypot(\meta{expression},\meta{expression})
@@ -482,7 +482,7 @@ hypot(a,b); & HYPOT(A,B)
 \end{Operator}
 
 
-\begin{Operator}{IMPART}
+\begin{Operator}[impart]{IMPART}
 \index{imaginary part}\index{complex}
 \begin{Syntax}
 \name{impart}\(\meta{expression}\) or \name{impart} \meta{simple\_expression}
@@ -498,7 +498,7 @@ impart(a+i*b); &  REPART(B) + IMPART(A)
 \end{Operator}
 
 
-\begin{Operator}{INT}
+\begin{Operator}[int]{INT}
 \index{integration}
 The \name{int} operator performs analytic integration on a variety of
 functions.
@@ -547,7 +547,7 @@ integrated result should be returned or not.
 \end{Operator}
 
 
-\begin{Operator}{INTERPOL}
+\begin{Operator}[interpol]{INTERPOL}
 \index{interpolation}\index{polynomial}\index{approximation}
 \name{interpol} generates an interpolation polynomial.
 \begin{Syntax}
@@ -574,7 +574,7 @@ stable result even with rounded numbers and an ill-conditioned problem.
 \end{Operator}
 
 
-\begin{Operator}{LCOF}
+\begin{Operator}[lcof]{LCOF}
 \index{coefficient}\index{polynomial}
 The \name{lcof} operator returns the leading coefficient of a given expression
 with respect to a given variable.
@@ -600,7 +600,7 @@ expression.
 \end{Operator}
 
 
-\begin{Operator}{LENGTH}
+\begin{Operator}[length]{LENGTH}
 \index{list}
 The \name{length} operator returns the number of items in a \nameref{list}, the 
 number of
@@ -641,7 +641,7 @@ term.
 \end{Operator}
 
 
-\begin{Operator}{LHS}
+\begin{Operator}[lhs]{LHS}
 \index{left-hand side}\index{equation}
 The \name{lhs} operator returns the left-hand side of an \nameref{equation},
 such as those
@@ -669,7 +669,7 @@ VARIABLE := X
 \end{Operator}
 
 
-\begin{Operator}{LIMIT}
+\begin{Operator}[limit]{LIMIT}
 \index{limit}\index{l'Hopital's rule}
 LIMITS is  a fast limit  package for REDUCE  for functions which  are
 continuous except  for computable poles  and singularities, based  on
@@ -700,7 +700,7 @@ limit((2x+5)/(3x-2),x,infinity);&\rfrac{2}{3}\\
 \end{Operator}
 
 
-\begin{Operator}{LPOWER}
+\begin{Operator}[lpower]{LPOWER}
 \index{leading power}\index{polynomial}
 The \name{lpower} operator returns the leading power of an expression with
 respect to a kernel.  1 is returned if the expression does not depend on
@@ -721,7 +721,7 @@ lpower(x**3 + 3*x,y);        &     1
 \end{Examples}
 \end{Operator}
 
-\begin{Operator}{LTERM}
+\begin{Operator}[lterm]{LTERM}
 \index{leading term}\index{polynomial}
 The \name{lterm} operator returns the leading term of an expression with
 respect to a kernel.  The expression is returned if it does not depend on
@@ -743,7 +743,7 @@ lterm(x**3 + 3*x,y);        &     X^{3} + 3X
 \end{Operator}
 
 
-\begin{Operator}{MAINVAR}
+\begin{Operator}[mainvar]{MAINVAR}
 \index{main variable}\index{polynomial}
 The \name{mainvar} operator returns the main variable (in the system's
 internal representation) of its argument.
@@ -778,7 +778,7 @@ shown above.
 \end{Operator}
 
 
-\begin{Operator}{MAP}
+\begin{Operator}[map]{MAP}
 \index{map}\index{composite structure}
 The \name{map} operator applies a uniform evaluation pattern
 to all members of a composite structure: a \nameref{matrix}, 
@@ -838,7 +838,7 @@ apply \name{map} for a non-composed object, e.g. an identifier or a number.
 
 
 
-\begin{Command}{MKID}
+\begin{Command}[mkid]{MKID}
 \index{identifier}
 The \name{mkid} command constructs an identifier, given a stem and an identifier
 or an integer.
@@ -878,7 +878,7 @@ answers returned by \name{factorize} and \name{solve}.
 \end{Command}
 
 
-\begin{Operator}{NPRIMITIVE}
+\begin{Operator}[nprimitive]{NPRIMITIVE}
 \index{primitive part}\index{polynomial}
 \begin{Syntax}
 \name{nprimitive}\(\meta{expression}\) or \name{nprimitive}
@@ -895,7 +895,7 @@ nprimitive(3*a*b*c); & 3*A*B*C
 \end{Operator}
 
 
-\begin{Operator}{NUM}
+\begin{Operator}[num]{NUM}
 \index{numerator}\index{rational expression}
 The \name{num} operator returns the numerator of its argument.
 \begin{Syntax}
@@ -920,7 +920,7 @@ unchanged.
 \end{Operator}
 
 
-\begin{Operator}{ODESOLVE}
+\begin{Operator}[odesolve]{ODESOLVE}
 \index{differential equation}\index{solve}
 The \name{odesolve} package is a solver for ordinary differential
 equations.  At the present time it has still limited capabilities:
@@ -963,14 +963,14 @@ A counter  \name{!!arbconst}  is used  to  arrange  this.
 \begin{Examples}
 depend y,x;\\
 \% A first-order linear equation, with an initial condition\\
-ode:=df(y,x) + y * sin x/cos x - 1/cos x$\\
+ode:=df(y,x) + y * sin x/cos x - 1/cos x\$\\
 odesolve(ode,y,x); &  \{y=arbconst(1)*cos(x) + sin(x)\}
 \end{Examples}      
 
 \end{Operator}
 
 
-\begin{Type}{ONE\_OF}
+\begin{Type}[one\_of]{ONE\_OF}
 The operator \name{one\_of} is used to represent an indefinite choice
 of one element from a finite set of objects. 
 \begin{Examples}
@@ -984,7 +984,7 @@ A \name{one\_of} form can be converted to a \name{solve} solution using
 \nameref{expand\_cases}.  See \nameref{root\_of}.
 \end{Type}
 
-\begin{Operator}{PART}
+\begin{Operator}[part]{PART}
 \index{decomposition}
 The operator \name{part} permits the extraction of various parts or
 operators of expressions and \nameref{list}\name{s}.
@@ -1039,7 +1039,7 @@ also use \name{part} to change the operator.
 \end{Comments}
 \end{Operator}
 
-\begin{Operator}{PF}
+\begin{Operator}[pf]{PF}
 \index{partial fraction}\index{rational expression}
 \begin{Syntax}
 pf(\meta{expression},\meta{variable})
@@ -1071,7 +1071,7 @@ term.
 \end{Operator}
 
 
-\begin{Operator}{PROD}
+\begin{Operator}[prod]{PROD}
 \index{Gosper algorithm}\index{product}
 The operator  \name{prod} returns
 the indefinite or definite  product of a given expression.
@@ -1095,7 +1095,7 @@ prod(k/(k-2),k);&k*( - k + 1)\\
 \end{Operator}
 
 
-\begin{Operator}{REDUCT}
+\begin{Operator}[reduct]{REDUCT}
 \index{reductum}\index{polynomial}
 The \name{reduct} operator returns the remainder of its expression after the
 leading term with respect to the kernel in the second argument is removed.
@@ -1119,7 +1119,7 @@ If the expression does not contain the kernel, \name{reduct} returns 0.
 \end{Operator}
 
 
-\begin{Operator}{REPART}
+\begin{Operator}[repart]{REPART}
 \index{real part}\index{complex}
 \begin{Syntax}
 \name{repart}\(\meta{expression}\) or \name{repart} \meta{simple\_expression}
@@ -1136,7 +1136,7 @@ repart(a+i*b); & REPART(A) - IMPART(B)
 \end{Operator}
 
 
-\begin{Operator}{RESULTANT}
+\begin{Operator}[resultant]{RESULTANT}
 \index{polynomial}
 The \name{resultant} operator computes the resultant of two polynomials with
 respect to a given variable.  If the resultant is 0, the polynomials have
@@ -1256,7 +1256,7 @@ expression, or a non-kernel variable.
 \end{Operator}
 
 
-\begin{Operator}{RHS}
+\begin{Operator}[rhs]{RHS}
 \index{right-hand side}\index{equation}
 The \name{rhs} operator returns the right-hand side of an \nameref{equation}, 
 such as those returned in a \nameref{list} by \nameref{solve}.
@@ -1285,7 +1285,7 @@ equation.
 \end{Comments}
 \end{Operator}
 
-\begin{Operator}{ROOT\_OF}
+\begin{Operator}[root\_of]{ROOT\_OF}
 \index{roots}\index{solve}
 When the operator \nameref{solve} is unable to find an explicit solution
 or if that solution would be too complicated, the result is presented
@@ -1314,7 +1314,7 @@ A higher power of a \name{root\_of} expression with a polynomial
 as first argument is simplified by using the polynomial as a side relation.
 \end{Operator}
 
-\begin{Operator}{SELECT}
+\begin{Operator}[select]{SELECT}
 \index{map}\index{list}
 
 The \name{select} operator extracts from a list 
@@ -1359,7 +1359,7 @@ input expression.
 \end{Examples}
 \end{Operator}
 
-\begin{Operator}{SHOWRULES}
+\begin{Operator}[showrules]{SHOWRULES}
 \index{rule}\index{output}
 \begin{Syntax}
 \name{showrules}\(\meta{expression}\) or
@@ -1391,7 +1391,7 @@ as a procedure.
 \end{Operator}
 
 
-\begin{Operator}{SOLVE}
+\begin{Operator}[solve]{SOLVE}
 \index{equation}\index{equation solving}
 \index{equation system}\index{root}\index{solve}
 The \name{solve} operator solves a single algebraic \nameref{equation} or a
@@ -1518,7 +1518,7 @@ as long as the switch \nameref{arbvars} is on (default). Without
 
 \end{Operator}
 
-\begin{Operator}{SORT}
+\begin{Operator}[sort]{SORT}
 \index{sorting}
 The \name{sort} operator sorts the elements of a list according to
 an arbitrary comparison operator.
@@ -1540,7 +1540,7 @@ elements of \meta{lst} in a sequence corresponding to \meta{comp}.
  % Sort random integers\\
 procedure ce(a,b);\\
    if evenp a and not evenp b then 1 else 0;\\
-for i:=1:10 collect random(50)$\\
+for i:=1:10 collect random(50)\$\\
 sort(ws,>=); & \{41,38,33,30,28,25,20,17,8,5\}\\
 sort(ws,<); & \{5,8,17,20,25,28,30,33,38,41\}\\
 sort(ws,ce); &\{8,20,28,30,38,5,17,25,33,41\}\\
@@ -1554,7 +1554,7 @@ sort({x^2,y^2,x*y},cd);&\{x^2,x*y,y^2\}
 \end{Examples}
 \end{Operator}
 
-\begin{Operator}{STRUCTR}
+\begin{Operator}[structr]{STRUCTR}
 \index{decomposition}
 The \name{structr} operator breaks its argument expression into named
 subexpressions.
@@ -1607,7 +1607,7 @@ name.  You can send these structured Fortran expressions to a file with the
 \end{Operator}
 
 
-\begin{Operator}{SUB}
+\begin{Operator}[sub]{SUB}
 \index{substitution}
 The \name{sub} operator substitutes a new expression for a kernel in an
 expression.
@@ -1637,7 +1637,7 @@ Note in the second example that operators can be replaced using the
 \end{Operator}
 
 
-\begin{Operator}{SUM}
+\begin{Operator}[sum]{SUM}
 \index{Gosper algorithm}\index{summation}
 The operator  \name{sum} returns
 the indefinite or definite  summation of a given expression.
@@ -1662,7 +1662,7 @@ sum(2a+2k*r,k,0,n-1);& n*(2*a + n*r - r)\\
 \end{Operator}
 
 
-\begin{Operator}{WS}
+\begin{Operator}[ws]{WS}
 \index{work space}\index{interactive}
 The \name{ws} operator alone returns the last result; \name{ws} with a
 number argument returns the results of the REDUCE statement executed after

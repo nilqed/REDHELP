@@ -1,7 +1,7 @@
 \section{Concepts}
 
 
-\begin{Type}{IDENTIFIER}
+\begin{Type}[identifier]{IDENTIFIER}
 Identifiers in REDUCE consist of one or more alphanumeric characters, of
 which the first must be alphabetical.  The maximum number of characters
 allowed is system dependent, but is usually over 100.  However, printing
@@ -43,7 +43,7 @@ identifier either.
 \end{Type}
 
 
-\begin{Type}{KERNEL}
+\begin{Type}[kernel]{KERNEL}
 A \name{kernel} is a form that cannot be modified further by the REDUCE
 canonical simplifier.  Scalar variables are always kernels.  The
 other important class of kernels are operators with their arguments.
@@ -86,7 +86,7 @@ result from attempts to use non-kernel expressions for these arguments.
 \end{Type}
 
 
-\begin{Type}{STRING}
+\begin{Type}[string]{STRING}
 A \name{string} is any collection of characters enclosed in double quotation
 marks (\name{"}).  It may be used as an argument for a variety of commands
 and operators, such as \name{in}, \name{rederr} and \name{write}.

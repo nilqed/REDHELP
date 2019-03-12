@@ -194,8 +194,8 @@
 \indexentry{integer|hyperpage}{101}
 \indexentry{CHOOSE|hyperpage}{102}
 \indexentry{Operator!CHOOSE|hyperpage}{102}
-\indexentry{DEG2DMS|hyperpage}{103}
-\indexentry{Operator!DEG2DMS|hyperpage}{103}
+\indexentry{d|hyperpage}{103}
+\indexentry{Operator!d|hyperpage}{103}
 \indexentry{degrees|hyperpage}{103}
 \indexentry{radians|hyperpage}{103}
 \indexentry{DEG2RAD|hyperpage}{104}
@@ -298,8 +298,8 @@
 \indexentry{equation|hyperpage}{138}
 \indexentry{EVENP|hyperpage}{139}
 \indexentry{Operator!EVENP|hyperpage}{139}
-\indexentry{false|hyperpage}{140}
-\indexentry{Concept!false|hyperpage}{140}
+\indexentry{FALSE|hyperpage}{140}
+\indexentry{Concept!FALSE|hyperpage}{140}
 \indexentry{FREEOF|hyperpage}{141}
 \indexentry{Operator!FREEOF|hyperpage}{141}
 \indexentry{LEQ|hyperpage}{142}

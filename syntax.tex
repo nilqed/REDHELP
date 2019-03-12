@@ -85,11 +85,11 @@ percent sign and the end of the line.
 \end{Command}
 
 
-% \begin{Operator}[ampersand]{&}
-%
-% ***** To be added *****
-%
-% \end{Operator}
+\begin{Operator}[ampersand]{\&}
+
+ ***** To be added *****
+
+\end{Operator}
 %
 %
 \begin{Operator}[dot]{.}
@@ -549,7 +549,7 @@ or \nameref{repeat}\ldots\name{until} or
 \end{Comments}
 \end{Operator}
 
-\begin{Operator}[tilde]{~}
+\begin{Operator}[tilde]{\textasciitilde}
 The \name{~} is used as a unary prefix operator in the left-hand
 sides of \nameref{rule}s to mark \nameref{free variable}s. A double tilde
 marks an optional \nameref{free variable}.
@@ -592,7 +592,7 @@ the group statement are separated by semicolons or dollar signs.
 \end{Command}
 
 
-\begin{Operator}{AND}
+\begin{Operator}[and]{AND}
 The \name{and} binary logical operator returns {\em true} if both of its
 arguments are {\em true}.
 
@@ -625,7 +625,7 @@ contexts.
 \end{Operator}
 
 
-\begin{Command}{BEGIN}
+\begin{Command}[begin]{BEGIN}
 \name{begin} is used to start a \nameref{block} statement, which is closed with
 \name{end}.
 
@@ -671,7 +671,7 @@ careful that you do not do it inadvertently.
 \end{Command}
 
 
-\begin{Command}{block}
+\begin{Command}[block]{BLOCK}
 A \name{block} is a sequence of statements enclosed by
 commands \nameref{begin} and \nameref{end}.
 
@@ -682,7 +682,7 @@ For more details see \nameref{begin}.
 \end{Command}
 
 
-\begin{Command}{COMMENT}
+\begin{Command}[comment]{COMMENT}
 Beginning with the word \name{comment}, all text until the next statement
 terminator (\name{;} or \name{\$}) is ignored.
 
@@ -703,7 +703,7 @@ REDUCE statements in the file.
 \end{Command}
 
 
-\begin{Operator}{CONS}
+\begin{Operator}[cons]{CONS}
 The \name{cons} operator adds a new element to the beginning of a 
 \nameref{list}.  Its
 operation is identical to the symbol \nameref{dot} (dot).  It can be used
@@ -742,7 +742,7 @@ if \name{c} is a list; \name{b} need not be a list.  The list produced is
 \end{Operator}
 
 
-\begin{Command}{END}
+\begin{Command}[end]{END}
 The command \name{end} has two main uses:
 \begin{itemize}
 \item[(i)]
@@ -768,7 +768,7 @@ An \name{end} at the top level of a program is ignored.
 \end{Command}
 
 
-\begin{Type}{EQUATION}
+\begin{Type}[equation]{EQUATION}
 \index{equation}\index{equal}\index{arithmetic}
 An \name{equation} is an expression where two algebraic expressions
 are connected by the (infix) operator \nameref{equal} or by \nameindex{=}.
@@ -802,7 +802,7 @@ For other operations, e.g. taking function values of both sides, use the
 
 \end{Type}
 
-\begin{Operator}{FIRST}
+\begin{Operator}[first]{FIRST}
 \index{list}\index{decomposition}
 The \name{first} operator returns the first element of a \nameref{list}.
 \begin{Syntax}
@@ -820,7 +820,7 @@ first third blist;           &  WW
 \end{Operator}
 
 
-\begin{Command}{FOR}
+\begin{Command}[for]{FOR}
 \index{loop}
 The \name{for} command is used for iterative loops.  There are many
 possible forms it can take.
@@ -964,7 +964,7 @@ statement returns an expression that the outer statement can handle.
 \end{Command}
 
 
-\begin{Command}{FOREACH}
+\begin{Command}[foreach]{FOREACH}
 \index{loop}
 \name{foreach} is a synonym for the \name{for each} variant of the
 \nameref{for} construct.  It is designed to iterate down a list, and an
@@ -983,7 +983,7 @@ foreach x in {q,r,s} sum x**2;  &   Q^{2} + R^{2} + S^{2}
 \end{Command}
 
 
-\begin{Operator}{GEQ}
+\begin{Operator}[geq]{GEQ}
 The \name{geq} operator is a binary infix or prefix logical operator.  It
 returns true if its first argument is greater than or equal to its second 
 argument.  As an infix operator it is identical with \name{>=}.
@@ -1013,7 +1013,7 @@ Logical operators can only be used in conditional statements such as \\
 \end{Operator}
 
 
-\begin{Command}{GOTO}
+\begin{Command}[goto]{GOTO}
 Inside a \name{begin}\ldots\name{end} \nameref{block}, \name{goto}, or 
 preferably, \name{go to}, transfers flow of control to a labeled statement.
 \begin{Syntax}
@@ -1044,7 +1044,7 @@ the block only statements at the top level can be labeled, not ones inside
 \end{Command}
 
 
-\begin{Operator}{GREATERP}
+\begin{Operator}[greaterp]{GREATERP}
 The \name{greaterp} logical operator returns true if its first argument is
 strictly greater than its second argument.  As an infix operator it is
 identical with \name{>}.
@@ -1075,7 +1075,7 @@ or \nameref{repeat}\ldots\nameref{while}.
 \end{Operator}
 
 
-\begin{Command}{IF}
+\begin{Command}[if]{IF}
 The \name{if} command is a conditional statement that executes a statement
 if a condition is true, and optionally another statement if it is not.
 \begin{Syntax}
@@ -1157,7 +1157,7 @@ which is equivalent to
 \end{Command}
 
 
-\begin{Operator}{LIST}
+\begin{Operator}[list]{LIST}
 \index{list}
 The \name{list} operator constructs a list from its arguments.
 \begin{Syntax}
@@ -1192,7 +1192,7 @@ count as one element.
 \end{Operator}
 
 
-\begin{Operator}{OR}
+\begin{Operator}[or]{OR}
 The \name{or} binary logical operator returns {\it true} if either one or
 both of its arguments is {\it true}.
 \begin{Syntax}
@@ -1226,7 +1226,7 @@ on finding the first {\it true} statement.
 \end{Operator}
 
 
-\begin{Command}{PROCEDURE}
+\begin{Command}[procedure]{PROCEDURE}
 The \name{procedure} command allows you to define a mathematical operation as a
 function with arguments.
 \begin{Syntax}
@@ -1337,7 +1337,7 @@ you like, by loading the files that contain them.
 \end{Command}
 
 
-\begin{Command}{REPEAT}
+\begin{Command}[repeat]{REPEAT}
 \index{loop}
 The \nameref{repeat} command causes repeated execution of a statement 
 \nameindex{until}
@@ -1374,7 +1374,7 @@ condition was first evaluated.
 \end{Command}
 
 
-\begin{Operator}{REST}
+\begin{Operator}[rest]{REST}
 \index{list}\index{decomposition}
 The \name{rest} operator returns a \nameref{list} containing all but the first 
 element of the list it is given.
@@ -1397,7 +1397,7 @@ rest clist;                  &     \{\}
 \end{Operator}
 
 
-\begin{Command}{RETURN}
+\begin{Command}[return]{RETURN}
 The \name{return} command causes a value to be returned from inside a
 \name{begin}\ldots\name{end} \nameref{block}.
 \begin{TEX}
@@ -1467,7 +1467,7 @@ block, rather than all the way to the outside.
 \end{Command}
 
 
-\begin{Operator}{REVERSE}
+\begin{Operator}[reverse]{REVERSE}
 \index{list}
 The \name{reverse} operator returns a \nameref{list} that is the reverse of the 
 list it is given.
@@ -1494,7 +1494,7 @@ reversing of lists.  A moderate amount of list reversing is no problem.
 \end{Operator}
 
 
-\begin{Type}{RULE}
+\begin{Type}[rule]{RULE}
 \index{rule}\index{rule list}
 A \name{rule} is an instruction to replace an algebraic expression
 or a part of an expression by another one. 
@@ -1529,14 +1529,14 @@ operator f,g,h; \\
 let f(x) => x^2; \\
 f(x); & x^{2}\\
 g_rules:=\{g(~n,~x)=>h(n/2,x) when evenp n,\\
-g(~n,~x)=>h((1-n)/2,x) when not evenp n\}$\\
+g(~n,~x)=>h((1-n)/2,x) when not evenp n\}\$\\
 let g_rules;\\
 g(3,x); & h(-1,x)
 \end{Examples}
 
 \end{Type}
 
-\begin{Type}{Free Variable}
+\begin{Type}[free variable]{Free Variable}
 \index{variable}
 A variable preceded by a tilde is considered as \name{free variable}
 and stands for an arbitrary part in an algebraic form during
@@ -1548,7 +1548,7 @@ calls. See \nameref{rule} for examples.
 In rules also \nameref{optional free variable}s may occur.
 \end{Type}
 
-\begin{Type}{Optional Free Variable}
+\begin{Type}[optional free variable]{Optional Free Variable}
 \index{variable}
 A variable preceded by a double tilde is considered as 
 \name{optional free variable}
@@ -1573,7 +1573,7 @@ Optional free variables are allowed only in the left-hand sides
 of \nameref{rule}s.
 \end{Type}
 
-\begin{Operator}{SECOND}
+\begin{Operator}[second]{SECOND}
 \index{list}\index{decomposition}
 The \name{second} operator returns the second element of a list.
 \begin{Syntax}
@@ -1594,7 +1594,7 @@ second second blist;         &      BB
 \end{Operator}
 
 
-\begin{Operator}{SET}
+\begin{Operator}[set]{SET}
 \index{assign}
 The \name{set} operator is used for assignments when you want both sides of
 the assignment statement to be evaluated.
@@ -1626,7 +1626,7 @@ side effects when you use this facility.
 \end{Operator}
 
 
-\begin{Operator}{SETQ}
+\begin{Operator}[setq]{SETQ}
 \index{assign}
 The \name{setq} operator is an infix or prefix binary assignment operator.
 It is identical to \name{:=}.
@@ -1679,7 +1679,7 @@ to attach functionality to operators, as the \name{:=} does.
 \end{Operator}
 
 
-\begin{Operator}{THIRD}
+\begin{Operator}[third]{THIRD}
 \index{list}\index{decomposition}
 The \name{third} operator returns the third item of a \nameref{list}.
 \begin{Syntax}
@@ -1701,7 +1701,7 @@ third blist;                 &      Y
 
 \end{Operator}
 
-\begin{Operator}{WHEN}
+\begin{Operator}[when]{WHEN}
 \index{rule}
 The \name{when} operator is used inside a \name{rule} to make the
 execution of the rule depend on a boolean condition which is

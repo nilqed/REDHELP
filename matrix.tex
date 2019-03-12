@@ -1,6 +1,6 @@
 \section{Matrix Operations}
 
-\begin{Operator}{COFACTOR}
+\begin{Operator}[cofactor]{COFACTOR}
 \index{matrix}
 The operator \name{cofactor} returns the cofactor of the element in row
 \meta{row} and column \meta{column} of a \nameref{matrix}.  Errors occur
@@ -19,7 +19,7 @@ cofactor(mat((a,b,c),(d,e,f)),1,1); &  ***** non-square matrix
 \end{Operator}
 
 
-\begin{Operator}{DET}
+\begin{Operator}[det]{DET}
 \index{matrix}\index{determinant}
 The \name{det} operator returns the determinant of its 
 (square \nameref{matrix}) argument.
@@ -61,7 +61,7 @@ matrix, \name{det} returns an error message.
 \end{Operator}
 
 
-\begin{Operator}{MAT}
+\begin{Operator}[mat]{MAT}
 \index{matrix}
 The \name{mat} operator is used to represent a two-dimensional 
 \nameref{matrix}.
@@ -117,7 +117,7 @@ eliminate ambiguity.
 \end{Operator}
 
 
-\begin{Operator}{MATEIGEN}
+\begin{Operator}[mateigen]{MATEIGEN}
 \index{matrix}\index{eigenvalue}
 The \name{mateigen} operator calculates the eigenvalue equation and the
 corresponding eigenvectors of a \nameref{matrix}.
@@ -172,7 +172,7 @@ tag-id} for this operator.
 \end{Operator}
 
 
-\begin{Declaration}{MATRIX}
+\begin{Declaration}[matrix]{MATRIX}
 Identifiers are declared to be of type \name{matrix}.
 \begin{Syntax}
 \name{matrix} \meta{identifier} \&option \(\meta{index},\meta{index}\)\\
@@ -238,7 +238,7 @@ matrix is redimensioned if necessary.
 \end{Declaration}
 
 
-\begin{Operator}{NULLSPACE}
+\begin{Operator}[nullspace]{NULLSPACE}
 \index{matrix}
 \begin{Syntax}
 \name{nullspace}(\meta{matrix\_expression})
@@ -290,7 +290,7 @@ algebra.
 \end{Operator}
 
 
-\begin{Operator}{RANK}
+\begin{Operator}[rank]{RANK}
 \index{matrix}
 \begin{Syntax}
 \name{rank}(\meta{matrix\_expression})
@@ -312,7 +312,7 @@ applications different from classical linear algebra.
 \end{Operator}
 
 
-\begin{Operator}{TP}
+\begin{Operator}[tp]{TP}
 \index{transpose}\index{matrix}
 The \name{tp} operator returns the transpose of its \nameref{matrix}
  argument.
@@ -325,7 +325,7 @@ in its declaration, or has had values put into it by \name{mat}.
 
 \begin{Examples}
 matrix m,n; \\
-m := mat((1,2,3),(4,5,6))$ \\
+m := mat((1,2,3),(4,5,6))\$ \\
 n := tp m;                   &
 \begin{multilineoutput}{6cm}
 N(1,1) := 1
@@ -343,7 +343,7 @@ left-hand side is redimensioned to the correct size for the transpose.
 \end{Operator}
 
 
-\begin{Operator}{TRACE}
+\begin{Operator}[trace]{TRACE}
 \index{matrix}
 The \name{trace} operator finds the trace of its \nameref{matrix} argument.
 \begin{Syntax}

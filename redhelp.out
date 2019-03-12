@@ -75,7 +75,7 @@
 \BOOKMARK [2][-]{subsection.5.4}{ARG}{section.5}% 75
 \BOOKMARK [2][-]{subsection.5.5}{CEILING}{section.5}% 76
 \BOOKMARK [2][-]{subsection.5.6}{CHOOSE}{section.5}% 77
-\BOOKMARK [2][-]{subsection.5.7}{DEG2DMS}{section.5}% 78
+\BOOKMARK [2][-]{subsection.5.7}{d}{section.5}% 78
 \BOOKMARK [2][-]{subsection.5.8}{DEG2RAD}{section.5}% 79
 \BOOKMARK [2][-]{subsection.5.9}{DIFFERENCE}{section.5}% 80
 \BOOKMARK [2][-]{subsection.5.10}{DILOG}{section.5}% 81
@@ -112,7 +112,7 @@
 \BOOKMARK [2][-]{subsection.6.1}{boolean value}{section.6}% 112
 \BOOKMARK [2][-]{subsection.6.2}{EQUAL}{section.6}% 113
 \BOOKMARK [2][-]{subsection.6.3}{EVENP}{section.6}% 114
-\BOOKMARK [2][-]{subsection.6.4}{false}{section.6}% 115
+\BOOKMARK [2][-]{subsection.6.4}{FALSE}{section.6}% 115
 \BOOKMARK [2][-]{subsection.6.5}{FREEOF}{section.6}% 116
 \BOOKMARK [2][-]{subsection.6.6}{LEQ}{section.6}% 117
 \BOOKMARK [2][-]{subsection.6.7}{LESSP}{section.6}% 118

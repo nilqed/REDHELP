@@ -8,7 +8,7 @@ synonym for \name{bye}.
 
 \end{Command}
 
-\begin{Command}{CONT}
+\begin{Command}[cont]{CONT}
 The command \name{cont} returns control to an interactive file after a
 \nameref{pause} command that has been answered with \name{n}.
 
@@ -33,7 +33,7 @@ wish to resume operation of the interactive file, use \name{cont}.
 \end{Command}
 
 
-\begin{Command}{DISPLAY}
+\begin{Command}[display]{DISPLAY}
 \index{history}\index{interactive}
 When given a numeric argument \meta{n}, \name{display} prints the \meta{n}
 most recent input statements, identified by prompt numbers.  If an empty
@@ -59,7 +59,7 @@ printing.
 \end{Command}
 
 
-\begin{Command}{LOAD\_PACKAGE}
+\begin{Command}[load\_package]{LOAD\_PACKAGE}
 \index{package}
 The \name{load\_package} command is used to load REDUCE packages, such as
 \name{gentran} that are not automatically loaded by the system.
@@ -73,7 +73,7 @@ for the same package name are ignored.
 \end{Command}
 
 
-\begin{Command}{PAUSE}
+\begin{Command}[pause]{PAUSE}
 \index{interactive}
 The \name{pause} command, given in an interactive file, stops operation and
 asks if you want to continue or not.
@@ -118,7 +118,7 @@ A \name{pause} typed from the terminal has no effect.
 \end{Command}
 
 
-\begin{Command}{QUIT}
+\begin{Command}[quit]{QUIT}
 The \name{quit} command ends the REDUCE session, returning control to the
 program (e.g., the operating system) that called REDUCE.  When you are at
 the top level, the \name{quit} command exits REDUCE. \nameref{bye} is a
@@ -127,7 +127,7 @@ synonym for \name{quit}.
 \end{Command}
 
 
-\begin{Operator}{RECLAIM}
+\begin{Operator}[reclaim]{RECLAIM}
 \index{memory}
 \begin{Comments}
 REDUCE's memory is in a storage structure called a heap.  As REDUCE
@@ -145,7 +145,7 @@ garbage collect many times.
 \end{Operator}
 
 
-\begin{Command}{REDERR}
+\begin{Command}[rederr]{REDERR}
 \index{error handling}
 The \name{rederr} command allows you to print an error message from inside
 a \nameref{procedure} or a \nameref{block} statement.  
@@ -183,7 +183,7 @@ need to clean up such items before exiting, use a group statement, with the
 \end{Command}
 
 
-\begin{Command}{RETRY}
+\begin{Command}[retry]{RETRY}
 \index{interactive}
 The \name{retry} command allows you to retry the latest statement that resulted
 in an error message.
@@ -207,7 +207,7 @@ continue on your way without retyping the original command.
 \end{Command}
 
 
-\begin{Command}{SAVEAS}
+\begin{Command}[saveas]{SAVEAS}
 The \name{saveas} command saves the current workspace under the name of its
 argument.
 \begin{Syntax}
@@ -234,7 +234,7 @@ For access to previous output use \nameref{ws}.
 \end{Command}
 
 
-\begin{Command}{SHOWTIME}
+\begin{Command}[showtime]{SHOWTIME}
 \index{time}
 The \name{showtime} command prints the elapsed system time since the last
 call of this command or since the beginning of the session, if it has not
@@ -256,7 +256,7 @@ will of course vary from this example according to the system you use.
 \end{Command}
 
 
-\begin{Command}{WRITE}
+\begin{Command}[write]{WRITE}
 \index{output}
 The \name{write} command explicitly writes its arguments to the output device
 (terminal or file).

@@ -1,6 +1,6 @@
 \section{Declarations}
 
-\begin{Command}{ALGEBRAIC}
+\begin{Command}[algebraic]{ALGEBRAIC}
 \index{evaluation}
 The \name{algebraic} command changes REDUCE's mode of operation to
 algebraic.  When \name{algebraic} is used as an operator (with an
@@ -26,7 +26,7 @@ used for the REDUCE implementation.
 \end{Command}
 
 
-\begin{Declaration}{ANTISYMMETRIC}
+\begin{Declaration}[antisymmetric]{ANTISYMMETRIC}
 When an operator is declared \name{antisymmetric}, its arguments are
 reordered to conform to the internal ordering of the system.  If an odd
 number of argument interchanges are required to do this ordering,
@@ -62,7 +62,7 @@ The operators may have any desired number of arguments (less than 128).
 \end{Declaration}
 
 
-\begin{Declaration}{ARRAY}
+\begin{Declaration}[array]{ARRAY}
 The \name{array} declaration declares a list of identifiers to be of type
 \name{array}, and sets all their entries to 0.
 \begin{Syntax}
@@ -114,7 +114,7 @@ elements in each dimension.
 \end{Declaration}
 
 
-\begin{Command}{CLEAR}
+\begin{Command}[clear]{CLEAR}
 The \name{clear} command is used to remove assignments or remove substitution
 rules from any expression.
 
@@ -176,7 +176,7 @@ with just the variable or operator name.  \nameref{match} behaves the same as
 \end{Command}
 
 
-\begin{Command}{CLEARRULES}
+\begin{Command}[clearrules]{CLEARRULES}
 \index{rule}
 \begin{Syntax}
 \name{clearrules} \meta{list}\{,\meta{list}\}\repeated
@@ -191,7 +191,7 @@ trig1 := {cos(~x)*cos(~y) => (cos(x+y)+cos(x-y))/2,
           cos(~x)*sin(~y) => (sin(x+y)-sin(x-y))/2,
           sin(~x)*sin(~y) => (cos(x-y)-cos(x+y))/2,
           cos(~x)^2       => (1+cos(2*x))/2,
-          sin(~x)^2       => (1-cos(2*x))/2}$ \\
+          sin(~x)^2       => (1-cos(2*x))/2}\$ \\
 let trig1;
 cos(a)*cos(b); &
 \rfrac{COS(A - B) + COS(A + B)}{2} \\
@@ -202,7 +202,7 @@ cos(a)*cos(b); &  COS(A)*COS(B)
 \end{Command}
 
 
-\begin{Command}{DEFINE}
+\begin{Command}[define]{DEFINE}
 The command \name{define} allows you to supply a new name for an identifier
 or replace it by any valid REDUCE expression.
 
@@ -235,7 +235,7 @@ it, since you cannot easily undo it without ending the session.
 \end{Command}
 
 
-\begin{Declaration}{DEPEND}
+\begin{Declaration}[depend]{DEPEND}
 \index{dependency}
 \name{depend} declares that its first argument depends on the rest of its
 arguments.
@@ -286,7 +286,7 @@ check the dependency between two algebraic objects.
 \end{Declaration}
 
 
-\begin{Declaration}{EVEN}
+\begin{Declaration}[even]{EVEN}
 \begin{Syntax}
 \name{even} \meta{identifier}\{,\meta{identifier}\}\optional
 \end{Syntax}
@@ -302,7 +302,7 @@ arguments are not affected.
 \end{Declaration}
 
 
-\begin{Declaration}{FACTOR}
+\begin{Declaration}[factor]{FACTOR}
 \index{output}
 When a kernel is declared by \name{factor}, all terms involving fixed
 powers of that kernel are printed as a product of the fixed powers and
@@ -348,7 +348,7 @@ should also use \nameref{order} if this is important.
 \end{Declaration}
 
 
-\begin{Command}{FORALL}
+\begin{Command}[forall]{FORALL}
 \index{substitution}
 The \name{forall} or (preferably) \name{for all} command is used as a
 modifier for \nameref{let} statements, indicating the universal applicability
@@ -419,7 +419,7 @@ sin(x)=0;} has exactly that effect, and the usual definition for sin(x) has
 been lost for the remainder of the REDUCE session. \end{Comments}
 \end{Command}
 
-\begin{Declaration}{INFIX}
+\begin{Declaration}[infix]{INFIX}
 \index{operator}
 \name{infix} declares identifiers to be infix operators.
 \begin{Syntax}
@@ -463,7 +463,7 @@ ambiguity.  Infix operators are always binary.
 \end{Declaration}
 
 
-\begin{Declaration}{INTEGER}
+\begin{Declaration}[integer]{INTEGER}
 The \name{integer} declaration must be made immediately after a
 \nameref{begin} (or other variable declaration such as \nameref{real}
 and \nameref{scalar}) and declares local integer variables.  They are
@@ -493,7 +493,7 @@ change made to them inside the block affects their global value.  Any
 \end{Declaration}
 
 
-\begin{Declaration}{KORDER}
+\begin{Declaration}[korder]{KORDER}
 \index{kernel order}\index{variable order}\index{order}
 The \name{korder} declaration changes the internal canonical ordering of
 kernels.
@@ -523,7 +523,7 @@ To change the print ordering, use the declaration \nameref{order}.
 \end{Declaration}
 
 
-\begin{Command}{LET}
+\begin{Command}[let]{LET}
 \index{substitution}\index{rule}
 The \name{let} command defines general or specific substitution rules.
 \begin{Syntax}
@@ -570,7 +570,7 @@ trig1 := {cos(~x)*cos(~y) => (cos(x+y)+cos(x-y))/2,
           cos(~x)*sin(~y) => (sin(x+y)-sin(x-y))/2,
           sin(~x)*sin(~y) => (cos(x-y)-cos(x+y))/2,
           cos(~x)^2       => (1+cos(2*x))/2,
-          sin(~x)^2       => (1-cos(2*x))/2}$ \\
+          sin(~x)^2       => (1-cos(2*x))/2}\$ \\
 let trig1;
 cos(a)*cos(b); &
 \rfrac{COS(A - B) + COS(A + B)}{2}
@@ -689,7 +689,7 @@ approach is to assume that the rules will be applied in an arbitrary order.
 \end{Command}
 
 
-\begin{Declaration}{LINEAR}
+\begin{Declaration}[linear]{LINEAR}
 \index{operator}
 An operator can be declared linear in its first argument over powers of
 its second argument by the declaration \name{linear.}
@@ -733,7 +733,7 @@ complete listing of REDUCE procedures used for this work.
 \end{Declaration}
 
 
-\begin{Declaration}{LINELENGTH}
+\begin{Declaration}[linelength]{LINELENGTH}
 \index{output}
 The \name{linelength} declaration sets the length of the output line. Default
 is 80.
@@ -755,7 +755,7 @@ linelength value, but not change it, say \name{linelength nil}.
 \end{Declaration}
 
 
-\begin{Command}{LISP}
+\begin{Command}[lisp]{LISP}
 The \name{lisp} command changes REDUCE's mode of operation to symbolic.  When
 \name{lisp} is followed by an expression, that expression is evaluated in
 symbolic mode, but REDUCE's mode is not changed.  This command is
@@ -773,7 +773,7 @@ c := (lisp car '(first second))**2; \\
 \end{Command}
 
 
-\begin{Declaration}{LISTARGP}
+\begin{Declaration}[listargp]{LISTARGP}
 \index{list}\index{argument}
 \begin{Syntax}
 \name{listargp} \meta{operator}\{\name{,}\meta{operator}\}\optional
@@ -800,7 +800,7 @@ argument, no such distribution occurs, so \name{listargp} has no effect.
 \end{Declaration}
 
 
-\begin{Declaration}{NODEPEND}
+\begin{Declaration}[nodepend]{NODEPEND}
 \index{depend}
 The \name{nodepend} declaration removes the dependency declared with
 \nameref{depend}.
@@ -829,7 +829,7 @@ A warning message is printed if the dependency had not been declared by
 \end{Declaration}
 
 
-\begin{Command}{MATCH}
+\begin{Command}[match]{MATCH}
 \index{substitution}
 The \name{match} command is similar to the \nameref{let} command, except
 that it matches only explicit powers in substitution.
@@ -879,7 +879,7 @@ or \nameref{forall}\ldots\name{such that} commands.
 \end{Command}
 
 
-\begin{Declaration}{NONCOM}
+\begin{Declaration}[noncom]{NONCOM}
 \index{commutative}\index{non commutative}\index{operator}
 \name{noncom} declares that already-declared operators are noncommutative
 under multiplication.
@@ -913,7 +913,7 @@ can remain an indeterminate operator.
 \end{Declaration}
 
 
-\begin{Declaration}{NONZERO}
+\begin{Declaration}[nonzero]{NONZERO}
 \index{operator}
 \begin{Syntax}
 \name{nonzero} \meta{identifier}\{,\meta{identifier}\}\optional
@@ -930,7 +930,7 @@ declaration \name{nonzero}.
 \end{Declaration}
 
 
-\begin{Declaration}{ODD}
+\begin{Declaration}[odd]{ODD}
 \index{operator}
 
 \begin{Syntax}
@@ -956,7 +956,7 @@ unless \name{f} is also declared {\em non zero} by the declaration
 \end{Declaration}
 
 
-\begin{Command}{OFF}
+\begin{Command}[off]{OFF}
 \index{switch}
 The \name{off} command is used to turn switches off.
 \begin{Syntax}
@@ -969,7 +969,7 @@ given.
 \end{Command}
 
 
-\begin{Command}{ON}
+\begin{Command}[on]{ON}
 \index{switch}
 The \name{on} command is used to turn switches on.
 \begin{Syntax}
@@ -982,7 +982,7 @@ given.
 \end{Command}
 
 
-\begin{Declaration}{OPERATOR}
+\begin{Declaration}[operator]{OPERATOR}
 Use the \name{operator} declaration to declare your own operators.
 \begin{Syntax}
 \name{operator} \meta{identifier}\{,\meta{identifier}\}\optional
@@ -1037,7 +1037,7 @@ declaring the calling variable as the operator.
 \end{Declaration}
 
 
-\begin{Declaration}{ORDER}
+\begin{Declaration}[order]{ORDER}
 \index{order}\index{variable order}\index{output}
 The \name{order} declaration changes the order of precedence of kernels for
 display purposes only.
@@ -1075,7 +1075,7 @@ switch \nameref{pri} is off.
 \end{Declaration}
 
 
-\begin{Declaration}{PRECEDENCE}
+\begin{Declaration}[precedence]{PRECEDENCE}
 \index{operator}
 The \name{precedence} declaration attaches a precedence to an infix operator.
 \begin{Syntax}
@@ -1122,7 +1122,7 @@ All prefix operators have precedence higher than infix operators.
 \end{Declaration}
 
 
-\begin{Declaration}{PRECISION}
+\begin{Declaration}[precision]{PRECISION}
 \index{rounded}\index{floating point}
 The \name{precision} declaration sets the number of decimal places used when
 \nameref{rounded} is on.  Default is system dependent, and normally about 12.
@@ -1153,7 +1153,7 @@ rounds off.
 \end{Declaration}
 
 
-\begin{Declaration}{PRINT\_PRECISION}
+\begin{Declaration}[print_precision]{PRINT\_PRECISION}
 \index{output}\index{floating point}\index{rounded}
 
 \begin{Syntax}
@@ -1174,7 +1174,7 @@ print_precision 5; \\
 \end{Declaration}
 
 
-\begin{Declaration}{REAL}
+\begin{Declaration}[real]{REAL}
 The \name{real} declaration must be made immediately after a
 \nameref{begin} (or other variable declaration such as \nameref{integer}
 and \nameref{scalar}) and declares local integer variables.  They are
@@ -1205,7 +1205,7 @@ global.
 \end{Declaration}
 
 
-\begin{Declaration}{REMFAC}
+\begin{Declaration}[remfac]{REMFAC}
 \index{factor}\index{output}
 The \name{remfac} declaration removes the special factoring treatment of its
 arguments that was declared with \nameref{factor}.
@@ -1218,7 +1218,7 @@ was declared as special with the \nameref{factor} declaration.
 \end{Declaration}
 
 
-\begin{Declaration}{SCALAR}
+\begin{Declaration}[scalar]{SCALAR}
 The \name{scalar} declaration must be made immediately after a
 \nameref{begin} (or other variable declaration such as \nameref{integer}
 and \nameref{real}) and declares local scalar variables.  They are
@@ -1248,7 +1248,7 @@ declared inside a block are always global.
 \end{Declaration}
 
 
-\begin{Declaration}{SCIENTIFIC\_NOTATION}
+\begin{Declaration}[scientific_notation]{SCIENTIFIC\_NOTATION}
 \index{output}\index{floating point}\index{rounded}
 \begin{Syntax}
 \name{scientific\_notation}(\meta{m}) or
@@ -1302,7 +1302,7 @@ scientific_notation 20;&
 \end{Declaration}
 
 
-\begin{Declaration}{SHARE}
+\begin{Declaration}[share]{SHARE}
 The \name{share} declaration allows access to its arguments by both
 algebraic and symbolic modes.
 \begin{Syntax}
@@ -1321,12 +1321,12 @@ the \meta{REDUCE User's Manual}, and the \meta{Standard Lisp Report}.
 
 You should be aware that a previously-declared array is destroyed by the
 \name{share} declaration.  Scalar variables retain their values.  You can
-share a declared \nameref{MATRIX} that has not yet 
+share a declared \nameref{matrix} that has not yet 
 been dimensioned so that it can be
 used by both modes.  Values that are later put into the matrix are
 accessible from symbolic mode too, but not by the usual matrix reference
 mechanism.  In symbolic mode, a matrix is stored as a list whose first
-element is \nameref{MAT}, and whose next elements are the rows of the matrix
+element is \nameref{mat}, and whose next elements are the rows of the matrix
 stored as lists of the individual elements.  Access in symbolic mode is by
 the operators \nameref{first}, \nameref{second}, \nameref{third} and
 \nameref{rest}.
@@ -1334,7 +1334,7 @@ the operators \nameref{first}, \nameref{second}, \nameref{third} and
 \end{Declaration}
 
 
-\begin{Command}{SYMBOLIC}
+\begin{Command}[symbolic]{SYMBOLIC}
 The \name{symbolic} command changes REDUCE's mode of operation to symbolic.
 When \name{symbolic} is followed by an expression, that expression is
 evaluated in symbolic mode, but REDUCE's mode is not changed.  It is
@@ -1353,7 +1353,7 @@ x + symbolic car '(y z);     &       X + Y
 \end{Command}
 
 
-\begin{Declaration}{SYMMETRIC}
+\begin{Declaration}[symmetric]{SYMMETRIC}
 \index{operator}
 When an operator is declared \name{symmetric}, its arguments are reordered
 to conform to the internal ordering of the system.  
@@ -1380,7 +1380,7 @@ symmetric property of the operator is used.
 \end{Declaration}
 
 
-\begin{Declaration}{TR}
+\begin{Declaration}[tr]{TR}
 \index{trace}
 The \name{tr} declaration is used to trace system or user-written procedures.
 It is only useful to those with a good knowledge of both Lisp and the
@@ -1427,7 +1427,7 @@ operator, while \name{tr} does procedure tracing.
 \end{Declaration}
 
 
-\begin{Declaration}{UNTR}
+\begin{Declaration}[untr]{UNTR}
 \index{trace}
 The \name{untr} declaration is used to remove a trace from system or
 user-written procedures declared with \nameref{tr}.  It is only useful to
@@ -1444,7 +1444,7 @@ declaration.
 \end{Declaration}
 
 
-\begin{Declaration}{VARNAME}
+\begin{Declaration}[varname]{VARNAME}
 The declaration \name{varname} instructs REDUCE to use its argument as the
 default Fortran (when \nameref{fort} is on) or \nameref{structr} identifier
 and identifier stem, rather than using \name{ANS}.
@@ -1475,7 +1475,7 @@ expanded into a polynomial.
 \end{Declaration}
 
 
-\begin{Command}{WEIGHT}
+\begin{Command}[weight]{WEIGHT}
 The \name{weight} command is used to attach weights to kernels for asymptotic
 constraints.
 \begin{Syntax}
@@ -1518,7 +1518,7 @@ of the system, it is discarded from the result expression.
 \end{Command}
 
 
-\begin{Operator}{WHERE}
+\begin{Operator}[where]{WHERE}
 \index{substitution}
 The \name{where} operator provides an infix notation for one-time
 substitutions for kernels in expressions.
@@ -1564,7 +1564,7 @@ reexamined to see if any further such substitutions can be made.
 \end{Operator}
 
 
-\begin{Command}{WHILE}
+\begin{Command}[while]{WHILE}
 \index{loop}
 The \name{while} command causes a statement to be repeatedly executed until a
 given condition is true.  If the condition is initially false, the statement
@@ -1590,7 +1590,7 @@ while a < 5 do <<write a; a := a + 1>>;
 \end{Command}
 
 
-\begin{Command}{WTLEVEL}
+\begin{Command}[wtlevel]{WTLEVEL}
 In conjunction with \nameref{weight}, \name{wtlevel} is used to implement
 asymptotic constraints.  Its default value is 2.
 \begin{Syntax}
